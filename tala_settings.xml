@@ -1,0 +1,63 @@
+<application>
+  <component name="TalaApplicationSettings">
+    <option name="loginUser">
+      <User>
+        <option name="account" value="xuliang.sxl" />
+        <option name="email" value="xuliang.sxl@alibaba-inc.com" />
+        <option name="empId" value="88332" />
+        <option name="name" value="宋旭亮" />
+        <option name="nick" value="三相" />
+      </User>
+    </option>
+    <option name="groups">
+      <list>
+        <option value="{&quot;key&quot;:&quot;tala_public_test&quot;,&quot;serialId&quot;:&quot;6d1ca04372a25d911433f83522a512c4&quot;,&quot;isDefault&quot;:true}" />
+      </list>
+    </option>
+    <option name="filterSettings">
+      <map>
+        <entry key="AONE_REVIEW_REPOSITORY" value="true" />
+        <entry key="AONE_REVIEW_STATUS" value="true" />
+        <entry key="AONE_REVIEW_VIEW" value="true" />
+        <entry key="ISSUE_APP" value="false" />
+        <entry key="ISSUE_ASSIGNEE" value="true" />
+        <entry key="ISSUE_DATE" value="false" />
+        <entry key="ISSUE_GROUP" value="true" />
+        <entry key="ISSUE_ITERATION" value="false" />
+        <entry key="ISSUE_REVIEWER" value="true" />
+        <entry key="ISSUE_STATUS" value="true" />
+        <entry key="ISSUE_TASK" value="true" />
+        <entry key="ISSUE_TYPE" value="true" />
+        <entry key="TALA_TASK_APP" value="true" />
+        <entry key="TALA_TASK_STATUS" value="true" />
+        <entry key="TALA_TASK_VIEW" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="TalaForAoneApplicaitonSettings">
+    <option name="groups">
+      <list>
+        <option value="{&quot;key&quot;:&quot;tala_public_test&quot;,&quot;serialId&quot;:&quot;6d1ca04372a25d911433f83522a512c4&quot;,&quot;isDefault&quot;:true}" />
+      </list>
+    </option>
+    <option name="filterSettings">
+      <map>
+        <entry key="AONE_REVIEW_REPOSITORY" value="true" />
+        <entry key="AONE_REVIEW_STATUS" value="true" />
+        <entry key="AONE_REVIEW_VIEW" value="true" />
+        <entry key="ISSUE_APP" value="false" />
+        <entry key="ISSUE_ASSIGNEE" value="true" />
+        <entry key="ISSUE_DATE" value="false" />
+        <entry key="ISSUE_GROUP" value="true" />
+        <entry key="ISSUE_ITERATION" value="false" />
+        <entry key="ISSUE_REVIEWER" value="true" />
+        <entry key="ISSUE_STATUS" value="true" />
+        <entry key="ISSUE_TASK" value="true" />
+        <entry key="ISSUE_TYPE" value="true" />
+        <entry key="TALA_TASK_APP" value="true" />
+        <entry key="TALA_TASK_STATUS" value="true" />
+        <entry key="TALA_TASK_VIEW" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

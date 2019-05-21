@@ -1,0 +1,16 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="emacsIDEAs.AceJumpCopy.Block" />
+  <action id="emacsIDEAs.AceJumpCopy.Group" />
+  <action id="emacsIDEAs.AceJumpCopy.Line" />
+  <action id="emacsIDEAs.AceJumpCopy.Paragraph" />
+  <action id="emacsIDEAs.AceJumpCopy.Quote" />
+  <action id="emacsIDEAs.AceJumpCopy.String" />
+  <action id="emacsIDEAs.AceJumpCopy.ToLineEnd" />
+  <action id="emacsIDEAs.AceJumpCopy.ToLineStart" />
+  <action id="emacsIDEAs.AceJumpCopy.ToParagraphEnd" />
+  <action id="emacsIDEAs.AceJumpCopy.ToParagraphStart" />
+  <action id="emacsIDEAs.AceJumpCopy.Word" />
+</keymap>

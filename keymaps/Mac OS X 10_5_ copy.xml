@@ -1,0 +1,55 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Debug" />
+  <action id="JRebel Debug">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="ctrl meta back_space" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="emacsIDEAs.AceJumpCopy.Block" />
+  <action id="emacsIDEAs.AceJumpCopy.Group" />
+  <action id="emacsIDEAs.AceJumpCopy.Line" />
+  <action id="emacsIDEAs.AceJumpCopy.Paragraph" />
+  <action id="emacsIDEAs.AceJumpCopy.Quote" />
+  <action id="emacsIDEAs.AceJumpCopy.String" />
+  <action id="emacsIDEAs.AceJumpCopy.ToLineEnd" />
+  <action id="emacsIDEAs.AceJumpCopy.ToLineStart" />
+  <action id="emacsIDEAs.AceJumpCopy.ToParagraphEnd" />
+  <action id="emacsIDEAs.AceJumpCopy.ToParagraphStart" />
+  <action id="emacsIDEAs.AceJumpCopy.Word" />
+  <action id="emacsIDEAs.AceJumpDelete.Block" />
+  <action id="emacsIDEAs.AceJumpDelete.Group" />
+  <action id="emacsIDEAs.AceJumpDelete.Line" />
+  <action id="emacsIDEAs.AceJumpDelete.Paragraph" />
+  <action id="emacsIDEAs.AceJumpDelete.Quote" />
+  <action id="emacsIDEAs.AceJumpDelete.String" />
+  <action id="emacsIDEAs.AceJumpDelete.ToLineEnd" />
+  <action id="emacsIDEAs.AceJumpDelete.ToLineStart" />
+  <action id="emacsIDEAs.AceJumpDelete.ToParagraphEnd" />
+  <action id="emacsIDEAs.AceJumpDelete.ToParagraphStart" />
+  <action id="emacsIDEAs.AceJumpDelete.Word" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Block" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Group" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Line" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Paragraph" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Quote" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.String" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.ToLineEnd" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.ToLineStart" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.ToParagraphEnd" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.ToParagraphStart" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Word" />
+</keymap>
