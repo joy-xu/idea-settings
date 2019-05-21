@@ -28,11 +28,12 @@
         <mark key="." line="134" column="26" />
         <mark key="^" line="134" column="26" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/LEBizEnum.java" timestamp="1558429132508">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/LEBizEnum.java" timestamp="1558430937327">
         <mark key="'" line="31" column="22" />
-        <mark key="]" line="65" column="43" />
-        <mark key="^" line="65" column="43" />
-        <mark key="." line="65" column="43" />
+        <mark key="[" line="45" column="16" />
+        <mark key="]" line="45" column="14" />
+        <mark key="^" line="45" column="14" />
+        <mark key="." line="45" column="14" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1558339370709">
         <mark key="'" line="863" column="41" />
@@ -345,11 +346,11 @@
       <jump line="31" column="22" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/LEBizEnum.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyDlsIbmnoTlu7rlh7rnmoTkuLvljIXlpI3liLbliLDmjIflrprplZzlg4/nm67lvZXkuK0KQ09QWSAke2FwcG5hbWV9LnRneiAvaG9tZS9hZG1pbi8ke2FwcG5hbWV9L3RhcmdldC8ke2FwcG5hbWV9LnRnego=</text>
+      <register name="&quot;" type="4">
+        <text>alue</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>alue</text>
       </register>
       <register name="/" type="4">
         <text>det</text>
@@ -925,7 +926,7 @@
         <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iY29uZmlnTG9jYXRpb24iIHZhbHVlPSJjbGFzc3BhdGg6Y29uZmlnL215YmF0aXMtY29uZmlnLnhtbCIvPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>set keep-english-in-normal</text>
+        <text>set keep-english-in-normal-and-restore-in-insert</text>
       </register>
     </registers>
     <search>
@@ -961,7 +962,6 @@
         <entry>det</entry>
       </history-search>
       <history-cmd>
-        <entry>52</entry>
         <entry>127</entry>
         <entry>415</entry>
         <entry>730</entry>
@@ -981,6 +981,7 @@
         <entry>388</entry>
         <entry encoding="base64">JzwsJz4xNjE=</entry>
         <entry>set keep-english-in-normal</entry>
+        <entry>set keep-english-in-normal-and-restore-in-insert</entry>
       </history-cmd>
       <history-expr />
       <history-input />
