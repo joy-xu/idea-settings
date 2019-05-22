@@ -10,6 +10,7 @@
         <mark key="^" line="256" column="52" />
         <mark key="." line="256" column="52" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/security/security-facade/1.2.21/security-facade-1.2.21-sources.jar!/com/alibaba/security/SecurityUtil.java" timestamp="1558494976788" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/LabourUserMappingRecordMapper.java" timestamp="1558322729177">
         <mark key="[" line="29" column="7" />
         <mark key="]" line="29" column="7" />
@@ -83,8 +84,8 @@
         <mark key="]" line="51" column="7" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeCustomAttributeFacadeImpl.java" timestamp="1557904054906">
-        <mark key="'" line="47" column="5" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeCustomAttributeFacadeImpl.java" timestamp="1558495225884">
+        <mark key="'" line="56" column="0" />
         <mark key="[" line="94" column="10" />
         <mark key="]" line="94" column="10" />
         <mark key="^" line="94" column="10" />
@@ -187,6 +188,7 @@
         <mark key="." line="1306" column="95" />
         <mark key="^" line="2759" column="51" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/efficiency/BaseLabourEfficiencyProvider.java" timestamp="1558494928229" />
       <file name="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.3.3/mybatis-plus-support-2.3.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" timestamp="1558318121763">
         <mark key="'" line="117" column="12" />
       </file>
@@ -221,12 +223,6 @@
         <mark key="^" line="95" column="44" />
         <mark key="." line="95" column="44" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/DingTalkController.java" timestamp="1558406591733">
-        <mark key="'" line="106" column="8" />
-        <mark key="[" line="205" column="41" />
-        <mark key="]" line="205" column="41" />
-        <mark key="." line="205" column="46" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/applicationContext.xml" timestamp="1558418010224">
         <mark key="'" line="16" column="10" />
       </file>
@@ -242,12 +238,15 @@
         <mark key="^" line="13" column="64" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/security/security-core/1.2.21.0/security-core-1.2.21.0-sources.jar!/com/alibaba/security/sql/SqlFilterImpl.java" timestamp="1558495007441" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/WorkPlaceDO.java" timestamp="1558408591548">
         <mark key="'" line="40" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1558495042996">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="22" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/employee/EmployeeMapper.java" />
       <jump line="195" column="18" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/employee/EmployeeMapper.java" />
       <jump line="193" column="67" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/employee/EmployeeMapper.java" />
       <jump line="190" column="22" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/employee/EmployeeMapper.java" />
@@ -347,6 +346,7 @@
       <jump line="16" column="10" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/applicationContext.xml" />
       <jump line="86" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/LinkQueryTaskWorkloadServiceImpl.java" />
       <jump line="31" column="22" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/LEBizEnum.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeCustomAttributeFacadeImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
