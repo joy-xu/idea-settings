@@ -17,6 +17,7 @@
         <mark key="^" line="21" column="64" />
         <mark key="." line="21" column="64" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeWorkGroupResource.java" timestamp="1558619675931" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsProvider.java" timestamp="1558338666648">
         <mark key="'" line="92" column="119" />
         <mark key="[" line="91" column="77" />
@@ -96,6 +97,7 @@
         <mark key="]" line="85" column="21" />
         <mark key="." line="85" column="26" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/query/EmployeeBatchUpdateQuery.java" timestamp="1558619156034" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/resources/applicationBizTestContext.xml" timestamp="1558418237041">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -247,8 +249,8 @@
         <mark key="^" line="61" column="39" />
         <mark key="." line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/employee/EmployeeQo.java" timestamp="1558409465128">
-        <mark key="'" line="32" column="4" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/employee/EmployeeQo.java" timestamp="1558619106166">
+        <mark key="'" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/FaceRecognitionMapper.java" timestamp="1558322716623">
         <mark key="'" line="136" column="18" />
@@ -314,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
       <jump line="278" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
       <jump line="288" column="32" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
       <jump line="292" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
@@ -414,6 +415,7 @@
       <jump line="779" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" />
       <jump line="916" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="98" column="41" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/interceptor/LmsExceptionMapper.java" />
+      <jump line="18" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/employee/EmployeeQo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -423,7 +425,7 @@
         <text>exception.getCause()</text>
       </register>
       <register name="/" type="4">
-        <text>quitEmp</text>
+        <text>id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyDmoKHpqozkurrlkZjmmK/lkKbmnInmnaXmupDpkonpkonnmoQK</text>
@@ -1000,9 +1002,9 @@
       </register>
     </registers>
     <search>
-      <last-search>quitEmp</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern>quitEmp</last-pattern>
+      <last-pattern>id</last-pattern>
       <last-replace />
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
@@ -1010,7 +1012,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateDo</entry>
         <entry>updateDO</entry>
         <entry>insertDO</entry>
         <entry>of</entry>
@@ -1030,6 +1031,7 @@
         <entry>quitEm</entry>
         <entry>quit</entry>
         <entry>quitEmp</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
