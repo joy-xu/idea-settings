@@ -49,7 +49,12 @@
         <mark key="^" line="138" column="21" />
         <mark key="." line="138" column="21" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/register/IndividualResource.java" timestamp="1558598701135" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/register/IndividualResource.java" timestamp="1558599482206">
+        <mark key="[" line="157" column="18" />
+        <mark key="]" line="157" column="18" />
+        <mark key="." line="157" column="18" />
+        <mark key="^" line="157" column="18" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/WorkPlaceMapper.java" timestamp="1558408582907">
         <mark key="'" line="100" column="0" />
         <mark key="[" line="98" column="21" />
@@ -103,6 +108,7 @@
         <mark key="^" line="1106" column="28" />
         <mark key="." line="1106" column="28" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" timestamp="1558599401933" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/pom.xml" timestamp="1558428743236">
         <mark key="[" line="31" column="41" />
         <mark key="]" line="31" column="40" />
@@ -222,7 +228,7 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" timestamp="1558079980001">
         <mark key="'" line="504" column="42" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/interceptor/LmsExceptionMapper.java" timestamp="1558510502539">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/interceptor/LmsExceptionMapper.java" timestamp="1558599656156">
         <mark key="[" line="64" column="33" />
         <mark key="]" line="64" column="47" />
         <mark key="." line="64" column="47" />
@@ -394,10 +400,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>BizExceptionUtil.toBizException(e)</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>BizExceptionUtil.toBizException(e)</text>
       </register>
       <register name="/" type="4">
         <text>enable</text>
@@ -409,16 +415,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyBhID0gMTAwXzAwMF8wMDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChXbXBMbXNFeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBXZWJSZXN1bHQ8PihlbXBsb3llZUlkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdExvZ2dlci5pbmZvKCJyZWdpc3RlckV4fHt9fHt9fHt9IiwgaW5kaXZpZHVhbFJlZ2lzdGVyUU8uZ2V0V29ya1BsYWNlQ29kZSgpLCBpbmRpdmlkdWFsUmVnaXN0ZXJRTy5nZXRMYWJvdXJDb21wYW55Q29kZSgpLCBlLmdldEVycm9yQ29kZSgpKTsKICAgICAgICAgICAgdGhyb3cgQml6RXhjZXB0aW9uVXRpbC50b0JpekV4Y2VwdGlvbihlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -964,13 +970,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGUuZ2V0Um9vdENhdXNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyBhID0gMTAwXzAwMF8wMDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvUmVzcG9uc2UoZS5nZXRDYXVzZSgpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
