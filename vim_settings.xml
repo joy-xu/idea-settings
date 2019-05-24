@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LabourUtil.java" timestamp="1558689065531">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="20" column="48" />
+        <mark key="^" line="20" column="48" />
+        <mark key="." line="20" column="48" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/security/security-facade/1.2.21/security-facade-1.2.21-sources.jar!/com/alibaba/security/SecurityUtil.java" timestamp="1558689242025" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/LabourUserMappingRecordMapper.java" timestamp="1558322729177">
         <mark key="[" line="29" column="7" />
         <mark key="]" line="29" column="7" />
@@ -43,6 +50,7 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/EmployeeBaseProvider.java" timestamp="1558600719538">
         <mark key="'" line="26" column="34" />
       </file>
+      <file name="/BaseLabourEfficiencyProvider.java" timestamp="1558689501249" />
       <file name="$USER_HOME$/src/demo/mybatis-plus-demo/src/main/java/com/alibaba/mybatisplusdemo/config/MybatisPlusConfig.java" timestamp="1558574833532">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -115,6 +123,12 @@
         <mark key="." line="639" column="73" />
         <mark key="^" line="639" column="73" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/efficiency/BaseLabourEfficiencyProvider.java" timestamp="1558690526280">
+        <mark key="[" line="154" column="19" />
+        <mark key="]" line="154" column="62" />
+        <mark key="^" line="154" column="62" />
+        <mark key="." line="154" column="62" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.3.3/mybatis-plus-support-2.3.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" timestamp="1558318121763">
         <mark key="'" line="117" column="12" />
       </file>
@@ -138,12 +152,6 @@
         <mark key="^" line="222" column="86" />
         <mark key="." line="222" column="86" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/DingTalkApiService.java" timestamp="1558612779389">
-        <mark key="'" line="118" column="49" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/annotation/FrontName.java" timestamp="1558683296990">
         <mark key="[" line="16" column="29" />
         <mark key="]" line="17" column="3" />
@@ -159,13 +167,15 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/LinkQueryTaskWorkloadServiceImpl.java" timestamp="1558419152851">
         <mark key="'" line="86" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/security/security-core/1.2.21.0/security-core-1.2.21.0-sources.jar!/com/alibaba/security/sql/SqlFilterImpl.java" timestamp="1558689802653" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/WorkPlaceDO.java" timestamp="1558408591548">
         <mark key="'" line="40" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1558612579844">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/fragment.java" timestamp="1558690096911">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -271,11 +281,11 @@
       <jump line="446" column="77" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>workNa</text>
@@ -284,19 +294,19 @@
         <text encoding="base64">ICAgIEBGcm9udE5hbWUoIue7k+eul+aWueW8jyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZWZsZWN0VXRpbC5nZXRGaWVsCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWVsZC5nZXRhbm5vdGF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBGcm9udE5hbWUoIueUqOS6uiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZWZsZWN0VXRpbC5nZXRGaWVsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWVsZC5nZXRhbm5vdGF0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEFsaWFzIGZvciB7QGxpbmsgUmVxdWVzdE1hcHBpbmcjdmFsdWV9Lgo=</text>
+        <text encoding="base64">ICAgIEBGcm9udE5hbWUoIueUqOS6uiIpCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -839,13 +849,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBbGlhc0Zvcihhbm5vdGF0aW9uID0gUmVxdWVzdE1hcHBpbmcuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEFsaWFzIGZvciB7QGxpbmsgUmVxdWVzdE1hcHBpbmcjdmFsdWV9Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBbGlhc0Zvcihhbm5vdGF0aW9uID0gUmVxdWVzdE1hcHBpbmcuY2xhc3MpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
