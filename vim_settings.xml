@@ -97,6 +97,11 @@
         <mark key="]" line="85" column="21" />
         <mark key="." line="85" column="26" />
       </file>
+      <file name="$USER_HOME$/staragent/staragent-proxy/src/main/java/com/alibaba/staragent/proxy/controller/GlobalControllerExceptionHandler.java" timestamp="1558660265202">
+        <mark key="[" line="348" column="0" />
+        <mark key="]" line="348" column="0" />
+        <mark key="." line="348" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/query/EmployeeBatchUpdateQuery.java" timestamp="1558619156034" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/resources/applicationBizTestContext.xml" timestamp="1558418237041">
         <mark key="[" line="30" column="0" />
@@ -419,7 +424,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFdtcExtc0V4Y2VwdGlvbihESU5HX0VNUExPWUVFX0VESVRfRVJST1IpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZVJlc3VsdC5nZXRGaWVsZEVycm9ycygpCg==</text>
       </register>
       <register name="-" type="4">
         <text>exception.getCause()</text>
@@ -431,19 +436,19 @@
         <text encoding="base64">ICAgICAgICAvLyDmoKHpqozkurrlkZjmmK/lkKbmnInmnaXmupDpkonpkonnmoQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFdtcExtc0V4Y2VwdGlvbihESU5HX0VNUExPWUVFX0VESVRfRVJST1IpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZVJlc3VsdC5nZXRGaWVsZEVycm9ycygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlRGluZ0V4Y2VwdGlvbigoRGluZ1RhbGtFeGNlcHRpb24pZXhjZXB0aW9uLCByZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFdtcExtc0V4Y2VwdGlvbihESU5HX0VNUExPWUVFX0VESVRfRVJST1IpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g6ZKJ6ZKJ5byC5bi4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlRGluZ0V4Y2VwdGlvbigoRGluZ1RhbGtFeGNlcHRpb24pZXhjZXB0aW9uLCByZXN1bHQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFdtcExtc0V4Y2VwdGlvbihESU5HX0VNUExPWUVFX0VESVRfRVJST1IpCiAgICAgICAgICAgIExvZ2dlclV0aWwuaW5mb0xvZ2dlci5pbmZvKCJleGVjdXRlIGRpbmcgYXBpLCB1cmw6IHt9LCB3b3JrcGxhY2VDb2RlOiB7fSwgcmVxdWVzdDoge30iLCBhcGlVcmwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g6ZKJ6ZKJ5byC5bi4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoQXJncyhkaW5nU291cmNlRW1wbG95ZWUuZ2V0KCkuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFdtcExtc0V4Y2VwdGlvbihESU5HX0VNUExPWUVFX0VESVRfRVJST1IpCiAgICAgICAgICAgIExvZ2dlclV0aWwuaW5mb0xvZ2dlci5pbmZvKCJleGVjdXRlIGRpbmcgYXBpLCB1cmw6IHt9LCB3b3JrcGxhY2VDb2RlOiB7fSwgcmVxdWVzdDoge30iLCBhcGlVcmwsCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -986,16 +991,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFdtcExtc0V4Y2VwdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoQXJncyhkaW5nU291cmNlRW1wbG95ZWUuZ2V0KCkuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgRGF0ZSBkYXRlID0gbmV3IERhdGUoKTsKICAgICAgICBEYXRlIHN0clRvRGF0ZSA9IERhdGVVdGlsLmdldFN0clRvRGF0ZShEQVRFX0ZPUk1BVF9ZWVlZTU1ERCwgRGF0ZVV0aWwuZ2V0RGF0ZTJTdHIoREFURV9GT1JNQVRfSEhNTVNTLCBkYXRlKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHN0clRvRGF0ZSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFdtcExtc0V4Y2VwdGlvbigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgRGF0ZSBkYXRlID0gbmV3IERhdGUoKTsKICAgICAgICBEYXRlIHN0clRvRGF0ZSA9IERhdGVVdGlsLmdldFN0clRvRGF0ZShEQVRFX0ZPUk1BVF9ZWVlZTU1ERCwgRGF0ZVV0aWwuZ2V0RGF0ZTJTdHIoREFURV9GT1JNQVRfSEhNTVNTLCBkYXRlKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHN0clRvRGF0ZSk7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgYXR0ZW5kYW5jZURhdGUgPSBEYXRlVXRpbC5nZXRTdHJUb0RhdGUoREFURV9GT1JNQVRfWVlZWU1NREQsCiAgICAgICAgICAgIERhdGVVdGlsLmdldERhdGUyU3RyKERBVEVfRk9STUFUX1lZWVlNTURELCBhdHRlbmRhbmNlRGF0ZSkpOwoKPT09PT09PQo+Pj4+Pj4+IDJjODE0OTg4YWZlZTgwY2FhYzQ1M2I4M2Y0MmZjMDM2ZDc1MGE0ZmMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
