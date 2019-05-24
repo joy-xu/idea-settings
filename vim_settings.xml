@@ -3,16 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeWorkGroupResource.java" timestamp="1558627202166" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/LabourUserMappingRecordMapper.java" timestamp="1558322729177">
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="29" column="12" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/DingTalkFaceManagerImpl.java" timestamp="1558598176988">
         <mark key="'" line="85" column="78" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/employee/EmployeeManager.java" timestamp="1558603623172">
         <mark key="'" line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1558684026863">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1558684812497">
         <mark key="'" line="446" column="77" />
-        <mark key="[" line="446" column="106" />
+        <mark key="[" line="424" column="26" />
         <mark key="]" line="446" column="112" />
         <mark key="." line="446" column="112" />
         <mark key="^" line="446" column="112" />
@@ -25,6 +29,11 @@
         <mark key="]" line="157" column="18" />
         <mark key="." line="157" column="18" />
         <mark key="^" line="157" column="18" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/LabourCompanyWorkPlaceRelationMapper.java" timestamp="1558322725444">
+        <mark key="[" line="144" column="13" />
+        <mark key="]" line="144" column="13" />
+        <mark key="." line="144" column="18" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/QualificationMapper.java" timestamp="1558322732687">
         <mark key="[" line="51" column="7" />
@@ -49,11 +58,25 @@
         <mark key="]" line="348" column="0" />
         <mark key="." line="348" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/query/EmployeeBatchUpdateQuery.java" timestamp="1558619156034" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1558683631677">
+        <mark key="'" line="21" column="13" />
+        <mark key="[" line="242" column="19" />
+        <mark key="]" line="242" column="18" />
+        <mark key="." line="242" column="18" />
+        <mark key="^" line="242" column="18" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/resources/applicationBizTestContext.xml" timestamp="1558418237041">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/text/DecimalFormat.java" timestamp="1558080931788">
+        <mark key="'" line="380" column="13" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1558322772566">
+        <mark key="[" line="297" column="27" />
+        <mark key="]" line="297" column="27" />
+        <mark key="." line="297" column="32" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1558668495233">
         <mark key="[" line="223" column="0" />
@@ -67,58 +90,6 @@
         <mark key="." line="95" column="118" />
         <mark key="^" line="95" column="103" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/annotation/ExcelColumn.java" timestamp="1558683152870" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/equipment/ToolResource.java" timestamp="1558335589471">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkApiToolResource.java" timestamp="1558517405194">
-        <mark key="'" line="84" column="85" />
-      </file>
-      <file name="$USER_HOME$/src/demo/mybatis-plus-demo/src/main/java/com/alibaba/mybatisplusdemo/entity/User.java" timestamp="1558593702990">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Flow.java" timestamp="1558575611316">
-        <mark key="'" line="269" column="28" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/applicationContext.xml" timestamp="1558418010224">
-        <mark key="'" line="16" column="10" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/LinkQueryTaskWorkloadServiceImpl.java" timestamp="1558419152851">
-        <mark key="'" line="86" column="4" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/cp/CpResource.java" timestamp="1558665819432" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/enums/ParamEnum.java" timestamp="1558597387887" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/LabourUserMappingRecordMapper.java" timestamp="1558322729177">
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="29" column="7" />
-        <mark key="." line="29" column="12" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/LabourCompanyWorkPlaceRelationMapper.java" timestamp="1558322725444">
-        <mark key="[" line="144" column="13" />
-        <mark key="]" line="144" column="13" />
-        <mark key="." line="144" column="18" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1558683631677">
-        <mark key="'" line="21" column="13" />
-        <mark key="[" line="242" column="19" />
-        <mark key="]" line="242" column="18" />
-        <mark key="." line="242" column="18" />
-        <mark key="^" line="242" column="18" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/text/DecimalFormat.java" timestamp="1558080931788">
-        <mark key="'" line="380" column="13" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1558322772566">
-        <mark key="[" line="297" column="27" />
-        <mark key="]" line="297" column="27" />
-        <mark key="." line="297" column="32" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/web/bind/annotation/GetMapping.java" timestamp="1558683213591" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/annotation/I18n.java" timestamp="1558683136879" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" timestamp="1558603145377">
         <mark key="'" line="504" column="42" />
       </file>
@@ -147,6 +118,19 @@
       <file name="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.3.3/mybatis-plus-support-2.3.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" timestamp="1558318121763">
         <mark key="'" line="117" column="12" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/equipment/ToolResource.java" timestamp="1558335589471">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkApiToolResource.java" timestamp="1558517405194">
+        <mark key="'" line="84" column="85" />
+      </file>
+      <file name="$USER_HOME$/src/demo/mybatis-plus-demo/src/main/java/com/alibaba/mybatisplusdemo/entity/User.java" timestamp="1558593702990">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1558663679206">
         <mark key="'" line="199" column="8" />
         <mark key="[" line="222" column="86" />
@@ -165,6 +149,15 @@
         <mark key="]" line="17" column="3" />
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Flow.java" timestamp="1558575611316">
+        <mark key="'" line="269" column="28" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/applicationContext.xml" timestamp="1558418010224">
+        <mark key="'" line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/LinkQueryTaskWorkloadServiceImpl.java" timestamp="1558419152851">
+        <mark key="'" line="86" column="4" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/WorkPlaceDO.java" timestamp="1558408591548">
         <mark key="'" line="40" column="0" />
