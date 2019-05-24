@@ -108,8 +108,8 @@
         <mark key="^" line="61" column="39" />
         <mark key="." line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/employee/EmployeeQo.java" timestamp="1558619106166">
-        <mark key="'" line="18" column="13" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/employee/EmployeeQo.java" timestamp="1558691528424">
+        <mark key="'" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/EmployeeChangeRecordProvider.java" timestamp="1558322746188">
         <mark key="[" line="19" column="51" />
@@ -179,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="42" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
       <jump line="361" column="42" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
       <jump line="367" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
       <jump line="372" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
@@ -279,6 +278,7 @@
       <jump line="1093" column="15" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" />
       <jump line="1087" column="138" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" />
       <jump line="446" column="77" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/employee/EmployeeQo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -288,7 +288,7 @@
         <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>workNa</text>
+        <text>workPlace</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBGcm9udE5hbWUoIue7k+eul+aWueW8jyIpCg==</text>
@@ -865,9 +865,9 @@
       </register>
     </registers>
     <search>
-      <last-search>workNa</last-search>
+      <last-search>workPlace</last-search>
       <last-offset />
-      <last-pattern>workNa</last-pattern>
+      <last-pattern>workPlace</last-pattern>
       <last-replace />
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
@@ -875,7 +875,6 @@
     </search>
     <history>
       <history-search>
-        <entry>of</entry>
         <entry>ofNu</entry>
         <entry>getEmployeeList</entry>
         <entry>page</entry>
@@ -895,6 +894,7 @@
         <entry>save</entry>
         <entry>labour</entry>
         <entry>workNa</entry>
+        <entry>workPlace</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
