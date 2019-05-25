@@ -9,7 +9,6 @@
         <mark key="^" line="20" column="48" />
         <mark key="." line="20" column="48" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/security/security-facade/1.2.21/security-facade-1.2.21-sources.jar!/com/alibaba/security/SecurityUtil.java" timestamp="1558689242025" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/LabourUserMappingRecordMapper.java" timestamp="1558322729177">
         <mark key="[" line="29" column="7" />
         <mark key="]" line="29" column="7" />
@@ -23,6 +22,9 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Optional.java" timestamp="1558601882809">
         <mark key="'" line="118" column="5" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1558747352487">
+        <mark key="[" line="1262" column="26" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/register/IndividualResource.java" timestamp="1558599482206">
         <mark key="[" line="157" column="18" />
@@ -43,7 +45,6 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/EmployeeBaseProvider.java" timestamp="1558600719538">
         <mark key="'" line="26" column="34" />
       </file>
-      <file name="/BaseLabourEfficiencyProvider.java" timestamp="1558689501249" />
       <file name="$USER_HOME$/src/demo/mybatis-plus-demo/src/main/java/com/alibaba/mybatisplusdemo/config/MybatisPlusConfig.java" timestamp="1558574833532">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -71,6 +72,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/DingTalkConfigDTO.java" timestamp="1558747361757" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/text/DecimalFormat.java" timestamp="1558080931788">
         <mark key="'" line="380" column="13" />
       </file>
@@ -138,8 +140,8 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1558663679206">
-        <mark key="'" line="199" column="8" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1558747149362">
+        <mark key="'" line="268" column="49" />
         <mark key="[" line="222" column="86" />
         <mark key="]" line="222" column="86" />
         <mark key="^" line="222" column="86" />
@@ -160,7 +162,6 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/LinkQueryTaskWorkloadServiceImpl.java" timestamp="1558419152851">
         <mark key="'" line="86" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/security/security-core/1.2.21.0/security-core-1.2.21.0-sources.jar!/com/alibaba/security/sql/SqlFilterImpl.java" timestamp="1558689802653" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/WorkPlaceDO.java" timestamp="1558408591548">
         <mark key="'" line="40" column="0" />
       </file>
@@ -172,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="361" column="42" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
       <jump line="367" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
       <jump line="372" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
       <jump line="377" column="32" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
@@ -272,6 +272,7 @@
       <jump line="1087" column="138" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" />
       <jump line="446" column="77" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="35" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/employee/EmployeeQo.java" />
+      <jump line="268" column="49" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -281,7 +282,7 @@
         <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>workPlace</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBGcm9udE5hbWUoIue7k+eul+aWueW8jyIpCg==</text>
@@ -858,9 +859,9 @@
       </register>
     </registers>
     <search>
-      <last-search>workPlace</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>workPlace</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace />
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
@@ -884,10 +885,10 @@
         <entry>quit</entry>
         <entry>quitEmp</entry>
         <entry>id</entry>
-        <entry>save</entry>
         <entry>labour</entry>
         <entry>workNa</entry>
         <entry>workPlace</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
