@@ -22,15 +22,27 @@
         <mark key="." line="399" column="32" />
         <mark key="^" line="399" column="32" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/mapper/employee/EmployeeChangeLogMapperTest.java" timestamp="1558947684142">
+        <mark key="[" line="49" column="64" />
+        <mark key="]" line="49" column="72" />
+        <mark key="^" line="49" column="72" />
+        <mark key="." line="49" column="72" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Optional.java" timestamp="1558601882809">
         <mark key="'" line="118" column="5" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1558750657499">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1558947691962">
         <mark key="'" line="407" column="40" />
-        <mark key="[" line="1032" column="36" />
-        <mark key="]" line="1032" column="39" />
-        <mark key="." line="1032" column="39" />
-        <mark key="^" line="1032" column="39" />
+        <mark key="[" line="199" column="49" />
+        <mark key="]" line="199" column="57" />
+        <mark key="." line="199" column="57" />
+        <mark key="^" line="199" column="57" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeChangeLogDO.java" timestamp="1558947362146">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="13" column="30" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="13" column="30" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/register/IndividualResource.java" timestamp="1558599482206">
         <mark key="[" line="157" column="18" />
@@ -44,6 +56,12 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/EmployeeBaseProvider.java" timestamp="1558600719538">
         <mark key="'" line="26" column="34" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/employee/EmployeeChangeLogMapper.java" timestamp="1558947676393">
+        <mark key="[" line="124" column="70" />
+        <mark key="]" line="124" column="87" />
+        <mark key="^" line="124" column="87" />
+        <mark key="." line="124" column="87" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1558924598121">
         <mark key="'" line="21" column="13" />
       </file>
@@ -54,6 +72,12 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/text/DecimalFormat.java" timestamp="1558080931788">
         <mark key="'" line="380" column="13" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/employee/EmployeeChangeLogProvider.java" timestamp="1558947667972">
+        <mark key="[" line="93" column="33" />
+        <mark key="]" line="93" column="35" />
+        <mark key="." line="93" column="35" />
+        <mark key="^" line="93" column="35" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1558924724137">
         <mark key="[" line="920" column="0" />
@@ -247,11 +271,11 @@
       <jump line="21" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChXbXBMbXNFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBCaXpFeGNlcHRpb25VdGlsLnRvQml6RXhjZXB0aW9uKGUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>selectById</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>selectById</text>
       </register>
       <register name="/" type="4">
         <text>position</text>
