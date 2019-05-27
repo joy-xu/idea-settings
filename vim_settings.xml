@@ -44,6 +44,9 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/EmployeeBaseProvider.java" timestamp="1558600719538">
         <mark key="'" line="26" column="34" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1558924598121">
+        <mark key="'" line="21" column="13" />
+      </file>
       <file name="$USER_HOME$/src/demo/spring-boot-demo/pom.xml" timestamp="1558794085895">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="23" />
@@ -51,6 +54,11 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/text/DecimalFormat.java" timestamp="1558080931788">
         <mark key="'" line="380" column="13" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1558924724137">
+        <mark key="[" line="920" column="0" />
+        <mark key="]" line="920" column="0" />
+        <mark key="." line="920" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" timestamp="1558665301984">
         <mark key="[" line="95" column="115" />
@@ -93,8 +101,8 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkApiToolResource.java" timestamp="1558517405194">
         <mark key="'" line="84" column="85" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1558922359570">
-        <mark key="'" line="534" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1558923958286">
+        <mark key="'" line="84" column="0" />
         <mark key="[" line="534" column="0" />
         <mark key="]" line="534" column="0" />
         <mark key="^" line="222" column="86" />
@@ -137,8 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="416" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
-      <jump line="428" column="32" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
       <jump line="431" column="42" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
       <jump line="438" column="42" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
       <jump line="485" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
@@ -237,34 +243,36 @@
       <jump line="309" column="67" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.java" />
       <jump line="381" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.java" />
       <jump line="534" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
+      <jump line="84" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
+      <jump line="21" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ki5sb2cKKi50eHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IEJpekV4Y2VwdGlvblV0aWwubmV3U3lzdGVtRXgoKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>showBa</text>
+        <text>position</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBGcm9udE5hbWUoIue7k+eul+aWueW8jyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ki5sb2cKKi50eHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3ByaW5nLm1haW4uc2hvdy1iYW5uZXI9dHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoRW1wbG95ZWVDdXN0b21BdHRyaWJ1dGVETzo6Z2V0RW5hYmxlZCkKICAgICAgICAgICAgICAgIC5maWx0ZXIoRW1wbG95ZWVDdXN0b21BdHRyaWJ1dGVETzo6Z2V0UmVxdWlyZWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChEaW5nVGFsa0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IGU7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTG9nZ2VyVXRpbC5lcnJvckxvZ2dlci5lcnJvcigKICAgICAgICAgICAgICAgICJpbXBvcnRFbXBsb3llZSBlcnJvciB8IHdvcmtQbGFjZUNvZGU9e30gfCBsYWJvdXJDb21wYW55SWQ9e30iLCB3b3JrUGxhY2VDb2RlLCBsYWJvdXJDb21wYW55SWQsIGUpOwogICAgICAgICAgICB0aHJvdyBlOwogICAgICAgIH0K</text>
+        <text encoding="base64">Ki5sb2cKKi50eHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVsYXRpdmVQYXRoLz4gPCEtLSBsb29rdXAgcGFyZW50IGZyb20gcmVwb3NpdG9yeSAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -807,25 +815,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHkuc2V0SWQoKTsK</text>
+        <text encoding="base64">c3ByaW5nLm1haW4uc2hvdy1iYW5uZXI9dHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBFbXBsb3llZURPIGVudGl0eSA9IG5ldyBFbXBsb3llZURPKCk7CiAgICAgICAgZW50aXR5LnNldElkKCk7CiAgICAgICAgZW50aXR5LnNldERpbmdVc2VySWQoZGluZ1VzZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChEaW5nVGFsa0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IGU7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTG9nZ2VyVXRpbC5lcnJvckxvZ2dlci5lcnJvcigKICAgICAgICAgICAgICAgICJpbXBvcnRFbXBsb3llZSBlcnJvciB8IHdvcmtQbGFjZUNvZGU9e30gfCBsYWJvdXJDb21wYW55SWQ9e30iLCB3b3JrUGxhY2VDb2RlLCBsYWJvdXJDb21wYW55SWQsIGUpOwogICAgICAgICAgICB0aHJvdyBlOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVsYXRpdmVQYXRoLz4gPCEtLSBsb29rdXAgcGFyZW50IGZyb20gcmVwb3NpdG9yeSAtLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBHRVQKICAgIEBQYXRoKCIvdXBkYXRlRGluZ1VzZXJJZCIpCiAgICBwdWJsaWMgSW50ZWdlciB1cGRhdGVEaW5nVXNlcklkKEBRdWVyeVBhcmFtKCJpZCIpIExvbmcgaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBRdWVyeVBhcmFtKCJkaW5nVXNlcklkIikgU3RyaW5nIGRpbmdVc2VySWQpIHsKICAgICAgICBib29sZWFuIGlzQWRtaW4gPSBSb2xlSW5mb1V0aWwuaXNSb2xlT2YoUm9sZVR5cGUuYWRtaW4pOwogICAgICAgIGlmICghaXNBZG1pbikgewogICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGVtcGxveWVlTWFuYWdlci51cGRhdGVEaW5nVXNlcklkKGlkLCBkaW5nVXNlcklkKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHkuc2V0SWQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
       </register>
     </registers>
     <search>
-      <last-search>showBa</last-search>
+      <last-search>position</last-search>
       <last-offset />
-      <last-pattern>showBa</last-pattern>
+      <last-pattern>position</last-pattern>
       <last-replace />
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
@@ -833,7 +841,6 @@
     </search>
     <history>
       <history-search>
-        <entry>det</entry>
         <entry>work_na</entry>
         <entry>enable</entry>
         <entry>registerS</entry>
@@ -850,9 +857,10 @@
         <entry>workPlace</entry>
         <entry>contact</entry>
         <entry>updateDing</entry>
-        <entry>save</entry>
         <entry>show</entry>
         <entry>showBa</entry>
+        <entry>save</entry>
+        <entry>position</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
