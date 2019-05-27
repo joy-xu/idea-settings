@@ -101,12 +101,12 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkApiToolResource.java" timestamp="1558517405194">
         <mark key="'" line="84" column="85" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1558923958286">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="534" column="0" />
-        <mark key="]" line="534" column="0" />
-        <mark key="^" line="222" column="86" />
-        <mark key="." line="534" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1558940796880">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="326" column="60" />
+        <mark key="]" line="327" column="11" />
+        <mark key="^" line="327" column="11" />
+        <mark key="." line="327" column="11" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/annotation/FrontName.java" timestamp="1558683296990">
         <mark key="[" line="16" column="29" />
@@ -248,31 +248,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChXbXBMbXNFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBCaXpFeGNlcHRpb25VdGlsLnRvQml6RXhjZXB0aW9uKGUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEJpekV4Y2VwdGlvblV0aWwubmV3U3lzdGVtRXgoKQ==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>position</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBGcm9udE5hbWUoIue7k+eul+aWueW8jyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSURJbmZvIGlkQ2FyZEluZm8gPSBnZXRJZEluZm8oZmlzLCBmaWxlRGlzcG9zaXRpb24sIHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChXbXBMbXNFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBCaXpFeGNlcHRpb25VdGlsLnRvQml6RXhjZXB0aW9uKGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChXbXBMbXNFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBCaXpFeGNlcHRpb25VdGlsLnRvQml6RXhjZXB0aW9uKGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoRW1wbG95ZWVDdXN0b21BdHRyaWJ1dGVETzo6Z2V0RW5hYmxlZCkKICAgICAgICAgICAgICAgIC5maWx0ZXIoRW1wbG95ZWVDdXN0b21BdHRyaWJ1dGVETzo6Z2V0UmVxdWlyZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWRDYXJkSW5mby5zZXRGYWNlSW1hZ2VVcmwodXJsKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ki5sb2cKKi50eHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -814,17 +814,35 @@
           <key char="34920" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">c3ByaW5nLm1haW4uc2hvdy1iYW5uZXI9dHJ1ZQo=</text>
+      <register name="6" type="4">
+        <text>IDInfo idCardInfo = new IDInfo();
+
+            // 复用该inputStream
+            BufferedInputStream bufferedInputStream = new BufferedInputStream(fis);
+
+            // 阿里云校验身份
+            AccountVO accountVO = RoleInfoUtil.getAccountVO();
+            String cpCode = accountVO == null ? &quot;&quot; : accountVO.getCpCode();
+            boolean isDomestic = cpService.isDomestic(cpCode);
+
+            if (isDomestic) {
+                // 境内校验身份证
+                byte[] faceContent = getFaceContent(bufferedInputStream);
+                String faceImgBase64 = new String(Base64.encodeBase64(faceContent));
+                idCardInfo = employeeManager.getIDCardInfo(faceImgBase64, FACE);
+            }
+
+            // 上传oss
+            String url = uploadToOss(bufferedInputStream, fileDisposition);</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChEaW5nVGFsa0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IGU7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTG9nZ2VyVXRpbC5lcnJvckxvZ2dlci5lcnJvcigKICAgICAgICAgICAgICAgICJpbXBvcnRFbXBsb3llZSBlcnJvciB8IHdvcmtQbGFjZUNvZGU9e30gfCBsYWJvdXJDb21wYW55SWQ9e30iLCB3b3JrUGxhY2VDb2RlLCBsYWJvdXJDb21wYW55SWQsIGUpOwogICAgICAgICAgICB0aHJvdyBlOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVsYXRpdmVQYXRoLz4gPCEtLSBsb29rdXAgcGFyZW50IGZyb20gcmVwb3NpdG9yeSAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHkuc2V0SWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
