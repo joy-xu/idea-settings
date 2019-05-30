@@ -23,6 +23,9 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/glassfish/jersey/ext/jersey-bean-validation/2.25.1/jersey-bean-validation-2.25.1-sources.jar!/org/glassfish/jersey/server/validation/internal/ValidationExceptionMapper.java" timestamp="1559204902604">
+        <mark key="[" line="83" column="69" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/employee/EmployeeManager.java" timestamp="1559038298670">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="479" column="6" />
@@ -181,11 +184,17 @@
         <mark key="." line="186" column="0" />
         <mark key="^" line="180" column="23" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/interceptor/LmsExceptionMapper.java" timestamp="1559203161258">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="81" column="7" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/interceptor/LmsExceptionMapper.java" timestamp="1559205250583">
+        <mark key="[" line="83" column="15" />
+        <mark key="]" line="84" column="21" />
+        <mark key="." line="54" column="23" />
+        <mark key="^" line="84" column="21" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/interceptor/LmsValidationMapper.java" timestamp="1559205771030">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="28" column="24" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/BaseUserManagerImpl.java" timestamp="1559036186257">
         <mark key="[" line="36" column="43" />
@@ -196,6 +205,7 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/typehandler/ChangeInfoTypeHandler.java" timestamp="1558950190948">
         <mark key="[" line="7" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/bigful-client/1.2.2/bigful-client-1.2.2-sources.jar!/com/cainiao/bigful/interceptor/BizExceptionMapper.java" timestamp="1559203908250" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/employee/BaseUserManager.java" timestamp="1559036215928">
         <mark key="[" line="32" column="22" />
         <mark key="]" line="32" column="28" />
@@ -231,8 +241,8 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final-sources.jar!/org/hibernate/validator/internal/engine/ConstraintViolationImpl.java" timestamp="1559202944610">
         <mark key="'" line="101" column="77" />
       </file>
-      <file name="/fragment.java" timestamp="1559202975680">
-        <mark key="[" line="0" column="10" />
+      <file name="/fragment.java" timestamp="1559204223506">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -356,13 +366,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>errorMsg</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXJyb3JNc2c7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2Uuc3RhdHVzKFN0YXR1cy5PSykuZW50aXR5KHJlc3VsdCkuYnVpbGQoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -371,13 +381,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JNc2cuYXBwZW5kKHZpb2xhdGlvbi5nZXQK</text>
+        <text encoding="base64">ICAgICAgICBSZXN1bHQgcmVzdWx0ID0gbmV3IFJlc3VsdCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHZpb2xhdGlvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXJyb3JNc2c7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -920,16 +930,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBFcnJvckl0ZW0gZXJyb3JJdGVtID0gbmV3IEVycm9ySXRlbShlLmdldEVycm9yQ29kZSgpLCBlcnJvck1zZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXN1bHQgcmVzdWx0ID0gbmV3IFJlc3VsdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3JnLmFwYWNoZS5jb21tb25zLmxhbmcuU3RyaW5nVXRpbHMuam9pbihlcnJvcnMsICI7Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmllbGQgZWxlbWVudFR5cGVGaWVsZCA9IENvbnN0cmFpbnRWaW9sYXRpb25JbXBsLmNsYXNzLmdldERlY2xhcmVkRmllbGQoImVsZW1lbnRUeXBlIik7CiAgICAgICAgICAgIGVsZW1lbnRUeXBlRmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKICAgICAgICAgICAgRWxlbWVudFR5cGUgZWxlbWVudFR5cGUgPSAoRWxlbWVudFR5cGUpZWxlbWVudFR5cGVGaWVsZC5nZXQodmlvbGF0aW9uKTsKICAgICAgICAgICAgaWYgKEVsZW1lbnRUeXBlLlRZUEUuZXF1YWxzKGVsZW1lbnRUeXBlKSkgewogICAgICAgICAgICAgICAgZXJyb3JzLmFkZCh2aW9sYXRpb24uZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgfSBlbHNlIGlmIChFbGVtZW50VHlwZS5GSUVMRC5lcXVhbHMoZWxlbWVudFR5cGUpKSB7CiAgICAgICAgICAgICAgICBTdHJpbmcgcHJvcGVydHkgPSB2aW9sYXRpb24uZ2V0UHJvcGVydHlQYXRoKCkudG9TdHJpbmcoKTsKICAgICAgICAgICAgICAgIGVycm9ycy5hZGQoU3RyaW5nLmZvcm1hdCgiJXMgJXMsIHRoZSB2YWx1ZSBvZiAlcyBpcyAlcyAiLCBwcm9wZXJ0eSwgdmlvbGF0aW9uLmdldE1lc3NhZ2UoKSwgcHJvcGVydHksCiAgICAgICAgICAgICAgICAgICAgb3JnLmFwYWNoZS5jb21tb25zLmxhbmcuU3RyaW5nVXRpbHMuYWJicmV2aWF0ZSgKICAgICAgICAgICAgICAgICAgICAgICAgdmlvbGF0aW9uLmdldEludmFsaWRWYWx1ZSgpID09IG51bGwgPyAibnVsbCIgOiB2aW9sYXRpb24uZ2V0SW52YWxpZFZhbHVlKCkudG9TdHJpbmcoKSwgMzApKSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBleGNlcHRpb24uZ2V0Q2F1c2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gZXJyb3JzID0gbmV3IEFycmF5TGlzdDw+KHZpb2xhdGlvbnMuc2l6ZSgpKTsKICAgICAgICBmb3IgKE9iamVjdCBvYmogOiB2aW9sYXRpb25zKSB7CiAgICAgICAgICAgIENvbnN0cmFpbnRWaW9sYXRpb25JbXBsIHZpb2xhdGlvbiA9IChDb25zdHJhaW50VmlvbGF0aW9uSW1wbClvYmo7CiAgICAgICAgICAgIGVycm9ycy5hZGQodmlvbGF0aW9uLmdldE1lc3NhZ2UoKSArICI6ICIgKyB2aW9sYXRpb24uZ2V0SW52YWxpZFZhbHVlKCkpOwogICAgICAgIH0KICAgICAgICBTdHJpbmcgZXJyb3JNc2cgPSBTdHJpbmcuam9pbigiLCIsIGVycm9ycyk7CgogICAgICAgIEVycm9ySXRlbSBlcnJvckl0ZW0gPSBuZXcgRXJyb3JJdGVtKFN0cmluZy52YWx1ZU9mKEh0dHBTdGF0dXMuQkFEX1JFUVVFU1QudmFsdWUoKSksIGVycm9yTXNnKTsKICAgICAgICByZXN1bHQuc2V0RXJyb3IoZXJyb3JJdGVtKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
