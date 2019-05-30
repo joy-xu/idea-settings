@@ -91,7 +91,7 @@
         <mark key="^" line="213" column="25" />
         <mark key="." line="213" column="25" />
       </file>
-      <file name="$USER_HOME$/staragent/staragent-proxy/src/main/java/com/alibaba/staragent/proxy/controller/GlobalControllerExceptionHandler.java" timestamp="1559202026852">
+      <file name="$USER_HOME$/staragent/staragent-proxy/src/main/java/com/alibaba/staragent/proxy/controller/GlobalControllerExceptionHandler.java" timestamp="1559202908085">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="24" />
       </file>
@@ -152,7 +152,7 @@
         <mark key="]" line="275" column="0" />
         <mark key="." line="275" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1559201836995">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1559203184658">
         <mark key="'" line="228" column="31" />
         <mark key="[" line="931" column="0" />
         <mark key="]" line="931" column="0" />
@@ -181,11 +181,11 @@
         <mark key="." line="186" column="0" />
         <mark key="^" line="180" column="23" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/interceptor/LmsExceptionMapper.java" timestamp="1559202453626">
-        <mark key="[" line="83" column="11" />
-        <mark key="]" line="83" column="39" />
-        <mark key="^" line="83" column="39" />
-        <mark key="." line="83" column="39" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/interceptor/LmsExceptionMapper.java" timestamp="1559203161258">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="81" column="7" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/BaseUserManagerImpl.java" timestamp="1559036186257">
         <mark key="[" line="36" column="43" />
@@ -228,8 +228,13 @@
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1559201189812">
-        <mark key="[" line="0" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final-sources.jar!/org/hibernate/validator/internal/engine/ConstraintViolationImpl.java" timestamp="1559202944610">
+        <mark key="'" line="101" column="77" />
+      </file>
+      <file name="/fragment.java" timestamp="1559202975680">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/src/demo/spring-boot-demo/src/main/java/com/alibaba/staragent/springbootdemo/MyListener.java" timestamp="1559051217066">
         <mark key="[" line="17" column="28" />
@@ -245,12 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="17" filename="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.3.3/mybatis-plus-support-2.3.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" />
-      <jump line="107" column="12" filename="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.3.3/mybatis-plus-support-2.3.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" />
-      <jump line="117" column="12" filename="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.3.3/mybatis-plus-support-2.3.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" />
-      <jump line="38" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/employee/EmployeeMapper.java" />
-      <jump line="174" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/employee/EmployeeMapper.java" />
-      <jump line="18" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/bo/EmployeeBO.java" />
       <jump line="243" column="44" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="246" column="3" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="247" column="44" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
@@ -345,34 +344,40 @@
       <jump line="224" column="31" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" />
       <jump line="20" column="21" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" />
       <jump line="41" column="79" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/annotation/CheckIdInfo.java" />
+      <jump line="43" column="12" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final-sources.jar!/org/hibernate/validator/internal/engine/ConstraintViolationImpl.java" />
+      <jump line="44" column="70" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final-sources.jar!/org/hibernate/validator/internal/engine/ConstraintViolationImpl.java" />
+      <jump line="56" column="16" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final-sources.jar!/org/hibernate/validator/internal/engine/ConstraintViolationImpl.java" />
+      <jump line="72" column="75" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final-sources.jar!/org/hibernate/validator/internal/engine/ConstraintViolationImpl.java" />
+      <jump line="85" column="16" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final-sources.jar!/org/hibernate/validator/internal/engine/ConstraintViolationImpl.java" />
+      <jump line="101" column="77" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final-sources.jar!/org/hibernate/validator/internal/engine/ConstraintViolationImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>errorMsg</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>inter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZXJyb3JNc2c7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXJyb3JNc2c7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBFcnJvckl0ZW0gZXJyb3JJdGVtID0gbmV3IEVycm9ySXRlbShlLmdldEVycm9yQ29kZSgpLCBlcnJvck1zZyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3JnLmFwYWNoZS5jb21tb25zLmxhbmcuU3RyaW5nVXRpbHMuam9pbihlcnJvcnMsICI7Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JNc2cuYXBwZW5kKHZpb2xhdGlvbi5nZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmllbGQgZWxlbWVudFR5cGVGaWVsZCA9IENvbnN0cmFpbnRWaW9sYXRpb25JbXBsLmNsYXNzLmdldERlY2xhcmVkRmllbGQoImVsZW1lbnRUeXBlIik7CiAgICAgICAgICAgIGVsZW1lbnRUeXBlRmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKICAgICAgICAgICAgRWxlbWVudFR5cGUgZWxlbWVudFR5cGUgPSAoRWxlbWVudFR5cGUpZWxlbWVudFR5cGVGaWVsZC5nZXQodmlvbGF0aW9uKTsKICAgICAgICAgICAgaWYgKEVsZW1lbnRUeXBlLlRZUEUuZXF1YWxzKGVsZW1lbnRUeXBlKSkgewogICAgICAgICAgICAgICAgZXJyb3JzLmFkZCh2aW9sYXRpb24uZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgfSBlbHNlIGlmIChFbGVtZW50VHlwZS5GSUVMRC5lcXVhbHMoZWxlbWVudFR5cGUpKSB7CiAgICAgICAgICAgICAgICBTdHJpbmcgcHJvcGVydHkgPSB2aW9sYXRpb24uZ2V0UHJvcGVydHlQYXRoKCkudG9TdHJpbmcoKTsKICAgICAgICAgICAgICAgIGVycm9ycy5hZGQoU3RyaW5nLmZvcm1hdCgiJXMgJXMsIHRoZSB2YWx1ZSBvZiAlcyBpcyAlcyAiLCBwcm9wZXJ0eSwgdmlvbGF0aW9uLmdldE1lc3NhZ2UoKSwgcHJvcGVydHksCiAgICAgICAgICAgICAgICAgICAgb3JnLmFwYWNoZS5jb21tb25zLmxhbmcuU3RyaW5nVXRpbHMuYWJicmV2aWF0ZSgKICAgICAgICAgICAgICAgICAgICAgICAgdmlvbGF0aW9uLmdldEludmFsaWRWYWx1ZSgpID09IG51bGwgPyAibnVsbCIgOiB2aW9sYXRpb24uZ2V0SW52YWxpZFZhbHVlKCkudG9TdHJpbmcoKSwgMzApKSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHZpb2xhdGlvbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXJyb3JNc2c7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -915,25 +920,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXJyb3JNc2cgPSBlLmdldEVycm9yTWVzc2FnZSgpOwoKICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNCbGFuayhlcnJvck1zZykpIHsKICAgICAgICAgICAgZXJyb3JNc2cgPSBlLmdldEVyck1zZygpOwogICAgICAgIH0KCiAgICAgICAgaWYgKE9iamVjdHMubm9uTnVsbChlLmdldEFyZ3MoKSkgJiYgZS5nZXRBcmdzKCkubGVuZ3RoICE9IDApIHsKICAgICAgICAgICAgZXJyb3JNc2cgPSBTdHJpbmcuZm9ybWF0KGVycm9yTXNnLCBlLmdldEFyZ3MoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBFcnJvckl0ZW0gZXJyb3JJdGVtID0gbmV3IEVycm9ySXRlbShlLmdldEVycm9yQ29kZSgpLCBlcnJvck1zZyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3JnLmFwYWNoZS5jb21tb25zLmxhbmcuU3RyaW5nVXRpbHMuam9pbihlcnJvcnMsICI7Iik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmllbGQgZWxlbWVudFR5cGVGaWVsZCA9IENvbnN0cmFpbnRWaW9sYXRpb25JbXBsLmNsYXNzLmdldERlY2xhcmVkRmllbGQoImVsZW1lbnRUeXBlIik7CiAgICAgICAgICAgIGVsZW1lbnRUeXBlRmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKICAgICAgICAgICAgRWxlbWVudFR5cGUgZWxlbWVudFR5cGUgPSAoRWxlbWVudFR5cGUpZWxlbWVudFR5cGVGaWVsZC5nZXQodmlvbGF0aW9uKTsKICAgICAgICAgICAgaWYgKEVsZW1lbnRUeXBlLlRZUEUuZXF1YWxzKGVsZW1lbnRUeXBlKSkgewogICAgICAgICAgICAgICAgZXJyb3JzLmFkZCh2aW9sYXRpb24uZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgfSBlbHNlIGlmIChFbGVtZW50VHlwZS5GSUVMRC5lcXVhbHMoZWxlbWVudFR5cGUpKSB7CiAgICAgICAgICAgICAgICBTdHJpbmcgcHJvcGVydHkgPSB2aW9sYXRpb24uZ2V0UHJvcGVydHlQYXRoKCkudG9TdHJpbmcoKTsKICAgICAgICAgICAgICAgIGVycm9ycy5hZGQoU3RyaW5nLmZvcm1hdCgiJXMgJXMsIHRoZSB2YWx1ZSBvZiAlcyBpcyAlcyAiLCBwcm9wZXJ0eSwgdmlvbGF0aW9uLmdldE1lc3NhZ2UoKSwgcHJvcGVydHksCiAgICAgICAgICAgICAgICAgICAgb3JnLmFwYWNoZS5jb21tb25zLmxhbmcuU3RyaW5nVXRpbHMuYWJicmV2aWF0ZSgKICAgICAgICAgICAgICAgICAgICAgICAgdmlvbGF0aW9uLmdldEludmFsaWRWYWx1ZSgpID09IG51bGwgPyAibnVsbCIgOiB2aW9sYXRpb24uZ2V0SW52YWxpZFZhbHVlKCkudG9TdHJpbmcoKSwgMzApKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXJVdGlsLmVycm9yTG9nZ2VyLmVycm9yKCJ1bmtub3duIGV4Y2VwdGlvbiBvY2N1cnMiLCBlcnJvcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>inter</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>inter</last-pattern>
       <last-replace />
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
@@ -941,7 +946,6 @@
     </search>
     <history>
       <history-search>
-        <entry>quitEm</entry>
         <entry>quit</entry>
         <entry>quitEmp</entry>
         <entry>id</entry>
@@ -961,6 +965,7 @@
         <entry>operator</entry>
         <entry>import</entry>
         <entry>save</entry>
+        <entry>inter</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
