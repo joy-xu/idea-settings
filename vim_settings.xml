@@ -115,6 +115,11 @@
         <mark key="^" line="97" column="20" />
         <mark key="." line="97" column="20" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/LabourResource.java" timestamp="1559274433984">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeChangeLogResource.java" timestamp="1559037485376">
         <mark key="[" line="41" column="19" />
         <mark key="]" line="41" column="19" />
@@ -373,7 +378,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>workplaceCode</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -385,16 +390,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaW5nVXNlcgo=</text>
+        <text encoding="base64">ICAgIHZvaWQgZ2V0KFN0cmluZyBhYmMpIHsKICAgICAgICAKICAgIH0KCiAgICB2b2lkIGdldChJbnRlZ2VyIGRlZCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -937,16 +942,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmoKHpqozlj4LmlbDkv6Hmga8KICAgICAgICB2YWxpZGF0ZUVtcGxveWVlKGVtcGxveWVlU2F2ZVFPKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBkaW5nVXNlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyDmoKHpqozlj4LmlbDkv6Hmga8KICAgICAgICB2YWxpZGF0ZUVtcGxveWVlKGVtcGxveWVlU2F2ZVFPKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
