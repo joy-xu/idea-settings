@@ -23,12 +23,11 @@
         <mark key="^" line="81" column="25" />
         <mark key="." line="81" column="25" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1559546242099">
-        <mark key="'" line="209" column="33" />
-        <mark key="[" line="491" column="37" />
-        <mark key="]" line="491" column="36" />
-        <mark key="." line="491" column="36" />
-        <mark key="^" line="491" column="36" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1559547588478">
+        <mark key="[" line="1202" column="41" />
+        <mark key="]" line="1202" column="40" />
+        <mark key="^" line="1202" column="40" />
+        <mark key="." line="1202" column="40" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeChangeLogDO.java" timestamp="1559035809991">
         <mark key="'" line="16" column="13" />
@@ -425,11 +424,11 @@
       <jump line="921" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>employee</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8ICFPYmplY3RzLmVxdWFscyhlbXBsb3llZUluRGIuZ2V0U3RhdHVzKCksIFFVSVQuZ2V0SWQoKSkpIA==</text>
+        <text>employee</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -438,19 +437,19 @@
         <text encoding="base64">ICAgICAgICBsaXN0LmFkZCgxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtcGxveWVlLnNldERpbmdVc2VySWQoIi0xIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBFbXBsb3llZURPIGVudGl0eSA9IG5ldyBFbXBsb3llZURPKCk7CiAgICAgICAgZW50aXR5LnNldFN0YXR1cygpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5paw5aKe5Lq65ZGYCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBFbXBsb3llZURPIGVudGl0eSA9IG5ldyBFbXBsb3llZURPKCk7CiAgICAgICAgZW50aXR5LnNldFN0YXR1cygpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5paw5aKe5Lq65ZGYCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -993,16 +992,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5pu05paw5Lq65ZGYCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5pu05paw5Lq65ZGYCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFkZCgxKTsKICAgICAgICBsaXN0LmFkZCgyKTsKICAgICAgICBsaXN0LmFkZCgyKTsKCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LmFkZCgxKTsKICAgICAgICBsaXN0LmFkZCgyKTsKICAgICAgICBsaXN0LmFkZCgyKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
