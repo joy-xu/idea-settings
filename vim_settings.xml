@@ -16,12 +16,18 @@
         <mark key="^" line="57" column="59" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/employee/EmployeeManager.java" timestamp="1559545051061">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/employee/EmployeeManager.java" timestamp="1559634577076">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="81" column="19" />
-        <mark key="]" line="81" column="25" />
-        <mark key="^" line="81" column="25" />
-        <mark key="." line="81" column="25" />
+        <mark key="[" line="404" column="28" />
+        <mark key="]" line="404" column="30" />
+        <mark key="^" line="404" column="30" />
+        <mark key="." line="404" column="30" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1559635399622">
+        <mark key="[" line="1097" column="29" />
+        <mark key="]" line="1098" column="11" />
+        <mark key="^" line="1098" column="11" />
+        <mark key="." line="1098" column="11" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeChangeLogDO.java" timestamp="1559035809991">
         <mark key="'" line="16" column="13" />
@@ -60,11 +66,10 @@
         <mark key="^" line="43" column="55" />
         <mark key="." line="41" column="19" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/employee/EmployeeChangeLogProvider.java" timestamp="1559025844528">
-        <mark key="[" line="93" column="33" />
-        <mark key="]" line="93" column="35" />
-        <mark key="." line="93" column="35" />
-        <mark key="^" line="93" column="35" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/employee/EmployeeChangeLogProvider.java" timestamp="1559634777909">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/src/demo/spring-boot-demo/src/main/java/com/alibaba/staragent/springbootdemo/MyFilter.java" timestamp="1559051054855">
         <mark key="[" line="25" column="0" />
@@ -204,11 +209,11 @@
         <mark key="." line="200" column="51" />
         <mark key="^" line="200" column="51" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/employee/EmployeeChangeLogMapper.java" timestamp="1558949328886">
-        <mark key="[" line="25" column="41" />
-        <mark key="]" line="25" column="80" />
-        <mark key="^" line="25" column="80" />
-        <mark key="." line="25" column="80" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/employee/EmployeeChangeLogMapper.java" timestamp="1559634642033">
+        <mark key="[" line="132" column="14" />
+        <mark key="]" line="132" column="18" />
+        <mark key="^" line="132" column="18" />
+        <mark key="." line="132" column="18" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1559223716984">
         <mark key="'" line="188" column="4" />
@@ -235,6 +240,12 @@
         <mark key="]" line="97" column="20" />
         <mark key="^" line="97" column="20" />
         <mark key="." line="97" column="20" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/bo/EmployeeChangeLogBO.java" timestamp="1559634919874">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="24" />
+        <mark key="." line="37" column="24" />
+        <mark key="^" line="37" column="24" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/exception/ParamBindException.java" timestamp="1559201879551">
         <mark key="[" line="17" column="17" />
@@ -419,32 +430,32 @@
       <jump line="141" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>minus</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>company</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFkZCgxKTsK</text>
+        <text encoding="base64">ICAgICAgICBzcWwuV0hFUkUoImRpbmdfdXNlcl9pZCA9ICN7ZGluZ1VzZXJJZH0iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmoKHpqozpkonpkonmnaXmupDkv67mlLnmnYPpmZAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYobm93LihhdHRlbmRhbmNlTG9jYWxEYXRlVGltZSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvY2FsRGF0ZVRpbWUgbm93ID0gTG9jYWxEYXRlVGltZS5ub3coKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -987,25 +998,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChFbXBsb3llZUJPIGVtcGxveWVlSW5EYiA6IGVtcGxveWVlc0luRGIpIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRW1wbG95ZWVRdWVyeSBxdWVyeSA9IG5ldyBFbXBsb3llZVF1ZXJ5KCk7CiAgICAgICAgICAgIHF1ZXJ5LnNldElkcyhDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KGVtcGxveWVlRE8uZ2V0SWQoKSkpOwogICAgICAgICAgICBMaXN0PEVtcGxveWVlQk8+IGVtcGxveWVlc0luRGIgPSBlbXBsb3llZU1hcHBlci5zZWxlY3RCeUlkcyhxdWVyeSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxEYXRlVGltZSBub3cgPSBMb2NhbERhdGVUaW1lLm5vdygpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxFbXBsb3llZURPPiBlbXBsb3llZXMgPSB0aGlzLmdldExpc3RCeU1vYmlsZShlbXBsb3llZS5nZXRDb250YWN0UGhvbmUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW1wbG95ZWVDaGFuZ2VMb2dCTy5nZXRTdGFydERhdGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>company</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>company</last-pattern>
       <last-replace />
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
@@ -1013,7 +1024,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mybais</entry>
         <entry>changeINf</entry>
         <entry>changeIn</entry>
         <entry>number</entry>
@@ -1033,6 +1043,7 @@
         <entry>insertDO</entry>
         <entry>logs</entry>
         <entry>save</entry>
+        <entry>company</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
