@@ -23,11 +23,17 @@
         <mark key="^" line="404" column="30" />
         <mark key="." line="404" column="30" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1559637152296">
-        <mark key="[" line="1111" column="17" />
-        <mark key="]" line="1111" column="16" />
-        <mark key="^" line="1111" column="16" />
-        <mark key="." line="1111" column="16" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/DingTalkAttendanceStatisticsManagerImpl.java" timestamp="1559638278867">
+        <mark key="[" line="155" column="94" />
+        <mark key="]" line="156" column="15" />
+        <mark key="^" line="156" column="15" />
+        <mark key="." line="156" column="15" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1559639729088">
+        <mark key="[" line="1117" column="0" />
+        <mark key="]" line="1117" column="0" />
+        <mark key="^" line="1117" column="0" />
+        <mark key="." line="1117" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeChangeLogDO.java" timestamp="1559035809991">
         <mark key="'" line="16" column="13" />
@@ -66,10 +72,11 @@
         <mark key="^" line="43" column="55" />
         <mark key="." line="41" column="19" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/employee/EmployeeChangeLogProvider.java" timestamp="1559634777909">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/employee/EmployeeChangeLogProvider.java" timestamp="1559639112864">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
+        <mark key="^" line="176" column="107" />
       </file>
       <file name="$USER_HOME$/src/demo/spring-boot-demo/src/main/java/com/alibaba/staragent/springbootdemo/MyFilter.java" timestamp="1559051054855">
         <mark key="[" line="25" column="0" />
@@ -154,15 +161,18 @@
         <mark key="." line="52" column="22" />
         <mark key="^" line="52" column="22" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/DingTalkShiftArrangementManagerImpl.java" timestamp="1559638044121">
+        <mark key="[" line="115" column="60" />
+        <mark key="]" line="115" column="74" />
+        <mark key="^" line="115" column="74" />
+        <mark key="." line="115" column="74" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/employee/EmployeeChangeLogVO.java" timestamp="1559035828386">
         <mark key="'" line="13" column="30" />
         <mark key="[" line="9" column="3" />
         <mark key="]" line="10" column="4" />
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/glassfish/jersey/ext/jersey-bean-validation/2.25.1/jersey-bean-validation-2.25.1-sources.jar!/org/glassfish/jersey/server/validation/internal/ValidationExceptionMapper.java" timestamp="1559204902604">
-        <mark key="[" line="83" column="69" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/OssUtil.java" timestamp="1559544134639">
         <mark key="'" line="0" column="0" />
@@ -241,6 +251,12 @@
         <mark key="^" line="97" column="20" />
         <mark key="." line="97" column="20" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeChangeInfo.java" timestamp="1559637266763">
+        <mark key="[" line="28" column="30" />
+        <mark key="]" line="28" column="29" />
+        <mark key="^" line="28" column="29" />
+        <mark key="." line="28" column="29" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/bo/EmployeeChangeLogBO.java" timestamp="1559634919874">
         <mark key="[" line="37" column="12" />
         <mark key="]" line="37" column="24" />
@@ -252,9 +268,6 @@
         <mark key="]" line="17" column="14" />
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
-      </file>
-      <file name="/Dummy.vm" timestamp="1559392194710">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/hmapper/BaseUserMapper.java" timestamp="1559036149195">
         <mark key="[" line="47" column="44" />
@@ -431,10 +444,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihsb2cgLT4gbG9nLmdldFN0YXJ0RGF0ZSgpLmlzQWZ0ZXIoYXR0ZW5kYW5jZUxvY2FsRGF0ZVRpbWUpKQogICAgICAgICAgICAuZmlsdGVyKGxvZyAtPiBPYmplY3RzLmVxdWFscyhsb2cuZ2V0U3RhdHVzKCksIFBhcmFtRW51bS5RVUlULmdldElkKCkpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>company</text>
@@ -443,19 +456,19 @@
         <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGwxID0gTG9jYWxEYXRlVGltZS5vZigyMDE5LCAxMSwgMTAsIDEwLCAxLCAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihsb2cgLT4gbG9nLmdldFN0YXJ0RGF0ZSgpLmlzQWZ0ZXIoYXR0ZW5kYW5jZUxvY2FsRGF0ZVRpbWUpKQogICAgICAgICAgICAuZmlsdGVyKGxvZyAtPiBPYmplY3RzLmVxdWFscyhsb2cuZ2V0U3RhdHVzKCksIFBhcmFtRW51bS5RVUlULmdldElkKCkpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzcWwuT1IoKTsKICAgICAgICBzcWwuV0hFUkUoIiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxEYXRlVGltZSBhdHRlbmRhbmNlTG9jYWxEYXRlVGltZSA9IExvY2FsRGF0ZVV0aWwuY29udmVydERhdGUoYXR0ZW5kYW5jZURhdGUpCiAgICAgICAgICAgICAgICAub3JFbHNlKG93KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxEYXRlVGltZSBhdHRlbmRhbmNlTG9jYWxEYXRlVGltZSA9IExvY2FsRGF0ZVV0aWwuY29udmVydERhdGUoYXR0ZW5kYW5jZURhdGUpCiAgICAgICAgICAgICAgICAub3JFbHNlKG5vdyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzcWwuT1IoKTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGwyID0gbDEucGx1c0RheXMoMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzcWwuQU5EKCkK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -998,16 +1011,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGwxID0gTG9jYWxEYXRlVGltZS5ub3coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGF0dGVuZGFuY2VMb2NhbERhdGVUaW1lID0gTG9jYWxEYXRlVXRpbC5jb252ZXJ0RGF0ZShhdHRlbmRhbmNlRGF0ZSkKICAgICAgICAgICAgLm9yRWxzZShub3cpOwoKICAgICAgICBsb25nIGJldHdlZW4gPSBNYXRoLmFicyhDaHJvbm9Vbml0LkRBWVMuYmV0d2Vlbihub3csIGF0dGVuZGFuY2VMb2NhbERhdGVUaW1lKSk7CgogICAgICAgIC8vIOemu+iBjOaXpeacn+i2hei/hzHlpKkKICAgICAgICBpZiAoYmV0d2VlbiA+IDEpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZW1wbG95ZWVDaGFuZ2VMb2dCTzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBEYXRhCiAgICBDbGFzcyBBIHsKICAgICAgICBJbnRlZ2VyIGk7CgogICAgICAgIFN0cmluZyBuYW1lOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
