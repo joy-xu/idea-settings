@@ -30,18 +30,12 @@
         <mark key="^" line="404" column="30" />
         <mark key="." line="404" column="30" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/DingTalkAttendanceStatisticsManagerImpl.java" timestamp="1559638278867">
-        <mark key="[" line="155" column="94" />
-        <mark key="]" line="156" column="15" />
-        <mark key="^" line="156" column="15" />
-        <mark key="." line="156" column="15" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1559653605762">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1559657569381">
         <mark key="'" line="297" column="19" />
-        <mark key="[" line="316" column="84" />
-        <mark key="]" line="316" column="83" />
-        <mark key="^" line="316" column="83" />
-        <mark key="." line="316" column="83" />
+        <mark key="[" line="1120" column="74" />
+        <mark key="]" line="1121" column="15" />
+        <mark key="^" line="1121" column="15" />
+        <mark key="." line="1121" column="15" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeChangeLogDO.java" timestamp="1559035809991">
         <mark key="'" line="16" column="13" />
@@ -242,11 +236,11 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="88" column="37" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.java" timestamp="1559636659798">
-        <mark key="[" line="8" column="66" />
-        <mark key="]" line="8" column="55" />
-        <mark key="^" line="8" column="55" />
-        <mark key="." line="8" column="55" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.java" timestamp="1559657157943">
+        <mark key="[" line="8" column="68" />
+        <mark key="]" line="8" column="64" />
+        <mark key="^" line="8" column="64" />
+        <mark key="." line="8" column="64" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/pom.xml" timestamp="1559188253437">
         <mark key="[" line="93" column="21" />
@@ -319,12 +313,12 @@
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/ExcelOperatorFacadeImpl.java" timestamp="1559655522278">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/ExcelOperatorFacadeImpl.java" timestamp="1559655857006">
         <mark key="'" line="2594" column="24" />
-        <mark key="[" line="709" column="40" />
-        <mark key="]" line="709" column="39" />
-        <mark key="." line="709" column="39" />
-        <mark key="^" line="709" column="39" />
+        <mark key="[" line="2645" column="84" />
+        <mark key="]" line="2645" column="82" />
+        <mark key="." line="2645" column="82" />
+        <mark key="^" line="2645" column="82" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1559613493576">
         <mark key="'" line="141" column="0" />
@@ -447,31 +441,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>batchInsertOrUpdate</text>
+        <text>quitDate</text>
       </register>
       <register name="-" type="4">
-        <text>batchInsertOrUpdate</text>
+        <text>quitDate</text>
       </register>
       <register name="/" type="4">
-        <text>company</text>
+        <text>check</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGwxID0gTG9jYWxEYXRlVGltZS5vZigyMDE5LCAxMSwgMTAsIDEwLCAxLCAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5aaC5p6c5Yqz5Yqo5Yqb5bel5Y+3IOS4uuepuiDnmoTmg4XlhrXkuIsg6L+b6KGM6Lqr5Lu96K+B55qE5qCh6aqMCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcChsb2cgLT4gbG9nLmdldENoYW5nZUluZm8oKS5nZXRRdWl0RGF0ZSgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8g5aaC5p6c5pyJ5Yqz5Yqo5Yqb5bel5Y+35YiZ5LiN5pu05paw6Lqr5Lu96K+B5L+h5oGvCiAgICAgICAgICAgICAgICAgICAgICAgIC8vZW1wbG95ZWVETy5zZXRSZWFsTmFtZVR5cGUobnVsbCk7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vZW1wbG95ZWVETy5zZXRJZE51bShudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5aaC5p6c5Yqz5Yqo5Yqb5bel5Y+3IOS4uuepuiDnmoTmg4XlhrXkuIsg6L+b6KGM6Lqr5Lu96K+B55qE5qCh6aqMCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1014,27 +1008,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHdvcmtOdW1iZXIgPT0gMEwpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbGlkYXRlSWROdW1iZXIoZXhjZWxDb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
-      <register name="9" type="4">
-        <text>catch (DingTalkException e) {
-                        employeeManager.batchInsertOrUpdate(Collections.singletonList(employeeDO));
-                    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHdvcmtOdW1iZXIgPT0gMEwpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
       </register>
     </registers>
     <search>
-      <last-search>company</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern>company</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-replace />
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
@@ -1042,7 +1034,6 @@
     </search>
     <history>
       <history-search>
-        <entry>changeINf</entry>
         <entry>changeIn</entry>
         <entry>number</entry>
         <entry>operator</entry>
@@ -1062,6 +1053,7 @@
         <entry>logs</entry>
         <entry>save</entry>
         <entry>company</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
