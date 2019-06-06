@@ -30,8 +30,8 @@
         <mark key="^" line="404" column="30" />
         <mark key="." line="404" column="30" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1559714702804">
-        <mark key="'" line="1192" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1559808096350">
+        <mark key="'" line="334" column="0" />
         <mark key="[" line="1192" column="0" />
         <mark key="]" line="1192" column="0" />
         <mark key="." line="1192" column="0" />
@@ -231,8 +231,8 @@
         <mark key="^" line="132" column="18" />
         <mark key="." line="132" column="18" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1559223716984">
-        <mark key="'" line="188" column="4" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1559807530643">
+        <mark key="'" line="68" column="19" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="20" />
         <mark key="." line="86" column="0" />
@@ -352,8 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeChangeLogResource.java" />
-      <jump line="424" column="9" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/employee/EmployeeManager.java" />
       <jump line="1155" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="222" column="39" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" />
       <jump line="16" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeChangeLogDO.java" />
@@ -452,6 +450,8 @@
       <jump line="1192" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="16" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/bo/efficiency/WorkEfficiencyBO.java" />
       <jump line="164" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/efficiency/BaseLabourEfficiencyProvider.java" />
+      <jump line="68" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" />
+      <jump line="334" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -461,7 +461,7 @@
         <text>quitDate</text>
       </register>
       <register name="/" type="4">
-        <text>sku</text>
+        <text>insertDO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGwxID0gTG9jYWxEYXRlVGltZS5vZigyMDE5LCAxMSwgMTAsIDEwLCAxLCAwKTsK</text>
@@ -1038,9 +1038,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sku</last-search>
+      <last-search>insertDO</last-search>
       <last-offset />
-      <last-pattern>sku</last-pattern>
+      <last-pattern>insertDO</last-pattern>
       <last-replace />
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
@@ -1048,7 +1048,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>filter</entry>
         <entry>getEmployee</entry>
         <entry>disa</entry>
@@ -1058,7 +1057,6 @@
         <entry>statusCe</entry>
         <entry>remove</entry>
         <entry>batch</entry>
-        <entry>insertDO</entry>
         <entry>logs</entry>
         <entry>company</entry>
         <entry>check</entry>
@@ -1068,6 +1066,8 @@
         <entry>save</entry>
         <entry>quit</entry>
         <entry>sku</entry>
+        <entry>contact</entry>
+        <entry>insertDO</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
