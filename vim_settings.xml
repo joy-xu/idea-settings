@@ -328,12 +328,18 @@
         <mark key="." line="2645" column="82" />
         <mark key="^" line="2645" column="82" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/efficiency/BaseLabourEfficiencyProvider.java" timestamp="1559806144053">
+        <mark key="'" line="164" column="17" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1559715217692">
         <mark key="'" line="286" column="33" />
         <mark key="[" line="224" column="27" />
         <mark key="]" line="224" column="26" />
         <mark key="^" line="224" column="26" />
         <mark key="." line="224" column="26" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/bo/efficiency/WorkEfficiencyBO.java" timestamp="1559806127837">
+        <mark key="'" line="16" column="13" />
       </file>
       <file name="$USER_HOME$/src/demo/spring-boot-demo/src/main/java/com/alibaba/staragent/springbootdemo/MyServlet.java" timestamp="1559050914554">
         <mark key="[" line="17" column="5" />
@@ -346,8 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="100" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
-      <jump line="29" column="75" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeChangeLogResource.java" />
       <jump line="45" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeChangeLogResource.java" />
       <jump line="424" column="9" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/employee/EmployeeManager.java" />
       <jump line="1155" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
@@ -446,6 +450,8 @@
       <jump line="227" column="31" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
       <jump line="286" column="33" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
       <jump line="1192" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
+      <jump line="16" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/bo/efficiency/WorkEfficiencyBO.java" />
+      <jump line="164" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/efficiency/BaseLabourEfficiencyProvider.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -455,7 +461,7 @@
         <text>quitDate</text>
       </register>
       <register name="/" type="4">
-        <text>quit</text>
+        <text>sku</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGwxID0gTG9jYWxEYXRlVGltZS5vZigyMDE5LCAxMSwgMTAsIDEwLCAxLCAwKTsK</text>
@@ -1032,9 +1038,9 @@
       </register>
     </registers>
     <search>
-      <last-search>quit</last-search>
+      <last-search>sku</last-search>
       <last-offset />
-      <last-pattern>quit</last-pattern>
+      <last-pattern>sku</last-pattern>
       <last-replace />
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
@@ -1042,7 +1048,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inter</entry>
         <entry>delete</entry>
         <entry>filter</entry>
         <entry>getEmployee</entry>
@@ -1062,6 +1067,7 @@
         <entry>list</entry>
         <entry>save</entry>
         <entry>quit</entry>
+        <entry>sku</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
