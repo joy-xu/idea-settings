@@ -30,12 +30,12 @@
         <mark key="^" line="404" column="30" />
         <mark key="." line="404" column="30" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1560136206516">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1560138924444">
         <mark key="'" line="333" column="0" />
-        <mark key="[" line="1389" column="63" />
-        <mark key="]" line="1389" column="63" />
-        <mark key="." line="1389" column="63" />
-        <mark key="^" line="1389" column="63" />
+        <mark key="[" line="1521" column="30" />
+        <mark key="]" line="1521" column="39" />
+        <mark key="." line="1521" column="39" />
+        <mark key="^" line="1521" column="39" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeChangeLogDO.java" timestamp="1559035809991">
         <mark key="'" line="16" column="13" />
@@ -373,11 +373,12 @@
         <mark key="^" line="224" column="26" />
         <mark key="." line="224" column="26" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/DingTalkApiService.java" timestamp="1560136750973">
-        <mark key="[" line="70" column="43" />
-        <mark key="]" line="70" column="43" />
-        <mark key="." line="70" column="43" />
-        <mark key="^" line="70" column="48" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/DingTalkApiService.java" timestamp="1560139526811">
+        <mark key="'" line="105" column="17" />
+        <mark key="[" line="105" column="18" />
+        <mark key="]" line="100" column="46" />
+        <mark key="." line="100" column="46" />
+        <mark key="^" line="100" column="46" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/bo/efficiency/WorkEfficiencyBO.java" timestamp="1559806127837">
         <mark key="'" line="16" column="13" />
@@ -393,7 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/employee/EmployeeManager.java" />
       <jump line="0" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/employee/EmployeeManager.java" />
       <jump line="209" column="9" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
       <jump line="371" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
@@ -493,19 +493,20 @@
       <jump line="54" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/velocity/templates/main.vm" />
       <jump line="131" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/permissions/AccountResource.java" />
       <jump line="227" column="31" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
+      <jump line="105" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/DingTalkApiService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>setJobnumber</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>setJobnumber</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMucHV0KCJudW1iZXIiLCBlbXBsb3llZS5nZXROdW1iZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWF0ZVJlcXVlc3Quc2V0Sm9ibnVtYmVyKFN0cmluZy52YWx1ZU9mKGVtcGxveWVlLmdldE51bWJlcigpKSk7Cg==</text>
       </register>
       <register name="1" type="4">
         <text>try {
