@@ -10,6 +10,13 @@
         <mark key="^" line="38" column="55" />
         <mark key="." line="38" column="55" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LabourUtil.java" timestamp="1560152807102">
+        <mark key="'" line="80" column="55" />
+        <mark key="[" line="80" column="55" />
+        <mark key="]" line="80" column="55" />
+        <mark key="^" line="77" column="19" />
+        <mark key="." line="80" column="55" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/annotation/CheckWorkNumberExist.java" timestamp="1559643197727">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -144,6 +151,12 @@
         <mark key="." line="24" column="32" />
         <mark key="^" line="24" column="32" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/test/java/com/cainiao/lms/util/LabourUtilTest.java" timestamp="1560152885912">
+        <mark key="[" line="89" column="22" />
+        <mark key="]" line="89" column="35" />
+        <mark key="." line="89" column="35" />
+        <mark key="^" line="89" column="35" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/applicationContext.xml" timestamp="1558950679475">
         <mark key="'" line="16" column="10" />
         <mark key="[" line="25" column="80" />
@@ -192,11 +205,11 @@
       <file name="$MAVEN_REPOSITORY$/org/glassfish/jersey/ext/jersey-bean-validation/2.25.1/jersey-bean-validation-2.25.1-sources.jar!/org/glassfish/jersey/server/validation/internal/ValidationExceptionMapper.java" timestamp="1559204902604">
         <mark key="[" line="83" column="69" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" timestamp="1560135968230">
-        <mark key="[" line="34" column="42" />
-        <mark key="]" line="34" column="41" />
-        <mark key="^" line="34" column="41" />
-        <mark key="." line="34" column="41" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" timestamp="1560153198687">
+        <mark key="[" line="50" column="85" />
+        <mark key="]" line="50" column="85" />
+        <mark key="." line="50" column="85" />
+        <mark key="^" line="50" column="85" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/query/EmployeeWorkGroupQuery.java" timestamp="1559303899545">
         <mark key="[" line="35" column="0" />
@@ -373,8 +386,8 @@
         <mark key="^" line="172" column="112" />
         <mark key="." line="172" column="112" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1560149218384">
-        <mark key="'" line="286" column="33" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1560150608071">
+        <mark key="'" line="260" column="62" />
         <mark key="[" line="224" column="27" />
         <mark key="]" line="224" column="26" />
         <mark key="^" line="224" column="26" />
@@ -396,16 +409,11 @@
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1560148326700">
+      <file name="/fragment.java" timestamp="1560151663935">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="371" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
-      <jump line="21" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" />
-      <jump line="203" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/ServerProperties.java" />
-      <jump line="562" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
       <jump line="50" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/annotation/CheckIdCardInfo.java" />
       <jump line="224" column="31" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" />
       <jump line="41" column="79" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/annotation/CheckIdInfo.java" />
@@ -501,34 +509,39 @@
       <jump line="105" column="37" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/DingTalkApiService.java" />
       <jump line="106" column="102" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/DingTalkApiService.java" />
       <jump line="286" column="33" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
+      <jump line="39" column="65" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
+      <jump line="260" column="62" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
+      <jump line="19" column="6" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LabourUtil.java" />
+      <jump line="81" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/test/java/com/cainiao/lms/util/LabourUtilTest.java" />
+      <jump line="80" column="55" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LabourUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IHx8IFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoZW1wbG95ZWUuZ2V0RGluZ1VzZXJJZCgpKSkg</text>
       </register>
       <register name="/" type="4">
         <text>enable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWF0ZVJlcXVlc3Quc2V0Sm9ibnVtYmVyKFN0cmluZy52YWx1ZU9mKGVtcGxveWVlLmdldE51bWJlcigpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkcy5wdXQoImRpbmdNb2JpbGUiLCBMYWJvdXJVdGlsLnNlbnNpdGl2ZU1vYmlsZShkaW5nVXNlci5nZXRNb2JpbGUoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzLnB1dCgid29ya3BsYWNlQ29kZSIsIGVtcGxveWVlLmdldFdvcmtQbGFjZUNvZGUoKSk7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IE9hcGlVc2VyQ3JlYXRlUmVzcG9uc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzLnB1dCgibnVtYmVyIiwgZW1wbG95ZWUuZ2V0TnVtYmVyKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIioq5p2OIiwgTGFib3VyVXRpbC5zZW5zaXRpdmVOYW1lKCIiKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5zZXRVc2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmFtZTEgPSBMYWJvdXJVdGlsLnNlbnNpdGl2ZU5hbWUoIuW8oOS4ieadjiIpOwogICAgICAgIFN0cmluZyBuYW1lMyA9IExhYm91clV0aWwuc2Vuc2l0aXZlTmFtZSgi5byg5LiJ5p2O5ZubIik7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1070,43 +1083,17 @@
           <key char="34920" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text>try {
-            LoggerUtil.infoLogger.info(&quot;execute ding api, url: {}, workplaceCode: {}, request: {}&quot;, apiUrl,
-                workplaceCode, JSON.toJSONString(request));
-
-            TaobaoClient client = new DefaultDingTalkClient(apiUrl);
-            T response = client.execute(request, getToken(workplaceCode, null));
-            LoggerUtil.infoLogger.info(
-                &quot;execute ding api finish, url: {}, workplaceCode: {}, request: {}&quot;, apiUrl, workplaceCode,
-                JSON.toJSONString(request));
-
-            if (!response.isSuccess()) {
-                LoggerUtil.warnLogger.warn(
-                    &quot;execute ding api failed, url: {}, workplaceCode: {}, request: {}, response: {}&quot;,
-                    apiUrl, workplaceCode, JSON.toJSONString(request), JSON.toJSONString(response));
-                if (Objects.equals(response.getErrorCode(), String.valueOf(DingOpenErrorCode.MOBILE_EXIST_IN_ORG))) {
-                    LoggerUtil.warnLogger.warn(&quot;create ding user mobile exist: {}&quot;, JSON.toJSONString(response));
-                } else if (Objects.equals(response.getErrorCode(), String.valueOf(USER_CAN_NOT_FIND))) {
-                    LoggerUtil.warnLogger.warn(&quot;ding user can not find, {}&quot;, JSON.toJSONString(response));
-                } else {
-                    throw new ApiException(response.getErrorCode(), response.getMsg());
-                }
-            }
-            return response;
-        } catch (ApiException e) {
-            LoggerUtil.errorLogger.error(&quot;execute ding api error&quot;, e);
-            throw new DingTalkException(e.getErrCode(), e.getErrMsg(), e);
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdWNjZXNzUmVzdWx0LnNldEZpZWxkcyhmaWVsZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmFtZTMgPSBMYWJvdXJVdGlsLnNlbnNpdGl2ZU5hbWUoIuW8oOS4ieadjuWbmyIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSb2JvdFJlc3VsdFZPIHJlc3VsdCA9IG5ldyBSb2JvdFJlc3VsdFZPKCk7Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmFtZSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5hbWUxKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmFtZTMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
