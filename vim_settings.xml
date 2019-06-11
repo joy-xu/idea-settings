@@ -50,6 +50,13 @@
         <mark key="." line="535" column="18" />
         <mark key="^" line="535" column="18" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" timestamp="1560225367707">
+        <mark key="'" line="491" column="0" />
+        <mark key="[" line="392" column="31" />
+        <mark key="]" line="392" column="37" />
+        <mark key="^" line="392" column="37" />
+        <mark key="." line="392" column="37" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeChangeLogDO.java" timestamp="1559035809991">
         <mark key="'" line="16" column="13" />
         <mark key="[" line="36" column="12" />
@@ -167,6 +174,7 @@
         <mark key="." line="89" column="35" />
         <mark key="^" line="89" column="35" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkApiToolResource.java" timestamp="1560225877360" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/applicationContext.xml" timestamp="1558950679475">
         <mark key="'" line="16" column="10" />
         <mark key="[" line="25" column="80" />
@@ -215,12 +223,12 @@
       <file name="$MAVEN_REPOSITORY$/org/glassfish/jersey/ext/jersey-bean-validation/2.25.1/jersey-bean-validation-2.25.1-sources.jar!/org/glassfish/jersey/server/validation/internal/ValidationExceptionMapper.java" timestamp="1559204902604">
         <mark key="[" line="83" column="69" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" timestamp="1560157076881">
-        <mark key="'" line="63" column="42" />
-        <mark key="[" line="67" column="39" />
-        <mark key="]" line="68" column="38" />
-        <mark key="." line="68" column="38" />
-        <mark key="^" line="68" column="38" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" timestamp="1560227237930">
+        <mark key="'" line="102" column="50" />
+        <mark key="[" line="88" column="96" />
+        <mark key="]" line="88" column="90" />
+        <mark key="." line="88" column="90" />
+        <mark key="^" line="88" column="90" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/query/EmployeeWorkGroupQuery.java" timestamp="1559303899545">
         <mark key="[" line="35" column="0" />
@@ -364,11 +372,12 @@
         <mark key="^" line="58" column="27" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/robot/RobotResultVO.java" timestamp="1559879779357">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/robot/RobotResultVO.java" timestamp="1560225216772">
+        <mark key="'" line="35" column="35" />
+        <mark key="[" line="40" column="32" />
+        <mark key="]" line="45" column="28" />
+        <mark key="^" line="45" column="28" />
+        <mark key="." line="45" column="28" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeStatusFacadeImpl.java" timestamp="1560149334210">
         <mark key="[" line="62" column="14" />
@@ -424,10 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="1" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" />
-      <jump line="129" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/DingTalkController.java" />
-      <jump line="119" column="31" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/DingTalkController.java" />
-      <jump line="128" column="31" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/DingTalkController.java" />
       <jump line="323" column="9" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" />
       <jump line="75" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" />
       <jump line="1025" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
@@ -524,34 +529,38 @@
       <jump line="1429" column="34" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="186" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java" />
       <jump line="148" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java" />
+      <jump line="38" column="38" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
+      <jump line="35" column="35" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/robot/RobotResultVO.java" />
+      <jump line="470" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
+      <jump line="97" column="50" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXJVdGlsLmVycm9yTG9nZ2VyLmVycm9yKCIiKTsgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>errorLogger</text>
+        <text>workplaceCode</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dCgibnVtYmVyIiwgbnVtYmVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHdvcmtEYXRlRnJvbSA9IExvY2FsRGF0ZVV0aWwuZm9ybWF0RGF0ZShkYXRlKSArICIwMDowMDowMCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXJVdGlsLmVycm9yTG9nZ2VyLmVycm9yKCIiKTsgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuZ2V0UmVjb3JkcmVzdWx0KCkuc3RyZWFtKCkKICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dCgibnVtYmVyIiwgbnVtYmVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAocmVzdWx0IC0+IHsKCiAgICAgICAgICAgICAgICAgICAgcmVzdWx0LnNldFVzZXJDaGVja1RpbWUoKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZS5mb3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzLnB1dCgid29ya3BsYWNlQ29kZSIsIGVtcGxveWVlLmdldFdvcmtQbGFjZUNvZGUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1094,16 +1103,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzLnB1dCgibnVtYmVyIiwgZW1wbG95ZWUuZ2V0TnVtYmVyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIioq5p2OIiwgTGFib3VyVXRpbC5zZW5zaXRpdmVOYW1lKCIiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgLy8gaWdub3JlIGV4Y2VwdGlvbgogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmFtZTEgPSBMYWJvdXJVdGlsLnNlbnNpdGl2ZU5hbWUoIuW8oOS4ieadjiIpOwogICAgICAgIFN0cmluZyBuYW1lMyA9IExhYm91clV0aWwuc2Vuc2l0aXZlTmFtZSgi5byg5LiJ5p2O5ZubIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgLy8gaWdub3JlIGV4Y2VwdGlvbgogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
