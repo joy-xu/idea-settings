@@ -32,6 +32,12 @@
         <mark key="^" line="34" column="17" />
         <mark key="." line="34" column="17" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1560309879413">
+        <mark key="[" line="1020" column="29" />
+        <mark key="]" line="1020" column="29" />
+        <mark key="." line="1020" column="29" />
+        <mark key="^" line="1020" column="29" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.groovy" timestamp="1558949193449">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="5" column="31" />
@@ -50,7 +56,6 @@
         <mark key="^" line="26" column="77" />
         <mark key="." line="26" column="77" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/HttpUtils.java" timestamp="1560219409058" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/robot/DingTalkAttendanceListVO.java" timestamp="1560244085293">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="15" column="30" />
@@ -120,7 +125,6 @@
         <mark key="^" line="28" column="24" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/pom.xml" timestamp="1560303385846" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/BaseUserManagerImpl.java" timestamp="1559036186257">
         <mark key="[" line="36" column="43" />
         <mark key="]" line="36" column="49" />
@@ -151,7 +155,6 @@
         <mark key="." line="89" column="35" />
         <mark key="^" line="89" column="35" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkApiToolResource.java" timestamp="1560225877360" />
       <file name="$USER_HOME$/src/demo/spring-boot-demo/src/main/java/com/alibaba/staragent/springbootdemo/MyListener.java" timestamp="1559051217066">
         <mark key="[" line="17" column="28" />
         <mark key="]" line="17" column="55" />
@@ -342,6 +345,7 @@
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="28" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/DingTalkApiService.java" timestamp="1560309006558" />
       <file name="$USER_HOME$/src/demo/spring-boot-demo/src/main/java/com/alibaba/staragent/springbootdemo/MyServlet.java" timestamp="1559050914554">
         <mark key="[" line="17" column="5" />
         <mark key="]" line="21" column="7" />
@@ -455,11 +459,11 @@
       <jump line="122" column="145" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>source</text>
@@ -468,16 +472,16 @@
         <text encoding="base64">ICAgIEJPU1MoIkJPU1MiLCAi6ICB5p2/5pS5562+IiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2NhbERhdGVUaW1lLm9mSW5zdGFudCgpCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2by5zZXTmlbDmja7mnaXmupAoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2NhbERhdGVUaW1lLm9mSW5zdGFudCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2by5zZXTmlbDmja7mnaXmupAoKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1023,16 +1027,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFN0cmluZyBjaGVja1R5cGUgPSByZWNvcmQuZ2V0Q2hlY2tUeXBlKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEVhcmx5KCJFYXJseSIsICLml6npgIAiKSwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFN0cmluZyBjaGVja1R5cGUgPSByZWNvcmQuZ2V0Q2hlY2tUeXBlKCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEVhcmx5KCJFYXJseSIsICLml6npgIAiKSwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RGVzYygpIHsKICAgICAgICByZXR1cm4gZGVzYzsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
