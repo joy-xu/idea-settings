@@ -111,6 +111,15 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java" timestamp="1560216873186">
         <mark key="'" line="148" column="27" />
       </file>
+      <file name="$USER_HOME$/src/demo/staragentstarterhello/src/main/java/com/alibaba/staragent/config/auto/HelloServiceAutoConfiguration.java" timestamp="1560301880865">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/demo/staragentstarterhello/src/main/java/com/alibaba/staragent/service/HelloService.java" timestamp="1560301764343">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/interceptor/LmsValidationMapper.java" timestamp="1559205797534">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -297,6 +306,12 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
       </file>
+      <file name="$USER_HOME$/src/demo/staragentstarterhello/src/main/java/com/alibaba/staragent/config/HelloServiceProperties.java" timestamp="1560301746352">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/interceptor/LmsExceptionMapper.java" timestamp="1559356410185">
         <mark key="[" line="74" column="78" />
         <mark key="]" line="74" column="88" />
@@ -452,7 +467,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2NhbERhdGVUaW1lLm9mSW5zdGFudCgpCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -464,19 +479,19 @@
         <text encoding="base64">ICAgIEJPU1MoIkJPU1MiLCAi6ICB5p2/5pS5562+IiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2NhbERhdGVUaW1lLm9mSW5zdGFudCgpCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2by5zZXTmlbDmja7mnaXmupAoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2NhbERhdGVUaW1lLm9mSW5zdGFudCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2by5zZXTmlbDmja7mnaXmupAoKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFN0cmluZyBjaGVja1R5cGUgPSByZWNvcmQuZ2V0Q2hlY2tUeXBlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1019,16 +1034,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEVhcmx5KCJFYXJseSIsICLml6npgIAiKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFN0cmluZyBjaGVja1R5cGUgPSByZWNvcmQuZ2V0Q2hlY2tUeXBlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEVhcmx5KCJFYXJseSIsICLml6npgIAiKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RGVzYygpIHsKICAgICAgICByZXR1cm4gZGVzYzsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RGVzYygpIHsKICAgICAgICByZXR1cm4gZGVzYzsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
