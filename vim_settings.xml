@@ -32,7 +32,7 @@
         <mark key="^" line="34" column="17" />
         <mark key="." line="34" column="17" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1560396138278">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1560397930298">
         <mark key="[" line="1125" column="63" />
         <mark key="]" line="1125" column="63" />
         <mark key="." line="1125" column="63" />
@@ -188,12 +188,12 @@
       <file name="$MAVEN_REPOSITORY$/org/glassfish/jersey/ext/jersey-bean-validation/2.25.1/jersey-bean-validation-2.25.1-sources.jar!/org/glassfish/jersey/server/validation/internal/ValidationExceptionMapper.java" timestamp="1559204902604">
         <mark key="[" line="83" column="69" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" timestamp="1560397030332">
-        <mark key="'" line="128" column="145" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="^" line="153" column="25" />
-        <mark key="." line="169" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" timestamp="1560398286816">
+        <mark key="'" line="170" column="7" />
+        <mark key="[" line="245" column="38" />
+        <mark key="]" line="245" column="38" />
+        <mark key="." line="245" column="38" />
+        <mark key="^" line="245" column="38" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/query/EmployeeWorkGroupQuery.java" timestamp="1559303899545">
         <mark key="[" line="35" column="0" />
@@ -362,7 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="434" column="45" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" />
       <jump line="445" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" />
       <jump line="231" column="28" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/RegisterFacadeImpl.java" />
       <jump line="114" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
@@ -462,13 +461,14 @@
       <jump line="18" column="33" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/enums/dingtalk/DingTalkAttendanceTimeResult.java" />
       <jump line="116" column="97" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
       <jump line="122" column="145" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
+      <jump line="163" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>离职日期超过1天</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>离职日期超过1天</text>
       </register>
       <register name="/" type="4">
         <text>source</text>
@@ -477,19 +477,19 @@
         <text encoding="base64">ICAgIEJPU1MoIkJPU1MiLCAi6ICB5p2/5pS5562+IiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW1wbG95ZWUgPT0gbnVsbCkgewoKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNRdWl0ID8gbnVsbCA6IGVtcGxveWVlQ2hhbmdlTG9nQk87Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUm9ib3RSZXN1bHRWTy5vZkVycm9yKCLml6Dms5Xmib7liLDkurrlkZjmiJbmsqHmnInlhbPogZTpkonpkokiKTsK</text>
+        <text encoding="base64">ICAgICAgICBFbXBsb3llZUNoYW5nZUxvZ0JPIGVtcGxveWVlID0gZW1wbG95ZWVNYW5hZ2VyLnNlbGVjdEJ5RGluZ1VzZXJJZEFuZERhdGUod29ya3BsYWNlQ29kZSwKICAgICAgICAgICAgZGluZ1VzZXJJZCwKICAgICAgICAgICAgRGF0ZS5mcm9tKGRhdGUuYXRTdGFydE9mRGF5KFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpLnRvSW5zdGFudCgpKSk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvY2FsRGF0ZSBhdHRlbmRhbmNlTG9jYWxEYXRlID0gYXR0ZW5kYW5jZUxvY2FsRGF0ZVRpbWUudG9Mb2NhbERhdGUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5lcShkaW5nVXNlcklkICE9IG51bGwsICJkaW5nX3VzZXJfaWQiLCBkaW5nVXNlcklkKSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1032,16 +1032,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW1wbG95ZWUgIT0gbnVsbCAmJiBTdHJpbmdVdGlscy5pc05vdEJsYW5rKGVtcGxveWVlLmdldERpbmdVc2VySWQoKSkpIHsKICAgICAgICAgICAgU3RyaW5nIGRpbmdVc2VySWQgPSBlbXBsb3llZS5nZXREaW5nVXNlcklkKCk7CiAgICAgICAgICAgIFN0cmluZyB3b3JrRGF0ZUZyb20gPSBMb2NhbERhdGVVdGlsLmZvcm1hdERhdGUoZGF0ZSkgKyAiIDAwOjAwOjAwIjsKICAgICAgICAgICAgU3RyaW5nIHdvcmtEYXRlVG8gPSBMb2NhbERhdGVVdGlsLmZvcm1hdERhdGUoZGF0ZS5wbHVzRGF5cygxKSkgKyAiIDAwOjAwOjAwIjsKCiAgICAgICAgICAgIE9hcGlBdHRlbmRhbmNlTGlzdFJlcXVlc3QgcmVxdWVzdCA9IG5ldyBPYXBpQXR0ZW5kYW5jZUxpc3RSZXF1ZXN0KCk7CiAgICAgICAgICAgIHJlcXVlc3Quc2V0V29ya0RhdGVGcm9tKHdvcmtEYXRlRnJvbSk7CiAgICAgICAgICAgIHJlcXVlc3Quc2V0V29ya0RhdGVUbyh3b3JrRGF0ZVRvKTsKICAgICAgICAgICAgcmVxdWVzdC5zZXRVc2VySWRMaXN0KENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoZGluZ1VzZXJJZCkpOwogICAgICAgICAgICByZXF1ZXN0LnNldE9mZnNldCgwTCk7CiAgICAgICAgICAgIHJlcXVlc3Quc2V0TGltaXQoNTBMKTsKCiAgICAgICAgICAgIE9hcGlBdHRlbmRhbmNlTGlzdFJlc3BvbnNlIHJlc3BvbnNlID0gZGluZ1RhbGtBcGlTZXJ2aWNlLmV4ZWN1dGVBcGkocmVxdWVzdCwgT3BlbkFwaVVybC5BVFRFTkRBTkNFX0xJU1RfVVJMLAogICAgICAgICAgICAgICAgZW1wbG95ZWUuZ2V0V29ya1BsYWNlQ29kZSgpKTsKICAgICAgICAgICAgTGlzdDxEaW5nVGFsa0F0dGVuZGFuY2VMaXN0Vk8+IHJlY29yZFJlc3VsdCA9IHJlc3BvbnNlLmdldFJlY29yZHJlc3VsdCgpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKHJlY29yZCAtPiB7CiAgICAgICAgICAgICAgICAgICAgRGluZ1RhbGtBdHRlbmRhbmNlTGlzdFZPIHZvID0gbmV3IERpbmdUYWxrQXR0ZW5kYW5jZUxpc3RWTygpOwogICAgICAgICAgICAgICAgICAgIHZvLnNldOiAg+WLpOexu+WeiyhEaW5nVGFsa0F0dGVuZGFuY2VDaGVja1R5cGUuZ2V0QnlDaGVja1R5cGUocmVjb3JkLmdldENoZWNrVHlwZSgpKQogICAgICAgICAgICAgICAgICAgICAgICAubWFwKERpbmdUYWxrQXR0ZW5kYW5jZUNoZWNrVHlwZTo6Z2V0RGVzYykKICAgICAgICAgICAgICAgICAgICAgICAgLm9yRWxzZSgiIikpOwogICAgICAgICAgICAgICAgICAgIHZvLnNldOaXtumXtOe7k+aenChEaW5nVGFsa0F0dGVuZGFuY2VUaW1lUmVzdWx0LmdldEJ5VGltZVJlc3VsdChyZWNvcmQuZ2V0VGltZVJlc3VsdCgpKQogICAgICAgICAgICAgICAgICAgICAgICAubWFwKERpbmdUYWxrQXR0ZW5kYW5jZVRpbWVSZXN1bHQ6OmdldERlc2MpCiAgICAgICAgICAgICAgICAgICAgICAgIC5vckVsc2UoIiIpKTsKICAgICAgICAgICAgICAgICAgICB2by5zZXTmiZPljaHml7bpl7QoTG9jYWxEYXRlVXRpbC5mb3JtYXREYXRlVGltZSgKICAgICAgICAgICAgICAgICAgICAgICAgcmVjb3JkLmdldFVzZXJDaGVja1RpbWUoKS50b0luc3RhbnQoKS5hdFpvbmUoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9Mb2NhbERhdGVUaW1lKCkpKTsKICAgICAgICAgICAgICAgICAgICB2by5zZXTmlbDmja7mnaXmupAoRGluZ1RhbGtBdHRlbmRhbmNlU291cmNlVHlwZS5nZXRCeVNvdXJjZVR5cGUocmVjb3JkLmdldFNvdXJjZVR5cGUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLm1hcChEaW5nVGFsa0F0dGVuZGFuY2VTb3VyY2VUeXBlOjpnZXREZXNjKQogICAgICAgICAgICAgICAgICAgICAgICAub3JFbHNlKCIiKSk7CgogICAgICAgICAgICAgICAgICAgIHJldHVybiB2bzsKICAgICAgICAgICAgICAgIH0pLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CgogICAgICAgICAgICBSb2JvdFJlc3VsdFZPIHJlc3VsdCA9IFJvYm90UmVzdWx0Vk8ub2ZTdWNjZXNzKCk7CgogICAgICAgICAgICByZXN1bHQuYWRkRmllbGQoIm5hbWUiLCBlbXBsb3llZS5nZXROYW1lKCkpOwogICAgICAgICAgICByZXN1bHQuYWRkRmllbGQoIm51bWJlciIsIGVtcGxveWVlLmdldE51bWJlcigpKTsKICAgICAgICAgICAgcmVzdWx0LmFkZEZpZWxkKCJkaW5nVXNlcklkIiwgZW1wbG95ZWUuZ2V0RGluZ1VzZXJJZCgpKTsKICAgICAgICAgICAgcmVzdWx0LmFkZEZpZWxkKCJyZWNvcmRSZXN1bHQiLCByZWNvcmRSZXN1bHQpOwoK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgd29ya3BsYWNlQ29kZSA9IGxvZy5nZXRXb3JrUGxhY2VDb2RlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICBmaWVsZHMucHV0KCkgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFbXBsb3llZURPIGVtcGxveWVlID0gZW1wbG95ZWVNYW5hZ2VyLnNlbGVjdEJ5TnVtYmVyKG51bWJlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
