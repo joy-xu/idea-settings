@@ -69,6 +69,10 @@
         <mark key="." line="110" column="14" />
         <mark key="^" line="110" column="14" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkAttendanceStatisticsResource.java" timestamp="1560411772106">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="99" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeChangeLogResource.java" timestamp="1560155581784">
         <mark key="[" line="41" column="19" />
         <mark key="]" line="41" column="19" />
@@ -189,11 +193,11 @@
       <file name="$MAVEN_REPOSITORY$/org/glassfish/jersey/ext/jersey-bean-validation/2.25.1/jersey-bean-validation-2.25.1-sources.jar!/org/glassfish/jersey/server/validation/internal/ValidationExceptionMapper.java" timestamp="1559204902604">
         <mark key="[" line="83" column="69" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" timestamp="1560411362897">
-        <mark key="[" line="186" column="15" />
-        <mark key="]" line="188" column="7" />
-        <mark key="." line="188" column="7" />
-        <mark key="^" line="188" column="7" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" timestamp="1560412178825">
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
+        <mark key="^" line="207" column="11" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/query/EmployeeWorkGroupQuery.java" timestamp="1559303899545">
         <mark key="[" line="35" column="0" />
@@ -362,12 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="25" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/OssUtil.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/OssUtil.java" />
-      <jump line="418" column="29" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
-      <jump line="81" column="77" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/annotation/CheckIdInfo.java" />
-      <jump line="209" column="33" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
-      <jump line="921" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" />
       <jump line="2706" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/ExcelOperatorFacadeImpl.java" />
       <jump line="2596" column="24" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/ExcelOperatorFacadeImpl.java" />
       <jump line="277" column="23" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
@@ -462,34 +460,40 @@
       <jump line="437" column="49" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="1491" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="144" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
+      <jump line="188" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
+      <jump line="68" column="79" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
+      <jump line="194" column="113" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
+      <jump line="173" column="29" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
+      <jump line="205" column="69" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
+      <jump line="206" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">ID09IG51bGwgfHwg</text>
       </register>
       <register name="/" type="4">
         <text>getDingUser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGZpZWxkcyA9IG5ldyBIYXNoTWFwPD4oNCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5zZXROdW1iZXIoU3RyaW5nLnZhbHVlT2YobG9nLmdldE51bWJlcigpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaW5nVGFsa0F0dGVuZGFuY2VTdGF0aXN0aWNGYWNhZGUuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERpbmdUYWxrQXR0ZW5kYW5jZVNvdXJjZVR5cGUuZ2V0QnlTb3VyY2VUeXBlKHJlY29yZC5nZXRTb3VyY2VUeXBlKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIERpbmdUYWxrQXR0ZW5kYW5jZVN0YXRpc3RpY0ZhY2FkZSBkaW5nVGFsa0F0dGVuZGFuY2VTdGF0aXN0aWNGYWNhZGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1032,16 +1036,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERpbmdUYWxrQXR0ZW5kYW5jZVNvdXJjZVR5cGUuZ2V0QnlTb3VyY2VUeXBlKHJlY29yZC5nZXRTb3VyY2VUeXBlKCkpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBARGF0ZVRpbWVGb3JtYXQocGF0dGVybiA9ICJ5eXl5LU1NLWRkIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
