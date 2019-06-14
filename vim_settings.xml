@@ -18,6 +18,7 @@
       <file name="/a.dummy" timestamp="1560409339614">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/DingTalkAttendanceStatisticsManagerImpl.java" timestamp="1560480825224" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" timestamp="1560225367707">
         <mark key="'" line="491" column="0" />
         <mark key="[" line="392" column="31" />
@@ -32,8 +33,8 @@
         <mark key="^" line="34" column="17" />
         <mark key="." line="34" column="17" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1560416597355">
-        <mark key="'" line="1344" column="15" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1560480558415">
+        <mark key="'" line="403" column="12" />
         <mark key="[" line="1526" column="59" />
         <mark key="]" line="1526" column="58" />
         <mark key="." line="1526" column="58" />
@@ -96,6 +97,9 @@
         <mark key="]" line="25" column="0" />
         <mark key="^" line="23" column="38" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1560480594751">
+        <mark key="'" line="920" column="35" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" timestamp="1560218976204">
         <mark key="[" line="92" column="91" />
@@ -247,6 +251,7 @@
         <mark key="^" line="132" column="18" />
         <mark key="." line="132" column="18" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/DingTalkAttendanceSyncByWorkplaceProcessor.java" timestamp="1560481066842" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.java" timestamp="1560394569699">
         <mark key="[" line="21" column="48" />
         <mark key="]" line="25" column="47" />
@@ -349,6 +354,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1560481083344" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/employee/BaseUserManager.java" timestamp="1559036215928">
         <mark key="[" line="32" column="22" />
         <mark key="]" line="32" column="28" />
@@ -369,8 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="531" column="45" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
-      <jump line="548" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="377" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="525" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
       <jump line="141" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
@@ -469,6 +473,8 @@
       <jump line="556" column="60" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
       <jump line="1344" column="15" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="273" column="73" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
+      <jump line="403" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
+      <jump line="920" column="35" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
