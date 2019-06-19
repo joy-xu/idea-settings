@@ -39,6 +39,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="14" column="38" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1560911005675">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1560829998709">
         <mark key="'" line="21" column="13" />
         <mark key="[" line="95" column="10" />
@@ -95,12 +100,7 @@
         <mark key="'" line="556" column="60" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/DingTalkApiService.java" timestamp="1560754111716" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/ItemTypeParser.java" timestamp="1560506023346">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="12" column="12" />
-        <mark key="." line="14" column="0" />
-      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/ItemTypeParser.java" timestamp="1560909746187" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-blink-udx/src/main/java/com/cainiao/lms/blink/udx/labour/ItemTypeParser.java" timestamp="1560499130458">
         <mark key="[" line="19" column="81" />
         <mark key="]" line="19" column="87" />
@@ -116,8 +116,10 @@
       <file name="/fragment.java" timestamp="1560505955965">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1560851475198">
-        <mark key="[" line="0" column="452" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1560909950726">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -224,10 +226,15 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.substring(3</text>
+        <text>need_sale_pkg_image VARCHAR,
+    need_trans_pkg_image VARCHAR,
+    pack_require VARCHAR,
+    pack_material VARCHAR,
+    cross_box_row VARCHAR,
+    cross_box_line VARCHAR,</text>
       </register>
       <register name="-" type="4">
-        <text>.substring(3</text>
+        <text>,need_sale_pkg_image,need_trans_pkg_image,pack_require,pack_material,cross_box_row,cross_box_line,</text>
       </register>
       <register name="/" type="4">
         <text>custom</text>
@@ -235,20 +242,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oanNvbk9iamVjdCApOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>need_sale_pkg_image VARCHAR,
+    need_trans_pkg_image VARCHAR,
+    pack_require VARCHAR,
+    pack_material VARCHAR,
+    cross_box_row VARCHAR,
+    cross_box_line VARCHAR,</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSlNPTk9iamVjdCBqc29uT2JqZWN0MSA9IEpTT04ucGFyc2VPYmplY3QoY3VzdG9tQXR0cmlidXRlVG9TYXZlKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IAogICAgaW52ZW50b3J5X2ZlYXR1cmUgVkFSQ0hBUiwKICAgIGlzX25lZWRfc2FsZV9wa2cgVkFSQ0hBUiwKICAgIGlzX3NhbGVfcGtnX3NhbWUgVkFSQ0hBUiwKICAgIGlzX3RyYW5zX3BrZ19zYW1lIFZBUkNIQVIs</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIGEgPSAwTDsKCiAgICAgICAgYSArPSAxMDAgLSA5MDsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGEpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">KGlkIFNUUklORywgb3BlcmF0ZV9tb250aCBTVFJJTkcsIHdhcmVob3VzZV9pZCBCSUdJTlQsIGlzX3Rhc2sgSU5ULCB0YXNrX2JhdGNoX2NvZGUgU1RSSU5HLCB0YXNrX3R5cGUgQklHSU5ULCBjdXN0b21fdHlwZSBCSUdJTlQsIHVzZXJfaWQgQklHSU5ULCBhY2NvdW50IFNUUklORywgdXNlcl9uYW1lIFNUUklORywgZW1wbG95ZWVfbnVtYmVyIEJJR0lOVCwgZW1wbG95ZWVfbmFtZSBTVFJJTkcsIHdvcmtfZ3JvdXBfY29kZSBTVFJJTkcsIHdvcmtfZ3JvdXBfbmFtZSBTVFJJTkcsIHdvcmtfZ3JvdXBfbGVhZGVyIFNUUklORywgcGxhbl9zdGFydF90aW1lIERBVEVUSU1FLCBwbGFuX2VuZF90aW1lIERBVEVUSU1FLCBhY3R1YWxfc3RhcnRfdGltZSBEQVRFVElNRSwgYWN0dWFsX2VuZF90aW1lIERBVEVUSU1FLCB0Yl9hY3R1YWxfc3RhcnRfdGltZSBTVFJJTkcsIHRiX2FjdHVhbF9lbmRfdGltZSBTVFJJTkcsIHRiX3BsYW5fc3RhcnRfdGltZSBEQVRFVElNRSwgdGJfcGxhbl9lbmRfdGltZSBEQVRFVElNRSwgdGJnX3R5cGUgU01BTExJTlQsIHRiZ19jb2RlIFNUUklORywgYml6X3VuaXRfdHlwZSBTVFJJTkcsIGJpel91bml0X2NvZGUgU1RSSU5HLCBwbGFuX251bSBJTlQsIGFjdHVhbF9udW0gSU5ULCBvd25lcl9pZCBCSUdJTlQsIG93bmVyX25hbWUgU1RSSU5HLCBmcm9tX2xvY2F0aW9uX2lkIFNUUklORywgdG9fbG9jYXRpb25faWQgU1RSSU5HLCBmcm9tX2FyZWFfaWQgU1RSSU5HLCB0b19hcmVhX2lkIFNUUklORywgaHVfY29kZSBTVFJJTkcsIHNvdXJjZV9vcmRlcl9pZCBTVFJJTkcsIGluZHVzdHJ5X2NvZGUgU1RSSU5HLCB1bml0X2dyb3NzX3dlaWdodCBJTlQsIHVuaXRfdm9sdW1lIEJJR0lOVCwgZXF1aXBtZW50X3R5cGUgQklHSU5ULCBwcm9kdWN0X3R5cGUgSU5ULCBvcGVyYXRlX29iamVjdF9pZCBCSUdJTlQpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBwYWNrYWdlX3N0b3BwYWJsZSBWQVJDSEFSLAogICAgcGFja2FnZV9yZWNvbW1lbmQgVkFSQ0hBUiwKICAgIHNwZWNpYWxfc2hhcGVfY2xhc3NpZnkgVkFSQ0hBUiwKICAgIHNwZWNpYWxfcmVjb21tZW5kX2xlbmd0aCBWQVJDSEFSLAogICAgc3BlY2lhbF9yZWNvbW1lbmRfd2lkdGggVkFSQ0hBUiwKICAgIHNwZWNpYWxfcmVjb21tZW5kX2hlaWdodCBWQVJDSEFSLA==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -791,16 +803,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIChpZCBBTlksIG9wZXJhdGVfbW9udGggQU5ZLCB3YXJlaG91c2VfaWQgQU5ZLCBpc190YXNrIEFOWSwgdGFza19iYXRjaF9jb2RlIEFOWSwgdGFza190eXBlIEFOWSwgY3VzdG9tX3R5cGUgQU5ZLCB1c2VyX2lkIEFOWSwgYWNjb3VudCBBTlksIHVzZXJfbmFtZSBBTlksIGVtcGxveWVlX251bWJlciBBTlksIGVtcGxveWVlX25hbWUgQU5ZLCB3b3JrX2dyb3VwX2NvZGUgQU5ZLCB3b3JrX2dyb3VwX25hbWUgQU5ZLCB3b3JrX2dyb3VwX2xlYWRlciBBTlksIHBsYW5fc3RhcnRfdGltZSBBTlksIHBsYW5fZW5kX3RpbWUgQU5ZLCBhY3R1YWxfZW5kX3RpbWUgQU5ZLCB0Yl9hY3R1YWxfc3RhcnRfdGltZSBBTlksIHRiX2FjdHVhbF9lbmRfdGltZSBBTlksIHRiX3BsYW5fc3RhcnRfdGltZSBBTlksIHRiX3BsYW5fZW5kX3RpbWUgQU5ZLCB0YmdfdHlwZSBBTlksIHRiZ19jb2RlIEFOWSwgYml6X3VuaXRfdHlwZSBBTlksIGJpel91bml0X2NvZGUgQU5ZLCBwbGFuX251bSBBTlksIGFjdHVhbF9udW0gQU5ZLCBvd25lcl9pZCBBTlksIG93bmVyX25hbWUgQU5ZLCBmcm9tX2xvY2F0aW9uX2lkIEFOWSwgdG9fbG9jYXRpb25faWQgQU5ZLCBmcm9tX2FyZWFfaWQgQU5ZLCB0b19hcmVhX2lkIEFOWSwgaHVfY29kZSBBTlksIHNvdXJjZV9vcmRlcl9pZCBBTlksIGluZHVzdHJ5X2NvZGUgQU5ZLCB1bml0X2dyb3NzX3dlaWdodCBBTlksIHVuaXRfdm9sdW1lIEFOWSwgZXF1aXBtZW50X3R5cGUgQU5ZLCBwcm9kdWN0X3R5cGUgQU5ZLCBvcGVyYXRlX29iamVjdF9pZCBBTlkpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IAogICAgaXRlbV9jYXRlZ29yeSBWQVJDSEFSLAogICAgc2VydmljZV9pdGVtX2lkIFZBUkNIQVIsCiAgICBpbWdfdXJsIFZBUkNIQVIsCiAgICBpc19uZWVkX3RyYW5zcG9ydF9wYWNrYWdlIFZBUkNIQVIsCiAgICBpbmNsdWRlX2JhdHRlcnkgVkFSQ0hBUiw=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoY3VzdG9tQXR0cmlidXRlVG9TYXZlKSkgewo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgaXNfcmV2aWV3ZWQgVkFSQ0hBUiwKICAgIHBhY2thZ2Vfd2VpZ2h0IFZBUkNIQVIsCiAgICBwYWNrYWdlX3ZvbHVtZSBWQVJDSEFSLAogICAgcGlja19ncm91cF9wYXJhbSBWQVJDSEFSLAogICAgaXNfcmVndWxhciBWQVJDSEFSLAogICAgaXNfcmlnaWQgVkFSQ0hBUiw=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IAogICAgbWF0ZXJpYWxfbnVtIFZBUkNIQVIsCiAgICBib3hfcm93IFZBUkNIQVIsCiAgICBib3hfbGluZSBWQVJDSEFSLAogICAgYm94X3N0b3JleSBWQVJDSEFSLAogICAgY29sbGVjdF90aHJlZV9oaWdoIFZBUkNIQVIsCiAgICBmbGFnIFZBUkNIQVIsCiAgICBncm91cF90eXBlIFZBUkNIQVIs</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
