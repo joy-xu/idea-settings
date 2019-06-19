@@ -20,8 +20,8 @@
       <file name="/a.dummy" timestamp="1560409339614">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1560849784552">
-        <mark key="'" line="488" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1560933297115">
+        <mark key="'" line="414" column="66" />
         <mark key="[" line="493" column="58" />
         <mark key="]" line="493" column="43" />
         <mark key="^" line="493" column="43" />
@@ -44,8 +44,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1560829998709">
-        <mark key="'" line="21" column="13" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1560932774307">
+        <mark key="'" line="248" column="29" />
         <mark key="[" line="95" column="10" />
         <mark key="]" line="95" column="9" />
         <mark key="^" line="95" column="9" />
@@ -116,17 +116,11 @@
       <file name="/fragment.java" timestamp="1560505955965">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1560930364700">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="160" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1560932770842">
+        <mark key="[" line="1" column="188" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1126" column="92" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
-      <jump line="1134" column="28" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="1139" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="1149" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="1150" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
@@ -225,6 +219,8 @@
       <jump line="21" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" />
       <jump line="485" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="100" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" />
+      <jump line="248" column="29" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" />
+      <jump line="414" column="66" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -234,7 +230,7 @@
         <text>date.plusDays(1))</text>
       </register>
       <register name="/" type="4">
-        <text>custom</text>
+        <text>createDing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oanNvbk9iamVjdCApOwo=</text>
@@ -816,9 +812,9 @@
       </register>
     </registers>
     <search>
-      <last-search>custom</last-search>
+      <last-search>createDing</last-search>
       <last-offset />
-      <last-pattern>custom</last-pattern>
+      <last-pattern>createDing</last-pattern>
       <last-replace />
       <last-substitute>getDingUser</last-substitute>
       <last-dir>1</last-dir>
@@ -826,7 +822,6 @@
     </search>
     <history>
       <history-search>
-        <entry>check</entry>
         <entry>deleteDing</entry>
         <entry>publish</entry>
         <entry>list</entry>
@@ -846,6 +841,7 @@
         <entry>compile</entry>
         <entry>update</entry>
         <entry>custom</entry>
+        <entry>createDing</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
