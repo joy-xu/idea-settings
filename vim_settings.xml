@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/glassfish/jersey/ext/jersey-bean-validation/2.25.1/jersey-bean-validation-2.25.1-sources.jar!/org/glassfish/jersey/server/validation/internal/ValidationExceptionMapper.java" timestamp="1559204902604">
-        <mark key="[" line="83" column="69" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/CustomTypeParser.java" timestamp="1560499049151">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" timestamp="1560912481285">
         <mark key="[" line="14" column="32" />
@@ -17,9 +19,6 @@
         <mark key="]" line="254" column="38" />
         <mark key="^" line="254" column="38" />
         <mark key="." line="254" column="38" />
-      </file>
-      <file name="/a.dummy" timestamp="1560409339614">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.java" timestamp="1560840550250">
         <mark key="[" line="11" column="37" />
@@ -63,6 +62,11 @@
         <mark key="." line="43" column="92" />
         <mark key="^" line="43" column="92" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/enums/LmsEnum.java" timestamp="1561088128214">
+        <mark key="[" line="806" column="0" />
+        <mark key="]" line="806" column="0" />
+        <mark key="." line="806" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/TestApplication.java" timestamp="1560934820697">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="13" />
@@ -75,9 +79,6 @@
         <mark key="^" line="400" column="10" />
         <mark key="." line="400" column="10" />
       </file>
-      <file name="/Dummy.vm" timestamp="1559392194710">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/constants/DingTalkConstants.java" timestamp="1561000734946" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1560765400342">
         <mark key="'" line="920" column="35" />
@@ -87,9 +88,6 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" timestamp="1560842758670" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/regex/Pattern.java" timestamp="1560676824065">
         <mark key="'" line="767" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/demo/staragentstarterhello/src/main/java/com/alibaba/staragent/service/HelloService.java" timestamp="1560301764343">
-        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/enums/dingtalk/DingTalkAttendanceSourceType.java" timestamp="1560409663801">
         <mark key="[" line="52" column="15" />
@@ -123,9 +121,6 @@
         <mark key="]" line="24" column="8" />
         <mark key="^" line="12" column="17" />
         <mark key="." line="24" column="8" />
-      </file>
-      <file name="/fragment.java" timestamp="1560505955965">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -232,7 +227,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBFWENFTF9BREQoIkV4Y2Vs5paw5aKeIiksCg==</text>
       </register>
       <register name="-" type="4">
         <text>employee</text>
@@ -241,27 +236,27 @@
         <text>createDing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZW1wbG95ZWUuZ2V0TnVtYmVyKCksIHJlc3VsdC5nZXROdW1iZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBREQoIuaWsOWiniIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBFWENFTF9BREQoIkV4Y2Vs5paw5aKeIiksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NzZXROb3ROdWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NzZXROb3ROdWxsCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">bGlmZWN5Y2xlX2NvbCxjcm9zc19ib3hfc3RvcmV5LHBhY2thZ2VfcGxhbl9jb2RlLG5vX3RyYW5zX3JlYXNvbgoKCiAgICBsaWZlY3ljbGUgVkFSQ0hBUiwKCgogICAgY3Jvc3NfYm94X3N0b3JleSBWQVJDSEFSLAogICAgcGFja2FnZV9wbGFuX2NvZGUgVkFSQ0hBUgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>need_sale_pkg_image VARCHAR,
     need_trans_pkg_image VARCHAR,
     pack_require VARCHAR,
     pack_material VARCHAR,
     cross_box_row VARCHAR,
     cross_box_line VARCHAR,</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IAogICAgaW52ZW50b3J5X2ZlYXR1cmUgVkFSQ0hBUiwKICAgIGlzX25lZWRfc2FsZV9wa2cgVkFSQ0hBUiwKICAgIGlzX3NhbGVfcGtnX3NhbWUgVkFSQ0hBUiwKICAgIGlzX3RyYW5zX3BrZ19zYW1lIFZBUkNIQVIs</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -803,17 +798,17 @@
           <key char="34920" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IAogICAgaW52ZW50b3J5X2ZlYXR1cmUgVkFSQ0hBUiwKICAgIGlzX25lZWRfc2FsZV9wa2cgVkFSQ0hBUiwKICAgIGlzX3NhbGVfcGtnX3NhbWUgVkFSQ0hBUiwKICAgIGlzX3RyYW5zX3BrZ19zYW1lIFZBUkNIQVIs</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBwYWNrYWdlX3N0b3BwYWJsZSBWQVJDSEFSLAogICAgcGFja2FnZV9yZWNvbW1lbmQgVkFSQ0hBUiwKICAgIHNwZWNpYWxfc2hhcGVfY2xhc3NpZnkgVkFSQ0hBUiwKICAgIHNwZWNpYWxfcmVjb21tZW5kX2xlbmd0aCBWQVJDSEFSLAogICAgc3BlY2lhbF9yZWNvbW1lbmRfd2lkdGggVkFSQ0hBUiwKICAgIHNwZWNpYWxfcmVjb21tZW5kX2hlaWdodCBWQVJDSEFSLA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBwYWNrYWdlX3N0b3BwYWJsZSBWQVJDSEFSLAogICAgcGFja2FnZV9yZWNvbW1lbmQgVkFSQ0hBUiwKICAgIHNwZWNpYWxfc2hhcGVfY2xhc3NpZnkgVkFSQ0hBUiwKICAgIHNwZWNpYWxfcmVjb21tZW5kX2xlbmd0aCBWQVJDSEFSLAogICAgc3BlY2lhbF9yZWNvbW1lbmRfd2lkdGggVkFSQ0hBUiwKICAgIHNwZWNpYWxfcmVjb21tZW5kX2hlaWdodCBWQVJDSEFSLA==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
