@@ -134,11 +134,11 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="103" column="24" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/DingTalkAttendanceStatisticsManager.java" timestamp="1561461237737">
-        <mark key="[" line="190" column="36" />
-        <mark key="]" line="191" column="25" />
-        <mark key="^" line="191" column="25" />
-        <mark key="." line="191" column="25" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/DingTalkAttendanceStatisticsManager.java" timestamp="1561464295683">
+        <mark key="[" line="191" column="25" />
+        <mark key="]" line="191" column="24" />
+        <mark key="^" line="191" column="24" />
+        <mark key="." line="191" column="24" />
       </file>
       <file name="/Enum.txt.ft" timestamp="1561447485785">
         <mark key="[" line="0" column="0" />
@@ -167,8 +167,11 @@
         <mark key="." line="24" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/wmp/task-client/1.0.7/task-client-1.0.7-sources.jar!/com/cainiao/wmp/task/client/common/constants/task/TaskTypeEnum.java" timestamp="1561450977729" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1561435181014">
-        <mark key="[" line="1" column="212" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1561466053585">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -274,11 +277,42 @@
       <jump line="1163" column="9" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/DingTalkAttendanceStatisticsManagerImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JlcXVlc3Quc2V0UGFnZV9udW1iZXIoMyk7Cg==</text>
+      <register name="&quot;" type="8">
+        <text>);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>表</text>
       </register>
       <register name="/" type="4">
         <text>insertDO</text>
@@ -286,20 +320,82 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBREQoIuaWsOWiniIpLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JlcXVlc3Quc2V0UGFnZV9udW1iZXIoMyk7Cg==</text>
+      <register name="1" type="8">
+        <text>);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMjsK</text>
+      <register name="2" type="8">
+        <text>insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (
+insert into wmp_so_package(id) values (</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFbXBsb3llZURPIGVtcGxveWVlRE8gPSBlbXBsb3llZURPUy5nZXQoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3JlcXVlc3Quc2V0UGFnZV9udW1iZXIoMyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMb2dnZXJVdGlsLndhcm5Mb2dnZXIud2FybigiZ2V0RW1wbG95ZWVET1M0VXBkYXRlVXNlcklkX3NpemVfZXJyb3J8ZW1wbG95ZWVET1M9e30iLAogICAgICAgICAgICAgICAgSlNPTi50b0pTT05TdHJpbmcoZW1wbG95ZWVET1MpKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoMSA9PSBlbXBsb3llZURPUy5zaXplKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICBFbXBsb3llZURPIGVtcGxveWVlRE8gPSBlbXBsb3llZURPUy5nZXQoMCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -842,16 +938,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoZW1wbG95ZWVET1MpKSB7CiAgICAgICAgICAgIExvZ2dlclV0aWwud2FybkxvZ2dlci53YXJuKCJnZXRFbXBsb3llZXNfaXNfbnVsbHx3b3JrcGxhY2VDb2RlPXt9fGRpbmdVc2VySWQ9e30iLCB3b3JrcGxhY2VDb2RlLAogICAgICAgICAgICAgICAgZGluZ1VzZXJJZCk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMb2dnZXJVdGlsLndhcm5Mb2dnZXIud2FybigiZ2V0RW1wbG95ZWVET1M0VXBkYXRlVXNlcklkX3NpemVfZXJyb3J8ZW1wbG95ZWVET1M9e30iLAogICAgICAgICAgICAgICAgSlNPTi50b0pTT05TdHJpbmcoZW1wbG95ZWVET1MpKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaW5nVGFsa0F0dGVuZGFuY2VTdGF0aXN0aWNzTWFwcGUK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoMSA9PSBlbXBsb3llZURPUy5zaXplKCkpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoZW1wbG95ZWVET1MpKSB7CiAgICAgICAgICAgIExvZ2dlclV0aWwud2FybkxvZ2dlci53YXJuKCJnZXRFbXBsb3llZXNfaXNfbnVsbHx3b3JrcGxhY2VDb2RlPXt9fGRpbmdVc2VySWQ9e30iLCB3b3JrcGxhY2VDb2RlLAogICAgICAgICAgICAgICAgZGluZ1VzZXJJZCk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxMaXN0PEVtcGxveWVlRE8+PiBnZXRFbXBsb3llZUxpc3RzUGFydGl0aW9uKFN0cmluZyB3b3JrcGxhY2VDb2RlKSB7CiAgICAgICAgLy8g5ZGY5bel5Zyo5LyB5Lia5YaF55qEVXNlcklE5YiX6KGo77yM5LyB5Lia55So5p2l5ZSv5LiA5qCH6K+G55So5oi355qE5a2X5q6144CC5pyA5aSa5LiN6IO96LaF6L+HNTDkuKoKICAgICAgICBMaXN0PEVtcGxveWVlRE8+IGVtcGxveWVlQk9TID0gZW1wbG95ZWVNYW5hZ2VyLmdldEJ5TmFtZUFuZFdvcmtwbGFjZShudWxsLCB3b3JrcGxhY2VDb2RlKTsKICAgICAgICBMaXN0PEVtcGxveWVlRE8+IGRpbmdVc2VycyA9IGVtcGxveWVlQk9TLnN0cmVhbSgpLmZpbHRlcihlIC0+IE9iamVjdHMubm9uTnVsbChlLmdldERpbmdVc2VySWQoKSkpLmNvbGxlY3QoCiAgICAgICAgICAgIENvbGxlY3RvcnMudG9MaXN0KCkpOwoKICAgICAgICBMaXN0PFN0cmluZz4gdXNlcklkTGlzdCA9IGRpbmdVc2Vycy5zdHJlYW0oKS5tYXAoRW1wbG95ZWVETzo6Z2V0RGluZ1VzZXJJZCkuY29sbGVjdCh0b0xpc3QoKSk7CgogICAgICAgIExvZ2dlclV0aWwuYXR0ZW5kTG9nZ2VyLndhcm4oImdldEVtcGxveWVlTGlzdHNQYXJ0aXRpb258d29ya3BsYWNlQ29kZT17fXx1c2VySWRMaXN0PXt9fHNpemU9e30iLAogICAgICAgICAgICB3b3JrcGxhY2VDb2RlLCB1c2VySWRMaXN0LCB1c2VySWRMaXN0LnNpemUoKSk7CgogICAgICAgIHJldHVybiBMaXN0cy5wYXJ0aXRpb24oZGluZ1VzZXJzLCBNQVhfVVNFUl9JRF9MSVNUX1NJWkUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkaW5nVGFsa0F0dGVuZGFuY2VTdGF0aXN0aWNzTWFwcGUK</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
