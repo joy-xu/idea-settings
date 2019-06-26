@@ -168,8 +168,8 @@
         <mark key="^" line="189" column="45" />
         <mark key="." line="189" column="45" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1561515080114">
-        <mark key="'" line="260" column="51" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1561539856348">
+        <mark key="'" line="286" column="30" />
         <mark key="[" line="254" column="32" />
         <mark key="]" line="254" column="31" />
         <mark key="^" line="254" column="31" />
@@ -213,7 +213,6 @@
       <jump line="111" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/DingTalkController.java" />
       <jump line="105" column="37" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/DingTalkApiService.java" />
       <jump line="106" column="102" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/DingTalkApiService.java" />
-      <jump line="286" column="33" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
       <jump line="39" column="65" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
       <jump line="19" column="6" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LabourUtil.java" />
       <jump line="81" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/test/java/com/cainiao/lms/util/LabourUtilTest.java" />
@@ -297,6 +296,7 @@
       <jump line="393" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
       <jump line="26" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
       <jump line="401" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
+      <jump line="286" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
@@ -337,7 +337,7 @@
         <text>表</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>dist</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBREQoIuaWsOWiniIpLAo=</text>
@@ -976,9 +976,9 @@ insert into wmp_so_package(id) values (</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>dist</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>dist</last-pattern>
       <last-replace />
       <last-substitute>getDingUser</last-substitute>
       <last-dir>1</last-dir>
@@ -986,7 +986,6 @@ insert into wmp_so_package(id) values (</text>
     </search>
     <history>
       <history-search>
-        <entry>quit</entry>
         <entry>sku</entry>
         <entry>contact</entry>
         <entry>enable</entry>
@@ -1006,6 +1005,7 @@ insert into wmp_so_package(id) values (</text>
         <entry>insertDO</entry>
         <entry>svae</entry>
         <entry>save</entry>
+        <entry>dist</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
