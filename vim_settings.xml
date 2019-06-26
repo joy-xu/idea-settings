@@ -33,12 +33,12 @@
         <mark key="." line="1154" column="84" />
         <mark key="^" line="1153" column="46" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1561450413430">
-        <mark key="'" line="483" column="0" />
-        <mark key="[" line="1649" column="9" />
-        <mark key="]" line="1649" column="7" />
-        <mark key="." line="1649" column="7" />
-        <mark key="^" line="1649" column="7" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1561516079528">
+        <mark key="'" line="486" column="0" />
+        <mark key="[" line="451" column="74" />
+        <mark key="]" line="452" column="11" />
+        <mark key="." line="452" column="11" />
+        <mark key="^" line="452" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.java" timestamp="1560840550250">
         <mark key="[" line="11" column="37" />
@@ -63,7 +63,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1560932774307">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1561515254727">
         <mark key="'" line="248" column="29" />
         <mark key="[" line="95" column="10" />
         <mark key="]" line="95" column="9" />
@@ -146,8 +146,8 @@
       <file name="/Class.txt.ft" timestamp="1561447494936">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1560934174867">
-        <mark key="'" line="556" column="60" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1561515080114">
+        <mark key="'" line="260" column="51" />
         <mark key="[" line="254" column="32" />
         <mark key="]" line="254" column="31" />
         <mark key="^" line="254" column="31" />
@@ -167,7 +167,7 @@
         <mark key="." line="24" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/wmp/task-client/1.0.7/task-client-1.0.7-sources.jar!/com/cainiao/wmp/task/client/common/constants/task/TaskTypeEnum.java" timestamp="1561450977729" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1561466053585">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1561514537773">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -197,7 +197,6 @@
       <jump line="106" column="102" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/DingTalkApiService.java" />
       <jump line="286" column="33" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
       <jump line="39" column="65" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
-      <jump line="260" column="62" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
       <jump line="19" column="6" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LabourUtil.java" />
       <jump line="81" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/test/java/com/cainiao/lms/util/LabourUtilTest.java" />
       <jump line="80" column="55" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LabourUtil.java" />
@@ -275,6 +274,7 @@
       <jump line="567" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" />
       <jump line="878" column="18" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" />
       <jump line="1163" column="9" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/DingTalkAttendanceStatisticsManagerImpl.java" />
+      <jump line="260" column="51" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
@@ -315,7 +315,7 @@
         <text>表</text>
       </register>
       <register name="/" type="4">
-        <text>insertDO</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBREQoIuaWsOWiniIpLAo=</text>
@@ -954,9 +954,9 @@ insert into wmp_so_package(id) values (</text>
       </register>
     </registers>
     <search>
-      <last-search>insertDO</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>insertDO</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace />
       <last-substitute>getDingUser</last-substitute>
       <last-dir>1</last-dir>
@@ -964,7 +964,6 @@ insert into wmp_so_package(id) values (</text>
     </search>
     <history>
       <history-search>
-        <entry>list</entry>
         <entry>quit</entry>
         <entry>sku</entry>
         <entry>contact</entry>
@@ -975,7 +974,6 @@ insert into wmp_so_package(id) values (</text>
         <entry>getDingUSer</entry>
         <entry>getDingUser</entry>
         <entry>add</entry>
-        <entry>save</entry>
         <entry>isQuit</entry>
         <entry>compile</entry>
         <entry>update</entry>
@@ -984,6 +982,8 @@ insert into wmp_so_package(id) values (</text>
         <entry>isIg</entry>
         <entry>validateDin</entry>
         <entry>insertDO</entry>
+        <entry>svae</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
