@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/CustomTypeParser.java" timestamp="1560499049151">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" timestamp="1560912481285">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="14" column="31" />
@@ -48,6 +43,7 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="39" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/bigful-client/1.2.2/bigful-client-1.2.2-sources.jar!/com/cainiao/bigful/common/CsrfResource.java" timestamp="1561619049843" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.java" timestamp="1560840550250">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="11" column="37" />
@@ -68,11 +64,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="14" column="38" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1560912046840">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1561515254727">
         <mark key="'" line="248" column="29" />
@@ -99,10 +90,11 @@
         <mark key="." line="32" column="41" />
         <mark key="^" line="32" column="41" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/enums/LmsEnum.java" timestamp="1561088128214">
-        <mark key="[" line="806" column="0" />
-        <mark key="]" line="806" column="0" />
-        <mark key="." line="806" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/WorkTypeGreySwitchResource.java" timestamp="1561619196790">
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="24" column="8" />
+        <mark key="." line="24" column="8" />
+        <mark key="^" line="24" column="8" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/TestApplication.java" timestamp="1560934820697">
         <mark key="[" line="12" column="15" />
@@ -116,11 +108,6 @@
         <mark key="^" line="80" column="66" />
         <mark key="." line="80" column="66" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/common/MockController.java" timestamp="1561452620869">
-        <mark key="[" line="303" column="0" />
-        <mark key="]" line="303" column="0" />
-        <mark key="." line="303" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" timestamp="1561452736129">
         <mark key="'" line="886" column="18" />
         <mark key="[" line="575" column="96" />
@@ -131,11 +118,7 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/DingTalkAttendanceStatisticsMapper.java" timestamp="1561613123113">
         <mark key="'" line="178" column="81" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-blink-udx/pom.xml" timestamp="1561450855374">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="37" />
-        <mark key="." line="14" column="37" />
-      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/velocity/layout/mobile.vm" timestamp="1561619036493" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/enums/dingtalk/DingTalkAttendanceSourceType.java" timestamp="1560409663801">
         <mark key="[" line="52" column="15" />
         <mark key="]" line="52" column="24" />
@@ -187,6 +170,7 @@
         <mark key="." line="24" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/wmp/task-client/1.0.7/task-client-1.0.7-sources.jar!/com/cainiao/wmp/task/client/common/constants/task/TaskTypeEnum.java" timestamp="1561450977729" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.1.4.RELEASE/spring-security-web-4.1.4.RELEASE-sources.jar!/org/springframework/security/web/csrf/CsrfTokenRepository.java" timestamp="1561618992288" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1561514537773">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
@@ -298,42 +282,11 @@
       <jump line="286" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);</text>
+      <register name="&quot;" type="4">
+        <text>GET</text>
       </register>
       <register name="-" type="4">
-        <text>表</text>
+        <text>GET</text>
       </register>
       <register name="/" type="4">
         <text>dist</text>
@@ -341,7 +294,13 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBREQoIuaWsOWiniIpLAo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">QENvbnRyb2xsZXIK</text>
+      </register>
+      <register name="3" type="8">
         <text>);
 );
 );
@@ -375,7 +334,7 @@
 );
 );</text>
       </register>
-      <register name="2" type="8">
+      <register name="4" type="8">
         <text>insert into wmp_so_package(id) values (
 insert into wmp_so_package(id) values (
 insert into wmp_so_package(id) values (
@@ -409,14 +368,8 @@ insert into wmp_so_package(id) values (
 insert into wmp_so_package(id) values (
 insert into wmp_so_package(id) values (</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JlcXVlc3Quc2V0UGFnZV9udW1iZXIoMyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMjsK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFbXBsb3llZURPIGVtcGxveWVlRE8gPSBlbXBsb3llZURPUy5nZXQoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3JlcXVlc3Quc2V0UGFnZV9udW1iZXIoMyk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -959,16 +912,16 @@ insert into wmp_so_package(id) values (</text>
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMb2dnZXJVdGlsLndhcm5Mb2dnZXIud2FybigiZ2V0RW1wbG95ZWVET1M0VXBkYXRlVXNlcklkX3NpemVfZXJyb3J8ZW1wbG95ZWVET1M9e30iLAogICAgICAgICAgICAgICAgSlNPTi50b0pTT05TdHJpbmcoZW1wbG95ZWVET1MpKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoMSA9PSBlbXBsb3llZURPUy5zaXplKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICBFbXBsb3llZURPIGVtcGxveWVlRE8gPSBlbXBsb3llZURPUy5nZXQoMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoZW1wbG95ZWVET1MpKSB7CiAgICAgICAgICAgIExvZ2dlclV0aWwud2FybkxvZ2dlci53YXJuKCJnZXRFbXBsb3llZXNfaXNfbnVsbHx3b3JrcGxhY2VDb2RlPXt9fGRpbmdVc2VySWQ9e30iLCB3b3JrcGxhY2VDb2RlLAogICAgICAgICAgICAgICAgZGluZ1VzZXJJZCk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMb2dnZXJVdGlsLndhcm5Mb2dnZXIud2FybigiZ2V0RW1wbG95ZWVET1M0VXBkYXRlVXNlcklkX3NpemVfZXJyb3J8ZW1wbG95ZWVET1M9e30iLAogICAgICAgICAgICAgICAgSlNPTi50b0pTT05TdHJpbmcoZW1wbG95ZWVET1MpKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaW5nVGFsa0F0dGVuZGFuY2VTdGF0aXN0aWNzTWFwcGUK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoMSA9PSBlbXBsb3llZURPUy5zaXplKCkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
