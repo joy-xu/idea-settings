@@ -146,7 +146,7 @@
         <mark key="^" line="189" column="45" />
         <mark key="." line="189" column="45" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1561539856348">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1561952099827">
         <mark key="'" line="286" column="30" />
         <mark key="[" line="254" column="32" />
         <mark key="]" line="254" column="31" />
@@ -264,7 +264,6 @@
       <jump line="393" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
       <jump line="26" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
       <jump line="401" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
-      <jump line="286" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
       <jump line="20" column="14" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
       <jump line="366" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
       <jump line="478" column="56" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
@@ -273,6 +272,7 @@
       <jump line="383" column="53" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
       <jump line="387" column="54" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
       <jump line="391" column="36" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
+      <jump line="286" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -282,7 +282,7 @@
         <text>DEBUG</text>
       </register>
       <register name="/" type="4">
-        <text>DEBUG</text>
+        <text>enable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBREQoIuaWsOWiniIpLAo=</text>
@@ -921,9 +921,9 @@ insert into wmp_so_package(id) values (</text>
       </register>
     </registers>
     <search>
-      <last-search>DEBUG</last-search>
+      <last-search>enable</last-search>
       <last-offset />
-      <last-pattern>DEBUG</last-pattern>
+      <last-pattern>enable</last-pattern>
       <last-replace />
       <last-substitute>getDingUser</last-substitute>
       <last-dir>1</last-dir>
@@ -932,7 +932,6 @@ insert into wmp_so_package(id) values (</text>
     <history>
       <history-search>
         <entry>contact</entry>
-        <entry>enable</entry>
         <entry>delete</entry>
         <entry>diff</entry>
         <entry>source</entry>
@@ -951,6 +950,7 @@ insert into wmp_so_package(id) values (</text>
         <entry>save</entry>
         <entry>dist</entry>
         <entry>DEBUG</entry>
+        <entry>enable</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
