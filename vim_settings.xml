@@ -61,9 +61,6 @@
         <mark key="." line="69" column="11" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/attendance/DingTalkEfficiencyRankQo.java" timestamp="1562037184430" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1561537759192">
-        <mark key="'" line="26" column="67" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/attendance/DingTalkAttendanceEfficiencyVO.java" timestamp="1562048081681">
         <mark key="[" line="174" column="37" />
         <mark key="]" line="174" column="36" />
@@ -115,22 +112,13 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkAttendanceStatisticsResource.java" timestamp="1562049101785">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkAttendanceStatisticsResource.java" timestamp="1562050617145">
         <mark key="[" line="80" column="67" />
         <mark key="]" line="80" column="66" />
         <mark key="^" line="80" column="66" />
         <mark key="." line="80" column="66" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" timestamp="1561452736129">
-        <mark key="'" line="886" column="18" />
-        <mark key="[" line="575" column="96" />
-        <mark key="]" line="575" column="99" />
-        <mark key="^" line="575" column="99" />
-        <mark key="." line="575" column="99" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/DingTalkAttendanceStatisticsMapper.java" timestamp="1561613123113">
-        <mark key="'" line="178" column="81" />
-      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" timestamp="1562051063308" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/enums/dingtalk/DingTalkAttendanceSourceType.java" timestamp="1560409663801">
         <mark key="[" line="52" column="15" />
         <mark key="]" line="52" column="24" />
@@ -189,8 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="52" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/register/IndividualResource.java" />
-      <jump line="54" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/velocity/templates/main.vm" />
       <jump line="131" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/permissions/AccountResource.java" />
       <jump line="227" column="31" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
       <jump line="111" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/DingTalkController.java" />
@@ -289,6 +275,8 @@
       <jump line="391" column="36" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
       <jump line="286" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
       <jump line="25" column="272" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" />
+      <jump line="752" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" />
+      <jump line="813" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -298,7 +286,7 @@
         <text encoding="base64">IHZhcmNoYXIgQ09NTUVOVCAnd2FyZWhvdXNlX2lkX3dtcF90YXNrX2lkKHdhcmVob3VzZV9pZOWSjHdtcF90YXNr55qEaWTkuIvliJLnur/liIbpmpQpJw==</text>
       </register>
       <register name="/" type="4">
-        <text>enable</text>
+        <text>getRank</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBREQoIuaWsOWiniIpLAo=</text>
@@ -937,9 +925,9 @@ insert into wmp_so_package(id) values (</text>
       </register>
     </registers>
     <search>
-      <last-search>enable</last-search>
+      <last-search>getRank</last-search>
       <last-offset />
-      <last-pattern>enable</last-pattern>
+      <last-pattern>getRank</last-pattern>
       <last-replace />
       <last-substitute>getDingUser</last-substitute>
       <last-dir>1</last-dir>
@@ -947,7 +935,6 @@ insert into wmp_so_package(id) values (</text>
     </search>
     <history>
       <history-search>
-        <entry>contact</entry>
         <entry>delete</entry>
         <entry>diff</entry>
         <entry>source</entry>
@@ -967,6 +954,7 @@ insert into wmp_so_package(id) values (</text>
         <entry>dist</entry>
         <entry>DEBUG</entry>
         <entry>enable</entry>
+        <entry>getRank</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
