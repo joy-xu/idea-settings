@@ -103,6 +103,12 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="103" column="24" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/query/WorkEfficiencyQuery.java" timestamp="1562310376370">
+        <mark key="[" line="62" column="11" />
+        <mark key="]" line="62" column="21" />
+        <mark key="." line="62" column="21" />
+        <mark key="^" line="62" column="21" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-blink-udx/src/main/java/com/cainiao/lms/blink/udx/labour/ItemTypeParser.java" timestamp="1560499130458">
         <mark key="[" line="19" column="81" />
         <mark key="]" line="19" column="87" />
@@ -158,11 +164,12 @@
         <mark key="^" line="174" column="36" />
         <mark key="." line="174" column="36" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/adb/efficiency/BaseLabourEfficiencyProvider.java" timestamp="1562306162344">
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="18" column="62" />
-        <mark key="^" line="18" column="62" />
-        <mark key="." line="18" column="62" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/adb/efficiency/BaseLabourEfficiencyProvider.java" timestamp="1562310397070">
+        <mark key="'" line="26" column="40" />
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="22" column="29" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/efficiency/WorkEfficiencyResource.java" timestamp="1561954470361" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.java" timestamp="1560840466580">
@@ -216,7 +223,6 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/DingTalkAttendanceSyncByToolProcessor.java" timestamp="1562144898287" />
     </filemarks>
     <jumps>
-      <jump line="106" column="102" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/DingTalkApiService.java" />
       <jump line="39" column="65" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
       <jump line="19" column="6" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LabourUtil.java" />
       <jump line="81" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/test/java/com/cainiao/lms/util/LabourUtilTest.java" />
@@ -316,34 +322,35 @@
       <jump line="86" column="5" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/olapmapper/BaseLabourEfficiencyMapper.java" />
       <jump line="205" column="60" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/applicationContext.xml" />
       <jump line="114" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" />
+      <jump line="26" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/adb/efficiency/BaseLabourEfficiencyProvider.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:3306</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>:3306</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>getRank</text>
+        <text>getDi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBREQoIuaWsOWiniIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLmxtcy5vbGFwbWFwcGVyLkJhc2VMYWJvdXJFZmZpY2llbmN5TWFwcGVyOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLmxtcy5vbGFwbWFwcGVyLkJhc2VMYWJvdXJFZmZpY2llbmN5TWFwcGVyOwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLmxtcy5wcm92aWRlci5lZmZpY2llbmN5LkJhc2VMYWJvdXJFZmZpY2llbmN5UHJvdmlkZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmFsdWU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLmxtcy5wcm92aWRlci5lZmZpY2llbmN5LkJhc2VMYWJvdXJFZmZpY2llbmN5UHJvdmlkZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdmFsdWU7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -886,9 +893,12 @@
         </keys>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">QENvbnRyb2xsZXIK</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>);
 );
 );
@@ -922,7 +932,7 @@
 );
 );</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>insert into wmp_so_package(id) values (
 insert into wmp_so_package(id) values (
 insert into wmp_so_package(id) values (
@@ -956,17 +966,14 @@ insert into wmp_so_package(id) values (
 insert into wmp_so_package(id) values (
 insert into wmp_so_package(id) values (</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JlcXVlc3Quc2V0UGFnZV9udW1iZXIoMyk7Cg==</text>
-      </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
       </register>
     </registers>
     <search>
-      <last-search>getRank</last-search>
+      <last-search>getDi</last-search>
       <last-offset />
-      <last-pattern>getRank</last-pattern>
+      <last-pattern>getDi</last-pattern>
       <last-replace />
       <last-substitute>getDingUser</last-substitute>
       <last-dir>1</last-dir>
@@ -974,7 +981,6 @@ insert into wmp_so_package(id) values (</text>
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>diff</entry>
         <entry>source</entry>
         <entry>getDingUSer</entry>
@@ -994,6 +1000,7 @@ insert into wmp_so_package(id) values (</text>
         <entry>DEBUG</entry>
         <entry>enable</entry>
         <entry>getRank</entry>
+        <entry>getDi</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
