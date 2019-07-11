@@ -139,7 +139,7 @@
         <mark key="." line="161" column="39" />
         <mark key="^" line="161" column="39" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/DingTalkController.java" timestamp="1562811795399" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/DingTalkController.java" timestamp="1562812469362" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/attendance/DingTalkEfficiencyRankResultVO.java" timestamp="1562047190035">
         <mark key="[" line="25" column="44" />
         <mark key="]" line="25" column="0" />
@@ -238,7 +238,8 @@
         <mark key="'" line="48" column="21" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-dev.properties" timestamp="1562743329496" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" timestamp="1562656168826">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" timestamp="1562812684381">
+        <mark key="'" line="228" column="40" />
         <mark key="[" line="219" column="41" />
         <mark key="]" line="219" column="40" />
         <mark key="^" line="219" column="40" />
@@ -288,8 +289,8 @@
         <mark key="." line="2008" column="52" />
         <mark key="^" line="2008" column="52" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1562811765099">
-        <mark key="'" line="277" column="23" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1562812476627">
+        <mark key="'" line="573" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/pom.xml" timestamp="1560677374521">
         <mark key="[" line="24" column="8" />
@@ -306,8 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="35" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/robot/RobotResultVO.java" />
-      <jump line="470" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
       <jump line="97" column="50" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" />
       <jump line="13" column="15" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/DingTalkAttendanceCheckType.java" />
       <jump line="28" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/enums/dingtalk/DingTalkAttendanceCheckType.java" />
@@ -406,6 +405,8 @@
       <jump line="221" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/LabourFacadeImpl.java" />
       <jump line="15" column="6" filename="$MAVEN_REPOSITORY$/com/alibaba/middleware/jingwei/jingwei-shade-client/3.2.2/jingwei-shade-client-3.2.2-sources.jar!/com/alibaba/middleware/jingwei/shade/com/taobao/eagleeye/AsyncAppender.java" />
       <jump line="277" column="23" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
+      <jump line="573" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
+      <jump line="228" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -415,7 +416,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>adb</text>
+        <text>import</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZG91YmxlIE9ORV9IT1VSX0lOX01JTExJX1NFQ09ORFMgPSA2MCAqIDYwICogMTAwMDsK</text>
@@ -1029,9 +1030,9 @@
       </register>
     </registers>
     <search>
-      <last-search>adb</last-search>
+      <last-search>import</last-search>
       <last-offset />
-      <last-pattern>adb</last-pattern>
+      <last-pattern>import</last-pattern>
       <last-replace />
       <last-substitute>getDingUser</last-substitute>
       <last-dir>1</last-dir>
@@ -1039,8 +1040,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getDingUser</entry>
-        <entry>add</entry>
         <entry>isQuit</entry>
         <entry>compile</entry>
         <entry>update</entry>
@@ -1059,6 +1058,8 @@
         <entry>acti</entry>
         <entry>floor</entry>
         <entry>adb</entry>
+        <entry>quit</entry>
+        <entry>import</entry>
       </history-search>
       <history-cmd>
         <entry>415</entry>
