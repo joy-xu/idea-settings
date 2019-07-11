@@ -26,6 +26,12 @@
         <mark key="^" line="491" column="33" />
         <mark key="." line="491" column="33" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1562816537641">
+        <mark key="[" line="1693" column="32" />
+        <mark key="]" line="1693" column="32" />
+        <mark key="." line="1693" column="36" />
+        <mark key="^" line="1556" column="31" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/register/IndividualResource.java" timestamp="1562658059954">
         <mark key="'" line="122" column="12" />
       </file>
@@ -35,6 +41,18 @@
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="16" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/WorkPlaceMapper.java" timestamp="1562816883212">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="28" column="62" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/WorkPlaceProvider.java" timestamp="1562816779874">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/WarehouseOutboundDataMapper.java" timestamp="1562816283297" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/TaskTypeParser.java" timestamp="1560499008516">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -160,6 +178,12 @@
         <mark key="." line="237" column="55" />
         <mark key="^" line="237" column="55" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/mapper/WorkPlaceMapperTest.java" timestamp="1562816951325">
+        <mark key="[" line="53" column="84" />
+        <mark key="]" line="53" column="96" />
+        <mark key="." line="53" column="96" />
+        <mark key="^" line="53" column="96" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/CustomTypeEnum.java" timestamp="1561452377868">
         <mark key="[" line="49" column="21" />
         <mark key="]" line="49" column="20" />
@@ -239,6 +263,12 @@
         <mark key="'" line="48" column="21" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-dev.properties" timestamp="1562743329496" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/WorkPlaceManagerImpl.java" timestamp="1562816872234">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="60" column="35" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" timestamp="1562812684381">
         <mark key="'" line="228" column="40" />
         <mark key="[" line="219" column="41" />
@@ -309,6 +339,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/WorkPlaceDO.java" timestamp="1562816235535">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="15" />
+        <mark key="^" line="18" column="15" />
+        <mark key="." line="18" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -414,11 +450,11 @@
       <jump line="228" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/ExcelOperatorResource.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>EmployeeDO</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>EmployeeDO</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
@@ -430,53 +466,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBHRVQKICAgIEBQYXRoKCJyYW5rIikKICAgIHB1YmxpYyBSYW5rVk8gcXVlcnlSYW5rKEBRdWVyeVBhcmFtKCJtb2JpbGUiKSBTdHJpbmcgbW9iaWxlLCBAUXVlcnlQYXJhbSgic3RhcnRUaW1lIikgU3RyaW5nIHN0YXJ0VGltZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBRdWVyeVBhcmFtKCJlbmRUaW1lIikgU3RyaW5nIGVuZFRpbWUpIHRocm93cyBFeGNlcHRpb24gewoKICAgICAgICBpZiAoIUxhYm91clV0aWxzLmlzTW9iaWxlTnVtYmVyKG1vYmlsZSkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFdtcExtc0V4Y2VwdGlvbihNT0JJTEVfTlVNQkVSX0VSUk9SKTsKICAgICAgICB9CgogICAgICAgIERhdGUgc3RhcnREYXRlVGltZSA9IERhdGVVdGlscy5wYXJzZURhdGUoc3RhcnRUaW1lLCBEYXRlVXRpbC5EQVRFX0ZPUk1BVF9ISE1NU1MpOwogICAgICAgIERhdGUgZW5kRGF0ZVRpbWUgPSBEYXRlVXRpbHMucGFyc2VEYXRlKGVuZFRpbWUsIERhdGVVdGlsLkRBVEVfRk9STUFUX0hITU1TUyk7CgogICAgICAgIHJldHVybiBzdGFmZkVmZmljaWVuY3lGYWNhZGUucXVlcnlSYW5rKG1vYmlsZSwgc3RhcnREYXRlVGltZSwgZW5kRGF0ZVRpbWUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5qC55o2uY3AgY29kZeafpeaJvndvcmtwbGFjZQogICAgICoKICAgICAqIEBwYXJhbSBjcENvZGUgY3BDb2RlCiAgICAgKiBAcmV0dXJuIERP5YiX6KGoCiAgICAgKi8KICAgIEBTZWxlY3QoInNlbGVjdCAgIiArIFNFTEVDVF9DT0xVTU4gKyAiIGZyb20gIiArIFRBQkxFX05BTUUgKyAiIHdoZXJlIGNwX2NvZGUgPSN7Y3BDb2RlfSIpCiAgICBMaXN0PFdvcmtQbGFjZURPPiBmaW5kQnlDcENvZGUoQFBhcmFtKCJjcENvZGUiKSBTdHJpbmcgY3BDb2RlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gd29ya1BsYWNlTWFwcGVyLmZpbmRCeUNwQ29kZShjcENvZGUpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>@GetMapping(&quot;/heqInfo&quot;)
-    public String heqInfo(ModelMap modelMap,String cphone,Long now){
-        if(null == kvStoreCacheManager.get(String.valueOf(Constants.KEY_CHECK_CODE + cphone)).getValue()){
-            // 如果code已经失效，则直接跳转到登录页面，提示用户重新登录
-            modelMap.addAttribute(&quot;sessionTimeOut&quot;,true);
-            modelMap.addAttribute(&quot;msg&quot;,&quot;登录超时，请重新登录&quot;);
-            return ViewConstants.HEQ_LOGIN;
-        }else{
-            try{
-                Date nowDate = new Date(now);
-                // yyyyMMdd格式的字符串
-                String beginStr = &quot;000000&quot;;
-                String endStr = &quot;235959&quot;;
-                String today = DateUtil.getDate2Str(DateUtil.DATE_FORMAT_YYYYMMDD_SIMPLE,nowDate);
-                Date nowStart = DateUtil.getStrToDate(DateUtil.DATE_FORMAT_YYYYHHMM,today+beginStr);
-                // 获取当天的排行，工作量
-                RankVO nowRankVo = staffEfficiencyFacade.queryRank(cphone,nowStart,nowDate);
-                // 获取前一天的时间
-                Date preDate = DateUtil.getPreDate(nowDate);
-                Date startYes = DateUtil.getStrToDate(DateUtil.DATE_FORMAT_HHMMSSSSS_SIMPLE,DateUtil.getDate2Str(DateUtil.DATE_FORMAT_YYYYMMDD_SIMPLE,preDate)+beginStr);
-                Date endYes = DateUtil.getStrToDate(DateUtil.DATE_FORMAT_HHMMSSSSS_SIMPLE,DateUtil.getDate2Str(DateUtil.DATE_FORMAT_YYYYMMDD_SIMPLE,preDate)+endStr);
-                RankVO yesRankVo = staffEfficiencyFacade.queryRank(cphone,startYes,endYes);
-                // 获取本周的起始时间和结束时间
-                Date[] weenStartEnd = DateUtil.getTimeInterval(nowDate);
-                Date startWeek = DateUtil.getStrToDate(DateUtil.DATE_FORMAT_HHMMSSSSS_SIMPLE,DateUtil.getDate2Str(DateUtil.DATE_FORMAT_YYYYMMDD_SIMPLE,weenStartEnd[0])+beginStr);
-                Date endWeek = DateUtil.getStrToDate(DateUtil.DATE_FORMAT_HHMMSSSSS_SIMPLE,DateUtil.getDate2Str(DateUtil.DATE_FORMAT_YYYYMMDD_SIMPLE,weenStartEnd[1])+endStr);
-                RankVO weekRankVo = staffEfficiencyFacade.queryRank(cphone,startWeek,endWeek);
-                modelMap.addAttribute(&quot;nowData&quot;,nowRankVo);
-                modelMap.addAttribute(&quot;yesData&quot;,yesRankVo);
-                modelMap.addAttribute(&quot;weekData&quot;,weekRankVo);
-            }catch(Exception e){
-                modelMap.addAttribute(&quot;sessionTimeOut&quot;,true);
-                modelMap.addAttribute(&quot;msg&quot;,&quot;登录异常，请检查手机号码&quot;);
-                return ViewConstants.HEQ_LOGIN;
-            }
-            return ViewConstants.HEQ_INFO;
-        }
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5qC55o2uY29kZeWIl+ihqOafpeaJvndvcmtwbGFjZQogICAgICoKICAgICAqIEBwYXJhbSBjb2RlcyBjb2RlcwogICAgICogQHJldHVybiBET+WIl+ihqAogICAgICovCiAgICBAU2VsZWN0UHJvdmlkZXIodHlwZSA9IFdvcmtQbGFjZVByb3ZpZGVyLmNsYXNzLCBtZXRob2QgPSAiZmluZEJ5Q29kZXMiKQogICAgTGlzdDxXb3JrUGxhY2VETz4gZmluZEJ5Q29kZXMoQFBhcmFtKCJjb2RlcyIpIExpc3Q8U3RyaW5nPiBjb2Rlcyk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1019,16 +1018,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uY2Fpbmlhby5sbXMuY29uc3RhbnRzLkNvbnN0YW50cy47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZmluZEJ5Q29kZXMoQFBhcmFtKCJjb2RlcyIpIExpc3Q8U3RyaW5nPiBjb2RlcykgewogICAgICAgIFNRTCBzcWwgPSBuZXcgU1FMKCkge3sKICAgICAgICAgICAgU0VMRUNUKFNFTEVDVF9DT0xVTU4pOwogICAgICAgICAgICBGUk9NKFRBQkxFX05BTUUpOwoKICAgICAgICAgICAgaWYgKCFDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShjb2RlcykpIHsKICAgICAgICAgICAgICAgIFN0cmluZyB2YWx1ZXMgPSBjb2RlcwogICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC5tYXAocyAtPiAiJyIgKyBzICsgIiciKQogICAgICAgICAgICAgICAgICAgIC5yZWR1Y2UoKHMxLCBzMikgLT4gczEgKyAiLCIgKyBzMikKICAgICAgICAgICAgICAgICAgICAuZ2V0KCk7CiAgICAgICAgICAgICAgICBXSEVSRSgiY29kZSBpbiAoIiArIHZhbHVlcyArICIpIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgfX07CgogICAgICAgIHJldHVybiBzcWwudG9TdHJpbmcoKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gd29ya1BsYWNlTWFwcGVyLmZpbmRCeUNvZGVzKGNvZGVzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5qC55o2uY29kZeafpeaJvndvcmtwbGFjZQogICAgICoKICAgICAqIEBwYXJhbSBjb2RlIGNvZGUKICAgICAqIEByZXR1cm4gRE8KICAgICAqLwogICAgQFNlbGVjdCgic2VsZWN0ICAiICsgU0VMRUNUX0NPTFVNTiArICIgZnJvbSAiICsgVEFCTEVfTkFNRSArICIgd2hlcmUgY29kZSA9I3tjb2RlfSIpCiAgICBXb3JrUGxhY2VETyBmaW5kQnlDb2RlKEBQYXJhbSgiY29kZSIpIFN0cmluZyBjb2RlKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
