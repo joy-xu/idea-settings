@@ -122,12 +122,12 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" timestamp="1563186600019">
-        <mark key="'" line="1359" column="40" />
-        <mark key="[" line="1455" column="54" />
-        <mark key="]" line="1455" column="76" />
-        <mark key="." line="1455" column="76" />
-        <mark key="^" line="1455" column="76" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" timestamp="1563246975485">
+        <mark key="'" line="1383" column="40" />
+        <mark key="[" line="1333" column="9" />
+        <mark key="]" line="1333" column="8" />
+        <mark key="^" line="1333" column="8" />
+        <mark key="." line="1333" column="8" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/employee/EmployeeChangeLogManager.java" timestamp="1562833305575">
         <mark key="[" line="20" column="42" />
@@ -178,12 +178,12 @@
         <mark key="^" line="2" column="53" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/attendance/DingTalkAttendanceSummaryListVO.java" timestamp="1563180071281">
-        <mark key="'" line="205" column="19" />
-        <mark key="[" line="145" column="19" />
-        <mark key="]" line="145" column="28" />
-        <mark key="." line="145" column="28" />
-        <mark key="^" line="145" column="28" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/attendance/DingTalkAttendanceSummaryListVO.java" timestamp="1563245352007">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="24" />
+        <mark key="." line="215" column="25" />
+        <mark key="^" line="213" column="22" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/WarehouseTargetEfficiencyManagerImpl.java" timestamp="1562834107746">
         <mark key="[" line="5" column="0" />
@@ -436,7 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="942" column="42" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/regex/Pattern.java" />
       <jump line="943" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/regex/Pattern.java" />
       <jump line="767" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/regex/Pattern.java" />
       <jump line="155" column="28" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
@@ -536,34 +535,35 @@
       <jump line="16" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/DingTalkAttendanceStatisticsDO.java" />
       <jump line="205" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/attendance/DingTalkAttendanceSummaryListVO.java" />
       <jump line="1358" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" />
+      <jump line="17" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/attendance/DingTalkAttendanceSummaryListVO.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>rest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iaWRUeXBlIiB2YWx1ZT0iQVVUTyIvPgo=</text>
+        <text encoding="base64">ICAgICAqIOW3ruW8guW3peaXtijljJfpooborqHolqrlt6Xml7Yt5o6S54+t5pe26ZW/KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBzdGFydFRpbWUgPSBhdHRlbmRhbmNlU3RhcnRUaW1lLmdldFRpbWUoKSAvIE9ORV9IT1VSX0lOX01JTExJX1NFQ09ORFM7CiAgICAgICAgICAgICAgICBkb3VibGUgY2VpbEF0dGVuZGFuY2VTdGFydFRpbWUgPSBNYXRoLmNlaWwoc3RhcnRUaW1lKTsKCiAgICAgICAgICAgICAgICBkb3VibGUgZWZmZWN0QXR0ZW5kYW5jZVN0YXJ0VGltZSA9IChjZWlsQXR0ZW5kYW5jZVN0YXJ0VGltZSAtIHN0YXJ0VGltZSA+PSBIQUxGX0hPVVIpID8gKAogICAgICAgICAgICAgICAgICAgIGNlaWxBdHRlbmRhbmNlU3RhcnRUaW1lIC0gSEFMRl9IT1VSKSA6IGNlaWxBdHRlbmRhbmNlU3RhcnRUaW1lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBlbmRUaW1lID0gYXR0ZW5kYW5jZUVuZFRpbWUuZ2V0VGltZSgpIC8gT05FX0hPVVJfSU5fTUlMTElfU0VDT05EUzsKICAgICAgICAgICAgICAgIGRvdWJsZSBmbG9vckF0dGVuZGFuY2VFbmRUaW1lID0gTWF0aC5mbG9vcihlbmRUaW1lKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGVVdGlscy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOiHqueUseW3peaXtiBmbG9vcijkuIvnj63miZPljaHml7bpl7QsIDAuNeWwj+aXtikgLSBjZWlsKOS4iuePreaJk+WNoeaXtumXtCwgMC415bCP5pe2KSAtIOS8keaBr+aXtumVvwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1106,16 +1106,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2by5zZXRDbGFzc1RpbWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRlIGNsYXNzRW5kVGltZSA9IGF0dGVuZGFuY2VTdW1tYXJ5Qk8uZ2V0Q2xhc3NFbmRUaW1lKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal-and-restore-in-insert</text>
