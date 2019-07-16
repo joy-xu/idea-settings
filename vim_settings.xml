@@ -161,7 +161,8 @@
         <mark key="^" line="217" column="55" />
         <mark key="." line="217" column="55" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/adb/efficiency/BaseLabourEfficiencyProvider.java" timestamp="1563259480268">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/adb/efficiency/BaseLabourEfficiencyProvider.java" timestamp="1563262881632">
+        <mark key="'" line="151" column="19" />
         <mark key="[" line="23" column="42" />
         <mark key="]" line="23" column="42" />
         <mark key="." line="23" column="42" />
@@ -449,7 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" />
       <jump line="485" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="100" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" />
       <jump line="248" column="29" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" />
@@ -549,6 +549,7 @@
       <jump line="16" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/bo/efficiency/WorkEfficiencyBO.java" />
       <jump line="287" column="52" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/efficiency/impl/WorkEfficiencyFacadeImpl.java" />
       <jump line="24" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/efficiency/WorkEfficiencyVO.java" />
+      <jump line="151" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/adb/efficiency/BaseLabourEfficiencyProvider.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -558,7 +559,7 @@
         <text>SKU数</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text>order_num</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBoZWFkZXJzLmFkZChnZXRIZWFkZXIoInNrdU51bSIsICJTS1XmlbAiKSk7Cg==</text>
@@ -1135,9 +1136,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search>order_num</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern>order_num</last-pattern>
       <last-replace />
       <last-substitute>getDingUser</last-substitute>
       <last-dir>1</last-dir>
@@ -1145,7 +1146,6 @@
     </search>
     <history>
       <history-search>
-        <entry>svae</entry>
         <entry>save</entry>
         <entry>dist</entry>
         <entry>DEBUG</entry>
@@ -1165,6 +1165,7 @@
         <entry>rest</entry>
         <entry>mapTo</entry>
         <entry>TODO</entry>
+        <entry>order_num</entry>
       </history-search>
       <history-cmd>
         <entry>415</entry>
