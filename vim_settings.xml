@@ -27,17 +27,23 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/efficiency/LabourEfficiencyPprQo.java" timestamp="1563868236140">
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="15" column="35" />
-        <mark key="^" line="33" column="35" />
-        <mark key="." line="15" column="35" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/efficiency/LabourEfficiencyPprQo.java" timestamp="1563869463744">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="25" />
+        <mark key="^" line="32" column="25" />
+        <mark key="." line="32" column="25" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1563866467188">
         <mark key="[" line="414" column="97" />
         <mark key="]" line="414" column="11" />
         <mark key="." line="414" column="11" />
         <mark key="^" line="414" column="11" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/interceptor/ValidationExceptionMapper.java" timestamp="1563869826963">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="41" column="23" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeChangeLogDO.java" timestamp="1563854938135">
         <mark key="'" line="16" column="13" />
@@ -176,6 +182,7 @@
         <mark key="^" line="14" column="78" />
         <mark key="." line="14" column="78" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/glassfish/jersey/ext/jersey-bean-validation/2.25.1/jersey-bean-validation-2.25.1-sources.jar!/org/glassfish/jersey/server/validation/internal/ValidationExceptionMapper.java" timestamp="1563869600697" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/CustomTypeEnum.java" timestamp="1563854691201">
         <mark key="'" line="27" column="4" />
         <mark key="[" line="49" column="21" />
@@ -228,6 +235,12 @@
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/DingTalkAttendanceStatisticsDO.java" timestamp="1563179441883">
         <mark key="'" line="16" column="13" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/interceptor/LmsExceptionMapper.java" timestamp="1563869738716">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="65" />
+        <mark key="^" line="68" column="8" />
+        <mark key="." line="68" column="8" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprManagerImpl.java" timestamp="1563865123123">
         <mark key="'" line="24" column="44" />
@@ -283,7 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2312" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/ExcelOperatorFacadeImpl.java" />
       <jump line="628" column="21" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/ExcelOperatorFacadeImpl.java" />
       <jump line="106" column="63" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkAttendanceStatisticsResource.java" />
       <jump line="72" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/DingTalkAttendanceStatisticsMapper.java" />
@@ -383,34 +395,35 @@
       <jump line="22" column="56" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/adb/efficiency/LabourEfficiencyPprProvider.java" />
       <jump line="43" column="85" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/efficiency/impl/LabourEfficiencyPprFacadeImpl.java" />
       <jump line="30" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/query/efficiency/LabourEfficiencyPprQuery.java" />
+      <jump line="72" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/interceptor/ValidationExceptionMapper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgTGlzdDxMYWJvdXJFZmZpY2llbmN5UHByRE8+IHBwcnMgPSBsYWJvdXJFZmZpY2llbmN5UHByTWFuYWdlci5zZWFyY2gobGFib3VyRWZmaWNpZW5jeVBwclF1ZXJ5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>LabourEfficiencyPprQo</text>
+        <text>setData</text>
       </register>
       <register name="/" type="4">
-        <text>Page</text>
+        <text>getMessage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlLnNldEN1cnJlbnQocXVlcnkuZ2V0Q3VycmVudFBhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2Uuc3RhdHVzKFN0YXR1cy5PSykuZW50aXR5KHJlc3VsdCkuYnVpbGQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgTGlzdDxMYWJvdXJFZmZpY2llbmN5UHByRE8+IHBwcnMgPSBsYWJvdXJFZmZpY2llbmN5UHByTWFuYWdlci5zZWFyY2gobGFib3VyRWZmaWNpZW5jeVBwclF1ZXJ5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXhjZXB0aW9uIGluc3RhbmNlb2YgQ29uc3RyYWludFZpb2xhdGlvbkV4Y2VwdGlvbikgewogICAgICAgICAgICBMT0dHRVIubG9nKExldmVsLkZJTkVSLCBMb2NhbGl6YXRpb25NZXNzYWdlcy5DT05TVFJBSU5UX1ZJT0xBVElPTlNfRU5DT1VOVEVSRUQoKSwgZXhjZXB0aW9uKTsKCiAgICAgICAgICAgIGZpbmFsIENvbnN0cmFpbnRWaW9sYXRpb25FeGNlcHRpb24gY3ZlID0gKENvbnN0cmFpbnRWaW9sYXRpb25FeGNlcHRpb24pZXhjZXB0aW9uOwogICAgICAgICAgICBmaW5hbCBSZXNwb25zZS5SZXNwb25zZUJ1aWxkZXIgcmVzcG9uc2UgPSBSZXNwb25zZS5zdGF0dXMoVmFsaWRhdGlvbkhlbHBlci5nZXRSZXNwb25zZVN0YXR1cyhjdmUpKTsKCiAgICAgICAgICAgIC8vIEVudGl0eS4KICAgICAgICAgICAgZmluYWwgT2JqZWN0IHByb3BlcnR5ID0gY29uZmlnLmdldFByb3BlcnR5KFNlcnZlclByb3BlcnRpZXMuQlZfU0VORF9FUlJPUl9JTl9SRVNQT05TRSk7CiAgICAgICAgICAgIGlmIChwcm9wZXJ0eSAhPSBudWxsICYmIEJvb2xlYW4udmFsdWVPZihwcm9wZXJ0eS50b1N0cmluZygpKSkgewogICAgICAgICAgICAgICAgZmluYWwgTGlzdDxWYXJpYW50PiB2YXJpYW50cyA9IFZhcmlhbnQubWVkaWFUeXBlcygKICAgICAgICAgICAgICAgICAgICBNZWRpYVR5cGUuVEVYVF9QTEFJTl9UWVBFLAogICAgICAgICAgICAgICAgICAgIE1lZGlhVHlwZS5URVhUX0hUTUxfVFlQRSwKICAgICAgICAgICAgICAgICAgICBNZWRpYVR5cGUuQVBQTElDQVRJT05fWE1MX1RZUEUsCiAgICAgICAgICAgICAgICAgICAgTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVFlQRSkuYnVpbGQoKTsKICAgICAgICAgICAgICAgIGZpbmFsIFZhcmlhbnQgdmFyaWFudCA9IHJlcXVlc3QuZ2V0KCkuc2VsZWN0VmFyaWFudCh2YXJpYW50cyk7CiAgICAgICAgICAgICAgICBpZiAodmFyaWFudCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UudHlwZSh2YXJpYW50LmdldE1lZGlhVHlwZSgpKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CgogICAgICAgICAgICAgICAgICAgIC8vIGRlZmF1bHQgbWVkaWEgdHlwZSB3aGljaCB3aWxsIGJlIHVzZWQgb25seSB3aGVuIG5vbmUgbWVkaWEgdHlwZSBmcm9tIHtAdmFsdWUgdmFyaWFudHN9IGlzIGluIAogICAgICAgICAgICAgICAgICAgIC8vIGFjY2VwdAogICAgICAgICAgICAgICAgICAgIC8vIGhlYWRlciBvZiBvcmlnaW5hbCByZXF1ZXN0LgogICAgICAgICAgICAgICAgICAgIC8vIGNvdWxkIGJlIHNldHRhYmxlIGJ5IGNvbmZpZ3VyYXRpb24gcHJvcGVydHkuCiAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UudHlwZShNZWRpYVR5cGUuVEVYVF9QTEFJTl9UWVBFKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJlc3BvbnNlLmVudGl0eSgKICAgICAgICAgICAgICAgICAgICBuZXcgR2VuZXJpY0VudGl0eTw+KAogICAgICAgICAgICAgICAgICAgICAgICBWYWxpZGF0aW9uSGVscGVyLmNvbnN0cmFpbnRWaW9sYXRpb25Ub1ZhbGlkYXRpb25FcnJvcnMoY3ZlKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEdlbmVyaWNUeXBlPExpc3Q8VmFsaWRhdGlvbkVycm9yPj4oKSB7fS5nZXRUeXBlKCkKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICApOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UuYnVpbGQoKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMT0dHRVIubG9nKExldmVsLldBUk5JTkcsIExvY2FsaXphdGlvbk1lc3NhZ2VzLlZBTElEQVRJT05fRVhDRVBUSU9OX1JBSVNFRCgpLCBleGNlcHRpb24pOwoKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnNlcnZlckVycm9yKCkuZW50aXR5KGV4Y2VwdGlvbi5nZXRNZXNzYWdlKCkpLmJ1aWxkKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -953,25 +966,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgTGlzdDxMYWJvdXJFZmZpY2llbmN5UHByRE8+IHBwcnMgPSBsYWJvdXJFZmZpY2llbmN5UHByTWFuYWdlci5zZWFyY2gobGFib3VyRWZmaWNpZW5jeVBwclF1ZXJ5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFNldHRlcgo=</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEdldHRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1290</text>
       </register>
     </registers>
     <search>
-      <last-search>Page</last-search>
+      <last-search>getMessage</last-search>
       <last-offset />
-      <last-pattern>Page</last-pattern>
+      <last-pattern>getMessage</last-pattern>
       <last-replace />
       <last-substitute>getDingUser</last-substitute>
       <last-dir>1</last-dir>
@@ -979,7 +992,6 @@
     </search>
     <history>
       <history-search>
-        <entry>restTime</entry>
         <entry>rest</entry>
         <entry>mapTo</entry>
         <entry>TODO</entry>
@@ -999,6 +1011,7 @@
         <entry>clear</entry>
         <entry>exclu</entry>
         <entry>Page</entry>
+        <entry>getMessage</entry>
       </history-search>
       <history-cmd>
         <entry>730</entry>
