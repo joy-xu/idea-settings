@@ -243,12 +243,12 @@
         <mark key="^" line="28" column="37" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/adb/BaseLabourEfficiencyDO.java" timestamp="1563949893424">
-        <mark key="'" line="251" column="0" />
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="24" />
-        <mark key="^" line="30" column="24" />
-        <mark key="." line="30" column="24" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/adb/BaseLabourEfficiencyDO.java" timestamp="1563967067796">
+        <mark key="'" line="206" column="0" />
+        <mark key="[" line="205" column="12" />
+        <mark key="]" line="205" column="15" />
+        <mark key="^" line="205" column="15" />
+        <mark key="." line="205" column="15" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/mapper/employee/EmployeeChangeLogMapper.java" timestamp="1563955723952">
         <mark key="'" line="71" column="0" />
@@ -351,8 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/QualificationDO.java" />
       <jump line="71" column="116" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/QualificationManagerImpl.java" />
       <jump line="1971" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" />
       <jump line="218" column="25" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" />
@@ -451,16 +449,18 @@
       <jump line="49" column="81" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprManagerImpl.java" />
       <jump line="82" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprManagerImpl.java" />
       <jump line="85" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprManagerImpl.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/adb/BaseLabourEfficiencyDO.java" />
+      <jump line="206" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/adb/BaseLabourEfficiencyDO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRW1wbG95ZWVDaGFuZ2VMb2dETyBnZXRFbXBsb3llZUxvZyhMaXN0PEVtcGxveWVlQ2hhbmdlTG9nRE8+IGVtcGxveWVlQ2hhbmdlTG9ncykgewogICAgICAgIGlmIChlbXBsb3llZUNoYW5nZUxvZ3Muc2l6ZSgpID09IDEpIHsKICAgICAgICAgICAgcmV0dXJuIGVtcGxveWVlQ2hhbmdlTG9ncy5nZXQoMCk7CiAgICAgICAgfQoKICAgICAgICBMaXN0PEVtcGxveWVlQ2hhbmdlTG9nRE8+IHdvcmtpbmdFbXBsb3llZXMgPSBlbXBsb3llZUNoYW5nZUxvZ3Muc3RyZWFtKCkKICAgICAgICAgICAgLmZpbHRlcihsb2cgLT4gIU9iamVjdHMuZXF1YWxzKGxvZy5nZXRTdGF0dXMoKSwgUVVJVC5nZXRJZCgpKSkKICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CgogICAgICAgIGlmIChDb2xsVXRpbC5pc0VtcHR5KHdvcmtpbmdFbXBsb3llZXMpKSB7CiAgICAgICAgICAgIC8vIOayoeacieWcqOiBjOS6uuWRmCwg5Y+W56a76IGM5Lq65ZGY56ys5LiA5LiqCiAgICAgICAgICAgIHJldHVybiBlbXBsb3llZUNoYW5nZUxvZ3MuZ2V0KDApOwogICAgICAgIH0KCiAgICAgICAgLy8g5Y+W5Zyo6IGM5Lq65ZGY56ys5LiA5LiqCiAgICAgICAgcmV0dXJuIHdvcmtpbmdFbXBsb3llZXMuZ2V0KDApOwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>byte</text>
       </register>
       <register name="-" type="4">
-        <text>changeLogMapper.</text>
+        <text>byte</text>
       </register>
       <register name="/" type="4">
-        <text>Date</text>
+        <text>short</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZSgidGJfYWN0dWFsX3N0YXJ0X3RpbWUiLCBzdGFydFRpbWUpCg==</text>
@@ -1037,9 +1037,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Date</last-search>
+      <last-search>short</last-search>
       <last-offset />
-      <last-pattern>Date</last-pattern>
+      <last-pattern>short</last-pattern>
       <last-replace>LocalDateTime</last-replace>
       <last-substitute>Date</last-substitute>
       <last-dir>1</last-dir>
@@ -1047,7 +1047,6 @@
     </search>
     <history>
       <history-search>
-        <entry>diffTime</entry>
         <entry>status</entry>
         <entry>insertDO</entry>
         <entry>indi</entry>
@@ -1067,6 +1066,7 @@
         <entry>%s</entry>
         <entry>int</entry>
         <entry>Date</entry>
+        <entry>short</entry>
       </history-search>
       <history-cmd>
         <entry>847</entry>
