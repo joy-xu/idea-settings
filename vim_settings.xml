@@ -33,6 +33,9 @@
         <mark key="^" line="32" column="25" />
         <mark key="." line="32" column="25" />
       </file>
+      <file name="/a.dummy" timestamp="1564044601328">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1563866467188">
         <mark key="[" line="414" column="97" />
         <mark key="]" line="414" column="11" />
@@ -191,10 +194,11 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/LabourEfficiencyPprEventTypeEnum.java" timestamp="1564023258461">
-        <mark key="]" line="7" column="39" />
-        <mark key="^" line="7" column="39" />
-        <mark key="." line="7" column="39" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/LabourEfficiencyPprEventTypeEnum.java" timestamp="1564044826967">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="24" column="16" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/WarehousePositionEnum.java" timestamp="1563875334335">
         <mark key="[" line="16" column="18" />
@@ -221,11 +225,11 @@
         <mark key="^" line="68" column="8" />
         <mark key="." line="68" column="8" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprManagerImpl.java" timestamp="1564043557088">
-        <mark key="'" line="49" column="12" />
-        <mark key="[" line="132" column="60" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprManagerImpl.java" timestamp="1564044783480">
+        <mark key="[" line="158" column="13" />
+        <mark key="]" line="160" column="18" />
+        <mark key="." line="160" column="18" />
+        <mark key="^" line="160" column="18" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/AliyunApiLogDO.java" timestamp="1563435653874">
         <mark key="[" line="41" column="0" />
@@ -272,9 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="38" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/LabourUserMappingRecordDO.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/LabourUserMappingRecordDO.java" />
-      <jump line="24" column="18" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/LabourUserMappingRecordProvider.java" />
       <jump line="89" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/LabourUserMappingRecordProvider.java" />
       <jump line="103" column="14" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/LabourUserMappingRecordManagerImpl.java" />
       <jump line="111" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/impl/LabourUserMappingRecordManagerImpl.java" />
@@ -372,13 +373,16 @@
       <jump line="101" column="26" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprManagerImpl.java" />
       <jump line="160" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprManagerImpl.java" />
       <jump line="47" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprManagerImpl.java" />
+      <jump line="134" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprManagerImpl.java" />
+      <jump line="137" column="58" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprManagerImpl.java" />
+      <jump line="154" column="64" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprManagerImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>512</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>short</text>
@@ -387,19 +391,19 @@
         <text encoding="base64">ICAgICAgICBlZmZpY2llbmN5UHByRXZlbnQuc2V0U3RhcnRUaW1lKGJhc2VMYWJvdXJFZmZpY2llbmN5LmdldFRiQWN0dWFsU3RhcnRUaW1lKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1wbG95ZWVDaGFuZ2VMb2dNYW5hZ2VyLnNlbGVjdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBvcGVyYXRlTW9udGggPSBMb2NhbERhdGVVdGlsLmZvcm1hdCh0aW1lLCAieXl5eU1NIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHQK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -942,16 +946,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChuKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvY2FsRGF0ZVRpbWUgbiA9IG5leHRFdmVudC4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFib3VyRWZmaWNpZW5jeVBwck1hcHBlci5pbnNlcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2NhbERhdGVUaW1lIHRhc2tTdGFydFRpbWUgPSBwcHJFdmVudC5nZXRTdGFydFRpbWUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Date/LocalDateTime/g</text>
