@@ -89,6 +89,7 @@
         <mark key="." line="27" column="29" />
         <mark key="^" line="27" column="29" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/provider/LabourUserMappingRecordProvider.java" timestamp="1564039961792" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/efficiency/LabourEfficiencyPprFacade.java" timestamp="1563868121607">
         <mark key="[" line="21" column="63" />
         <mark key="]" line="21" column="59" />
@@ -155,11 +156,6 @@
         <mark key="^" line="15" column="20" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/adb/TableBaseLabourEfficiencyDO.java" timestamp="1563949616535">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkApiToolResource.java" timestamp="1563964955876">
         <mark key="[" line="68" column="62" />
         <mark key="]" line="68" column="61" />
@@ -206,11 +202,11 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyGlobalHourLogManagerImpl.java" timestamp="1563855343308">
         <mark key="'" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/adbmapper/LabourEfficiencyPprMapper.java" timestamp="1563865130817">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="28" column="37" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/adbmapper/LabourEfficiencyPprMapper.java" timestamp="1564040047409">
+        <mark key="[" line="34" column="110" />
+        <mark key="]" line="34" column="78" />
+        <mark key="." line="34" column="78" />
+        <mark key="^" line="34" column="110" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/adb/BaseLabourEfficiencyDO.java" timestamp="1563967067796">
         <mark key="'" line="206" column="0" />
@@ -267,12 +263,12 @@
         <mark key="^" line="68" column="8" />
         <mark key="." line="68" column="8" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprManagerImpl.java" timestamp="1564039198900">
-        <mark key="'" line="170" column="7" />
-        <mark key="[" line="118" column="19" />
-        <mark key="]" line="118" column="18" />
-        <mark key="." line="118" column="18" />
-        <mark key="^" line="118" column="18" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprManagerImpl.java" timestamp="1564039808618">
+        <mark key="'" line="175" column="7" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="125" column="73" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/entity/dataobject/AliyunApiLogDO.java" timestamp="1563435653874">
         <mark key="[" line="41" column="0" />
@@ -427,11 +423,11 @@
       <jump line="160" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprManagerImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKCkK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyZWFtPExhYm91ckVmZmljaWVuY3lQcHJFdmVudD4gc3RyZWFtID0g</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>short</text>
@@ -440,19 +436,19 @@
         <text encoding="base64">ICAgICAgICBlZmZpY2llbmN5UHByRXZlbnQuc2V0U3RhcnRUaW1lKGJhc2VMYWJvdXJFZmZpY2llbmN5LmdldFRiQWN0dWFsU3RhcnRUaW1lKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5p+l6K+i5o6S54+t6ICD5Yuk5L+h5oGvCiAgICAgICAgICAgIERpbmdUYWxrQXR0ZW5kYW5jZVN0YXRpc3RpY3NETyBxdWVyeSA9IG5ldyBEaW5nVGFsa0F0dGVuZGFuY2VTdGF0aXN0aWNzRE8oKTsKICAgICAgICAgICAgcXVlcnkuc2V0RW1wbG95ZWVOdW1iZXIoZW1wbG95ZWVOdW1iZXIpOwogICAgICAgICAgICBxdWVyeS5zZXRBdHRlbmRhbmNlRGF0ZShMb2NhbERhdGVVdGlsLnRvRGF0ZShsb2NhbERhdGUpKTsKICAgICAgICAgICAgRGluZ1RhbGtBdHRlbmRhbmNlU3RhdGlzdGljc0RPIGF0dGVuZGFuY2UgPSBkaW5nVGFsa0F0dGVuZGFuY2VTdGF0aXN0aWNzTWFwcGVyLnNlbGVjdE9uZShxdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFib3VyRWZmaWNpZW5jeVBwck1hcHBlci5pbnNlcnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgTGFib3VyRWZmaWNpZW5jeVBwck1hcHBlciBsYWJvdXJFZmZpY2llbmN5UHByTWFwcGVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PExhYm91ckVmZmljaWVuY3lQcHJETz4gbGFib3VyRWZmaWNpZW5jeVBwcnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -995,16 +991,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b0xpc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5p+l6K+i5o6S54+t6ICD5Yuk5L+h5oGvCiAgICAgICAgICAgIERpbmdUYWxrQXR0ZW5kYW5jZVN0YXRpc3RpY3NETyBxdWVyeSA9IG5ldyBEaW5nVGFsa0F0dGVuZGFuY2VTdGF0aXN0aWNzRE8oKTsKICAgICAgICAgICAgcXVlcnkuc2V0RW1wbG95ZWVOdW1iZXIoZW1wbG95ZWVOdW1iZXIpOwogICAgICAgICAgICBxdWVyeS5zZXRBdHRlbmRhbmNlRGF0ZShMb2NhbERhdGVVdGlsLnRvRGF0ZShsb2NhbERhdGUpKTsKICAgICAgICAgICAgRGluZ1RhbGtBdHRlbmRhbmNlU3RhdGlzdGljc0RPIGF0dGVuZGFuY2UgPSBkaW5nVGFsa0F0dGVuZGFuY2VTdGF0aXN0aWNzTWFwcGVyLnNlbGVjdE9uZShxdWVyeSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihhdHRlbmRhbmNlLmdldCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Date/LocalDateTime/g</text>
