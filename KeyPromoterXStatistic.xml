@@ -198,7 +198,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>97</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -326,7 +326,7 @@
           <IdeaActionID>XDebugger.MuteBreakpoints</IdeaActionID>
           <ShortCut>'⌥M'</ShortCut>
           <Description>Mute Breakpoints</Description>
-          <Count>341</Count>
+          <Count>343</Count>
         </Item>
       </Statistic>
       <Statistic Action="MyBatis Log Plugin">
@@ -745,6 +745,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'LabourEfficiencyPprServiceImplTest.testComputePpr'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'LabourEfficiencyPprServiceImplTest.testComputePpr'</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'LabourUtil'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1046,7 +1054,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4210</Count>
+          <Count>4272</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1169,6 +1177,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Execution Point">
+        <Item>
+          <IdeaActionID>ShowExecutionPoint</IdeaActionID>
+          <ShortCut>'⌥F10'</ShortCut>
+          <Description>Show Execution Point</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Local Changes as UML">
         <Item>
           <IdeaActionID>UML.ShowChanges</IdeaActionID>
@@ -1198,7 +1214,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>631</Count>
+          <Count>635</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ActorHierarchyExperiments'">
@@ -1518,7 +1534,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2245</Count>
+          <Count>2267</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
