@@ -173,8 +173,8 @@
         <mark key="^" line="194" column="27" />
         <mark key="." line="194" column="26" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1595468467622">
-        <mark key="'" line="575" column="8" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1595510110329">
+        <mark key="'" line="418" column="25" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/HBaseService.java" timestamp="1595489236539">
         <mark key="[" line="6" column="0" />
@@ -215,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1189" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/common/enums/LmsEnum.java" />
       <jump line="606" column="55" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="286" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="54" column="43" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
@@ -315,6 +314,7 @@
       <jump line="472" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="560" column="49" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="208" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/ppr/LmsLabourEfficiencyPprResultDO.java" />
+      <jump line="418" column="25" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,7 +326,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>indirect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXZpb3VzUHByLmZvckVhY2gobyAtPiBvLnNldERlbGV0ZWQoMSkpOwo=</text>
@@ -908,9 +908,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>delete</last-search>
+      <last-search>indirect</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>indirect</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
       <last-dir>1</last-dir>
