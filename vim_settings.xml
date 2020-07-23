@@ -136,15 +136,16 @@
         <mark key="." line="25" column="56" />
         <mark key="^" line="25" column="56" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/impl/LabourPprResultServiceImpl.java" timestamp="1595475660468" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/LmsLabourEfficiencyPprModuleDO.java" timestamp="1595417702425">
         <mark key="'" line="16" column="13" />
         <mark key="[" line="221" column="0" />
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/LmsLabourEfficiencyPprResultDO.java" timestamp="1595472307077">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/LmsLabourEfficiencyPprResultDO.java" timestamp="1595475722758">
         <mark key="'" line="180" column="6" />
-        <mark key="[" line="17" column="0" />
+        <mark key="[" line="16" column="13" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="14" column="43" />
         <mark key="." line="17" column="0" />
@@ -155,8 +156,8 @@
         <mark key="^" line="42" column="63" />
         <mark key="." line="42" column="63" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/ppr/LmsLabourEfficiencyPprResultDO.java" timestamp="1595424093804">
-        <mark key="'" line="15" column="13" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/ppr/LmsLabourEfficiencyPprResultDO.java" timestamp="1595475622619">
+        <mark key="'" line="208" column="4" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" timestamp="1595402791867">
         <mark key="[" line="109" column="50" />
@@ -170,14 +171,14 @@
         <mark key="^" line="165" column="38" />
         <mark key="." line="165" column="38" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1595473011876">
-        <mark key="'" line="473" column="8" />
-        <mark key="[" line="479" column="15" />
-        <mark key="]" line="479" column="16" />
-        <mark key="." line="479" column="15" />
-        <mark key="^" line="479" column="16" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1595475224440">
+        <mark key="'" line="561" column="49" />
+        <mark key="[" line="559" column="35" />
+        <mark key="]" line="560" column="22" />
+        <mark key="." line="560" column="21" />
+        <mark key="^" line="560" column="22" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" timestamp="1595472334672">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" timestamp="1595475772761">
         <mark key="'" line="15" column="13" />
         <mark key="[" line="194" column="26" />
         <mark key="]" line="194" column="27" />
@@ -195,6 +196,12 @@
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/LabourEfficiencyPprDO.java" timestamp="1595469010086">
         <mark key="'" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/LmsLabourEfficiencyPprResultAdbDO.java" timestamp="1595475811366">
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="207" column="26" />
+        <mark key="." line="207" column="25" />
+        <mark key="^" line="207" column="26" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/LmsLabourEfficiencyPprResultMapper.java" timestamp="1595419541245">
         <mark key="[" line="27" column="51" />
@@ -217,8 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1370" column="97" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
-      <jump line="598" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="1189" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/common/enums/LmsEnum.java" />
       <jump line="606" column="55" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="286" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
@@ -317,15 +322,17 @@
       <jump line="9" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/LabourEfficiencyPprDO.java" />
       <jump line="194" column="6" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/LmsLabourEfficiencyPprResultDO.java" />
       <jump line="472" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
+      <jump line="560" column="49" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
+      <jump line="208" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/ppr/LmsLabourEfficiencyPprResultDO.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>rows</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>rows</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -334,22 +341,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2NhbERhdGVUaW1lIHJlc3RTdGFydFRpbWUgPSBMb2NhbERhdGVVdGlsLnBhcnNlVGltZXN0YW1wKG8uZ2V0Q2xhc3NSZXN0U3RhcnRUaW1lKCkuZ2V0VGltZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDms6jph4rmjonliKDpmaQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHJlbW92ZSBkZWxldGUgbWV0aG9kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWVyZ2VSZXN1bHQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMbXNMYWJvdXJFZmZpY2llbmN5UHByUmVzdWx0RE8oKSB7fQoKICAgIC8qKgogICAgICog5p6E6YCg5ZmoCiAgICAgKiBAcGFyYW0gd2FyZWhvdXNlSWQg5LuTSUQKICAgICAqIEBwYXJhbSBlbXBsb3llZU51bWJlciDlt6Xlj7cKICAgICAqIEBwYXJhbSBvcGVyYXRlRGF5IOaXpeacnwogICAgICovCiAgICBwdWJsaWMgTG1zTGFib3VyRWZmaWNpZW5jeVBwclJlc3VsdERPKExvbmcgd2FyZWhvdXNlSWQsIExvbmcgZW1wbG95ZWVOdW1iZXIsIExvY2FsRGF0ZSBvcGVyYXRlRGF5KSB7CiAgICAgICAgdGhpcy53YXJlaG91c2VJZCA9IHdhcmVob3VzZUlkOwogICAgICAgIHRoaXMuZW1wbG95ZWVOdW1iZXIgPSBlbXBsb3llZU51bWJlcjsKICAgICAgICB0aGlzLm9wZXJhdGVEYXkgPSBvcGVyYXRlRGF5OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnBlZWsobyAtPiBvLnNldENvbXB1dGVQcm9jZXNzKG51bGwpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -892,16 +899,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDms6jph4rmjonliKDpmaQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExtc0xhYm91ckVmZmljaWVuY3lQcHJSZXN1bHRETz4gcHBycyA9IERvemVyQmVhbk1hcHBlclV0aWwubWFwTGlzdChtZXJnZVBwcnMsCiAgICAgICAgICAgIExtc0xhYm91ckVmZmljaWVuY3lQcHJSZXN1bHRETy5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHJlbW92ZSBkZWxldGUgbWV0aG9kCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgc29mdERlbGV0ZShMbXNMYWJvdXJFZmZpY2llbmN5UHByTW9kdWxlRE8gcHByTW9kdWxlRE8pIHsKICAgICAgICBTdHJpbmcgc3FsID0gbmV3IFNRTCgpIHsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgVVBEQVRFKFRBQkxFX05BTUVfV1JJVEUpOwogICAgICAgICAgICAgICAgU0VUKCJpc19kZWxldGUgPSAxIik7CiAgICAgICAgICAgICAgICBXSEVSRSgiZW1wbG95ZWVfbnVtYmVyPSN7ZW1wbG95ZWVOdW1iZXJ9Iik7CiAgICAgICAgICAgICAgICBXSEVSRSgib3BlcmF0ZV9kYXk9I3tvcGVyYXRlRGF5fSIpOwogICAgICAgICAgICAgICAgaWYgKHBwck1vZHVsZURPLmdldFdhcmVob3VzZUlkKCkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIFdIRVJFKCJ3YXJlaG91c2VfaWQ9I3t3YXJlaG91c2VJZH0iKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0udG9TdHJpbmcoKTsKICAgICAgICByZXR1cm4gc3FsOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZGV0YWlsUXVlcnkoTGFib3VyUHByUXVlcnkgcXVlcnkpIHsKICAgICAgICBTUUwgc3FsID0gbmV3IFNRTCgpOwoKICAgICAgICBzcWwuU0VMRUNUKCJpZCwgd2FyZWhvdXNlX2lkLCBvcGVyYXRlX2RheSwgY29vcGVyYXRpb25fc3RhcnRfZGF0ZSwgaW5kdXN0cnlfY29kZSwgb3BlcmF0ZV90aW1lLCAiCiAgICAgICAgICAgICsgImVtcGxveWVlX251bWJlciwgY2F0ZWdvcnksIHBvc2l0aW9uLCB3b3JrX3R5cGUsIG9yZGVyX251bSwgcGFja2FnZV9udW0sIGl0ZW1fbnVtLCBza3VfbnVtLCB3b3JrX3RpbWUsIgogICAgICAgICAgICArICIgaWRsZV90aW1lLGluZGlyZWN0X3RpbWUsIGF0dGVuZGFuY2VfdGltZSIpOwoKICAgICAgICBzcWwuRlJPTShUQUJMRV9OQU1FKTsKCiAgICAgICAgc3FsLldIRVJFKCJ3YXJlaG91c2VfaWQgPSAje3dhcmVob3VzZUlkfSIpOwogICAgICAgIHNxbC5XSEVSRSgib3BlcmF0ZV9kYXkgPj0gI3tzdGFydERheX0iKTsKICAgICAgICBzcWwuV0hFUkUoIm9wZXJhdGVfZGF5IDw9ICN7ZW5kRGF5fSIpOwoKICAgICAgICByZXR1cm4gc3FsLnRvU3RyaW5nKCk7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBxdWVyeShMYWJvdXJQcHJRdWVyeSBxdWVyeSkgewogICAgICAgIFNRTCBzcWwgPSBuZXcgU1FMKCk7CgogICAgICAgIGJvb2xlYW4gcXVlcnlJbmR1c3RyeUNvZGUgPSBTdHJpbmdVdGlscy5pc05vdEJsYW5rKHF1ZXJ5LmdldEluZHVzdHJ5Q29kZSgpKTsKICAgICAgICBzcWwuU0VMRUNUKCJ3YXJlaG91c2VfaWQsIGVtcGxveWVlX251bWJlciwgZW1wbG95ZWVfcG9zaXRpb24sIGNhdGVnb3J5LCBwb3NpdGlvbiwgd29ya190eXBlLCBpbmR1c3RyeV9jb2RlIik7CgogICAgICAgIHNxbC5TRUxFQ1QoIlNVTShpdGVtX251bSkgQVMgaXRlbV9udW0sIFNVTShwYWNrYWdlX251bSkgQVMgcGFja2FnZV9udW0sIFNVTShvcmRlcl9udW0pIEFTIG9yZGVyX251bSIpOwogICAgICAgIHNxbC5TRUxFQ1QoIlNVTSh3b3JrX3RpbWUpIEFTIHdvcmtfdGltZSwgU1VNKGluZGlyZWN0X3RpbWUpIEFTIGluZGlyZWN0X3RpbWUsIFNVTShpZGxlX3RpbWUpIEFTIGlkbGVfdGltZSIpOwogICAgICAgIHNxbC5TRUxFQ1QoIlNVTShhdHRlbmRhbmNlX3RpbWUpIEFTIGF0dGVuZGFuY2VfdGltZSIpOwogICAgICAgIHNxbC5GUk9NKFRBQkxFX05BTUUpOwoKICAgICAgICBzcWwuV0hFUkUoIndhcmVob3VzZV9pZCA9ICN7d2FyZWhvdXNlSWR9Iik7CiAgICAgICAgc3FsLldIRVJFKCJvcGVyYXRlX3RpbWUgPj0gI3tzdGFydFRpbWV9Iik7CiAgICAgICAgc3FsLldIRVJFKCJvcGVyYXRlX3RpbWUgPD0gI3tlbmRUaW1lfSIpOwoKICAgICAgICBpZiAocXVlcnlJbmR1c3RyeUNvZGUpIHsKICAgICAgICAgICAgaWYgKE9iamVjdHMuZXF1YWxzKHF1ZXJ5LmdldEluZHVzdHJ5Q29kZSgpLCBJbmR1c3RyeUNvZGVFbnVtLnNjLm5hbWUoKSkpIHsKICAgICAgICAgICAgICAgIHNxbC5XSEVSRSgiaW5kdXN0cnlfY29kZSBJTignc2MnLCAnc2MoY2wpJywgJ3NjKHp4KScpIik7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBzcWwuV0hFUkUoImluZHVzdHJ5X2NvZGUgPSAje2luZHVzdHJ5Q29kZX0iKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBpZiAocXVlcnkuZ2V0T3BlcmF0ZU1vbnRoKCkgIT0gbnVsbCkgewogICAgICAgICAgICBzcWwuV0hFUkUoIm9wZXJhdGVfbW9udGggPSAje29wZXJhdGVNb250aH0iKTsKICAgICAgICB9CgogICAgICAgIHNxbC5HUk9VUF9CWSgid2FyZWhvdXNlX2lkLCBlbXBsb3llZV9udW1iZXIsIGVtcGxveWVlX3Bvc2l0aW9uLCBjYXRlZ29yeSwgcG9zaXRpb24sIHdvcmtfdHlwZSwgaW5kdXN0cnlfY29kZSIpOwoKICAgICAgICByZXR1cm4gc3FsLnRvU3RyaW5nKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMbXNMYWJvdXJFZmZpY2llbmN5UHByUmVzdWx0RE8oKSB7fQoKICAgIC8qKgogICAgICog5p6E6YCg5ZmoCiAgICAgKiBAcGFyYW0gd2FyZWhvdXNlSWQg5LuTSUQKICAgICAqIEBwYXJhbSBlbXBsb3llZU51bWJlciDlt6Xlj7cKICAgICAqIEBwYXJhbSBvcGVyYXRlRGF5IOaXpeacnwogICAgICovCiAgICBwdWJsaWMgTG1zTGFib3VyRWZmaWNpZW5jeVBwclJlc3VsdERPKExvbmcgd2FyZWhvdXNlSWQsIExvbmcgZW1wbG95ZWVOdW1iZXIsIExvY2FsRGF0ZSBvcGVyYXRlRGF5KSB7CiAgICAgICAgdGhpcy53YXJlaG91c2VJZCA9IHdhcmVob3VzZUlkOwogICAgICAgIHRoaXMuZW1wbG95ZWVOdW1iZXIgPSBlbXBsb3llZU51bWJlcjsKICAgICAgICB0aGlzLm9wZXJhdGVEYXkgPSBvcGVyYXRlRGF5OwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
