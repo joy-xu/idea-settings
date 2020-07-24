@@ -140,11 +140,11 @@
         <mark key="." line="625" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/wmp/task-client/1.0.34/task-client-1.0.34-sources.jar!/com/cainiao/wmp/task/client/common/constants/task/TaskTypeEnum.java" timestamp="1595511939415" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/indirectlabour/FinishWithAttendanceProcessor.java" timestamp="1595558469736">
-        <mark key="[" line="225" column="149" />
-        <mark key="]" line="225" column="149" />
-        <mark key="^" line="225" column="101" />
-        <mark key="." line="225" column="149" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/indirectlabour/FinishWithAttendanceProcessor.java" timestamp="1595574512589">
+        <mark key="[" line="225" column="128" />
+        <mark key="]" line="225" column="147" />
+        <mark key="^" line="225" column="147" />
+        <mark key="." line="225" column="146" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/metaq/LzdDirectStartEventConsumer.java" timestamp="1595562158507">
         <mark key="[" line="177" column="50" />
@@ -152,6 +152,7 @@
         <mark key="^" line="175" column="70" />
         <mark key="." line="175" column="69" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/indirectlabour/IndirectLabourStatusEnum.java" timestamp="1595574477513" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchStartConsumer.java" timestamp="1595562135988">
         <mark key="[" line="104" column="90" />
         <mark key="]" line="104" column="132" />
@@ -182,9 +183,6 @@
         <mark key="]" line="20" column="26" />
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="25" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1595511489527">
-        <mark key="'" line="418" column="25" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/EmployeeChangeLogAdbProvider.java" timestamp="1595555754852" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/IndirectLabourFacade.java" timestamp="1595561034021">
@@ -325,11 +323,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBrdlN0b3JlTWFuYWdlci5wdXQod29ya2luZ0luZGlyZWN0TGFib3VyUHJlZml4LCBKU09OLnRvSlNPTlN0cmluZyhpbmRpcmVjdExhYm91cikpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>getId</text>
       </register>
       <register name="-" type="4">
-        <text>endResult</text>
+        <text>getId</text>
       </register>
       <register name="/" type="4">
         <text>indirect</text>
