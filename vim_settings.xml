@@ -13,7 +13,6 @@
         <entry>WORKPLACE</entry>
         <entry>getWorkplace</entry>
         <entry>queryRecentIndirectLabours</entry>
-        <entry>TODO</entry>
         <entry>operate</entry>
         <entry>tair</entry>
         <entry>hbaseTemplate</entry>
@@ -27,6 +26,7 @@
         <entry>insert</entry>
         <entry>delete</entry>
         <entry>indirect</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry>1290</entry>
@@ -130,71 +130,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/indirectlabour/FinishWithAttendanceProcessor.java" timestamp="1595574512589">
-        <mark key="[" line="250" column="128" />
-        <mark key="]" line="250" column="147" />
-        <mark key="^" line="250" column="147" />
-        <mark key="." line="250" column="146" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/IndirectLabourIndustryManager.java" timestamp="1595578855222">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/IndirectLabourPositionManager.java" timestamp="1595579200501">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/IndirectLabourShardingManager.java" timestamp="1595577498950">
-        <mark key="[" line="7" column="48" />
-        <mark key="]" line="8" column="4" />
-        <mark key="^" line="8" column="4" />
-        <mark key="." line="8" column="3" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" timestamp="1595579259927">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="59" column="70" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/constants/Constants.java" timestamp="1595576719275">
-        <mark key="[" line="223" column="18" />
-        <mark key="]" line="223" column="21" />
-        <mark key="." line="223" column="20" />
-        <mark key="^" line="223" column="21" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/shadingmapper/IndirectLabourShardingMapper.java" timestamp="1595577665949">
-        <mark key="[" line="14" column="84" />
-        <mark key="]" line="14" column="4" />
-        <mark key="." line="14" column="3" />
-        <mark key="^" line="14" column="4" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/applicationContext.xml" timestamp="1595579698809">
-        <mark key="[" line="74" column="58" />
-        <mark key="]" line="74" column="62" />
-        <mark key="^" line="74" column="62" />
-        <mark key="." line="74" column="61" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourIndustryManagerImpl.java" timestamp="1595578865833">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" timestamp="1595579152613">
-        <mark key="[" line="1421" column="53" />
-        <mark key="]" line="1421" column="68" />
-        <mark key="." line="1421" column="67" />
-        <mark key="^" line="1421" column="68" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/indirectlabour/IndirectLabourStatusEnum.java" timestamp="1595574477513" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourPositionManagerImpl.java" timestamp="1595579217020">
-        <mark key="'" line="25" column="4" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/IndirectLabourPositionManager.java" timestamp="1595579200501">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/indirectlabour/CutOffIndirectLabourWithAttendanceEndProcessor.java" timestamp="1595577269178">
         <mark key="'" line="33" column="4" />
@@ -203,11 +153,26 @@
         <mark key="^" line="100" column="105" />
         <mark key="." line="100" column="104" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" timestamp="1595814544664">
+        <mark key="'" line="1056" column="11" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeStatusFacadeImpl.java" timestamp="1595577898326">
         <mark key="[" line="443" column="54" />
         <mark key="]" line="443" column="69" />
         <mark key="." line="443" column="68" />
         <mark key="^" line="443" column="69" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/IndirectLabourShardingManager.java" timestamp="1595577498950">
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="8" column="4" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/indirectlabour/FinishWithAttendanceProcessor.java" timestamp="1595574512589">
+        <mark key="[" line="250" column="128" />
+        <mark key="]" line="250" column="147" />
+        <mark key="^" line="250" column="147" />
+        <mark key="." line="250" column="146" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" timestamp="1595578032540">
         <mark key="[" line="860" column="0" />
@@ -219,6 +184,19 @@
         <mark key="]" line="3724" column="76" />
         <mark key="." line="3724" column="75" />
         <mark key="^" line="3724" column="76" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" timestamp="1595579259927">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="59" column="70" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourPositionManagerImpl.java" timestamp="1595579217020">
+        <mark key="'" line="25" column="4" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/IndirectLabourAdbMapper.java" timestamp="1595577220440">
         <mark key="[" line="28" column="47" />
@@ -232,12 +210,30 @@
         <mark key="^" line="18" column="33" />
         <mark key="." line="18" column="32" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/constants/Constants.java" timestamp="1595576719275">
+        <mark key="[" line="223" column="18" />
+        <mark key="]" line="223" column="21" />
+        <mark key="." line="223" column="20" />
+        <mark key="^" line="223" column="21" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/shadingmapper/IndirectLabourShardingMapper.java" timestamp="1595577665949">
+        <mark key="[" line="14" column="84" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="4" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/IndirectLabourManager.java" timestamp="1595579234897">
         <mark key="'" line="84" column="43" />
         <mark key="[" line="199" column="0" />
         <mark key="]" line="199" column="0" />
         <mark key="^" line="248" column="31" />
         <mark key="." line="199" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/applicationContext.xml" timestamp="1595579698809">
+        <mark key="[" line="74" column="58" />
+        <mark key="]" line="74" column="62" />
+        <mark key="^" line="74" column="62" />
+        <mark key="." line="74" column="61" />
       </file>
       <file name="/fragment.java" timestamp="1595578706551">
         <mark key="[" line="0" column="0" />
@@ -247,9 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" />
-      <jump line="36" column="17" filename="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.3.3/mybatis-plus-support-2.3.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" />
-      <jump line="67" column="12" filename="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.3.3/mybatis-plus-support-2.3.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" />
       <jump line="77" column="12" filename="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.3.3/mybatis-plus-support-2.3.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" />
       <jump line="57" column="63" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/CustomTypeEnum.java" />
       <jump line="14" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/CustomTypeEnum.java" />
@@ -347,6 +340,9 @@
       <jump line="18" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourIndustryManagerImpl.java" />
       <jump line="87" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/IndirectLabourPositionManager.java" />
       <jump line="25" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourPositionManagerImpl.java" />
+      <jump line="453" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
+      <jump line="1002" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
+      <jump line="1056" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -358,7 +354,7 @@
         <text>sqlSessionFactory</text>
       </register>
       <register name="/" type="4">
-        <text>indirect</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZG91YmxlIE9ORV9IT1VSX0lOX01JTExJX1NFQ09ORFMgPSA2MCAqIDYwICogMTAwMDsK</text>
@@ -940,9 +936,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>indirect</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern>indirect</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
       <last-dir>1</last-dir>
