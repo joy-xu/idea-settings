@@ -136,18 +136,24 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1595832609368" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" timestamp="1595832308224">
-        <mark key="'" line="1019" column="31" />
-        <mark key="[" line="1028" column="17" />
-        <mark key="]" line="1028" column="17" />
-        <mark key="." line="1028" column="17" />
-        <mark key="^" line="1041" column="36" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" timestamp="1595835251446">
+        <mark key="'" line="1014" column="31" />
+        <mark key="[" line="339" column="0" />
+        <mark key="]" line="339" column="0" />
+        <mark key="." line="339" column="0" />
+        <mark key="^" line="669" column="50" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/event/PprIndirectLabourCutOffEvent.java" timestamp="1595832432593">
         <mark key="[" line="15" column="33" />
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="3" />
         <mark key="^" line="16" column="4" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/indirectlabour/FinishWithAttendanceProcessor.java" timestamp="1595834726807">
+        <mark key="[" line="250" column="112" />
+        <mark key="]" line="251" column="49" />
+        <mark key="^" line="251" column="49" />
+        <mark key="." line="251" column="48" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourPositionManagerImpl.java" timestamp="1595830640864">
         <mark key="'" line="108" column="42" />
@@ -174,23 +180,17 @@
         <mark key="." line="110" column="16" />
         <mark key="^" line="110" column="17" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/indirectlabour/IndirectLabourMapper.java" timestamp="1595820616188">
-        <mark key="[" line="55" column="9" />
-        <mark key="]" line="55" column="8" />
-        <mark key="^" line="55" column="8" />
-        <mark key="." line="55" column="7" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/indirectlabour/IndirectLabourMapper.java" timestamp="1595834659168">
+        <mark key="[" line="134" column="34" />
+        <mark key="]" line="135" column="37" />
+        <mark key="^" line="135" column="37" />
+        <mark key="." line="135" column="36" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/indirectlabour/IndirectLabourModifyQo.java" timestamp="1595831368327">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="31" />
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="30" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeStatusFacadeImpl.java" timestamp="1595577898326">
-        <mark key="[" line="443" column="54" />
-        <mark key="]" line="443" column="69" />
-        <mark key="." line="443" column="68" />
-        <mark key="^" line="443" column="69" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/indirectlabour/IndirectLabourResource.java" timestamp="1595832302254" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1595832447886">
@@ -210,18 +210,18 @@
         <mark key="." line="3724" column="75" />
         <mark key="^" line="3724" column="76" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" timestamp="1595832502895">
-        <mark key="[" line="247" column="0" />
-        <mark key="]" line="247" column="0" />
-        <mark key="." line="247" column="0" />
-        <mark key="^" line="248" column="47" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" timestamp="1595835302228">
+        <mark key="[" line="355" column="47" />
+        <mark key="]" line="355" column="47" />
+        <mark key="." line="355" column="47" />
+        <mark key="^" line="132" column="88" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/IndirectLabourManager.java" timestamp="1595832473079">
-        <mark key="'" line="82" column="43" />
-        <mark key="[" line="173" column="6" />
-        <mark key="]" line="174" column="40" />
-        <mark key="^" line="174" column="40" />
-        <mark key="." line="174" column="39" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/IndirectLabourManager.java" timestamp="1595834599640">
+        <mark key="'" line="83" column="43" />
+        <mark key="[" line="77" column="34" />
+        <mark key="]" line="78" column="25" />
+        <mark key="^" line="78" column="25" />
+        <mark key="." line="78" column="24" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/applicationContext.xml" timestamp="1595579698809">
         <mark key="[" line="74" column="58" />
@@ -229,11 +229,11 @@
         <mark key="^" line="74" column="62" />
         <mark key="." line="74" column="61" />
       </file>
-      <file name="/fragment.java" timestamp="1595578706551">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/fragment.java" timestamp="1595834024317">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/event/handler/IndirectLabourCutOffEventHandler.java" timestamp="1595832528281">
         <mark key="[" line="30" column="56" />
@@ -347,11 +347,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGFkZCB3b3JrcGxhY2VDb2RlCg==</text>
+      <register name="&quot;" type="4">
+        <text>, 7 * ONE_DAY_IN_SECONDS</text>
       </register>
       <register name="-" type="4">
-        <text>Wrapper</text>
+        <text>, 7 * ONE_DAY_IN_SECONDS</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -360,22 +360,22 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgaW5kaXJlY3RMYWJvdXJDb2RlID0gcGFyYW0uZ2V0Q29kZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGFkZCB3b3JrcGxhY2VDb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICAgVE9ETyBPUEVOCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIGFkZCB3b3JrcGxhY2VDb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICBpbnQgZHVwbGljYXRlZFJlc3VsdCA9IDI7CiAgICAgICAgaWYgKHN0YXJ0UmVzdWx0ID09IGR1cGxpY2F0ZWRSZXN1bHQpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFdtcExtc0V4Y2VwdGlvbihXT1JLX05VTUJFUl9IQVNfUlVOTklOR19XT1JLLAogICAgICAgICAgICAgICAgbmV3IFN0cmluZ1tdIHtlbXBsb3llZURUTy5nZXRFbXBsb3llZU5hbWUoKSArICIoIiArIHN0YXJ0UW8uZ2V0RW1wbG95ZWVOdW1iZXIoKSArICIpIn0pOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGFkZCB3b3JrcGxhY2VDb2RlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIG1vZGlmeSBhZGQgd29ya3BsYWNlQ29kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIGFkZCB3b3JrcGxhY2VDb2RlCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -918,16 +918,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIG1vZGlmeSBhZGQgd29ya3BsYWNlQ29kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIG1vZGlmeSBhZGQgd29ya3BsYWNlQ29kZQo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIG1vZGlmeSBhZGQgd29ya3BsYWNlQ29kZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5nZXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIG1vZGlmeSBhZGQgd29ya3BsYWNlQ29kZQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
