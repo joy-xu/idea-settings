@@ -146,6 +146,12 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/indirectlabour/IndirectLabourMapper.java" timestamp="1595817652381">
+        <mark key="[" line="39" column="9" />
+        <mark key="]" line="39" column="9" />
+        <mark key="." line="39" column="9" />
+        <mark key="^" line="39" column="39" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/indirectlabour/CutOffIndirectLabourWithAttendanceEndProcessor.java" timestamp="1595577269178">
         <mark key="'" line="33" column="4" />
         <mark key="[" line="100" column="69" />
@@ -153,8 +159,9 @@
         <mark key="^" line="100" column="105" />
         <mark key="." line="100" column="104" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" timestamp="1595815792521">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" timestamp="1595817689594">
         <mark key="'" line="1001" column="31" />
+        <mark key="[" line="1300" column="98" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeStatusFacadeImpl.java" timestamp="1595577898326">
         <mark key="[" line="443" column="54" />
@@ -185,12 +192,10 @@
         <mark key="." line="3724" column="75" />
         <mark key="^" line="3724" column="76" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" timestamp="1595579259927">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="59" column="70" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" timestamp="1595817508619">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourPositionManagerImpl.java" timestamp="1595579217020">
         <mark key="'" line="25" column="4" />
@@ -243,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="63" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/CustomTypeEnum.java" />
       <jump line="14" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/CustomTypeEnum.java" />
       <jump line="14" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" />
       <jump line="26" column="484" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" />
@@ -343,15 +347,16 @@
       <jump line="1002" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="1056" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="1001" column="31" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
+      <jump line="60" column="55" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>sqlSessionFactory</text>
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>sqlSessionFactory</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -360,22 +365,22 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZG91YmxlIE9ORV9IT1VSX0lOX01JTExJX1NFQ09ORFMgPSA2MCAqIDYwICogMTAwMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICArICJGUk9NIGluZGlyZWN0X2xhYm91ciBhcyBpbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICArICJJTk5FUiBKT0lOIGluZGlyZWN0X2xhYm91cl9wb3NpdGlvbiBBUyBwb3NpdGlvbiBPTiBpbC5wb3NpdGlvbl9jb2RlID0gcG9zaXRpb24uY29kZSAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICArICJJTk5FUiBKT0lOIGluZGlyZWN0X2xhYm91cl9pbmR1c3RyeSBBUyBpbmR1c3RyeSBPTiBpbC5pbmR1c3RyeV9jb2RlID0gaW5kdXN0cnkuY29kZSAiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSW5kaXJlY3RMYWJvdXJQb3NpdGlvblRvcE1hcHBlciB0b3BNYXBwZXI7CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBJbmRpcmVjdExhYm91clBvc2l0aW9uTWFwcGVyIHBvc2l0aW9uTWFwcGVyOwoKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSW5kaXJlY3RMYWJvdXJJbmR1c3RyeU1hcHBlciBpbmR1c3RyeU1hcHBlcjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSW5kaXJlY3RMYWJvdXJQb3NpdGlvbk1hcHBlciBwb3NpdGlvbk1hcHBlcjsKCiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIEluZGlyZWN0TGFib3VySW5kdXN0cnlNYXBwZXIgaW5kdXN0cnlNYXBwZXI7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
