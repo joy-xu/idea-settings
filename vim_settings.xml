@@ -202,10 +202,11 @@
         <mark key="." line="120" column="7" />
         <mark key="^" line="120" column="8" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/indirectlabour/IndirectLabourProvider.java" timestamp="1595821231370">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/indirectlabour/IndirectLabourProvider.java" timestamp="1595821882481">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/IndirectLabourAdbMapper.java" timestamp="1595577220440">
         <mark key="[" line="28" column="47" />
@@ -252,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="484" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" />
       <jump line="27" column="14" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" />
       <jump line="85" column="23" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" />
       <jump line="86" column="22" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" />
@@ -352,12 +352,13 @@
       <jump line="60" column="55" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" />
       <jump line="91" column="20" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/IndirectLabourPositionManager.java" />
       <jump line="108" column="42" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourPositionManagerImpl.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/indirectlabour/IndirectLabourProvider.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
       </register>
       <register name="-" type="4">
         <text>getDepartmentCode</text>
@@ -369,22 +370,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEluZGlyZWN0TGFib3VyUG9zaXRpb25ETyBkZXBhcnRtZW50ID0gcG9zaXRpb25NYW5hZ2VyLnF1ZXJ5UG9zaXRpb25CeUNvZGUoaW5kaXJlY3RMYWJvdXJCTy5nZXREZXBhcnRtZW50Q29kZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhxdWVyeS5nZXRDcENvZGUoKSkpIHsKICAgICAgICAgICAgc3FsLldIRVJFKCJ3LmNwX2NvZGUgPSAje2NwQ29kZX0iKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLmxtcy5jb25maWcuTG1zRW52Q29uZmlnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzcWwuSU5ORVJfSk9JTigibG1zX3dvcmtfcGxhY2UgQVMgdyBPTiBpbC53b3JrcGxhY2VfY29kZSA9IHcuY29kZSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzcWwuU0VMRUNUKCJ3Lm5hbWUgQVMgd29ya3BsYWNlTmFtZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhxdWVyeS5nZXRDcENvZGUoKSkpIHsKICAgICAgICAgICAgc3FsLldIRVJFKCJ3LmNwX2NvZGUgPSAje2NwQ29kZX0iKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzcWwuU0VMRUNUKCJkZXBhcnRtZW50Lm5hbWUgQVMgZGVwYXJ0bWVudE5hbWUsIHBvc2l0aW9uLm5hbWUgQVMgcG9zaXRpb25OYW1lIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzcWwuSU5ORVJfSk9JTigibG1zX3dvcmtfcGxhY2UgQVMgdyBPTiBpbC53b3JrcGxhY2VfY29kZSA9IHcuY29kZSIpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -927,16 +928,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzcWwuU0VMRUNUKCJpbmR1c3RyeS5uYW1lIEFTIGluZHVzdHJ5TmFtZSwgZi5uYW1lIGFzIGZ1bmN0aW9uTmFtZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzcWwuU0VMRUNUKCJ3Lm5hbWUgQVMgd29ya3BsYWNlTmFtZSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzcWwuTEVGVF9PVVRFUl9KT0lOKCJpbmRpcmVjdF9sYWJvdXJfcG9zaXRpb24gYXMgZiBvbiBpbC5mdW5jdGlvbl9jb2RlID0gZi5jb2RlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzcWwuU0VMRUNUKCJkZXBhcnRtZW50Lm5hbWUgQVMgZGVwYXJ0bWVudE5hbWUsIHBvc2l0aW9uLm5hbWUgQVMgcG9zaXRpb25OYW1lIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImluZGlyZWN0X2xhYm91cl9wb3NpdGlvbiBhcyBwb3NpdGlvbiBvbiBpbC5wb3NpdGlvbl9jb2RlID0gcG9zaXRpb24uY29kZSBBTkQgcG9zaXRpb24ucGFyZW50X2lkIDw+IDAiKTsK</text>
+        <text encoding="base64">ICAgICAgICBzcWwuU0VMRUNUKCJpbmR1c3RyeS5uYW1lIEFTIGluZHVzdHJ5TmFtZSwgZi5uYW1lIGFzIGZ1bmN0aW9uTmFtZSIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzcWwuSU5ORVJfSk9JTigK</text>
+        <text encoding="base64">ICAgICAgICBzcWwuTEVGVF9PVVRFUl9KT0lOKCJpbmRpcmVjdF9sYWJvdXJfcG9zaXRpb24gYXMgZiBvbiBpbC5mdW5jdGlvbl9jb2RlID0gZi5jb2RlIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
