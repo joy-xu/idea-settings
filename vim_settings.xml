@@ -137,18 +137,18 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/indirectlabour/IndirectLabourDO.java" timestamp="1595857959192">
         <mark key="'" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" timestamp="1595858103044">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" timestamp="1595859132201">
         <mark key="'" line="61" column="13" />
-        <mark key="[" line="226" column="85" />
-        <mark key="]" line="226" column="86" />
-        <mark key="." line="226" column="85" />
-        <mark key="^" line="226" column="86" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="." line="226" column="0" />
+        <mark key="^" line="226" column="64" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/shardingmapper/IndirectLabourShardingMapper.java" timestamp="1595857940265">
-        <mark key="[" line="56" column="9" />
-        <mark key="]" line="39" column="77" />
-        <mark key="^" line="39" column="77" />
-        <mark key="." line="39" column="76" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/shardingmapper/IndirectLabourShardingMapper.java" timestamp="1595859308095">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
+        <mark key="^" line="162" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -257,10 +257,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIK</text>
+        <text encoding="base64">ICAgICAgICArKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ON DUPLICATE KEY UPDATE gmt_modified = now()</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -269,22 +269,22 @@
         <text encoding="base64">ICAgICAgICBtYXBwZXJTY2FubmVyQ29uZmlndXJlci5zZXRCYXNlUGFja2FnZSgiY29tLmNhaW5pYW8ubG1zLnNoYWRpbmdtYXBwZXIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIK</text>
+        <text encoding="base64">ICAgICAgICArKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXJVdGlsLmluZm9Mb2dnZXIuaW5mbygiIik7Cg==</text>
+        <text encoding="base64">ICAgIEBJbnNlcnQoIiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXJVdGlsLmluZm9Mb2dnZXIuaW5mbygiYWRkIGluZGlyZWN0IGxhYm91ciwgbGFib3VyOiB7fSIsIGluZGlyZWN0TGFib3VyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzLCB0cmFuc2FjdGlvbk1hbmFnZXIgPSAidHhNYW5hZ2VyIikK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -827,16 +827,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXJVdGlsLmluZm9Mb2dnZXIuaW5mbygiIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8SW5kaXJlY3RMYWJvdXJETz4gcXVlcnlXb3JraW5nSW5kaXJlY3RMYWJvdXJzKCkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzLCB0cmFuc2FjdGlvbk1hbmFnZXIgPSAidHhNYW5hZ2VyIikK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
