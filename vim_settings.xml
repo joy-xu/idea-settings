@@ -133,16 +133,16 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1595856258429">
         <mark key="[" line="889" column="18" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1595857417090" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/indirectlabour/IndirectLabourDO.java" timestamp="1595857959192">
         <mark key="'" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" timestamp="1595859132201">
-        <mark key="'" line="61" column="13" />
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="226" column="0" />
-        <mark key="^" line="226" column="64" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/config/DatasourceConfig.java" timestamp="1595899436005" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" timestamp="1595899476266">
+        <mark key="'" line="161" column="4" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="91" />
+        <mark key="." line="153" column="0" />
+        <mark key="^" line="133" column="21" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/shardingmapper/IndirectLabourShardingMapper.java" timestamp="1595859308095">
         <mark key="[" line="163" column="0" />
@@ -150,10 +150,13 @@
         <mark key="." line="163" column="0" />
         <mark key="^" line="162" column="45" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" timestamp="1595900059169">
+        <mark key="[" line="776" column="0" />
+        <mark key="]" line="776" column="0" />
+        <mark key="." line="776" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="649" column="24" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
-      <jump line="48" column="26" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" />
       <jump line="767" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="1607" column="1" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="652" column="27" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
@@ -252,39 +255,41 @@
       <jump line="57" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" />
       <jump line="19" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/indirectlabour/IndirectLabourDO.java" />
       <jump line="21" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/indirectlabour/IndirectLabourDO.java" />
+      <jump line="229" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" />
+      <jump line="161" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICArKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXZpb3VzTGFib3VyU3RyZWFtCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ON DUPLICATE KEY UPDATE gmt_modified = now()</text>
+        <text encoding="base64">cHJldmlvdXNMYWJvdXJTdHJlYW0gPSA=</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXJTY2FubmVyQ29uZmlndXJlci5zZXRCYXNlUGFja2FnZSgiY29tLmNhaW5pYW8ubG1zLnNoYWRpbmdtYXBwZXIiKTsK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzLCB0cmFuc2FjdGlvbk1hbmFnZXIgPSAic2hhcmRpbmdUeE1hbmFnZXIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICArKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXZpb3VzTGFib3VyU3RyZWFtCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBJbnNlcnQoIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXJVdGlsLmluZm9Mb2dnZXIuaW5mbygiYWRkIGluZGlyZWN0IGxhYm91ciwgbGFib3VyOiB7fSIsIGluZGlyZWN0TGFib3VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyZWFtPExhYm91ckVmZmljaWVuY3lEVE8+IHByZXZpb3VzTGFib3VyU3RyZWFtID0gcHJldmlvdXNMYWJvdXJzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKGxhYm91ckVmZmljaWVuY3lEVE8gLT4gbGFib3VyRWZmaWNpZW5jeURUTy5nZXRTdGFydFRpbWUoKSAhPSBudWxsKQogICAgICAgICAgICAgICAgLmZpbHRlcihsYWJvdXJFZmZpY2llbmN5RFRPIC0+IGxhYm91ckVmZmljaWVuY3lEVE8uZ2V0U3RhcnRUaW1lKCkuaXNCZWZvcmUoc3RhcnRUaW1lKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -827,16 +832,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXJVdGlsLmluZm9Mb2dnZXIuaW5mbygiIik7Cg==</text>
+        <text encoding="base64">ICAgIHNoYXJkaW5nVHhNYW5hZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICArKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgIEBJbnNlcnQoIiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzLCB0cmFuc2FjdGlvbk1hbmFnZXIgPSAidHhNYW5hZ2VyIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
