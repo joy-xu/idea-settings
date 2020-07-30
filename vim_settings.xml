@@ -130,15 +130,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/efficiency/LabourPprProvider.java" timestamp="1595922774296" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/efficiency/WorkExceptionEnum.java" timestamp="1596081372243">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="11" column="12" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1595928237633">
         <mark key="'" line="329" column="33" />
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" timestamp="1596012195301" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" timestamp="1596005277005" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" timestamp="1595922803900">
         <mark key="'" line="629" column="34" />
         <mark key="[" line="147" column="0" />
@@ -146,12 +149,6 @@
         <mark key="." line="147" column="0" />
         <mark key="^" line="668" column="21" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/wmp/task-client/1.0.34/task-client-1.0.34-sources.jar!/com/cainiao/wmp/task/client/common/constants/task/TaskTypeEnum.java" timestamp="1595924275501" />
-      <file name="$MAVEN_REPOSITORY$/com/taobao/top/top-api-sdk-dev/cainiao-lms-SNAPSHOT/top-api-sdk-dev-cainiao-lms-20200623.021142-1.jar!/com/dingtalk/api/request/OapiAttendanceShiftAddRequest.class" timestamp="1596015240889" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/MenuType.java" timestamp="1595925079779" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/shift/NewOldEmployeeMySQLProvider.java" timestamp="1595927472601" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/efficiency/LabourEfficiencyPprProvider.java" timestamp="1596015138145" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/shift/NewOldEmployeeMySQLMapper.java" timestamp="1595927487908" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/efficiency/LabourPprResource.java" timestamp="1596023484360">
         <mark key="'" line="64" column="25" />
       </file>
@@ -161,10 +158,6 @@
         <mark key="]" line="1243" column="0" />
         <mark key="." line="1243" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/PprWorkTypeEnum.java" timestamp="1596008139873" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/OpsResource.java" timestamp="1596012176505" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/TestController.java" timestamp="1596012171337" />
-      <file name="$USER_HOME$/cainiao/dingtalk/lippi-atw/web/src/main/java/com/dingtalk/attendance/web/controller/ClassController.java" timestamp="1596014975895" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/DingTalkWriteServiceImpl.java" timestamp="1596015258966">
         <mark key="[" line="375" column="28" />
         <mark key="]" line="375" column="32" />
