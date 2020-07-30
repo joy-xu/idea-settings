@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>warn</entry>
-        <entry>logger</entry>
-        <entry>throw</entry>
         <entry>WORKPLACE</entry>
         <entry>getWorkplace</entry>
         <entry>queryRecentIndirectLabours</entry>
@@ -27,6 +24,9 @@
         <entry>delete</entry>
         <entry>indirect</entry>
         <entry>TODO</entry>
+        <entry>Labour</entry>
+        <entry>query</entry>
+        <entry>Ratio</entry>
       </history-search>
       <history-cmd>
         <entry>1290</entry>
@@ -130,6 +130,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/efficiency/LabourPprResource.java" timestamp="1596023484360">
+        <mark key="'" line="64" column="25" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/LabourPprMapper.java" timestamp="1596081601174">
+        <mark key="'" line="272" column="25" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1596024290924">
+        <mark key="'" line="571" column="30" />
+        <mark key="[" line="1243" column="0" />
+        <mark key="]" line="1243" column="0" />
+        <mark key="." line="1243" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/efficiency/WorkExceptionEnum.java" timestamp="1596081372243">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="13" />
@@ -149,15 +161,6 @@
         <mark key="." line="147" column="0" />
         <mark key="^" line="668" column="21" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/efficiency/LabourPprResource.java" timestamp="1596023484360">
-        <mark key="'" line="64" column="25" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1596024290924">
-        <mark key="'" line="571" column="30" />
-        <mark key="[" line="1243" column="0" />
-        <mark key="]" line="1243" column="0" />
-        <mark key="." line="1243" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/DingTalkWriteServiceImpl.java" timestamp="1596015258966">
         <mark key="[" line="375" column="28" />
         <mark key="]" line="375" column="32" />
@@ -166,12 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="491" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
-      <jump line="582" column="23" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
-      <jump line="650" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
-      <jump line="659" column="23" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
-      <jump line="777" column="15" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
-      <jump line="815" column="15" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="942" column="59" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="277" column="31" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/efficiency/impl/LabourPprFacadeImpl.java" />
       <jump line="27" column="46" filename="$USER_HOME$/cainiao/dingtalk/eapp-corp-project/src/main/java/com/config/Constant.java" />
@@ -266,6 +263,12 @@
       <jump line="334" column="33" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" />
       <jump line="64" column="25" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/efficiency/LabourPprResource.java" />
       <jump line="571" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
+      <jump line="259" column="5" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/LabourPprMapper.java" />
+      <jump line="262" column="62" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/LabourPprMapper.java" />
+      <jump line="263" column="49" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/LabourPprMapper.java" />
+      <jump line="268" column="14" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/LabourPprMapper.java" />
+      <jump line="271" column="62" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/LabourPprMapper.java" />
+      <jump line="272" column="25" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/LabourPprMapper.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -277,7 +280,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text>Ratio</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyDku45IQmFzZeiOt+WPluS4iuS4gOasoeiuoeeul+e7k+aenCwg5q+U5a+55ZCO6L+b6KGMcmVwbGFjZSBpbnRvCg==</text>
@@ -859,9 +862,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>TODO</last-search>
+      <last-search>Ratio</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern>Ratio</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
       <last-dir>1</last-dir>
