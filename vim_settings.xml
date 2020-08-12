@@ -130,12 +130,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/yida/impl/YidaProcessServiceImpl.java" timestamp="1597222480902">
-        <mark key="'" line="118" column="44" />
-        <mark key="[" line="61" column="63" />
-        <mark key="]" line="63" column="26" />
-        <mark key="^" line="63" column="26" />
-        <mark key="." line="63" column="25" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/yida/impl/YidaProcessServiceImpl.java" timestamp="1597223843936">
+        <mark key="'" line="119" column="44" />
+        <mark key="[" line="152" column="30" />
+        <mark key="]" line="152" column="40" />
+        <mark key="^" line="152" column="40" />
+        <mark key="." line="152" column="39" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/process/YidaProcessInstanceManager.java" timestamp="1597219111081">
         <mark key="[" line="23" column="14" />
@@ -362,10 +362,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text>(String)ReflectUtil.getFieldValue(itemProcessIdentityConfig, field.getName())</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>(String)ReflectUtil.getFieldValue(itemProcessIdentityConfig, field.getName())</text>
       </register>
       <register name="/" type="4">
         <text>type</text>
