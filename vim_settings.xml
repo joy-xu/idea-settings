@@ -130,12 +130,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/yida/impl/YidaProcessServiceImpl.java" timestamp="1597223843936">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/yida/impl/YidaProcessServiceImpl.java" timestamp="1597225020264">
         <mark key="'" line="119" column="44" />
-        <mark key="[" line="152" column="30" />
-        <mark key="]" line="152" column="40" />
-        <mark key="^" line="152" column="40" />
-        <mark key="." line="152" column="39" />
+        <mark key="[" line="153" column="16" />
+        <mark key="]" line="153" column="25" />
+        <mark key="." line="153" column="24" />
+        <mark key="^" line="153" column="25" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/process/YidaProcessInstanceManager.java" timestamp="1597219111081">
         <mark key="[" line="23" column="14" />
@@ -143,6 +143,7 @@
         <mark key="^" line="23" column="19" />
         <mark key="." line="23" column="18" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/annotation/IndustryCollection.java" timestamp="1597224963971" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/YidaProcessCallbackController.java" timestamp="1597211838409">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -163,12 +164,6 @@
         <mark key="." line="59" column="24" />
         <mark key="^" line="59" column="25" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/process/YidaInstanceApprovedResultEnum.java" timestamp="1597203560619">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="10" column="9" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/process/YidaItemProcessBO.java" timestamp="1597222227937">
         <mark key="'" line="13" column="13" />
         <mark key="[" line="51" column="4" />
@@ -182,11 +177,11 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/process/InstanceStatusEnum.java" timestamp="1597203444511">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="14" column="9" />
-        <mark key="^" line="14" column="9" />
-        <mark key="." line="14" column="8" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/annotation/YidaProcessFormFieldIgnore.java" timestamp="1597224987488">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/salary/ItemChangeQo.java" timestamp="1597222097458">
         <mark key="'" line="15" column="13" />
@@ -227,10 +222,12 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/process/YidaInstanceStatusEnum.java" timestamp="1597203447232">
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="7" column="16" />
-        <mark key="." line="7" column="15" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/config/ItemProcessIdentityConfig.java" timestamp="1597224991273">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="20" column="31" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/process/YidaProcessActionerName.java" timestamp="1597216864024">
         <mark key="[" line="14" column="0" />
@@ -257,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="453" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="1002" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="1056" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="1001" column="31" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
@@ -357,39 +353,40 @@
       <jump line="19" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/process/YidaProcessInstanceBO.java" />
       <jump line="12" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/process/YidaItemProcessBO.java" />
       <jump line="13" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/process/YidaItemProcessBO.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/config/ItemProcessIdentityConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>(String)ReflectUtil.getFieldValue(itemProcessIdentityConfig, field.getName())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGQK</text>
       </register>
       <register name="-" type="4">
-        <text>(String)ReflectUtil.getFieldValue(itemProcessIdentityConfig, field.getName())</text>
+        <text>TYPE</text>
       </register>
       <register name="/" type="4">
         <text>type</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS5zZXRJbnN0YW5jZVR5cGUoaXRlbVByb2Nlc3NQYXJhbS5nZXRJbnN0YW5jZVR5cGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBZaWRhUHJvY2Vzc0Zvcm1GaWVsZElnbm9yZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5zZXJ0UmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9kaWZpZXIuaXNUcmFuc2llbnQoZmllbGQuZ2V0TW9kaWZpZXJzKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgaW5zdGFuY2UgPSBnZXRJbnN0YW5jZUJ5SWQodXNlcklkLCBpbnN0YW5jZUlkKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBZaWRhUHJvY2Vzc0luc3RhbmNlQk8gaW5zdGFuY2UgPSBnZXRJbnN0YW5jZUJ5SWQodXNlcklkLCBpbnN0YW5jZUlkKTsK</text>
+        <text encoding="base64">ICAgIEBUcmFuc3BhcmVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS5zZXRPcmlnaW5hdG9yKHVzZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -932,16 +929,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2kK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB5aWRhSXRlbVByb2Nlc3Muc2V0RW1wbG95ZWUoZW1wbG95ZWUuZ2V0TmFtZSgpICsgIigiICsgZW1wbG95ZWUuZ2V0TnVtYmVyKCkgKyAiKSIpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5zZXJ0UmVzdWx0Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHdvcmtwbGFjZTsK</text>
+        <text encoding="base64">ICAgICAgICAgaW5zdGFuY2UgPSBnZXRJbnN0YW5jZUJ5SWQodXNlcklkLCBpbnN0YW5jZUlkKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
