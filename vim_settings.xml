@@ -137,9 +137,6 @@
         <mark key="^" line="95" column="34" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/process/YidaProcessItemBO.java" timestamp="1597127711214">
-        <mark key="[" line="10" column="30" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1597195685141">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="26" column="43" />
@@ -156,6 +153,12 @@
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/EhrServiceImpl.java" timestamp="1597132260995">
         <mark key="." line="51" column="14" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/salary/ProcessInstanceCallbackQo.java" timestamp="1597198303419">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LocalDateUtil.java" timestamp="1597131485512" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" timestamp="1597138744175">
@@ -201,11 +204,12 @@
         <mark key="." line="34" column="18" />
         <mark key="^" line="34" column="19" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/salary/SalaryResource.java" timestamp="1597195729555">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/salary/SalaryResource.java" timestamp="1597198339820">
+        <mark key="'" line="39" column="83" />
+        <mark key="[" line="40" column="71" />
+        <mark key="]" line="40" column="96" />
+        <mark key="." line="40" column="95" />
+        <mark key="^" line="40" column="96" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/time/temporal/ChronoField.java" timestamp="1597131340307" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/TestController.java" timestamp="1597195133092">
@@ -219,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourPositionManagerImpl.java" />
       <jump line="37" column="45" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/IndirectLabourPositionManager.java" />
       <jump line="70" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourPositionManagerImpl.java" />
       <jump line="28" column="46" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourPositionManagerImpl.java" />
@@ -319,15 +322,16 @@
       <jump line="76" column="104" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/yida/impl/YidaProcessServiceImpl.java" />
       <jump line="78" column="44" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/yida/impl/YidaProcessServiceImpl.java" />
       <jump line="29" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/salary/SalaryResource.java" />
+      <jump line="40" column="83" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/salary/SalaryResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>userId, processInstanceId</text>
       </register>
       <register name="-" type="4">
-        <text>employeeReadFacade</text>
+        <text>userId, processInstanceId</text>
       </register>
       <register name="/" type="4">
         <text>wmp.task.client.version</text>
@@ -335,8 +339,9 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFdtcExtc0V4Y2VwdGlvbihBQ0NPVU5UX0hBU19OT19FTVBMT1lFRV9JTkZPKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>@QueryParam(&quot;userId&quot;) String userId,
+                                 @QueryParam(&quot;processInstanceId&quot;) String processInstanceId</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -348,7 +353,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -894,16 +899,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcG9zdENsaWVudC5wb3N0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQb3N0Q2xpZW50IHBvc3RDbGllbnQgPSBleGVjdXRhYmxlQ2xpZW50Lm5ld1Bvc3RDbGllbnQoIi95aWRhX3ZwYy9wcm9jZXNzL2dldEluc3RhbmNlQnlJZC5qc29uIik7CiAgICAgICAgcG9zdENsaWVudC5hZGRQYXJhbWV0ZXIoImFwcFR5cGUiLCAiQVBQX0RaQVVCWFkxM04wRkZWUUxWMFRNIik7CiAgICAgICAgcG9zdENsaWVudC5hZGRQYXJhbWV0ZXIoInN5c3RlbVRva2VuIiwgIk1VQTY2OEMxMkcwSUROSkkyUE9YUDg5SEtQVE0yQzIwQUNGREtFTiIpOwogICAgICAgIHBvc3RDbGllbnQuYWRkUGFyYW1ldGVyKCJ1c2VySWQiLCAiNDA2MjAzMjk2NDk3NDMiKTsKICAgICAgICBwb3N0Q2xpZW50LmFkZFBhcmFtZXRlcigicHJvY2Vzc0luc3RhbmNlSWQiLCAiODNjOTg2OGMtNjBlYi00NTdmLThjOWMtZThhNTQ1ZTc3MzZkIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL01hcDxTdHJpbmcsIFN0cmluZz4gZm9ybURhdGEgPSBuZXcgSGFzaE1hcDw+KDE2KTsKICAgICAgICAvL2Zvcm1EYXRhLnB1dCgidGV4dEZpZWxkX2tkZmRzODNoIiwgIuS4ieebuCIpOwogICAgICAgIC8vZm9ybURhdGEucHV0KCJ0ZXh0RmllbGRfa2RmY2NnYnAiLCAi5ouj6LSnIik7CiAgICAgICAgLy9mb3JtRGF0YS5wdXQoInRleHRGaWVsZF9rZGZkczgzaSIsICLovrnmi6PovrnliIYiKTsKICAgICAgICAvL1Bvc3RDbGllbnQgcG9zdENsaWVudCA9IGV4ZWN1dGFibGVDbGllbnQubmV3UG9zdENsaWVudCgiL3lpZGFfdnBjL3Byb2Nlc3Mvc3RhcnRJbnN0YW5jZS5qc29uIik7CiAgICAgICAgLy9wb3N0Q2xpZW50LmFkZFBhcmFtZXRlcigiYXBwVHlwZSIsICJBUFBfRFpBVUJYWTEzTjBGRlZRTFYwVE0iKTsKICAgICAgICAvL3Bvc3RDbGllbnQuYWRkUGFyYW1ldGVyKCJzeXN0ZW1Ub2tlbiIsICJNVUE2NjhDMTJHMElETkpJMlBPWFA4OUhLUFRNMkMyMEFDRkRLRU4iKTsKICAgICAgICAvL3Bvc3RDbGllbnQuYWRkUGFyYW1ldGVyKCJmb3JtVXVpZCIsICJGT1JNLTdaODY2NTgxMUYwSUJRUzhaQkhGNjA5UlVEV1MyMzlDQ0NGREtWTyIpOwogICAgICAgIC8vcG9zdENsaWVudC5hZGRQYXJhbWV0ZXIoInByb2Nlc3NDb2RlIiwgIlRQUk9DLS03Wjg2NjU4MTFGMElCUVM4WkJIRjYwOVJVRFdTMjU5Q0NDRkRLV08iKTsKICAgICAgICAvL3Bvc3RDbGllbnQuYWRkUGFyYW1ldGVyKCJ1c2VySWQiLCAiNDA2MjAzMjk2NDk3NDMiKTsKICAgICAgICAvL3Bvc3RDbGllbnQuYWRkUGFyYW1ldGVyKCJmb3JtRGF0YUpzb24iLCBKU09OLnRvSlNPTlN0cmluZyhmb3JtRGF0YSkpOwogICAgICAgIC8vCiAgICAgICAgLy8KICAgICAgICAvL1N0cmluZyBhcGlSZXN1bHQgPSBwb3N0Q2xpZW50LnBvc3QoKTsKICAgICAgICAvLwogICAgICAgIC8vcmV0dXJuIGFwaVJlc3VsdDsKCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcG9zdENsaWVudC5wb3N0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
