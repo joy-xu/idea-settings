@@ -130,11 +130,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/impl/AttendanceRegisterRecordManagerImpl.java" timestamp="1597650990701">
-        <mark key="[" line="29" column="43" />
-        <mark key="]" line="31" column="4" />
-        <mark key="^" line="31" column="4" />
-        <mark key="." line="31" column="3" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryFacadeImpl.java" timestamp="1597732145847">
+        <mark key="[" line="75" column="20" />
+        <mark key="]" line="75" column="51" />
+        <mark key="^" line="75" column="51" />
+        <mark key="." line="75" column="50" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/salary/AttendanceRegisterRecordQo.java" timestamp="1597732531482">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="33" />
+        <mark key="." line="35" column="32" />
+        <mark key="^" line="35" column="33" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/process/ProcessInstanceTimeVO.java" timestamp="1597656957097">
         <mark key="[" line="27" column="19" />
@@ -163,7 +170,14 @@
         <mark key="^" line="24" column="58" />
         <mark key="." line="24" column="57" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-pojo/src/main/java/com/cainiao/lms/enums/RegisterTypeEnum.java" timestamp="1597647443810" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/salary/SalaryAttendanceRuleQo.java" timestamp="1597732390010">
+        <mark key="'" line="15" column="29" />
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="16" column="31" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-pojo/src/main/java/com/cainiao/lms/enums/RegisterTypeEnum.java" timestamp="1597732485288" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/process/ProcessInstanceItemVO.java" timestamp="1597656004979">
         <mark key="'" line="10" column="13" />
         <mark key="[" line="28" column="19" />
@@ -187,11 +201,11 @@
         <mark key="." line="68" column="24" />
         <mark key="^" line="68" column="25" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/AttendanceRegisterRecordFacadeImpl.java" timestamp="1597654262602">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="128" column="55" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/AttendanceRegisterRecordFacadeImpl.java" timestamp="1597733214131">
+        <mark key="[" line="114" column="73" />
+        <mark key="]" line="114" column="73" />
+        <mark key="." line="114" column="72" />
+        <mark key="^" line="114" column="73" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/indirectlabour/IndirectLabourWorkTypeEnum.java" timestamp="1597656208760" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1597721294032">
@@ -201,12 +215,6 @@
         <mark key="." line="195" column="0" />
         <mark key="^" line="194" column="29" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/salary/AttendanceRegisterRecordVO.java" timestamp="1597652466660">
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="16" />
-        <mark key="^" line="24" column="16" />
-        <mark key="." line="24" column="15" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" timestamp="1597653780862">
         <mark key="'" line="705" column="38" />
         <mark key="[" line="476" column="71" />
@@ -214,25 +222,19 @@
         <mark key="." line="476" column="76" />
         <mark key="^" line="476" column="77" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/salary/AttendanceRegisterRecordDO.java" timestamp="1597652120124">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/salary/AttendanceRegisterRecordDO.java" timestamp="1597732807292">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="31" column="32" />
         <mark key="]" line="33" column="34" />
         <mark key="^" line="33" column="34" />
         <mark key="." line="33" column="33" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/AttendanceRegisterRecordManager.java" timestamp="1597651019460">
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="26" column="19" />
-        <mark key="^" line="26" column="19" />
-        <mark key="." line="26" column="18" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/salary/SalaryResource.java" timestamp="1597657609715">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/salary/SalaryResource.java" timestamp="1597732432301">
         <mark key="'" line="54" column="62" />
-        <mark key="[" line="47" column="11" />
-        <mark key="]" line="47" column="22" />
-        <mark key="." line="47" column="21" />
-        <mark key="^" line="47" column="22" />
+        <mark key="[" line="215" column="5" />
+        <mark key="]" line="215" column="8" />
+        <mark key="." line="215" column="7" />
+        <mark key="^" line="215" column="8" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/config/ItemProcessIdentityConfig.java" timestamp="1597718944792">
         <mark key="'" line="20" column="0" />
@@ -347,11 +349,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBUT0RPIOS4ieS4quWuoeaJueiKgueCueabv+aNogo=</text>
+      <register name="&quot;" type="4">
+        <text>POST</text>
       </register>
       <register name="-" type="4">
-        <text>setEmployeePosition</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
         <text>register</text>
@@ -360,7 +362,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFdtcExtc0V4Y2VwdGlvbihEVVBMSUNBVEVfUkVHSVNURVJfVFlQRSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBUT0RPIOS4ieS4quWuoeaJueiKgueCueabv+aNogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -369,13 +371,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">IyBUT0RPIOS4ieS4quWuoeaJueiKgueCueabv+aNogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRlbmRhbmNlUmVtYW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -918,13 +920,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZFN3aXRjaE91dFJlY29yZChyZWdpc3RlclFvLCBhdHRlbmRhbmNlUmVjb3JkLCBlbXBsb3llZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRlbmRhbmNlUmVtYW4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBidWlsZFN3aXRjaE91dFJlY29yZChyZWdpc3RlclFvLCBhdHRlbmRhbmNlUmVjb3JkLCBlbXBsb3llZSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
