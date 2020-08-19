@@ -161,14 +161,8 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/config/TimeProcessIdentityConfig.java" timestamp="1597743825225">
         <mark key="^" line="35" column="37" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/salary/TimeChangeQo.java" timestamp="1597743491536">
-        <mark key="'" line="15" column="13" />
-        <mark key="[" line="44" column="17" />
-        <mark key="]" line="44" column="19" />
-        <mark key="." line="44" column="18" />
-        <mark key="^" line="44" column="19" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/process/YidaInstanceTypeEnum.java" timestamp="1597743997670">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/velocity/templates/toffee_operate.vm" timestamp="1597820867322" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/process/YidaInstanceTypeEnum.java" timestamp="1597821460330">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="21" />
         <mark key="^" line="14" column="21" />
@@ -180,6 +174,11 @@
         <mark key="." line="268" column="41" />
         <mark key="^" line="268" column="42" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/process/ApprovedStatusEnum.java" timestamp="1597821380551">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1597802574010">
         <mark key="'" line="225" column="24" />
       </file>
@@ -189,38 +188,26 @@
         <mark key="." line="123" column="39" />
         <mark key="^" line="123" column="40" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/salary/ProcessInstanceResource.java" timestamp="1597822036259">
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="45" column="44" />
+        <mark key="." line="45" column="43" />
+        <mark key="^" line="45" column="44" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/salary/SalaryResource.java" timestamp="1597818587991">
         <mark key="[" line="99" column="24" />
         <mark key="]" line="99" column="24" />
         <mark key="." line="99" column="24" />
         <mark key="^" line="100" column="38" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/process/YidaProcessService.java" timestamp="1597743562058">
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="27" column="18" />
-        <mark key="." line="27" column="17" />
-        <mark key="^" line="27" column="18" />
-      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1597820231701" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkApiToolResource.java" timestamp="1597808883257" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/process/YidaItemProcessBO.java" timestamp="1597743347044">
-        <mark key="'" line="13" column="13" />
-        <mark key="[" line="69" column="34" />
-        <mark key="]" line="71" column="33" />
-        <mark key="." line="71" column="32" />
-        <mark key="^" line="71" column="33" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" timestamp="1597820035411" />
       <file name="/JSON Fragment (SalaryFacadeImpl.java:4776).json" timestamp="1597800735164">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="12" />
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="11" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/SalaryFacade.java" timestamp="1597743103705">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="29" />
-        <mark key="." line="26" column="28" />
-        <mark key="^" line="26" column="29" />
       </file>
       <file name="/fragment.java" timestamp="1597805825923">
         <mark key="[" line="0" column="0" />
@@ -332,10 +319,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>register</text>
