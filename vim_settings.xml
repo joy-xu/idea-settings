@@ -183,20 +183,14 @@
         <mark key="^" line="340" column="23" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/salary/SalaryAttendanceResultBO.java" timestamp="1598263120600" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/salary/SalaryAttendanceRuleDO.java" timestamp="1598324193962">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/salary/SalaryAttendanceRuleDO.java" timestamp="1598325292813">
         <mark key="'" line="70" column="26" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/salary/SalaryAttendanceRuleVO.java" timestamp="1598324465185">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/salary/AttendanceRegisterRecordDO.java" timestamp="1598255144889">
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="50" column="34" />
-        <mark key="^" line="50" column="34" />
-        <mark key="." line="50" column="33" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/salary/SalaryAttendanceRuleVO.java" timestamp="1598325298951">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/PositionCategoryBO.java" timestamp="1598321556460">
         <mark key="[" line="23" column="12" />
@@ -208,6 +202,12 @@
         <mark key="[" line="873" column="90" />
         <mark key="]" line="873" column="90" />
         <mark key="." line="873" column="90" />
+      </file>
+      <file name="/fragment.java" timestamp="1598325222414">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -315,8 +315,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZXh0ZW5kcyBTYWxhcnlBdHRlbmRhbmNlUnVsZUJPIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZXh0ZW5kcyBTYWxhcnlBdHRlbmRhbmNlUnVsZUJPIA==</text>
@@ -328,22 +328,22 @@
         <text encoding="base64">ICAgIFBJQ0tfRkNMX0xTVCgxMzksICJQSUNLX0ZDTF9MU1QiLCAi5pW0566x5ouj6YCJKOmbtuWUrumAmikiLCBmYWxzZSwgdHJ1ZSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8qKiDooYzkuJrlkI3np7AgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0R210TW9kaWZpZWQoTG9jYWxEYXRlVXRpbC5mb3JtYXREYXRlVGltZShhdHRlbmRhbmNlUnVsZS5nZXRHbXRNb2RpZmllZCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0R210TW9kaWZpZWQoTG9jYWxEYXRlVXRpbC5mb3JtYXREYXRlVGltZShhdHRlbmRhbmNlUnVsZS5nZXRHbXRNb2RpZmllZCgpKSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -886,16 +886,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCZWFuVXRpbHMuY29weVByb3BlcnRpZXMoYXR0ZW5kYW5jZVJ1bGUsIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKiDkuIrnj63lhYHorrjov5/liLDml7bpl7TvvIzljZXkvY3liIbpkp8g55m76K6w5pa55byP5Li65o6S54+t6YCC55SoICovCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKiDorrDolqrlt6Xml7blj5bmlbTml7bpl7TvvIzljZXkvY3liIbpkp8gKi8K</text>
+        <text encoding="base64">ICAgICAgICBCZWFuVXRpbHMuY29weVByb3BlcnRpZXMoYXR0ZW5kYW5jZVJ1bGUsIHJlc3VsdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKiDorrDolqrlt6Xml7blj5bmlbTmlrnlkJHvvIwx5ZCR5YmN77yMMuWQkeWQjiAqLwo=</text>
+        <text encoding="base64">ICAgIC8qKiDkuIrnj63lhYHorrjov5/liLDml7bpl7TvvIzljZXkvY3liIbpkp8g55m76K6w5pa55byP5Li65o6S54+t6YCC55SoICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
