@@ -130,6 +130,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/YidaProcessCallbackController.java" timestamp="1598519949687">
+        <mark key="'" line="35" column="54" />
+        <mark key="[" line="54" column="13" />
+        <mark key="]" line="55" column="12" />
+        <mark key="." line="55" column="11" />
+        <mark key="^" line="55" column="12" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" timestamp="1598495057447">
         <mark key="'" line="806" column="22" />
         <mark key="[" line="741" column="31" />
@@ -154,6 +161,12 @@
         <mark key="]" line="548" column="0" />
         <mark key="." line="548" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/EhrServiceImpl.java" timestamp="1598517164649">
+        <mark key="[" line="245" column="26" />
+        <mark key="]" line="245" column="38" />
+        <mark key="." line="245" column="37" />
+        <mark key="^" line="245" column="38" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/process/ProcessInstanceTimeVO.java" timestamp="1598500335037">
         <mark key="'" line="18" column="6" />
         <mark key="[" line="17" column="0" />
@@ -173,11 +186,11 @@
         <mark key="]" line="37" column="61" />
         <mark key="." line="37" column="63" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/process/ProcessInstanceRunningJobProcessor.java" timestamp="1598514465970">
-        <mark key="[" line="108" column="65" />
-        <mark key="]" line="108" column="65" />
-        <mark key="." line="108" column="64" />
-        <mark key="^" line="108" column="65" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/process/ProcessInstanceRunningJobProcessor.java" timestamp="1598514625632">
+        <mark key="[" line="63" column="94" />
+        <mark key="]" line="63" column="94" />
+        <mark key="." line="63" column="95" />
+        <mark key="^" line="94" column="91" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/WorkPlaceManagerImpl.java" timestamp="1598514325492" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/salary/ProcessInstanceQo.java" timestamp="1598498874399">
@@ -185,11 +198,6 @@
         <mark key="]" line="18" column="33" />
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="33" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/LabourPprModuleProcessor.java" timestamp="1598494795362">
-        <mark key="[" line="49" column="59" />
-        <mark key="]" line="49" column="59" />
-        <mark key="." line="49" column="61" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/process/YidaProcessInstanceDO.java" timestamp="1598514399470" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/salary/SalaryTimeChangeTypeEnum.java" timestamp="1598500372220">
@@ -205,17 +213,12 @@
         <mark key="." line="234" column="51" />
         <mark key="^" line="234" column="52" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/aidata/impl/PipelineNodeInstanceRegisterManagerImpl.java" timestamp="1598494792738">
-        <mark key="[" line="41" column="61" />
-        <mark key="]" line="41" column="61" />
-        <mark key="." line="41" column="63" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/query/process/ProcessInstanceQuery.java" timestamp="1598514469867">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/query/process/ProcessInstanceQuery.java" timestamp="1598514550228">
         <mark key="'" line="17" column="13" />
         <mark key="[" line="37" column="12" />
-        <mark key="]" line="37" column="16" />
-        <mark key="." line="37" column="15" />
-        <mark key="^" line="37" column="16" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="17" />
+        <mark key="^" line="37" column="18" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/process/YidaProcessInstanceBO.java" timestamp="1598497960458">
         <mark key="'" line="44" column="74" />
@@ -238,11 +241,11 @@
         <mark key="." line="62" column="64" />
         <mark key="^" line="62" column="65" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/process/impl/YidaProcessInstanceManagerImpl.java" timestamp="1598514443128">
-        <mark key="[" line="86" column="65" />
-        <mark key="]" line="86" column="65" />
-        <mark key="^" line="86" column="64" />
-        <mark key="." line="86" column="65" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/process/impl/YidaProcessInstanceManagerImpl.java" timestamp="1598514493849">
+        <mark key="[" line="86" column="42" />
+        <mark key="]" line="86" column="49" />
+        <mark key="^" line="86" column="49" />
+        <mark key="." line="86" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -351,10 +354,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>setHrName</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>setHrName</text>
       </register>
       <register name="/" type="4">
         <text>ppr</text>
