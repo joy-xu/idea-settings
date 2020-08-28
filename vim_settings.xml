@@ -130,7 +130,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/YidaProcessCallbackController.java" timestamp="1598519949687">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LabourUtil.java" timestamp="1598596462261">
+        <mark key="'" line="112" column="26" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/YidaProcessCallbackController.java" timestamp="1598596811291">
         <mark key="'" line="35" column="54" />
         <mark key="[" line="54" column="13" />
         <mark key="]" line="55" column="12" />
@@ -150,13 +153,14 @@
         <mark key="." line="535" column="14" />
         <mark key="^" line="535" column="15" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/EhrServiceImpl.java" timestamp="1598517164649">
-        <mark key="[" line="245" column="26" />
-        <mark key="]" line="245" column="38" />
-        <mark key="." line="245" column="37" />
-        <mark key="^" line="245" column="38" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1598596245382">
+        <mark key="'" line="26" column="1246" />
+        <mark key="[" line="198" column="30" />
+        <mark key="]" line="198" column="52" />
+        <mark key="." line="198" column="51" />
+        <mark key="^" line="198" column="52" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/process/ProcessInstanceTimeVO.java" timestamp="1598500335037">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/process/ProcessInstanceTimeVO.java" timestamp="1598596265822">
         <mark key="'" line="18" column="6" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="19" column="11" />
@@ -169,13 +173,6 @@
         <mark key="." line="229" column="26" />
         <mark key="^" line="229" column="27" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/process/ProcessInstanceRunningJobProcessor.java" timestamp="1598514625632">
-        <mark key="[" line="63" column="94" />
-        <mark key="]" line="63" column="94" />
-        <mark key="." line="63" column="95" />
-        <mark key="^" line="94" column="91" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/WorkPlaceManagerImpl.java" timestamp="1598514325492" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/process/YidaProcessInstanceProvider.java" timestamp="1598586660434">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="123" column="79" />
@@ -190,6 +187,7 @@
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="33" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/pom.xml" timestamp="1598593541305" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/process/YidaProcessInstanceDO.java" timestamp="1598583789549">
         <mark key="[" line="62" column="33" />
         <mark key="]" line="63" column="73" />
@@ -203,12 +201,6 @@
         <mark key="." line="256" column="46" />
         <mark key="^" line="256" column="47" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/salary/SalaryTimeChangeTypeEnum.java" timestamp="1598500372220">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="18" />
-        <mark key="^" line="12" column="18" />
-        <mark key="." line="12" column="17" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/query/process/ProcessInstanceQuery.java" timestamp="1598583071099">
         <mark key="'" line="18" column="13" />
         <mark key="[" line="40" column="49" />
@@ -216,28 +208,28 @@
         <mark key="." line="40" column="44" />
         <mark key="^" line="40" column="45" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/process/ApprovedStatusEnum.java" timestamp="1598579797588">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/process/ApprovedStatusEnum.java" timestamp="1598593658539">
         <mark key="[" line="15" column="11" />
         <mark key="]" line="15" column="13" />
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="13" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/pom.xml" timestamp="1598587502316" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/indirectlabour/IndirectLabourProvider.java" timestamp="1598584272537">
         <mark key="'" line="14" column="27" />
         <mark key="." line="42" column="28" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/salary/SalaryAttendanceResultVO.java" timestamp="1598511003676">
-        <mark key="'" line="21" column="13" />
-        <mark key="[" line="140" column="65" />
-        <mark key="]" line="140" column="66" />
-        <mark key="^" line="140" column="66" />
-        <mark key="." line="140" column="65" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/process/YidaProcessInstanceMapper.java" timestamp="1598584176446">
         <mark key="[" line="34" column="19" />
         <mark key="]" line="34" column="19" />
         <mark key="." line="34" column="18" />
         <mark key="^" line="34" column="19" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/impl/SalaryAttendanceResultManagerImpl.java" timestamp="1598586933857">
+        <mark key="[" line="101" column="102" />
+        <mark key="]" line="103" column="19" />
+        <mark key="." line="103" column="18" />
+        <mark key="^" line="103" column="19" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/process/YidaInstanceStatusEnum.java" timestamp="1598578401215">
         <mark key="[" line="15" column="15" />
@@ -253,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="37" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/salary/AttendanceRegisterRecordDO.java" />
       <jump line="17" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/salary/AttendanceRegisterRecordQo.java" />
       <jump line="10" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/salary/AttendanceRegisterRecordVO.java" />
       <jump line="4" column="10" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/salary/SalaryResource.java" />
@@ -353,6 +344,7 @@
       <jump line="16" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/salary/ProcessInstanceQo.java" />
       <jump line="14" column="27" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/indirectlabour/IndirectLabourProvider.java" />
       <jump line="21" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/process/YidaProcessInstanceProvider.java" />
+      <jump line="112" column="26" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LabourUtil.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
