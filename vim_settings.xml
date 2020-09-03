@@ -144,11 +144,6 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="258" column="15" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/annotation/CheckEmployeeNumberFormat.java" timestamp="1599032409328">
-        <mark key="]" line="23" column="43" />
-        <mark key="^" line="23" column="43" />
-        <mark key="." line="23" column="42" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/salary/AttendanceRegisterRecordQo.java" timestamp="1599038430117">
         <mark key="'" line="36" column="20" />
         <mark key="[" line="58" column="24" />
@@ -190,6 +185,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="^" line="18" column="31" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/salary/SalaryItemResultAddQo.java" timestamp="1599039779422">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="29" />
+        <mark key="^" line="22" column="30" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/AttendanceRegisterRecordManager.java" timestamp="1599034768042">
         <mark key="[" line="31" column="10" />
@@ -343,11 +344,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQogICAgLy9wcml2YXRlIFN0cmluZyBtYWtldXBSZWFzb247Cj4+Pj4+Pj4gZmVhdHVyZS8yMDIwMDkwMV83NTg2MTkzX3NhbGFyeV8xCg==</text>
+      <register name="&quot;" type="4">
+        <text>EmployeeNumber</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>EmployeeNumber</text>
       </register>
       <register name="/" type="4">
         <text>return null</text>
