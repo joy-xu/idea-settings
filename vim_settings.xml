@@ -135,10 +135,12 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/test/java/com/cainiao/lms/web/facade/impl/RegisteredAttendanceFacadeImplTest.java" timestamp="1600331595413">
         <mark key="'" line="68" column="58" />
       </file>
-      <file name="/a.dummy" timestamp="1600314365360">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/impl/AttendanceRegisterRecordManagerImpl.java" timestamp="1600315415069" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" timestamp="1600335932363">
+        <mark key="[" line="1344" column="0" />
+        <mark key="]" line="1344" column="0" />
+        <mark key="." line="1344" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1600333685516" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/YidaProcessServiceImpl.java" timestamp="1600329087118">
         <mark key="'" line="500" column="56" />
@@ -305,8 +307,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>plusDays</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBMb2dnZXJVdGlsLmluZm9Mb2dnZXIuaW5mbygiZ2V0IHBwciBjb250ZXh0OiB7fSIsIHBwckNvbnRleHQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>plusDays</text>
@@ -318,16 +320,16 @@
         <text encoding="base64">ICAgIEBNb2NrQmVhbgogICAgcHJpdmF0ZSBBdHRlbmRhbmNlUmVnaXN0ZXJSZWNvcmRNYW5hZ2VyIHJlZ2lzdGVyUmVjb3JkTWFuYWdlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXJVdGlsLmluZm9Mb2dnZXIuaW5mbygiZ2V0IHBwciBjb250ZXh0OiB7fSIsIHBwckNvbnRleHQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTd2l0Y2hQcm9wZXJ0eS5jbGFzcwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTd2l0Y2hQcm9wZXJ0eS5jbGFzcwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -876,16 +878,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgQFRyYW5zYWN0aW9uYWwodHJhbnNhY3Rpb25NYW5hZ2VyID0gInR4TWFuYWdlciIsIHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQogICAgcHVibGljIHZvaWQgcG9zdFJlZ2lzdGVyQXR0ZW5kYW5jZShBdHRlbmRhbmNlUG9zdFJlZ2lzdGVyUmVjb3JkUW8gcG9zdFJlZ2lzdGVyUmVjb3JkUW8pIHsKICAgICAgICAvLyDmoKHpqozlj4LmlbAKICAgICAgICB2YWxpZGF0ZVBvc3RSZWdpc3RlckF0dGVuZGFuY2UocG9zdFJlZ2lzdGVyUmVjb3JkUW8pOwoKICAgICAgICAvLyDmoKHpqozlt6Xlj7cKICAgICAgICBFbXBsb3llZURPIGVtcGxveWVlID0gZW1wbG95ZWVNYW5hZ2VyLnNlbGVjdEJ5TnVtYmVyKHBvc3RSZWdpc3RlclJlY29yZFFvLmdldEVtcGxveWVlTnVtYmVyKCkpOwogICAgICAgIGlmIChlbXBsb3llZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBXbXBMbXNFeGNlcHRpb24oRU1QTE9ZRUVfTlVNQkVSX05PVF9FWElTVCk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgQFRyYW5zYWN0aW9uYWwodHJhbnNhY3Rpb25NYW5hZ2VyID0gInR4TWFuYWdlciIsIHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQogICAgcHVibGljIHZvaWQgcG9zdFJlZ2lzdGVyQXR0ZW5kYW5jZShBdHRlbmRhbmNlUG9zdFJlZ2lzdGVyUmVjb3JkUW8gcG9zdFJlZ2lzdGVyUmVjb3JkUW8pIHsKICAgICAgICAvLyDmoKHpqozlj4LmlbAKICAgICAgICB2YWxpZGF0ZVBvc3RSZWdpc3RlckF0dGVuZGFuY2UocG9zdFJlZ2lzdGVyUmVjb3JkUW8pOwoKICAgICAgICAvLyDmoKHpqozlt6Xlj7cKICAgICAgICBFbXBsb3llZURPIGVtcGxveWVlID0gZW1wbG95ZWVNYW5hZ2VyLnNlbGVjdEJ5TnVtYmVyKHBvc3RSZWdpc3RlclJlY29yZFFvLmdldEVtcGxveWVlTnVtYmVyKCkpOwogICAgICAgIGlmIChlbXBsb3llZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBXbXBMbXNFeGNlcHRpb24oRU1QTE9ZRUVfTlVNQkVSX05PVF9FWElTVCk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
