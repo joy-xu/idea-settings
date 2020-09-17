@@ -130,12 +130,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryFacadeImpl.java" timestamp="1600240639471">
-        <mark key="[" line="428" column="105" />
-        <mark key="]" line="428" column="105" />
-        <mark key="^" line="428" column="105" />
-        <mark key="." line="428" column="104" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/ProcessInstanceFacadeImpl.java" timestamp="1600087896820">
         <mark key="[" line="492" column="88" />
         <mark key="]" line="492" column="128" />
@@ -149,42 +143,6 @@
         <mark key="." line="70" column="29" />
         <mark key="^" line="70" column="30" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/salary/SalaryItemResultDO.java" timestamp="1600135025576">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="66" column="20" />
-        <mark key="]" line="66" column="29" />
-        <mark key="." line="66" column="28" />
-        <mark key="^" line="66" column="29" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/common/enums/LmsEnum.java" timestamp="1600071657927">
-        <mark key="'" line="1751" column="47" />
-        <mark key="[" line="1752" column="73" />
-        <mark key="]" line="1752" column="73" />
-        <mark key="^" line="1752" column="73" />
-        <mark key="." line="1752" column="72" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/indirectlabour/IndirectLabourProvider.java" timestamp="1600235529725" />
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/hrp/cn-hrp-scenario-client/1.0.13/cn-hrp-scenario-client-1.0.13.jar!/com/cainiao/hrp/scenario/client/dto/mdm/emp/EmployeeJobDTO.class" timestamp="1600241608940" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1600053585420">
-        <mark key="[" line="402" column="46" />
-        <mark key="]" line="402" column="92" />
-        <mark key="^" line="402" column="92" />
-        <mark key="." line="402" column="91" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" timestamp="1600051931365" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/typehandler/SalaryItemResultExtensionTypeHandler.java" timestamp="1600135270973">
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="40" column="0" />
-        <mark key="." line="39" column="1" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1600240522813" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/impl/SalaryItemResultManagerImpl.java" timestamp="1600067026842">
-        <mark key="'" line="162" column="16" />
-        <mark key="[" line="162" column="99" />
-        <mark key="]" line="162" column="105" />
-        <mark key="^" line="162" column="105" />
-        <mark key="." line="162" column="104" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/process/ProcessInstanceRunningJobProcessor.java" timestamp="1600069188449">
         <mark key="'" line="108" column="102" />
         <mark key="[" line="109" column="84" />
@@ -192,11 +150,24 @@
         <mark key="^" line="109" column="99" />
         <mark key="." line="109" column="98" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/salary/SalaryResource.java" timestamp="1600241169097">
+        <mark key="[" line="85" column="41" />
+        <mark key="]" line="85" column="47" />
+        <mark key="." line="85" column="46" />
+        <mark key="^" line="85" column="47" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/ehr/EhrConfigBO.java" timestamp="1600083403694">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="27" column="21" />
         <mark key="^" line="27" column="21" />
         <mark key="." line="27" column="20" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/common/enums/LmsEnum.java" timestamp="1600071657927">
+        <mark key="'" line="1751" column="47" />
+        <mark key="[" line="1752" column="73" />
+        <mark key="]" line="1752" column="73" />
+        <mark key="^" line="1752" column="73" />
+        <mark key="." line="1752" column="72" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryItemResultFacadeImpl.java" timestamp="1600067473960">
         <mark key="'" line="288" column="67" />
@@ -206,17 +177,43 @@
         <mark key="." line="293" column="19" />
         <mark key="^" line="293" column="20" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/salary/SalaryResource.java" timestamp="1600241169097">
-        <mark key="[" line="85" column="41" />
-        <mark key="]" line="85" column="47" />
-        <mark key="." line="85" column="46" />
-        <mark key="^" line="85" column="47" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/salary/SalaryItemResultDO.java" timestamp="1600135025576">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="66" column="20" />
+        <mark key="]" line="66" column="29" />
+        <mark key="." line="66" column="28" />
+        <mark key="^" line="66" column="29" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryFacadeImpl.java" timestamp="1600240639471">
+        <mark key="[" line="428" column="105" />
+        <mark key="]" line="428" column="105" />
+        <mark key="^" line="428" column="105" />
+        <mark key="." line="428" column="104" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/dts/task/PprTaskParam.java" timestamp="1600307955281" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1600053585420">
+        <mark key="[" line="402" column="46" />
+        <mark key="]" line="402" column="92" />
+        <mark key="^" line="402" column="92" />
+        <mark key="." line="402" column="91" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/config/SequenceConfig.java" timestamp="1600075341524">
         <mark key="[" line="95" column="33" />
         <mark key="]" line="95" column="36" />
         <mark key="." line="95" column="35" />
         <mark key="^" line="95" column="36" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/impl/SalaryItemResultManagerImpl.java" timestamp="1600067026842">
+        <mark key="'" line="162" column="16" />
+        <mark key="[" line="162" column="99" />
+        <mark key="]" line="162" column="105" />
+        <mark key="^" line="162" column="105" />
+        <mark key="." line="162" column="104" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/typehandler/SalaryItemResultExtensionTypeHandler.java" timestamp="1600135270973">
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="39" column="1" />
       </file>
       <file name="/fragment.java" timestamp="1600069113506">
         <mark key="[" line="0" column="0" />
