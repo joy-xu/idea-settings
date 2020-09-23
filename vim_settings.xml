@@ -154,12 +154,6 @@
         <mark key="^" line="154" column="80" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/efficiency/impl/LabourPprFacadeImpl.java" timestamp="1600831892748">
-        <mark key="[" line="1434" column="11" />
-        <mark key="]" line="1434" column="33" />
-        <mark key="^" line="1434" column="33" />
-        <mark key="." line="1434" column="32" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/config/SpringCacheConfig.java" timestamp="1600854537231">
         <mark key="[" line="27" column="77" />
         <mark key="]" line="27" column="96" />
@@ -170,6 +164,9 @@
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/EhrServiceImpl.java" timestamp="1600861337090">
+        <mark key="'" line="203" column="33" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/salary/SalaryItemResultModifiedInfoBO.java" timestamp="1600855865084">
         <mark key="'" line="20" column="19" />
@@ -219,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="69" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/process/impl/YidaProcessServiceImpl.java" />
       <jump line="359" column="33" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryItemResultFacadeImpl.java" />
       <jump line="393" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryItemResultFacadeImpl.java" />
       <jump line="414" column="23" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryItemResultFacadeImpl.java" />
@@ -319,6 +315,7 @@
       <jump line="20" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/salary/SalaryItemResultModifiedInfoBO.java" />
       <jump line="284" column="57" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryItemResultFacadeImpl.java" />
       <jump line="233" column="49" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryItemResultFacadeImpl.java" />
+      <jump line="203" column="33" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/EhrServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
