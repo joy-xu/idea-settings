@@ -130,12 +130,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-pub.properties" timestamp="1600928023008">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="51" column="0" />
-        <mark key="." line="51" column="50" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-lzd-project.properties" timestamp="1600928227326">
         <mark key="[" line="78" column="49" />
         <mark key="]" line="78" column="50" />
@@ -161,13 +155,6 @@
         <mark key="]" line="53" column="0" />
         <mark key="^" line="53" column="0" />
         <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-pre2.properties" timestamp="1600928085576">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="26" />
-        <mark key="]" line="48" column="50" />
-        <mark key="." line="48" column="49" />
-        <mark key="^" line="48" column="50" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/indirectlabour/CutOffIndirectLabourWithAttendanceEndProcessor.java" timestamp="1600929852819">
         <mark key="[" line="163" column="96" />
@@ -229,13 +216,25 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" timestamp="1600948890948">
+        <mark key="'" line="151" column="11" />
+        <mark key="[" line="153" column="32" />
+        <mark key="]" line="150" column="32" />
+        <mark key="^" line="150" column="32" />
+        <mark key="." line="150" column="31" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/LinkQueryTaskWorkloadServiceImpl.java" timestamp="1600929932955">
         <mark key="'" line="128" column="64" />
         <mark key="." line="128" column="91" />
       </file>
+      <file name="/fragment.java" timestamp="1600948818536">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="38" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/process/impl/YidaProcessServiceImpl.java" />
       <jump line="84" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/process/impl/YidaProcessServiceImpl.java" />
       <jump line="54" column="26" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/process/impl/YidaProcessServiceImpl.java" />
       <jump line="203" column="64" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/TestController.java" />
@@ -335,6 +334,7 @@
       <jump line="129" column="64" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/LinkQueryTaskWorkloadServiceImpl.java" />
       <jump line="52" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" />
       <jump line="385" column="20" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
+      <jump line="151" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
