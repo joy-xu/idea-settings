@@ -130,12 +130,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/LmsAttendanceStatisticsMapper.java" timestamp="1602212331186" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/metaq/EmployeePprEventConsumer.java" timestamp="1602211530112">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
         <mark key="^" line="146" column="22" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/efficiency/LabourPprProvider.java" timestamp="1602212912839" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1602211924888" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" timestamp="1602211454572">
         <mark key="[" line="104" column="49" />
@@ -143,20 +145,17 @@
         <mark key="." line="104" column="63" />
         <mark key="^" line="104" column="64" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/EfficiencyServiceImpl.java" timestamp="1602212228923">
-        <mark key="[" line="383" column="114" />
-        <mark key="]" line="384" column="16" />
-        <mark key="." line="384" column="15" />
-        <mark key="^" line="384" column="16" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/EfficiencyServiceImpl.java" timestamp="1602213542791">
+        <mark key="'" line="428" column="0" />
+        <mark key="[" line="410" column="20" />
+        <mark key="]" line="410" column="20" />
+        <mark key="." line="410" column="20" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/indirectlabour/IndirectLabourPositionDO.java" timestamp="1601196022429">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="13" />
         <mark key="^" line="17" column="13" />
         <mark key="." line="17" column="12" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/pom.xml" timestamp="1600958273959">
-        <mark key="'" line="60" column="40" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1601038715054">
         <mark key="'" line="484" column="11" />
@@ -170,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="618" column="23" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryItemResultFacadeImpl.java" />
       <jump line="76" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/salary/SalaryItemResultDO.java" />
       <jump line="19" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/salary/SalaryItemResultDO.java" />
       <jump line="57" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/salary/SalaryItemResultDO.java" />
@@ -270,15 +268,16 @@
       <jump line="60" column="40" filename="$USER_HOME$/cainiao/wmplms/pom.xml" />
       <jump line="288" column="20" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" />
       <jump line="133" column="9" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/metaq/EmployeePprEventConsumer.java" />
+      <jump line="424" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/EfficiencyServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -287,7 +286,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBDb25zdW1lQ29uY3VycmVudGx5U3RhdHVzLlJFQ09OU1VNRV9MQVRFUjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIExtc0VudkNvbmZpZyBsbXNFbnZDb25maWc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -296,13 +295,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgV29ya2luZ09ubGluZVNlcnZpY2Ugd29ya2luZ09ubGluZVNlcnZpY2U7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5p+l6K+i5Liq5Lq65o6S5ZCNCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZighc3dpdGNoUHJvcGVydHkuZ2V0RGVhbFJlYWxUaW1lUHByKCkpewogICAgICAgICAgICAvLyDlrp7ml7blpITnkIblvIDlhbPlhbPpl60sIOi/lOWbnmZhbHNlLCDmiZPljbBldmVudAogICAgICAgICAgICBMb2dnZXJVdGlsLm1ldGFxTG9nZ2VyLmluZm8oImRlYWxSZWFsVGltZVBwciBmYWxzZSwgZXZlbnQ6IHt9IiwgSlNPTi50b0pTT05TdHJpbmcoZXZlbnQpKTsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5p+l6K+i5Liq5Lq65o6S5ZCNCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -848,13 +847,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxJbmRpdmlkdWFsRWZmaWNpZW5jeURUTz4gY29udmVydDJJbmRpdmlkdWFsRWZmaWNpZW5jeURUT0xpc3QoCiAgICAgICAgTGlzdDxMbXNFZmZpY2llbmN5UmFua0RPPiBsbXNFZmZpY2llbmN5UmFua0RPUykgewogICAgICAgIHJldHVybiBsbXNFZmZpY2llbmN5UmFua0RPUy5zdHJlYW0oKS5tYXAobyAtPiB7CiAgICAgICAgICAgIEluZGl2aWR1YWxFZmZpY2llbmN5RFRPIGluZGl2aWR1YWxFZmZpY2llbmN5RFRPID0gbmV3IEluZGl2aWR1YWxFZmZpY2llbmN5RFRPKCk7CiAgICAgICAgICAgIGluZGl2aWR1YWxFZmZpY2llbmN5RFRPLnNldFdvcmtUeXBlKG8uZ2V0V29ya1R5cGUoKSk7CiAgICAgICAgICAgIGluZGl2aWR1YWxFZmZpY2llbmN5RFRPLnNldEVtcGxveWVlTmFtZShvLmdldEVtcGxveWVlTmFtZSgpKTsKICAgICAgICAgICAgaW5kaXZpZHVhbEVmZmljaWVuY3lEVE8uc2V0RW1wbG95ZWVOdW1iZXIoby5nZXRFbXBsb3llZU51bWJlcigpKTsKICAgICAgICAgICAgaW5kaXZpZHVhbEVmZmljaWVuY3lEVE8uc2V0SXRlbU51bShvLmdldEl0ZW1OdW0oKSA9PSBudWxsID8gbnVsbCA6IG8uZ2V0SXRlbU51bSgpLmludFZhbHVlKCkpOwogICAgICAgICAgICBpbmRpdmlkdWFsRWZmaWNpZW5jeURUTy5zZXRJdGVtUmFuayhvLmdldEl0ZW1SYW5rKCkgPT0gbnVsbCA/IG51bGwgOiBvLmdldEl0ZW1SYW5rKCkuaW50VmFsdWUoKSk7CiAgICAgICAgICAgIGluZGl2aWR1YWxFZmZpY2llbmN5RFRPLnNldEl0ZW1Xb3JrRWZmaWNpZW5jeShvLmdldFdvcmtFZmZpY2llbmN5KCkpOwogICAgICAgICAgICBpbmRpdmlkdWFsRWZmaWNpZW5jeURUTy5zZXRJdGVtV29ya0VmZmljaWVuY3lSYW5rKAogICAgICAgICAgICAgICAgby5nZXRXb3JrRWZmaWNpZW5jeVJhbmsoKSA9PSBudWxsID8gbnVsbCA6IG8uZ2V0V29ya0VmZmljaWVuY3lSYW5rKCkuaW50VmFsdWUoKSk7CiAgICAgICAgICAgIHJldHVybiBpbmRpdmlkdWFsRWZmaWNpZW5jeURUTzsKICAgICAgICB9KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIExtc0VudkNvbmZpZyBsbXNFbnZDb25maWc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWunuaXtuWkhOeQhuW8gOWFs+WFs+mXrQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
