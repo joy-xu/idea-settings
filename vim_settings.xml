@@ -136,6 +136,18 @@
         <mark key="^" line="53" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/metaq/EmployeePprEventConsumer.java" timestamp="1602211530112">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="146" column="22" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" timestamp="1602211454572">
+        <mark key="[" line="104" column="49" />
+        <mark key="]" line="104" column="64" />
+        <mark key="." line="104" column="63" />
+        <mark key="^" line="104" column="64" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/indirectlabour/IndirectLabourPositionDO.java" timestamp="1601196022429">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="13" />
@@ -163,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="92" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryItemResultFacadeImpl.java" />
       <jump line="618" column="23" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryItemResultFacadeImpl.java" />
       <jump line="76" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/salary/SalaryItemResultDO.java" />
       <jump line="19" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/salary/SalaryItemResultDO.java" />
@@ -263,24 +274,25 @@
       <jump line="484" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="60" column="40" filename="$USER_HOME$/cainiao/wmplms/pom.xml" />
       <jump line="288" column="20" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" />
+      <jump line="133" column="9" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/metaq/EmployeePprEventConsumer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bGFib3VyLmlzSW5EaXJlY3RMYWJvdXIoKSAmJiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIExtc0VudkNvbmZpZyBsbXNFbnZDb25maWc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGFib3VyLmlzSW5EaXJlY3RMYWJvdXIoKSAmJiA=</text>
+        <text>ConsumeConcurrentlyStatus.CONSUME_SUCCESS</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHBwciDlhpkgTXlTUUwg5LyY5YyWCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBDb25zdW1lQ29uY3VycmVudGx5U3RhdHVzLlJFQ09OU1VNRV9MQVRFUjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlLzIwMjAwOTI0Xzc4NTg3MzZfcHByX29wdGltaXNlXzEK</text>
+        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIExtc0VudkNvbmZpZyBsbXNFbnZDb25maWc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -289,13 +301,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgV29ya2luZ09ubGluZVNlcnZpY2Ugd29ya2luZ09ubGluZVNlcnZpY2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlLzIwMjAwOTI0Xzc4NTg3MzZfcHByX29wdGltaXNlXzEK</text>
+        <text encoding="base64">ICAgICAgICBpZighc3dpdGNoUHJvcGVydHkuZ2V0RGVhbFJlYWxUaW1lUHByKCkpewogICAgICAgICAgICAvLyDlrp7ml7blpITnkIblvIDlhbPlhbPpl60sIOi/lOWbnmZhbHNlLCDmiZPljbBldmVudAogICAgICAgICAgICBMb2dnZXJVdGlsLm1ldGFxTG9nZ2VyLmluZm8oImRlYWxSZWFsVGltZVBwciBmYWxzZSwgZXZlbnQ6IHt9IiwgSlNPTi50b0pTT05TdHJpbmcoZXZlbnQpKTsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -838,16 +850,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlLzIwMjAwOTI0Xzc4NTg3MzZfcHByX29wdGltaXNlXzEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWunuaXtuWkhOeQhuW8gOWFs+WFs+mXrQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
