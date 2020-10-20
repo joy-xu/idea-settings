@@ -130,42 +130,39 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/shift/impl/TemporaryEmployeeShiftFacadeImpl.java" timestamp="1603160482313">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="72" column="11" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/WorkPlaceFacadeImpl.java" timestamp="1603109880652">
-        <mark key="[" line="377" column="0" />
-        <mark key="]" line="377" column="45" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/shift/TemporaryEmployeeShiftBO.java" timestamp="1603160040391">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="15" column="4" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkShiftClassProvider.java" timestamp="1603114190840">
-        <mark key="'" line="49" column="35" />
-        <mark key="[" line="44" column="42" />
-        <mark key="]" line="44" column="42" />
-        <mark key="^" line="49" column="73" />
-        <mark key="." line="44" column="42" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/DingTalkShiftClassManager.java" timestamp="1603158608456">
-        <mark key="[" line="42" column="29" />
-        <mark key="]" line="42" column="30" />
-        <mark key="." line="42" column="29" />
-        <mark key="^" line="42" column="30" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/ClassEnum.java" timestamp="1603110210699" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/shift/impl/TemporaryEmployeeShiftFacadeImpl.java" timestamp="1603164064932" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" timestamp="1603160022344">
         <mark key="'" line="929" column="76" />
         <mark key="[" line="929" column="78" />
         <mark key="]" line="929" column="77" />
         <mark key="." line="929" column="76" />
         <mark key="^" line="929" column="77" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/LmsAttendanceNightShiftResource.java" timestamp="1603164367640">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="72" column="100" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/LmsAttendanceNightShiftFacade.java" timestamp="1603163590935">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/DingTalkAttendanceGroupManagerImpl.java" timestamp="1603111725109">
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="46" column="43" />
+        <mark key="." line="46" column="42" />
+        <mark key="^" line="46" column="43" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/DingTalkShiftClassMapper.java" timestamp="1603113937473">
+        <mark key="'" line="56" column="90" />
+        <mark key="[" line="85" column="82" />
+        <mark key="]" line="85" column="91" />
+        <mark key="." line="85" column="90" />
+        <mark key="^" line="85" column="91" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1603159734424">
         <mark key="p" line="1578" column="59" />
@@ -174,12 +171,34 @@
         <mark key="." line="1582" column="0" />
         <mark key="^" line="1580" column="42" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/util/ExcelUtil.java" timestamp="1603110419300">
-        <mark key="'" line="1210" column="5" />
-        <mark key="[" line="1233" column="44" />
-        <mark key="]" line="1233" column="55" />
-        <mark key="." line="1233" column="54" />
-        <mark key="^" line="1233" column="55" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/shift/TemporaryEmployeeShiftBO.java" timestamp="1603160040391">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="15" column="4" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/DingTalkAttendanceGroupDO.java" timestamp="1603112429762">
+        <mark key="'" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/shift/impl/LmsAttendanceNightShiftManagerImpl.java" timestamp="1603164399549">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkShiftClassProvider.java" timestamp="1603114190840">
+        <mark key="'" line="49" column="35" />
+        <mark key="[" line="44" column="42" />
+        <mark key="]" line="44" column="42" />
+        <mark key="^" line="49" column="73" />
+        <mark key="." line="44" column="42" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/LmsAttendanceNightShiftFacadeImpl.java" timestamp="1603164373373">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="70" column="1" />
+        <mark key="]" line="70" column="1" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="70" column="1" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/employee/EmployeeManager.java" timestamp="1603159727923">
         <mark key="[" line="801" column="27" />
@@ -187,45 +206,26 @@
         <mark key="^" line="801" column="27" />
         <mark key="." line="801" column="26" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/DingTalkAttendanceGroupManagerImpl.java" timestamp="1603111725109">
-        <mark key="[" line="46" column="11" />
-        <mark key="]" line="46" column="43" />
-        <mark key="." line="46" column="42" />
-        <mark key="^" line="46" column="43" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/EfficiencyServiceImpl.java" timestamp="1603113667676" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/DingTalkAttendanceGroupDO.java" timestamp="1603112429762">
-        <mark key="'" line="14" column="13" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/DingTalkShiftClassManagerImpl.java" timestamp="1603114217924">
         <mark key="[" line="52" column="44" />
         <mark key="]" line="52" column="84" />
         <mark key="^" line="52" column="84" />
         <mark key="." line="52" column="83" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/HBaseService.java" timestamp="1603113624042" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/shift/TemporaryEmployeeShiftFacade.java" timestamp="1603160462725">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/DingTalkShiftClassManager.java" timestamp="1603158608456">
+        <mark key="[" line="42" column="29" />
+        <mark key="]" line="42" column="30" />
+        <mark key="." line="42" column="29" />
+        <mark key="^" line="42" column="30" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/shift/TemporaryEmployeeShiftFacade.java" timestamp="1603163588571">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="23" column="18" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/constants/DingTalkConstants.java" timestamp="1603158439847" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/DingTalkShiftClassMapper.java" timestamp="1603113937473">
-        <mark key="'" line="56" column="90" />
-        <mark key="[" line="85" column="82" />
-        <mark key="]" line="85" column="91" />
-        <mark key="." line="85" column="90" />
-        <mark key="^" line="85" column="91" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/AttendanceRuleProvider.java" timestamp="1603113764572" />
     </filemarks>
     <jumps>
-      <jump line="231" column="51" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryItemResultFacadeImpl.java" />
-      <jump line="20" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/salary/SalaryItemResultModifiedInfoBO.java" />
-      <jump line="284" column="57" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryItemResultFacadeImpl.java" />
-      <jump line="233" column="49" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryItemResultFacadeImpl.java" />
-      <jump line="203" column="33" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/EhrServiceImpl.java" />
       <jump line="148" column="79" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" />
       <jump line="211" column="44" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="335" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" />
@@ -321,15 +321,20 @@
       <jump line="929" column="76" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" />
       <jump line="131" column="14" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/shift/impl/TemporaryEmployeeShiftFacadeImpl.java" />
       <jump line="160" column="32" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/shift/impl/TemporaryEmployeeShiftFacadeImpl.java" />
+      <jump line="50" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/LmsAttendanceNightShiftFacadeImpl.java" />
+      <jump line="74" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/LmsAttendanceNightShiftFacadeImpl.java" />
+      <jump line="109" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/LmsAttendanceNightShiftFacadeImpl.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/LmsAttendanceNightShiftFacadeImpl.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/LmsAttendanceNightShiftResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmoKHpqozpkonpkonphY3nva7mmK/lkKbmnInmlYgKICAgICAgICB2YWxpZGF0ZURpbmd0YWxrQ29uZmlnKHdvcmtwbGFjZUNvZGUpOwoK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>Component</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdHJpbmdcPg==</text>
@@ -338,19 +343,19 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNoaWZ0LnNldEdyb3VwSWQoZ3JvdXBJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmoKHpqozpkonpkonphY3nva7mmK/lkKbmnInmlYgKICAgICAgICB2YWxpZGF0ZURpbmd0YWxrQ29uZmlnKHdvcmtwbGFjZUNvZGUpOwoK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKiAqIOaOkuePrQogICAgICoKICAgICAqIEBwYXJhbSB3b3JrcGxhY2VDb2RlICAgICAgICAgICDlt6XkvZzngrljb2RlCiAgICAgKiBAcGFyYW0gdGVtcG9yYXJ5RW1wbG95ZWVTaGlmdHMg5o6S54+tQk8KICAgICAqLwogICAgdm9pZCBzaGlmdChTdHJpbmcgd29ya3BsYWNlQ29kZSwgTGlzdDxUZW1wb3JhcnlFbXBsb3llZVNoaWZ0Qk8+IHRlbXBvcmFyeUVtcGxveWVlU2hpZnRzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -895,21 +900,17 @@
           <key char="34920" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text>if (needCheckGroupInfo) {
-                setShiftInfo(dingTalkConfig.getCorpId(), i, shift, row);
-            } else {
-                shift.setGroupId(groupId);
-                shift.setShiftId(groupId);</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDmoKHpqozpkonpkonphY3nva7mmK/lkKbmnInmlYgKICAgICAgICB2YWxpZGF0ZURpbmd0YWxrQ29uZmlnKHdvcmtwbGFjZUNvZGUpOwoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmVlZENoZWNrR3JvdXBJbmZvKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
