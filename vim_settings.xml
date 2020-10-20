@@ -151,12 +151,6 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/DingTalkAttendanceGroupManagerImpl.java" timestamp="1603111725109">
-        <mark key="[" line="46" column="11" />
-        <mark key="]" line="46" column="43" />
-        <mark key="." line="46" column="42" />
-        <mark key="^" line="46" column="43" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/DingTalkShiftClassMapper.java" timestamp="1603113937473">
         <mark key="'" line="56" column="90" />
         <mark key="[" line="85" column="82" />
@@ -193,12 +187,12 @@
         <mark key="^" line="49" column="73" />
         <mark key="." line="44" column="42" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/LmsAttendanceNightShiftFacadeImpl.java" timestamp="1603164373373">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="70" column="1" />
-        <mark key="]" line="70" column="1" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="70" column="1" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/LmsAttendanceNightShiftFacadeImpl.java" timestamp="1603176807262">
+        <mark key="'" line="179" column="12" />
+        <mark key="[" line="206" column="13" />
+        <mark key="]" line="208" column="30" />
+        <mark key="." line="208" column="29" />
+        <mark key="^" line="208" column="30" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/employee/EmployeeManager.java" timestamp="1603159727923">
         <mark key="[" line="801" column="27" />
@@ -224,9 +218,14 @@
         <mark key="^" line="23" column="18" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1603176211334">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="25" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="79" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" />
       <jump line="211" column="44" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="335" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" />
       <jump line="27" column="35" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" />
@@ -326,12 +325,13 @@
       <jump line="109" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/LmsAttendanceNightShiftFacadeImpl.java" />
       <jump line="66" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/LmsAttendanceNightShiftFacadeImpl.java" />
       <jump line="73" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/LmsAttendanceNightShiftResource.java" />
+      <jump line="179" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/LmsAttendanceNightShiftFacadeImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
+        <text>row.getCell(0)</text>
       </register>
       <register name="-" type="4">
         <text>Component</text>
@@ -343,13 +343,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNoaWZ0LnNldEdyb3VwSWQoZ3JvdXBJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
+        <text>row.getCell(0)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -904,13 +904,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmoKHpqozpkonpkonphY3nva7mmK/lkKbmnInmlYgKICAgICAgICB2YWxpZGF0ZURpbmd0YWxrQ29uZmlnKHdvcmtwbGFjZUNvZGUpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDmoKHpqozpkonpkonphY3nva7mmK/lkKbmnInmlYgKICAgICAgICB2YWxpZGF0ZURpbmd0YWxrQ29uZmlnKHdvcmtwbGFjZUNvZGUpOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
