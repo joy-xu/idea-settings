@@ -1,5 +1,6 @@
 <templateSet group="output">
   <template name="sout" value="System.out.println($VAR1$);$END$" description="Prints a string to System.out" toReformat="true" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
