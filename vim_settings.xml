@@ -130,6 +130,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" timestamp="1603724488573">
+        <mark key="[" line="55" column="78" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/LmsAttendanceNightShiftFacadeImpl.java" timestamp="1603271537438">
         <mark key="'" line="222" column="44" />
         <mark key="[" line="312" column="13" />
@@ -283,7 +288,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyDmraPluLjpl7Tpmpnlt6Xml7YsIOeul+WcqOS4i+S4gOS4qlRC5bel5L2c5pe26ZW/5LitCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuZ2V0Qwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -295,19 +300,19 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heElkbGVUaW1lID0gcG9zaXRpb25JZGxlMlRpbWUuZ2V0KE5ld1Bvc2l0aW9uRW51bS5PVEhFUi5uYW1lKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyDmraPluLjpl7Tpmpnlt6Xml7YsIOeul+WcqOS4i+S4gOS4qlRC5bel5L2c5pe26ZW/5LitCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuZ2V0Qwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyDmraPluLjpl7Tpmpnlt6Xml7YsIOeul+WcqOS4i+S4gOS4qlRC5bel5L2c5pe26ZW/5LitCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoY29udGV4dC5nZXRQcHJDb21wdXRlU291cmNlKCkgPT0gUHByQ29tcHV0ZVNvdXJjZUVudW0uV0VCX1NUQVRVU19RVUVSWSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoY29udGV4dC5nZXRQcHJDb21wdXRlU291cmNlKCkgPT0gUHByQ29tcHV0ZVNvdXJjZUVudW0uV0VCX1NUQVRVU19RVUVSWSkgewo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -853,16 +858,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXh0V29yay5zZXRTdGFydFRpbWUoY3VycmVudC5nZXRTdGFydFRpbWUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGZvcm1hdE1zZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXh0V29yay5zZXRTdGFydFRpbWUoY3VycmVudC5nZXRTdGFydFRpbWUoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcm1hdE1zZyA9ICJUaGUgZHVyYXRpb24gYmV0d2VlbiB0d28gdGFzayBpcyByZWFzb25hYmxlOiAlcywgIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgIm9yaWdpbiBlbmQgdGltZSBpcyAlcyxhZGp1c3RlZCBlbmQgdGltZSBpcyAlcyI7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGZvcm1hdE1zZzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcm1hdE1zZyA9ICJUaGUgZHVyYXRpb24gYmV0d2VlbiB0d28gdGFzayBpcyByZWFzb25hYmxlOiAlcywgIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgIm9yaWdpbiBlbmQgdGltZSBpcyAlcyxhZGp1c3RlZCBlbmQgdGltZSBpcyAlcyI7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
