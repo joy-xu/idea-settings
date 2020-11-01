@@ -130,30 +130,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/LmsAttendanceNightShiftResource.java" timestamp="1603868725072" />
       <file name="$USER_HOME$/demo/springbatchdemo/pom.xml" timestamp="1603782707086">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/entity/Person.java" timestamp="1603782983460">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="18" column="33" />
-        <mark key="." line="18" column="32" />
-        <mark key="^" line="18" column="33" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/DingTalkAttendanceSyncByWorkplaceProcessor.java" timestamp="1603695575953" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/velocity/templates/main.vm" timestamp="1603780609697" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/DingTalkFaceManagerImpl.java" timestamp="1603855905603" />
-      <file name="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/processor/PersonItemProcessor.java" timestamp="1603782995656">
-        <mark key="'" line="13" column="41" />
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="13" column="41" />
-        <mark key="^" line="19" column="27" />
-        <mark key="." line="13" column="41" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/constants/DingTalkConstants.java" timestamp="1603856690976" />
-      <file name="$MAVEN_REPOSITORY$/com/dingtalk/lippi-open-response/1.4.4/lippi-open-response-1.4.4-sources.jar!/com/dingtalk/open/response/DingOpenErrorCode.java" timestamp="1603856365207" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" timestamp="1604224983050" />
       <file name="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/entity/Persion.java" timestamp="1603782784865">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="0" />
@@ -165,8 +147,12 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/pom.xml" timestamp="1603786526197" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/ppr/LabourEfficiencyPprResultMapper.java" timestamp="1603788607232" />
+      <file name="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/entity/Person.java" timestamp="1603782983460">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="18" column="33" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1603788638001">
         <mark key="'" line="265" column="20" />
         <mark key="[" line="1821" column="5" />
@@ -180,8 +166,6 @@
         <mark key="^" line="62" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" timestamp="1603695720766" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" timestamp="1603781374003" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" timestamp="1603503806008">
         <mark key="'" line="28" column="13" />
         <mark key="[" line="214" column="20" />
@@ -189,7 +173,13 @@
         <mark key="." line="214" column="28" />
         <mark key="^" line="214" column="29" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkTaskApiService.java" timestamp="1603856307493" />
+      <file name="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/processor/PersonItemProcessor.java" timestamp="1603782995656">
+        <mark key="'" line="13" column="41" />
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="41" />
+        <mark key="^" line="19" column="27" />
+        <mark key="." line="13" column="41" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-pre2.properties" />
