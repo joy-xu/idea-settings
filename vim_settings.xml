@@ -132,21 +132,12 @@
     <filemarks>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" timestamp="1604234474382" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1604382969663" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/permissions/AccountResource.java" timestamp="1604456394406">
+        <mark key="'" line="108" column="58" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" timestamp="1604224983050" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-blink-udx/src/main/java/com/cainiao/lms/blink/udx/labour/BatchPackingParser.java" timestamp="1604312917514" />
-      <file name="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/entity/Person.java" timestamp="1603782983460">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="18" column="33" />
-        <mark key="." line="18" column="32" />
-        <mark key="^" line="18" column="33" />
-      </file>
-      <file name="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/processor/PersonItemProcessor.java" timestamp="1603782995656">
-        <mark key="'" line="13" column="41" />
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="13" column="41" />
-        <mark key="^" line="19" column="27" />
-        <mark key="." line="13" column="41" />
-      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1604456688767" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1604284979825" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" timestamp="1604415069250">
         <mark key="'" line="505" column="23" />
@@ -178,8 +169,6 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/AttendanceRegisterRecordFacadeImpl.java" timestamp="1604416408380" />
     </filemarks>
     <jumps>
-      <jump line="129" column="64" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/LinkQueryTaskWorkloadServiceImpl.java" />
-      <jump line="52" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" />
       <jump line="385" column="20" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
       <jump line="151" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" />
       <jump line="116" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
@@ -278,6 +267,8 @@
       <jump line="28" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" />
       <jump line="13" column="41" filename="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/processor/PersonItemProcessor.java" />
       <jump line="505" column="23" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" />
+      <jump line="124" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/permissions/AccountResource.java" />
+      <jump line="108" column="58" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/permissions/AccountResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
