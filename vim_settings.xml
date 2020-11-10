@@ -134,12 +134,6 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/CustomTypeEnum.java" timestamp="1604911943338" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" timestamp="1604640172777" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/efficiency/impl/LabourPprFacadeImpl.java" timestamp="1604641445384" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1604557976126">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="310" column="0" />
-        <mark key="]" line="310" column="0" />
-        <mark key="." line="310" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/efficiency/LabourPprFacade.java" timestamp="1604641455441" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/DingTalkShiftClassManagerImpl.java" timestamp="1604643813173" />
       <file name="/Dummy.txt" timestamp="1604581053724">
@@ -158,11 +152,10 @@
         <mark key="^" line="23" column="6" />
         <mark key="." line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LoggerUtil.java" timestamp="1604640105312" />
-      <file name="$USER_HOME$/cainiao/wmplms/pom.xml" timestamp="1604557792092">
-        <mark key="'" line="408" column="0" />
-        <mark key="[" line="54" column="27" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-client/src/main/java/com/cainiao/lms/dto/EmployeeDTO.java" timestamp="1604994240660">
+        <mark key="[" line="56" column="16" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LoggerUtil.java" timestamp="1604640105312" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/WriteOdpsProcessor.java" timestamp="1604642493526">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
@@ -188,12 +181,18 @@
         <mark key="^" line="1073" column="31" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" timestamp="1604560879285" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1604995437425">
+        <mark key="'" line="256" column="13" />
+        <mark key="[" line="213" column="13" />
+        <mark key="]" line="214" column="31" />
+        <mark key="^" line="214" column="31" />
+        <mark key="." line="214" column="30" />
+      </file>
       <file name="/fragment.java" timestamp="1604581053711">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="530" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="484" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="60" column="40" filename="$USER_HOME$/cainiao/wmplms/pom.xml" />
       <jump line="288" column="20" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" />
@@ -293,6 +292,7 @@
       <jump line="408" column="0" filename="$USER_HOME$/cainiao/wmplms/pom.xml" />
       <jump line="899" column="41" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="107" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" />
+      <jump line="256" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
