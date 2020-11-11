@@ -134,8 +134,15 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.java" timestamp="1605054626924">
         <mark key="[" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/metaq/EmployeePprEventConsumer.java" timestamp="1605074930906">
+        <mark key="[" line="139" column="107" />
+        <mark key="]" line="139" column="112" />
+        <mark key="." line="139" column="111" />
+        <mark key="^" line="139" column="112" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/CustomTypeEnum.java" timestamp="1605048661319" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/IdentityCardVerifyServiceImpl.java" timestamp="1605064205875" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1605074415367" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/IdentityCardVerifyServiceImpl.java" timestamp="1605074380260" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/DingtalkCallbackController.java" timestamp="1605002334463">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
@@ -168,11 +175,11 @@
         <mark key="." line="98" column="10" />
         <mark key="^" line="98" column="11" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1605055043821">
-        <mark key="[" line="250" column="0" />
-        <mark key="]" line="250" column="0" />
-        <mark key="." line="250" column="0" />
-        <mark key="^" line="1073" column="31" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1605074436273">
+        <mark key="[" line="647" column="11" />
+        <mark key="]" line="647" column="19" />
+        <mark key="." line="647" column="18" />
+        <mark key="^" line="647" column="19" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/PprWorkTypeEnum.java" timestamp="1605052038025" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" timestamp="1604996809301" />
@@ -289,11 +296,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TASK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>TASK</text>
       </register>
       <register name="/" type="4">
         <text>schedul</text>
