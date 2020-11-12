@@ -130,7 +130,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1605193927080">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1605194340637">
         <mark key="'" line="197" column="28" />
         <mark key="[" line="67" column="80" />
         <mark key="]" line="67" column="80" />
@@ -191,11 +191,11 @@
         <mark key="." line="75" column="33" />
         <mark key="^" line="75" column="34" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" timestamp="1605190828534">
-        <mark key="[" line="81" column="39" />
-        <mark key="]" line="81" column="58" />
-        <mark key="." line="81" column="57" />
-        <mark key="^" line="81" column="58" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" timestamp="1605194701593">
+        <mark key="[" line="134" column="45" />
+        <mark key="]" line="143" column="0" />
+        <mark key="^" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprPprHandlerWithFiveMinuteEfficiencyDecorator.java" timestamp="1605150807171">
         <mark key="[" line="38" column="57" />
@@ -210,12 +210,12 @@
         <mark key="." line="745" column="31" />
         <mark key="^" line="745" column="32" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1605193978904">
-        <mark key="'" line="911" column="58" />
-        <mark key="[" line="921" column="90" />
-        <mark key="]" line="921" column="91" />
-        <mark key="." line="921" column="90" />
-        <mark key="^" line="921" column="91" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1605194698757">
+        <mark key="'" line="909" column="58" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="919" column="91" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/LabourPprModuleService.java" timestamp="1605167287651">
         <mark key="[" line="49" column="0" />
@@ -355,10 +355,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB0YWJsZU5hbWUg5ZCN56ewCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNCbGFuayhyb3dLZXlWYWx1ZSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>jsonResult</text>
       </register>
       <register name="/" type="4">
         <text>ppr</text>
@@ -367,22 +367,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvY2FsRGF0ZVRpbWUgc3RhcnQgPSBMb2NhbERhdGVUaW1lLm5vdygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB0YWJsZU5hbWUg5ZCN56ewCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNCbGFuayhyb3dLZXlWYWx1ZSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIExpc3Q8TGFib3VyRWZmaWNpZW5jeURUTz4+IGtleTJMYWJvdXJzID0gbmV3IEhhc2hNYXA8Pig4KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChyZXN1bHRzLmxlbmd0aCA8PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpOwogICAgICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3QgPCBHZXQgPiBnZXRzID0gQXJyYXlzLmFzTGlzdCgobmV3IEdldChCeXRlcy50b0J5dGVzKHJvd0tleSkpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEdXJhdGlvbi5iZXR3ZWVuKHN0YXJ0VGltZSwgTG9jYWxEYXRlVGltZS5ub3coKSkudG9NaWxsaXMoKSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -925,13 +925,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleTJMYWJvdXJzLnB1dCgpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
