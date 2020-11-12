@@ -130,12 +130,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1605187068942">
-        <mark key="'" line="316" column="9" />
-        <mark key="[" line="182" column="37" />
-        <mark key="]" line="182" column="43" />
-        <mark key="." line="182" column="42" />
-        <mark key="^" line="182" column="43" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1605188831687">
+        <mark key="'" line="320" column="9" />
+        <mark key="[" line="181" column="8" />
+        <mark key="]" line="181" column="8" />
+        <mark key="." line="181" column="8" />
+        <mark key="^" line="181" column="12" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/LzdPprHandler.java" timestamp="1605166161818">
         <mark key="[" line="375" column="76" />
@@ -143,17 +143,8 @@
         <mark key="^" line="375" column="77" />
         <mark key="." line="375" column="76" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/metaq/EmployeePprEventConsumer.java" timestamp="1605074930906">
-        <mark key="[" line="139" column="107" />
-        <mark key="]" line="139" column="112" />
-        <mark key="." line="139" column="111" />
-        <mark key="^" line="139" column="112" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java" timestamp="1605150711005">
         <mark key="'" line="1594" column="16" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/environment/common/bin/appctl.sh" timestamp="1605076446437">
-        <mark key="'" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1605186738989">
         <mark key="[" line="262" column="0" />
@@ -193,6 +184,12 @@
         <mark key="." line="75" column="33" />
         <mark key="^" line="75" column="34" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" timestamp="1605189608647">
+        <mark key="[" line="56" column="73" />
+        <mark key="]" line="56" column="73" />
+        <mark key="^" line="56" column="73" />
+        <mark key="." line="56" column="72" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprPprHandlerWithFiveMinuteEfficiencyDecorator.java" timestamp="1605150807171">
         <mark key="[" line="38" column="57" />
         <mark key="]" line="38" column="58" />
@@ -206,17 +203,24 @@
         <mark key="." line="745" column="31" />
         <mark key="^" line="745" column="32" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1605187280544">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1605189140493">
         <mark key="'" line="916" column="58" />
-        <mark key="[" line="948" column="78" />
-        <mark key="]" line="949" column="12" />
-        <mark key="." line="949" column="11" />
-        <mark key="^" line="949" column="12" />
+        <mark key="[" line="949" column="20" />
+        <mark key="]" line="949" column="33" />
+        <mark key="." line="949" column="32" />
+        <mark key="^" line="949" column="33" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/LabourPprModuleService.java" timestamp="1605167287651">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/tair/KvStoreCacheManager.java" timestamp="1605187447113">
+        <mark key="'" line="35" column="59" />
+        <mark key="[" line="35" column="93" />
+        <mark key="]" line="36" column="16" />
+        <mark key="^" line="36" column="16" />
+        <mark key="." line="36" column="15" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/handler/ScPprHandlerTest.java" timestamp="1605169395394">
         <mark key="[" line="294" column="55" />
@@ -239,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="46" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" />
       <jump line="108" column="74" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" />
       <jump line="35" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/EfficiencyServiceImpl.java" />
       <jump line="105" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" />
@@ -337,17 +340,18 @@
       <jump line="465" column="29" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" />
       <jump line="79" column="99" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/impl/LabourPprModuleServiceImpl.java" />
       <jump line="917" column="58" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
-      <jump line="182" column="37" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" />
+      <jump line="34" column="59" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/tair/KvStoreCacheManager.java" />
+      <jump line="182" column="24" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" />
       <jump line="316" column="9" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIER1cmF0aW9uLmJldHdlZW4oc3RhcnRUaW1lLCBMb2NhbERhdGVUaW1lLm5vdygpKS50b01pbGxpcygpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>pprBasicDataFuture</text>
       </register>
       <register name="-" type="4">
-        <text>CompletableFuture</text>
+        <text>pprBasicDataFuture</text>
       </register>
       <register name="/" type="4">
         <text>Blocking</text>
