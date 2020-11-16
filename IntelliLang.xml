@@ -5,10 +5,6 @@
       <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("getWhereSql").withParameters("com.cainiao.lms.entity.query.ParamQuery", "java.lang.String").definedInClass("com.cainiao.lms.provider.ParamProvider"))]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
-      <display-name>Select.value (org.apache.ibatis.annotations)</display-name>
-      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Select")]]></place>
-    </injection>
-    <injection language="SQL" injector-id="java">
       <display-name>StringBuilder.append (java.lang)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("append").withParameters("java.lang.String").definedInClass("java.lang.StringBuilder"))]]></place>
     </injection>
