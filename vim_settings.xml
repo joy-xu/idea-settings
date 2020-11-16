@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>calc</entry>
         <entry>bigtable</entry>
         <entry>TODO</entry>
         <entry>status</entry>
@@ -27,6 +26,7 @@
         <entry>PPR</entry>
         <entry>ppr</entry>
         <entry>Function</entry>
+        <entry>work_place</entry>
       </history-search>
       <history-cmd>
         <entry>1290</entry>
@@ -143,13 +143,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="25" column="49" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" timestamp="1605190516629">
-        <mark key="'" line="69" column="41" />
-        <mark key="[" line="616" column="23" />
-        <mark key="]" line="616" column="27" />
-        <mark key="." line="616" column="26" />
-        <mark key="^" line="616" column="27" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1605410280827">
         <mark key="'" line="100" column="37" />
         <mark key="[" line="94" column="0" />
@@ -158,11 +151,17 @@
         <mark key="^" line="418" column="21" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" timestamp="1605408079353" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/LstPprHandler.java" timestamp="1605175325940">
-        <mark key="[" line="108" column="9" />
-        <mark key="]" line="108" column="19" />
-        <mark key="." line="108" column="18" />
-        <mark key="^" line="108" column="19" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/DingTalkAttendanceStatisticsManagerImpl.java" timestamp="1605513167665">
+        <mark key="[" line="235" column="15" />
+        <mark key="]" line="235" column="50" />
+        <mark key="." line="235" column="49" />
+        <mark key="^" line="235" column="50" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/DingTalkAttendanceStatisticsManager.java" timestamp="1605513564182">
+        <mark key="[" line="191" column="14" />
+        <mark key="]" line="190" column="21" />
+        <mark key="." line="190" column="20" />
+        <mark key="^" line="190" column="21" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/ComputeEfficiencyTimeQueue.java" timestamp="1605410251681">
         <mark key="[" line="28" column="12" />
@@ -170,17 +169,7 @@
         <mark key="." line="28" column="11" />
         <mark key="^" line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/HBaseService.java" timestamp="1605194060538">
-        <mark key="[" line="38" column="31" />
-        <mark key="]" line="38" column="32" />
-        <mark key="." line="38" column="31" />
-        <mark key="^" line="38" column="32" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/tair/KvStoreConfig.java" timestamp="1605199331169">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkAttendanceStatisticsResource.java" timestamp="1605512988222" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/ComputeEfficiencyTimeTask.java" timestamp="1605410833834">
         <mark key="[" line="26" column="22" />
         <mark key="]" line="26" column="47" />
@@ -213,18 +202,24 @@
         <mark key="^" line="916" column="66" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/tair/KvStoreCacheManager.java" timestamp="1605199591719">
-        <mark key="'" line="35" column="59" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="51" />
-        <mark key="^" line="36" column="16" />
-        <mark key="." line="36" column="15" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/DingTalkAttendanceStatisticsMapper.java" timestamp="1605513154621">
+        <mark key="'" line="188" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="118" column="53" />
+        <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/constants/Constants.java" timestamp="1605195029397">
-        <mark key="[" line="148" column="4" />
-        <mark key="]" line="148" column="17" />
-        <mark key="." line="148" column="16" />
-        <mark key="^" line="148" column="17" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsProvider.java" timestamp="1605513040776">
+        <mark key="'" line="100" column="32" />
+        <mark key="[" line="438" column="17" />
+        <mark key="]" line="438" column="31" />
+        <mark key="^" line="438" column="31" />
+        <mark key="." line="438" column="30" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/DingTalkAttendanceAggregationMapper.java" timestamp="1605513160703">
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="0" />
+        <mark key="." line="258" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/efficiency/LmsLabourEfficiencyPprResultProvider.java" timestamp="1605233512392">
         <mark key="[" line="30" column="14" />
@@ -233,8 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="899" column="41" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" />
       <jump line="256" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" />
       <jump line="665" column="20" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" />
       <jump line="27" column="0" filename="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/environment/common/bin/appctl.sh" />
@@ -333,18 +326,20 @@
       <jump line="687" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="690" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="631" column="77" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
+      <jump line="223" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/DingTalkAttendanceStatisticsMapper.java" />
+      <jump line="100" column="32" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsProvider.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dingTalkAttendanceStatisticsMapper</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>dingTalkAttendanceStatisticsMapper</text>
       </register>
       <register name="/" type="4">
-        <text>Function</text>
+        <text>work_place</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBxdWV1ZS5vZmZlcigiZGVmIik7Cg==</text>
@@ -356,16 +351,16 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVGhyZWFkRmFjdG9yeUJ1aWxkZXIoKS5zZXROYW1lRm9ybWF0KCJjb21wdXRlLWVmZmljaWVuY3ktdGltZS0lZCIpLmJ1aWxkKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBUaHJlYWRQb29sRXhlY3V0b3IgY29tcHV0ZUVmZmljaWVuY3lFeGVjdXRvciA9IG5ldyBUaHJlYWRQb29sRXhlY3V0b3IoMSwgMSwKICAgICAgICAwTCwgVGltZVVuaXQuTUlMTElTRUNPTkRTLCBuZXcgTGlua2VkQmxvY2tpbmdRdWV1ZTw+KCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGJvb2xlYW4gaXNDb21wdXRlRWZmaWNpZW5jeVF1ZXVlU3RhcnRDb25zdW1lID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -908,13 +903,15 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQmxvY2tpbmdRdWV1ZTxFbXBsb3llZVBwckNvbnRleHQ+IGNvbXB1dGVFZmZpY2llbmN5VGltZVF1ZXVlID0gbmV3IEFycmF5QmxvY2tpbmdRdWV1ZTw+KDUxMjApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>@Param(&quot;workplaceCode&quot;) String workplaceCode,
+                                                           @Param(&quot;employeeNumber&quot;) Long employeeNumber,
+                                                           @Param(&quot;workDate&quot;) Date workDate</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -926,9 +923,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Function</last-search>
+      <last-search>work_place</last-search>
       <last-offset />
-      <last-pattern>Function</last-pattern>
+      <last-pattern>work_place</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
       <last-dir>1</last-dir>
