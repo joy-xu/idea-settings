@@ -130,11 +130,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/impl/LabourPprResultServiceImpl.java" timestamp="1605233492434">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1605508993816" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.java" timestamp="1605509827312">
         <mark key="'" line="26" column="0" />
@@ -150,18 +145,17 @@
         <mark key="." line="419" column="0" />
         <mark key="^" line="418" column="21" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" timestamp="1605408079353" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/DingTalkAttendanceStatisticsManagerImpl.java" timestamp="1605513167665">
-        <mark key="[" line="235" column="15" />
-        <mark key="]" line="235" column="50" />
-        <mark key="." line="235" column="49" />
-        <mark key="^" line="235" column="50" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/DingTalkAttendanceStatisticsManagerImpl.java" timestamp="1605515038899">
+        <mark key="'" line="104" column="75" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/DingTalkAttendanceStatisticsManager.java" timestamp="1605513564182">
-        <mark key="[" line="191" column="14" />
-        <mark key="]" line="190" column="21" />
-        <mark key="." line="190" column="20" />
-        <mark key="^" line="190" column="21" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/DingTalkAttendanceStatisticsManager.java" timestamp="1605514848527">
+        <mark key="[" line="287" column="6" />
+        <mark key="]" line="288" column="31" />
+        <mark key="." line="288" column="30" />
+        <mark key="^" line="288" column="31" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/ComputeEfficiencyTimeQueue.java" timestamp="1605410251681">
         <mark key="[" line="28" column="12" />
@@ -169,14 +163,19 @@
         <mark key="." line="28" column="11" />
         <mark key="^" line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkAttendanceStatisticsResource.java" timestamp="1605512988222" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/indirectlabour/FinishWithAttendanceProcessor.java" timestamp="1605515020235">
+        <mark key="[" line="279" column="31" />
+        <mark key="]" line="279" column="32" />
+        <mark key="^" line="279" column="32" />
+        <mark key="." line="279" column="31" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkAttendanceStatisticsResource.java" timestamp="1605513787701" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/ComputeEfficiencyTimeTask.java" timestamp="1605410833834">
         <mark key="[" line="26" column="22" />
         <mark key="]" line="26" column="47" />
         <mark key="." line="26" column="46" />
         <mark key="^" line="26" column="47" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1605409322159" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/listener/ComputeEfficiencyTimeListener.java" timestamp="1605409783315">
         <mark key="[" line="7" column="48" />
         <mark key="]" line="8" column="4" />
@@ -189,11 +188,29 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" timestamp="1605235089922">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="79" />
-        <mark key="." line="135" column="0" />
-        <mark key="^" line="123" column="55" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/AttendanceSyncServiceImpl.java" timestamp="1605514198684">
+        <mark key="[" line="155" column="72" />
+        <mark key="]" line="155" column="87" />
+        <mark key="^" line="155" column="87" />
+        <mark key="." line="155" column="86" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/pay/impl/LmsPayRegisterResultManagerImpl.java" timestamp="1605514693123">
+        <mark key="[" line="120" column="143" />
+        <mark key="]" line="120" column="172" />
+        <mark key="^" line="120" column="172" />
+        <mark key="." line="120" column="171" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/test/java/com/cainiao/lms/web/facade/impl/LmsPayRegisterFacadeImplTest.java" timestamp="1605514793131">
+        <mark key="[" line="453" column="90" />
+        <mark key="]" line="438" column="96" />
+        <mark key="^" line="438" column="96" />
+        <mark key="." line="438" column="95" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/pay/LmsPayRegisterFacadeImpl.java" timestamp="1605514840041">
+        <mark key="[" line="1000" column="58" />
+        <mark key="]" line="999" column="87" />
+        <mark key="^" line="999" column="87" />
+        <mark key="." line="999" column="86" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1605511578225">
         <mark key="'" line="647" column="77" />
@@ -202,33 +219,33 @@
         <mark key="^" line="916" column="66" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/DingTalkAttendanceStatisticsMapper.java" timestamp="1605513154621">
-        <mark key="'" line="188" column="0" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="118" column="53" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkApiToolResource.java" timestamp="1605513895890">
+        <mark key="[" line="928" column="62" />
+        <mark key="]" line="928" column="80" />
+        <mark key="^" line="928" column="80" />
+        <mark key="." line="928" column="79" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsProvider.java" timestamp="1605513040776">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/DingTalkAttendanceStatisticsMapper.java" timestamp="1605514167852">
+        <mark key="'" line="186" column="0" />
+        <mark key="[" line="211" column="17" />
+        <mark key="]" line="210" column="24" />
+        <mark key="^" line="210" column="24" />
+        <mark key="." line="210" column="23" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsProvider.java" timestamp="1605514150215">
         <mark key="'" line="100" column="32" />
-        <mark key="[" line="438" column="17" />
-        <mark key="]" line="438" column="31" />
-        <mark key="^" line="438" column="31" />
-        <mark key="." line="438" column="30" />
+        <mark key="[" line="768" column="0" />
+        <mark key="]" line="769" column="60" />
+        <mark key="^" line="769" column="60" />
+        <mark key="." line="769" column="59" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/DingTalkAttendanceAggregationMapper.java" timestamp="1605513160703">
         <mark key="[" line="258" column="0" />
         <mark key="]" line="258" column="0" />
         <mark key="." line="258" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/efficiency/LmsLabourEfficiencyPprResultProvider.java" timestamp="1605233512392">
-        <mark key="[" line="30" column="14" />
-        <mark key="]" line="30" column="14" />
-        <mark key="." line="30" column="14" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" />
       <jump line="665" column="20" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" />
       <jump line="27" column="0" filename="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/environment/common/bin/appctl.sh" />
       <jump line="1594" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java" />
@@ -328,15 +345,16 @@
       <jump line="631" column="77" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="223" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/DingTalkAttendanceStatisticsMapper.java" />
       <jump line="100" column="32" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsProvider.java" />
+      <jump line="104" column="75" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/DingTalkAttendanceStatisticsManagerImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>dingTalkAttendanceStatisticsMapper</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAod3JhcHBlci5nZXQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>dingTalkAttendanceStatisticsMapper</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>work_place</text>
@@ -345,19 +363,19 @@
         <text encoding="base64">ICAgICAgICBxdWV1ZS5vZmZlcigiZGVmIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAod3JhcHBlci5nZXQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAUGFyYW0oIndvcmtwbGFjZUNvZGUiKSB3b3JrcGxhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5zZXRXb3JrUGxhY2VDb2RlKHdvcmtQbGFjZUNvZGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGVCeUlkKHdvcmtwbGFjZUNvZGUsIGlkKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -908,10 +926,8 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>@Param(&quot;workplaceCode&quot;) String workplaceCode,
-                                                           @Param(&quot;employeeNumber&quot;) Long employeeNumber,
-                                                           @Param(&quot;workDate&quot;) Date workDate</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
