@@ -130,6 +130,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1605681140436">
+        <mark key="'" line="314" column="95" />
+        <mark key="[" line="330" column="69" />
+        <mark key="]" line="330" column="69" />
+        <mark key="." line="330" column="69" />
+        <mark key="^" line="331" column="110" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/config/OdpsClientConfig.java" timestamp="1605686588972">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="^" line="17" column="26" />
+        <mark key="." line="17" column="25" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/shardingmapper/DingTalkAttendanceStatisticsShardingMapper.java" timestamp="1605666303595">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="98" column="55" />
@@ -144,6 +157,13 @@
         <mark key="." line="133" column="0" />
         <mark key="^" line="281" column="28" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsShardingProvider.java" timestamp="1605666284218">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="151" column="66" />
+        <mark key="]" line="151" column="78" />
+        <mark key="." line="151" column="77" />
+        <mark key="^" line="151" column="78" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" timestamp="1605606177451">
         <mark key="'" line="129" column="37" />
         <mark key="[" line="129" column="40" />
@@ -157,45 +177,17 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-project.properties" timestamp="1605686992473">
+        <mark key="[" line="44" column="17" />
+        <mark key="]" line="44" column="18" />
+        <mark key="." line="44" column="17" />
+        <mark key="^" line="44" column="18" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/DingTalkAttendanceStatisticsManagerImpl.java" timestamp="1605665827598">
         <mark key="[" line="358" column="0" />
         <mark key="]" line="364" column="0" />
         <mark key="." line="364" column="0" />
         <mark key="^" line="364" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/config/SequenceConfig.java" timestamp="1605665689697">
-        <mark key="'" line="80" column="5" />
-        <mark key="[" line="133" column="39" />
-        <mark key="]" line="133" column="39" />
-        <mark key="." line="133" column="38" />
-        <mark key="^" line="133" column="39" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/HbaseCompletableFuture.java" timestamp="1605595961051">
-        <mark key="'" line="15" column="19" />
-        <mark key="[" line="10" column="64" />
-        <mark key="]" line="10" column="66" />
-        <mark key="^" line="10" column="66" />
-        <mark key="." line="10" column="65" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1605681140436">
-        <mark key="'" line="314" column="95" />
-        <mark key="[" line="330" column="69" />
-        <mark key="]" line="330" column="69" />
-        <mark key="." line="330" column="69" />
-        <mark key="^" line="331" column="110" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/FetchHbaseTask.java" timestamp="1605596793003">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="21" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="21" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsShardingProvider.java" timestamp="1605666284218">
-        <mark key="'" line="110" column="0" />
-        <mark key="[" line="151" column="66" />
-        <mark key="]" line="151" column="78" />
-        <mark key="." line="151" column="77" />
-        <mark key="^" line="151" column="78" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" timestamp="1605684202355">
         <mark key="'" line="189" column="87" />
@@ -226,17 +218,17 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/LabourPprModuleProcessor.java" timestamp="1605680729863">
         <mark key="'" line="127" column="106" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/config/SequenceConfig.java" timestamp="1605665689697">
+        <mark key="'" line="80" column="5" />
+        <mark key="[" line="133" column="39" />
+        <mark key="]" line="133" column="39" />
+        <mark key="." line="133" column="38" />
+        <mark key="^" line="133" column="39" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/impl/IndirectLabourManagerImpl.java" timestamp="1605665646359">
         <mark key="'" line="263" column="65" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="73" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/DingTalkAttendanceStatisticsManagerLzdImpl.java" timestamp="1605599726685">
-        <mark key="'" line="292" column="47" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="49" column="70" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/DingTalkAttendanceStatisticsMapper.java" timestamp="1605666025368">
         <mark key="'" line="34" column="0" />
@@ -245,7 +237,6 @@
         <mark key="^" line="36" column="15" />
         <mark key="." line="36" column="14" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsProvider.java" timestamp="1605666264583" />
       <file name="/fragment.java" timestamp="1605664801679">
         <mark key="[" line="0" column="0" />
       </file>
@@ -356,10 +347,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>time used</text>
