@@ -160,6 +160,9 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/context/EmployeePprContext.java" timestamp="1605881822751">
         <mark key="'" line="19" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.94-adh3u11.8.3/hbase-0.94-adh3u11.8.3-sources.jar!/org/apache/hadoop/hbase/client/Scan.java" timestamp="1605939701517">
+        <mark key="'" line="525" column="31" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1605880617018">
         <mark key="'" line="305" column="32" />
         <mark key="[" line="455" column="23" />
@@ -206,13 +209,12 @@
         <mark key="." line="568" column="46" />
         <mark key="^" line="568" column="47" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/HBaseService.java" timestamp="1605933520619" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/TestController.java" timestamp="1605938012729">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/TestController.java" timestamp="1605939601159">
         <mark key="'" line="99" column="13" />
-        <mark key="[" line="445" column="48" />
-        <mark key="]" line="445" column="54" />
-        <mark key="." line="445" column="53" />
-        <mark key="^" line="445" column="54" />
+        <mark key="[" line="439" column="26" />
+        <mark key="]" line="439" column="31" />
+        <mark key="." line="439" column="30" />
+        <mark key="^" line="439" column="31" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1605859963453">
         <mark key="'" line="225" column="30" />
@@ -234,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/DingTalkAttendanceStatisticsManager.java" />
       <jump line="198" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/DingTalkAttendanceStatisticsManager.java" />
       <jump line="152" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/DingTalkAttendanceStatisticsMapper.java" />
       <jump line="31" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/shardingmapper/DingTalkAttendanceStatisticsShardingMapper.java" />
@@ -334,6 +335,7 @@
       <jump line="151" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/TestController.java" />
       <jump line="126" column="26" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/TestController.java" />
       <jump line="99" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/TestController.java" />
+      <jump line="525" column="31" filename="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.94-adh3u11.8.3/hbase-0.94-adh3u11.8.3-sources.jar!/org/apache/hadoop/hbase/client/Scan.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
