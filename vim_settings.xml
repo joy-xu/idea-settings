@@ -172,7 +172,7 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1606531848751">
         <mark key="'" line="175" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1606210397358">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1606718416459">
         <mark key="'" line="1179" column="10" />
         <mark key="[" line="1442" column="42" />
         <mark key="]" line="1442" column="61" />
@@ -193,12 +193,12 @@
         <mark key="." line="963" column="66" />
         <mark key="^" line="963" column="67" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/handler/ScPprHandlerTest.java" timestamp="1606717726146">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/handler/ScPprHandlerTest.java" timestamp="1606718464931">
         <mark key="'" line="370" column="72" />
-        <mark key="[" line="413" column="0" />
-        <mark key="]" line="413" column="0" />
-        <mark key="^" line="408" column="83" />
-        <mark key="." line="413" column="0" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="^" line="172" column="89" />
+        <mark key="." line="173" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -310,7 +310,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>idleConfig</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -325,16 +325,16 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN0LnNldFR5cGUoTGFib3VyRWZmaWNpZW5jeVR5cGVFbnVtLlNISUZUKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRlbmRhbmNlLnNldFR5cGUoTGFib3VyRWZmaWNpZW5jeVR5cGVFbnVtLlNISUZUKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgTGlzdDxTdHJpbmc+IGxpc3QgPSBBcnJheXMuYXNMaXN0KCJhIiwgImIiLCAiYyIpOwoKICAgICAgICBMaXN0PFN0cmluZz4gbGlzdDIgPSBsaXN0LnN0cmVhbSgpCiAgICAgICAgICAgIC5maWx0ZXIocyAtPiBzLnN0YXJ0c1dpdGgoImEiKSkKICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CgogICAgICAgIGxpc3QyLmFkZCgiZCIpOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGxpc3QyKTsK</text>
+        <text encoding="base64">ICAgICAgICBPcGVyYXRpb25Db25maWdETyBwb3NpdGlvbkNvbmZpZyA9IG5ldyBPcGVyYXRpb25Db25maWdETygpOwogICAgICAgIHBvc2l0aW9uQ29uZmlnLnNldENvbmZpZ0NvZGUoT3BlcmF0aW9uQ29uZmlnQ29kZUVudW0uT3RoZXJUaW1lSWRsZUluTWludXRlLmdldFZhbHVlKCkpOwogICAgICAgIHBvc2l0aW9uQ29uZmlnLnNldFZhbHVlKCI1Iik7CiAgICAgICAgY29uZmlncy5hZGQocG9zaXRpb25Db25maWcpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -877,16 +877,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBFbXBsb3llZVBwckNvbnRleHQgZW1wbG95ZWVQcHJDb250ZXh0ID0gY29udGV4dDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYWNBcHBCdW5kbGVyTDw+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN0LnNldFR5cGUoTGFib3VyRWZmaWNpZW5jeVR5cGVFbnVtLlNISUZUKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRlbmRhbmNlLnNldE9wZXJhdGVNb250aCgiMjAyMDAyIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRlbmRhbmNlLnNldFR5cGUoTGFib3VyRWZmaWNpZW5jeVR5cGVFbnVtLlNISUZUKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
