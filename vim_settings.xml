@@ -130,19 +130,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/rocketmq-client-sdk/4.3.1--2018-08-release-final/rocketmq-client-sdk-4.3.1--2018-08-release-final-sources.jar!/com/alibaba/rocketmq/client/producer/SendStatus.java" timestamp="1606808985299" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/RobotController.java" timestamp="1606729908301" />
       <file name="/TempLaborDTO.java" timestamp="1606807882946" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/RealNameTypeEnum.java" timestamp="1606808566727" />
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/platform/shared/fasttext-sec/1.4.21/fasttext-sec-1.4.21-sources.jar!/com/alibaba/fasttext/sec/url/CheckSafeUrl.java" timestamp="1606724596356" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-pojo/src/main/java/com/cainiao/lms/enums/PositionEnum.java" timestamp="1606808786935" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/ParamEnum.java" timestamp="1606806917539" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/permissions/RoleDO.java" timestamp="1606727328145" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1606808695422">
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="37" />
-        <mark key="." line="33" column="36" />
-        <mark key="^" line="33" column="37" />
+      <file name="/RealNameTypeEnum.java" timestamp="1606809053662" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1606809364474">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="37" />
+        <mark key="." line="23" column="36" />
+        <mark key="^" line="23" column="37" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/security/security-resources/1.2.24.2/security-resources-1.2.24.2-sources.jar!/com/alibaba/security/url/default-safe-domain.xml" timestamp="1606724612298" />
       <file name="/EmployeeChangeHandler.java" timestamp="1606808445532">
         <mark key="[" line="985" column="58" />
       </file>
@@ -175,11 +175,11 @@
         <mark key="]" line="297" column="0" />
         <mark key="." line="297" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1606808543110">
-        <mark key="[" line="1005" column="68" />
-        <mark key="]" line="1005" column="75" />
-        <mark key="." line="1005" column="74" />
-        <mark key="^" line="1005" column="75" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1606808997362">
+        <mark key="[" line="1036" column="0" />
+        <mark key="]" line="1036" column="0" />
+        <mark key="." line="1036" column="0" />
+        <mark key="^" line="1034" column="57" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" timestamp="1606805847553" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/efficiency/EmployeeStatusVO.java" timestamp="1606728074302">
@@ -296,10 +296,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>c == d</text>
+        <text>new Integer(1)</text>
       </register>
       <register name="-" type="4">
-        <text>c == d</text>
+        <text>new Integer(1)</text>
       </register>
       <register name="/" type="4">
         <text>checknumber</text>
@@ -308,22 +308,22 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYyA9PSBkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYyA9PSBkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKHNlbmQuZ2V0U2VuZFN0YXR1cygpLCBzZW5kLmdldE1zZ0lkKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIHMxID0gTG9jYWxEYXRlVGltZS5vZigyMDIwLCAxMSwgMjUsIDcsIDM2LCAyOCk7CiAgICAgICAgTG9jYWxEYXRlVGltZSBzMiA9IExvY2FsRGF0ZVRpbWUub2YoMjAyMCwgMTEsIDI1LCAxNywgMTQsIDQ4KTsKCiAgICAgICAgZG91YmxlIHJlc291dCA9IER1cmF0aW9uLmJldHdlZW4oczEsIHMyKS50b01pbGxpcygpIC8gMTAwMC4wIC8gMzYwMDsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc291dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCIiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYyA9PSBkKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -866,16 +866,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjYTRiMDhhMjdhMDA0MWRkM2JkMThmZjI5YTY5Zjc2N2QyOTA0NzkwCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjYTRiMDhhMjdhMDA0MWRkM2JkMThmZjI5YTY5Zjc2N2QyOTA0NzkwCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIHMxID0gTG9jYWxEYXRlVGltZS5vZigyMDIwLCAxMSwgMjUsIDcsIDM2LCAyOCk7CiAgICAgICAgTG9jYWxEYXRlVGltZSBzMiA9IExvY2FsRGF0ZVRpbWUub2YoMjAyMCwgMTEsIDI1LCAxNywgMTQsIDQ4KTsKCiAgICAgICAgZG91YmxlIHJlc291dCA9IER1cmF0aW9uLmJldHdlZW4oczEsIHMyKS50b01pbGxpcygpIC8gMTAwMC4wIC8gMzYwMDsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc291dCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjYTRiMDhhMjdhMDA0MWRkM2JkMThmZjI5YTY5Zjc2N2QyOTA0NzkwCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
