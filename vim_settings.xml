@@ -154,9 +154,11 @@
       <file name="/EmployeeChangeHandler.java" timestamp="1606808445532">
         <mark key="[" line="985" column="58" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/LabourResource.java" timestamp="1606829115771">
-        <mark key="'" line="351" column="0" />
-        <mark key="." line="345" column="98" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/LabourResource.java" timestamp="1606829884691">
+        <mark key="'" line="253" column="0" />
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="0" />
+        <mark key="." line="250" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/indirectlabour/IndirectLabourIndustryDO.java" timestamp="1606812394559">
         <mark key="[" line="25" column="24" />
@@ -189,6 +191,11 @@
         <mark key="^" line="578" column="34" />
         <mark key="." line="578" column="33" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1606829787801">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-client/src/main/java/com/cainiao/lms/dto/CasualMessageMetaqDTO.java" timestamp="1606823123722">
         <mark key="[" line="79" column="32" />
         <mark key="]" line="79" column="24" />
@@ -197,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1323" column="45" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
       <jump line="1869" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
       <jump line="133" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" />
       <jump line="50" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" />
@@ -297,12 +303,13 @@
       <jump line="42" column="35" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/indirectlabour/WmpTaskBatchStatusChangeBO.java" />
       <jump line="244" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" />
       <jump line="154" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" />
+      <jump line="252" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/LabourResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Zml2ZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjaGVja1JlZmVyZXIoKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Zml2ZSA=</text>
@@ -314,22 +321,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4ZWN1dG9yLmV4ZWN1dGUobmV3IFBwckFzeW5jVGFzayhFYWdsZUV5ZS5nZXRScGNDb250ZXh0KCksIGRlbGF5Q29tcHV0ZVBwclF1ZXVlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGNvbXB1dGVLZXkgPSBnZXRVbmlxS2V5KHRhc2tCYXRjaEZpbmlzaCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGVja1JlZmVyZXIoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNob3VsZENvbXB1dGVQcHIucmVtb3ZlKGNvbXB1dGVLZXkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjaGVja1JlZmVyZXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGVja1JlZmVyZXIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2hvdWxkQ29tcHV0ZVBwci5wdXRJZkFic2VudChjb21wdXRlS2V5LCB0YXNrQmF0Y2hGaW5pc2gpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjaGVja1JlZmVyZXIoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2hvdWxkQ29tcHV0ZVBwci5wdXRJZkFic2VudChjb21wdXRlS2V5LCB0YXNrQmF0Y2hGaW5pc2gpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjaGVja1JlZmVyZXIoKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -872,16 +879,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBjaGVja1JlZmVyZXIoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGVja1JlZmVyZXIoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhlY3V0b3IuZXhlY3V0ZShuZXcgUHByQXN5bmNUYXNrKEVhZ2xlRXllLmdldFJwY0NvbnRleHQoKSwgZGVsYXlDb21wdXRlUHByUXVldWUpKTsK</text>
+        <text encoding="base64">ICAgICAgICBjaGVja1JlZmVyZXIoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICBjaGVja1JlZmVyZXIoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
