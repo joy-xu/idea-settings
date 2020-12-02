@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
         <entry>ALREADY_OFF</entry>
         <entry>schedul</entry>
         <entry>restart</entry>
@@ -27,6 +26,7 @@
         <entry>save</entry>
         <entry>data</entry>
         <entry>checknumber</entry>
+        <entry>SendCasualMetaqHandler</entry>
       </history-search>
       <history-cmd>
         <entry>1290</entry>
@@ -191,7 +191,8 @@
         <mark key="^" line="578" column="34" />
         <mark key="." line="578" column="33" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1606829787801">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1606876252819">
+        <mark key="'" line="1025" column="31" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
@@ -204,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1869" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
       <jump line="133" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" />
       <jump line="50" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" />
       <jump line="196" column="66" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" />
@@ -304,6 +304,7 @@
       <jump line="244" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" />
       <jump line="154" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" />
       <jump line="252" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/LabourResource.java" />
+      <jump line="1025" column="31" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,7 +316,7 @@
         <text encoding="base64">Zml2ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>checknumber</text>
+        <text>SendCasualMetaqHandler</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4ZWN1dG9yLmV4ZWN1dGUobmV3IFBwckFzeW5jVGFzayhFYWdsZUV5ZS5nZXRScGNDb250ZXh0KCksIGRlbGF5Q29tcHV0ZVBwclF1ZXVlKSk7Cg==</text>
@@ -897,9 +898,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>checknumber</last-search>
+      <last-search>SendCasualMetaqHandler</last-search>
       <last-offset />
-      <last-pattern>checknumber</last-pattern>
+      <last-pattern>SendCasualMetaqHandler</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
       <last-dir>1</last-dir>
