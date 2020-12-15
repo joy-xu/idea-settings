@@ -130,11 +130,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/permissions/AccountResource.java" timestamp="1608018964283">
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="0" />
-        <mark key="." line="259" column="0" />
-        <mark key="^" line="256" column="93" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/permissions/AccountResource.java" timestamp="1608021918856">
+        <mark key="[" line="256" column="22" />
+        <mark key="]" line="256" column="44" />
+        <mark key="." line="256" column="43" />
+        <mark key="^" line="256" column="44" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" timestamp="1607682256105">
         <mark key="[" line="109" column="85" />
@@ -142,11 +142,11 @@
         <mark key="." line="109" column="86" />
         <mark key="^" line="109" column="87" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/permissions/AccountDO.java" timestamp="1608021728938">
-        <mark key="[" line="76" column="4" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="76" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/permissions/AccountDO.java" timestamp="1608021904200">
+        <mark key="[" line="65" column="25" />
+        <mark key="]" line="65" column="25" />
+        <mark key="." line="65" column="24" />
+        <mark key="^" line="65" column="25" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/LabourEfficiencyJsonUdf.java" timestamp="1607825438344">
         <mark key="[" line="27" column="0" />
@@ -165,17 +165,17 @@
         <mark key="^" line="164" column="36" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/labourcompany/LabourCompanyResource.java" timestamp="1608016695724" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1608019289214">
-        <mark key="[" line="545" column="74" />
-        <mark key="]" line="545" column="94" />
-        <mark key="^" line="545" column="94" />
-        <mark key="." line="545" column="93" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1608021983882">
+        <mark key="[" line="545" column="104" />
+        <mark key="]" line="545" column="127" />
+        <mark key="^" line="545" column="127" />
+        <mark key="." line="545" column="126" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/permissions/AccountMapper.java" timestamp="1608019086606">
-        <mark key="[" line="32" column="119" />
-        <mark key="]" line="32" column="120" />
-        <mark key="^" line="32" column="120" />
-        <mark key="." line="32" column="119" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/permissions/AccountMapper.java" timestamp="1608021965929">
+        <mark key="[" line="43" column="112" />
+        <mark key="]" line="43" column="112" />
+        <mark key="^" line="43" column="112" />
+        <mark key="." line="43" column="112" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/permissions/AccountVO.java" timestamp="1608018871157">
         <mark key="[" line="11" column="2" />
@@ -309,11 +309,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1Ygo=</text>
+      <register name="&quot;" type="4">
+        <text>getWorkplaceCodes</text>
       </register>
       <register name="-" type="4">
-        <text>CollectionUtils.isEmpty</text>
+        <text>getWorkplaceCodes</text>
       </register>
       <register name="/" type="4">
         <text>SendCasualMetaqHandler</text>
@@ -322,22 +322,22 @@
         <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudEJPLnNldENuV29ya1BsYWNlQ29kZXMoInwiICsgU3RyaW5nLmpvaW4oInwiLCB3b3JrUGxhY2VDb2RlcykgKyAifCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1Ygo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0V29ya3BsYWNlQ29kZXMoKSB7CiAgICAgICAgcmV0dXJuIHdvcmtwbGFjZUNvZGVzOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFdvcmtwbGFjZUNvZGVzKFN0cmluZyB3b3JrcGxhY2VDb2RlcykgewogICAgICAgIHRoaXMud29ya3BsYWNlQ29kZXMgPSB3b3JrcGxhY2VDb2RlczsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NvdW50Qk8uc2V0V29ya3BsYWNlQ29kZXMoInwiICsgU3RyaW5nLmpvaW4oInwiICsgYWNjb3VudEJPLmdldFdvcmtQbGFjZUNvZGVzKCkpOwo=</text>
+        <text encoding="base64">ICAgIHB1Ygo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY2NvdW50Qk8uc2V0V29ya3BsYWNlQ29kZXMoInwiICsgU3RyaW5nLmpvaW4oInwiICsgYWNjb3VudEJPLmdldFdvcmtQbGFjZUNvZGVzKCkpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -880,16 +880,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICogQHJldHVybgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmV0dXJuIFRvU3RyaW5nQnVpbGRlci5yZWZsZWN0aW9uVG9TdHJpbmcodGhpcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TGFuZ3VhZ2UoKSB7CiAgICAgICAgcmV0dXJuIGxhbmd1YWdlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldExhbmd1YWdlKFN0cmluZyBsYW5ndWFnZSkgewogICAgICAgIHRoaXMubGFuZ3VhZ2UgPSBsYW5ndWFnZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldFRpbWVab25lKCkgewogICAgICAgIHJldHVybiB0aW1lWm9uZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRUaW1lWm9uZShTdHJpbmcgdGltZVpvbmUpIHsKICAgICAgICB0aGlzLnRpbWVab25lID0gdGltZVpvbmU7CiAgICB9CgogICAgcHVibGljIExvbmcgZ2V0SWQoKSB7CiAgICAgICAgcmV0dXJuIGlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldElkKExvbmcgaWQpIHsKICAgICAgICB0aGlzLmlkID0gaWQ7CiAgICB9CgogICAgcHVibGljIERhdGUgZ2V0R210Q3JlYXRlKCkgewogICAgICAgIHJldHVybiBnbXRDcmVhdGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0R210Q3JlYXRlKERhdGUgZ210Q3JlYXRlKSB7CiAgICAgICAgdGhpcy5nbXRDcmVhdGUgPSBnbXRDcmVhdGU7CiAgICB9CgogICAgcHVibGljIERhdGUgZ2V0R210TW9kaWZpZWQoKSB7CiAgICAgICAgcmV0dXJuIGdtdE1vZGlmaWVkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEdtdE1vZGlmaWVkKERhdGUgZ210TW9kaWZpZWQpIHsKICAgICAgICB0aGlzLmdtdE1vZGlmaWVkID0gZ210TW9kaWZpZWQ7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRBY2NvdW50TmFtZSgpIHsKICAgICAgICByZXR1cm4gYWNjb3VudE5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0QWNjb3VudE5hbWUoU3RyaW5nIGFjY291bnROYW1lKSB7CiAgICAgICAgdGhpcy5hY2NvdW50TmFtZSA9IGFjY291bnROYW1lOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0Um9sZSgpIHsKICAgICAgICByZXR1cm4gcm9sZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRSb2xlKFN0cmluZyByb2xlKSB7CiAgICAgICAgdGhpcy5yb2xlID0gcm9sZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldENwQ29kZSgpIHsKICAgICAgICByZXR1cm4gY3BDb2RlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENwQ29kZShTdHJpbmcgY3BDb2RlKSB7CiAgICAgICAgdGhpcy5jcENvZGUgPSBjcENvZGU7CiAgICB9CgogICAgcHVibGljIExvbmcgZ2V0SGFzQXV0aCgpIHsKICAgICAgICByZXR1cm4gaGFzQXV0aDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRIYXNBdXRoKExvbmcgaGFzQXV0aCkgewogICAgICAgIHRoaXMuaGFzQXV0aCA9IGhhc0F1dGg7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRDcmVhdGVVc2VyKCkgewogICAgICAgIHJldHVybiBjcmVhdGVVc2VyOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENyZWF0ZVVzZXIoU3RyaW5nIGNyZWF0ZVVzZXIpIHsKICAgICAgICB0aGlzLmNyZWF0ZVVzZXIgPSBjcmVhdGVVc2VyOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXBkYXRlVXNlcigpIHsKICAgICAgICByZXR1cm4gdXBkYXRlVXNlcjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRVcGRhdGVVc2VyKFN0cmluZyB1cGRhdGVVc2VyKSB7CiAgICAgICAgdGhpcy51cGRhdGVVc2VyID0gdXBkYXRlVXNlcjsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldENuV29ya1BsYWNlQ29kZXMoKSB7CiAgICAgICAgcmV0dXJuIGNuV29ya1BsYWNlQ29kZXM7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q25Xb3JrUGxhY2VDb2RlcyhTdHJpbmcgY25Xb3JrUGxhY2VDb2RlcykgewogICAgICAgIHRoaXMuY25Xb3JrUGxhY2VDb2RlcyA9IGNuV29ya1BsYWNlQ29kZXM7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgIA==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQERlc2NyaXB0aW9uOiDnlKjmiLfooagK</text>
+        <text encoding="base64">cmV0dXJuIFRvU3RyaW5nQnVpbGRlci5yZWZsZWN0aW9uVG9TdHJpbmcodGhpcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
