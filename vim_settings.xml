@@ -130,11 +130,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/ParamEnum.java" timestamp="1607505547601" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/CustomArrangementRuleDO.java" timestamp="1607581724262">
-        <mark key="'" line="17" column="13" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" timestamp="1607682256105">
+        <mark key="[" line="109" column="85" />
+        <mark key="]" line="109" column="87" />
+        <mark key="." line="109" column="86" />
+        <mark key="^" line="109" column="87" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/crypto/password/PasswordEncoder.java" timestamp="1607505655859" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.1.7.RELEASE/spring-security-config-5.1.7.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java" timestamp="1607590163811" />
       <file name="$USER_HOME$/src/demo/spring-security-demo/src/test/java/com/cainiao/demo/springsecuritydemo/SpringSecurityDemoApplicationTests.java" timestamp="1607590405330">
         <mark key="[" line="2" column="0" />
@@ -147,7 +148,6 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/LabourResource.java" timestamp="1607589769572">
         <mark key="'" line="229" column="19" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/LabourCompanyFacadeImpl.java" timestamp="1607586780991" />
       <file name="$USER_HOME$/src/demo/spring-security-demo/pom.xml" timestamp="1607589132621">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="31" />
@@ -155,13 +155,6 @@
         <mark key="." line="7" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.4.1/spring-security-config-5.4.1-sources.jar!/org/springframework/security/config/annotation/web/configuration/EnableWebSecurity.java" timestamp="1607588759191" />
-      <file name="$USER_HOME$/src/demo/qldemo/src/main/java/com/cainiao/ql/qldemo/MainController.java" timestamp="1607588140201">
-        <mark key="'" line="18" column="14" />
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="26" column="17" />
-        <mark key="." line="26" column="16" />
-        <mark key="^" line="26" column="17" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.4.1/spring-security-config-5.4.1-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java" timestamp="1607588951760">
         <mark key="[" line="354" column="84" />
         <mark key="]" line="355" column="8" />
@@ -173,32 +166,37 @@
         <mark key="]" line="290" column="0" />
         <mark key="." line="290" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkApiToolResource.java" timestamp="1607571131413" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" timestamp="1607672219659" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/constants/Constants.java" timestamp="1607672302355" />
       <file name="$USER_HOME$/src/demo/spring-security-demo/src/main/java/com/cainiao/demo/springsecuritydemo/SpringSecurityDemoApplication.java" timestamp="1607588324673">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/src/demo/spring-security-demo/src/main/java/com/cainiao/demo/springsecuritydemo/config/WebSecurityConfig.java" timestamp="1607591106266">
+      <file name="$USER_HOME$/src/demo/spring-security-demo/src/main/java/com/cainiao/demo/springsecuritydemo/config/WebSecurityConfig.java" timestamp="1607594512477">
         <mark key="[" line="19" column="36" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="2" />
+        <mark key="^" line="10" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.1.4.RELEASE/spring-security-core-4.1.4.RELEASE-sources.jar!/org/springframework/security/crypto/password/PasswordEncoder.java" timestamp="1607505684706">
-        <mark key="'" line="24" column="17" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1607673321956" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" timestamp="1607912115798" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/LabourEfficiencyJsonUdf.java" timestamp="1607825438344">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/encoding/PasswordEncoder.java" timestamp="1607505676545">
-        <mark key="'" line="28" column="17" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1607589868529">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-blink-udx/src/main/java/com/cainiao/lms/blink/udx/labour/LabourEfficiencyJsonUdf.java" timestamp="1607825421850" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/DingTalkAttendanceStatisticsDO.java" timestamp="1607912166095" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1607670698005">
         <mark key="[" line="1970" column="0" />
         <mark key="]" line="1970" column="0" />
         <mark key="." line="1970" column="0" />
         <mark key="^" line="1963" column="5" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1607505083432">
-        <mark key="'" line="1025" column="31" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1607824383882">
+        <mark key="'" line="1068" column="28" />
         <mark key="[" line="461" column="102" />
         <mark key="]" line="461" column="102" />
         <mark key="." line="461" column="102" />
@@ -206,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="54" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" />
       <jump line="19" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/context/EmployeePprContext.java" />
       <jump line="103" column="22" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" />
       <jump line="104" column="23" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" />
@@ -306,15 +303,16 @@
       <jump line="28" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/encoding/PasswordEncoder.java" />
       <jump line="24" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.1.4.RELEASE/spring-security-core-4.1.4.RELEASE-sources.jar!/org/springframework/security/crypto/password/PasswordEncoder.java" />
       <jump line="229" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/common/LabourResource.java" />
+      <jump line="1068" column="28" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0QQo=</text>
       </register>
       <register name="-" type="4">
-        <text>WebSecurityConfiguration</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>SendCasualMetaqHandler</text>
@@ -323,22 +321,22 @@
         <text encoding="base64">ICAgICAgICBBdXRoRmlsdGVyIGF1dGhGaWx0ZXIgPSBuZXcgQXV0aEZpbHRlcigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0QQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmh0dHBCYXNpYygpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmh0dHBCYXNpYygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5jb25maWd1cmUoaHR0cCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -881,16 +879,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFdvcmtQbGFjZURPPiB3b3JrcGxhY2VET1NCeUNwQ29kZSA9IHdvcmtwbGFjZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5jb25maWd1cmUoaHR0cCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6Z2e5a6J5Y2T57O757uf6K+35rGC6buY6K6k5omn6KGM6L+Z5LiqaGFuZGxlcgogICAgICoKICAgICAqIEBwYXJhbSByZXF1ZXN0CiAgICAgKiBAcGFyYW0gcmVzcG9uc2UKICAgICAqIEBwYXJhbSBjaGFpbgogICAgICogQHRocm93cyBJT0V4Y2VwdGlvbgogICAgICogQHRocm93cyBTZXJ2bGV0RXhjZXB0aW9uCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFdvcmtQbGFjZURPPiB3b3JrcGxhY2VET1NCeUNwQ29kZSA9IHdvcmtwbGFjZXM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6Z2e5a6J5Y2T57O757uf6K+35rGC6buY6K6k5omn6KGM6L+Z5LiqaGFuZGxlcgogICAgICoKICAgICAqIEBwYXJhbSByZXF1ZXN0CiAgICAgKiBAcGFyYW0gcmVzcG9uc2UKICAgICAqIEBwYXJhbSBjaGFpbgogICAgICogQHRocm93cyBJT0V4Y2VwdGlvbgogICAgICogQHRocm93cyBTZXJ2bGV0RXhjZXB0aW9uCiAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLndtaS5hdXRoLmFwaS5zZXJ2aWNlLlVzZXJPcGVyYWJsZVdhcmVob3VzZVNlcnZpY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
