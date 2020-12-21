@@ -130,12 +130,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/IdentityCardVerifyManagerImpl.java" timestamp="1608110414958">
-        <mark key="[" line="27" column="30" />
-        <mark key="]" line="27" column="36" />
-        <mark key="." line="27" column="35" />
-        <mark key="^" line="27" column="36" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LabourUtil.java" timestamp="1608515535050">
         <mark key="[" line="40" column="58" />
         <mark key="]" line="40" column="58" />
@@ -149,12 +143,7 @@
         <mark key="^" line="88" column="27" />
         <mark key="." line="88" column="26" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1608204278629">
-        <mark key="[" line="1970" column="0" />
-        <mark key="]" line="1970" column="0" />
-        <mark key="." line="1970" column="0" />
-        <mark key="^" line="1963" column="5" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/wmp/task-client/1.1.4/task-client-1.1.4-sources.jar!/com/cainiao/wmp/task/client/common/constants/task/TaskTypeEnum.java" timestamp="1608519456126" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/workplace/WorkPlaceResource.java" timestamp="1608198940898">
         <mark key="[" line="170" column="54" />
         <mark key="]" line="170" column="93" />
@@ -168,18 +157,32 @@
         <mark key="^" line="63" column="33" />
         <mark key="." line="63" column="32" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1608479675260">
+        <mark key="'" line="564" column="22" />
+        <mark key="[" line="595" column="11" />
+        <mark key="]" line="595" column="11" />
+        <mark key="." line="595" column="10" />
+        <mark key="^" line="595" column="11" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1608204278629">
+        <mark key="[" line="1970" column="0" />
+        <mark key="]" line="1970" column="0" />
+        <mark key="." line="1970" column="0" />
+        <mark key="^" line="1963" column="5" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1608519462605">
+        <mark key="'" line="1021" column="77" />
+        <mark key="[" line="1021" column="79" />
+        <mark key="]" line="1022" column="16" />
+        <mark key="." line="1022" column="15" />
+        <mark key="^" line="1022" column="16" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/CpFacadeImpl.java" timestamp="1608195711517">
         <mark key="'" line="109" column="49" />
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
         <mark key="^" line="106" column="43" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/IdentityCardVerifyDO.java" timestamp="1608110431740">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="16" column="32" />
-        <mark key="^" line="16" column="32" />
-        <mark key="." line="16" column="31" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" timestamp="1608515646917">
         <mark key="'" line="35" column="4" />
@@ -191,16 +194,8 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/IdentityCardVerifyMapper.java" timestamp="1608110440608">
         <mark key="^" line="10" column="81" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1608479675260">
-        <mark key="'" line="564" column="22" />
-        <mark key="[" line="595" column="11" />
-        <mark key="]" line="595" column="11" />
-        <mark key="." line="595" column="10" />
-        <mark key="^" line="595" column="11" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="96" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeStatusFacadeImpl.java" />
       <jump line="194" column="64" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeStatusFacadeImpl.java" />
       <jump line="197" column="45" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeStatusFacadeImpl.java" />
       <jump line="200" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeStatusFacadeImpl.java" />
@@ -300,15 +295,16 @@
       <jump line="53" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" />
       <jump line="155" column="26" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" />
       <jump line="34" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" />
+      <jump line="1021" column="77" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PICK</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>PICK</text>
       </register>
       <register name="/" type="4">
         <text>SendCasualMetaqHandler</text>
