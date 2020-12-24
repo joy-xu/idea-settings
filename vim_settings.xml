@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>guava</entry>
         <entry>executor</entry>
         <entry>Blocking</entry>
         <entry>PPR</entry>
@@ -27,6 +26,7 @@
         <entry>workplace</entry>
         <entry>train</entry>
         <entry>auth</entry>
+        <entry>loginA</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/long/Long/g</entry>
@@ -141,6 +141,11 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeChangeLogDO.java" timestamp="1608780639335">
         <mark key="'" line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/config/AuthWebAppConfigurer.java" timestamp="1608801624488">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/EhrServiceImpl.java" timestamp="1608793569314">
         <mark key="]" line="28" column="36" />
         <mark key="." line="28" column="35" />
@@ -152,11 +157,11 @@
         <mark key="." line="94" column="40" />
         <mark key="^" line="94" column="41" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1608800535935">
-        <mark key="'" line="260" column="26" />
-        <mark key="[" line="667" column="0" />
-        <mark key="]" line="667" column="0" />
-        <mark key="." line="667" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1608801645597">
+        <mark key="'" line="773" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/EhrEmployeeProcessor.java" timestamp="1608792298534">
         <mark key="'" line="286" column="11" />
@@ -193,7 +198,6 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="40" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1608726456892" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/config/WebAppFilter.java" timestamp="1608800429176">
         <mark key="[" line="29" column="33" />
         <mark key="]" line="30" column="8" />
@@ -223,8 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="790" column="112" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" />
-      <jump line="788" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" />
       <jump line="21" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/RealNameTypeEnum.java" />
       <jump line="103" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/DelayQueue.java" />
       <jump line="42" column="35" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/indirectlabour/WmpTaskBatchStatusChangeBO.java" />
@@ -323,6 +325,8 @@
       <jump line="503" column="24" filename="$USER_HOME$/cainiao/wmplms/pom.xml" />
       <jump line="640" column="32" filename="$USER_HOME$/cainiao/wmplms/pom.xml" />
       <jump line="261" column="26" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" />
+      <jump line="124" column="57" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/config/AuthWebAppConfigurer.java" />
+      <jump line="775" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,7 +338,7 @@
         <text encoding="base64">IC8v5YC86LaK5bCP77yMRmlsdGVy6LaK6Z2g5YmN44CC</text>
       </register>
       <register name="/" type="4">
-        <text>auth</text>
+        <text>loginA</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8Z29vZ2xlLmd1YXZhLnZlcnNpb24+MTkuMDwvZ29vZ2xlLmd1YXZhLnZlcnNpb24+Cg==</text>
@@ -346,16 +350,16 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTZXNzaW9uUmVzdWx0IHNlc3Npb25SZXN1bHQgPSBuZXcgU2Vzc2lvblJlc3VsdCgpOyAvL3N0ZXAxOiDliJ3lp4vljJbnlKjmiLfkv6Hmga8KICAgICAgICAvL2FuZHJvaWRGaWx0ZXJIYW5kbGVyLmluaXRMb2dpbihyZXF1ZXN0LCByZXNwb25zZSwgc2Vzc2lvblJlc3VsdCk7CiAgICAgICAgLy8vL3N0ZXAyOiDmoKHpqoznmbvlvZUKICAgICAgICAvL2lmIChhbmRyb2lkRmlsdGVySGFuZGxlci5jaGVja0xvZ2luKHJlcXVlc3QsIHJlc3BvbnNlLCBzZXNzaW9uUmVzdWx0KSkgewogICAgICAgIC8vICAgIGFuZHJvaWRGaWx0ZXJIYW5kbGVyLmRvQXV0aG9yaXplZChyZXF1ZXN0LCByZXNwb25zZSwgc2Vzc2lvblJlc3VsdCk7CiAgICAgICAgLy99IGVsc2UgewogICAgICAgIC8vICAgIGFuZHJvaWRGaWx0ZXJIYW5kbGVyLmRvVW5hdXRob3JpemVkKHJlcXVlc3QsIHJlc3BvbnNlLCBzZXNzaW9uUmVzdWx0KTsKICAgICAgICAvL30K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9naW5XZWJGaWx0ZXJIYW5kbGVyIGxvZ2luV2ViRmlsdGVySGFuZGxlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLndtaS5hdXRoLmZpbHRlci5BdXRoVW5pZmllZEZpbHRlcjsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEFuZHJvaWRGaWx0ZXJIYW5kbGVyKExvZ2luRmlsdGVySGFuZGxlciBhbmRyb2lkRmlsdGVySGFuZGxlcikgewogICAgICAgIHRoaXMuYW5kcm9pZEZpbHRlckhhbmRsZXIgPSBhbmRyb2lkRmlsdGVySGFuZGxlcjsKICAgIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQXV0aFVuaWZpZWRGaWx0ZXIgYXV0aFVuaWZpZWRGaWx0ZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -898,16 +902,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldExvZ2luV2ViRmlsdGVySGFuZGxlcihMb2dpbldlYkZpbHRlckhhbmRsZXIgbG9naW5XZWJGaWx0ZXJIYW5kbGVyKSB7CiAgICAgICAgdGhpcy5sb2dpbldlYkZpbHRlckhhbmRsZXIgPSBsb2dpbldlYkZpbHRlckhhbmRsZXI7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8v5LiK6Z2i5Lik5Liq5a2X5q6155qE6YWN572u77yM5bu66K6u5aSn5a625o+Q5Y+W5YiwYW50eOaIluiAheWIq+eahOmFjee9ruaWh+S7tu+8jOeEtuWQjumAmui/h0BWYWx1ZeazqOino+azqOWFpei/m+adpe+8jOS5n+WPr+S7pemAmui/h2RpYW1vbmTmnaUKICAgIC8v5Zug5Li65LiN5ZCM546v5aKD77yI5Zu95YaF77yM5rW35aSW77yJ55qE5YC86YWN572u5Y+v6IO95LiN5LiA5qC377yM5aSn5a625qC55o2u6Ieq5bex55qE5oOF5Ya15p2l5a6aCg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRoRmlsdGVyLnNldExvZ2luV2ViRmlsdGVySGFuZGxlcihsb2dpbldlYkZpbHRlckhhbmRsZXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL+m7mOiupOWAvOaYr3RydWXvvIzov5nkuKrlrZfmrrXnmoTlkKvkuYnmmK/lkKbmoKHpqozlpKflrp3nmbvlvZXmoIfvvIx0cnVl5qCh6aqM77yMZmFsc2XkuI3moKHpqowKICAgICAgICAvL+agoemqjOeZu+W9leihqOeahOaEj+aAneaYr++8muW9k+WJjeeZu+W9leWkp+Wuneezu+e7n+aYr+aYr+WQpuWkp+Wunei0puWPt+eZu+W9le+8jOWboOS4uumZpOS6huWkp+Wunei0puWPt+eZu+W9le+8jOi/mOacieiPnOm4n+S8muWRmOi0puWPt+eZu+W9lQogICAgICAgIC8v6I+c6bif5Lya5ZGY6LSm5Y+355m75b2V5piv5LiN5YW35pyJ6K6/6Zeu5aSn5a6d57O757uf55qE5p2D6ZmQ77yM5L2G5pyJ5Lqb5oOF5Ya15LiL5LiA5Lqb57O757uf6ZyA6KaB6L+Z56eN54m55q6K5p2D6ZmQ77yM5omA5Lul6L+Z5Z2X5Y+v6YWN572uCg==</text>
+        <text encoding="base64">ICAgICAgICAvL2F1dGhGaWx0ZXIuc2V0QW5kcm9pZEZpbHRlckhhbmRsZXIobG9naW5BbmRyb2lkRmlsdGVySGFuZGxlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL+m7mOiupOWAvOaYr3RydWUg77yM6L+Z5Liq5a2X5q6155qE5ZCr5LmJ5piv5piv5ZCm5qCh6aqM6I+c5Y2V5p2D6ZmQ77yMdHJ1ZeagoemqjO+8jGZhbHNl5LiN5qCh6aqMCiAgICAgICAgLy/moKHpqozoj5zljZXmnYPpmZDmjIfnmoTmmK/lvZPliY3nmbvlvZXnlKjmiLfmmK/lkKbmi6XmnInlpKflrp3ns7vnu5/pobbpg6jngrnlh7vnmoToj5zljZXmnYPpmZAK</text>
+        <text encoding="base64">ICAgIC8vQEF1dG93aXJlZAogICAgLy9wcml2YXRlIExvZ2luRmlsdGVySGFuZGxlciBsb2dpbkFuZHJvaWRGaWx0ZXJIYW5kbGVyOwoK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
@@ -916,9 +920,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>auth</last-search>
+      <last-search>loginA</last-search>
       <last-offset />
-      <last-pattern>auth</last-pattern>
+      <last-pattern>loginA</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
       <last-dir>1</last-dir>
