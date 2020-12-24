@@ -130,6 +130,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/hrp/cn-hrp-scenario-client/1.1.18/cn-hrp-scenario-client-1.1.18.jar!/com/cainiao/hrp/scenario/client/dto/mdm/emp/EmployeeSalaryDTO.class" timestamp="1608775566930" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/EfficiencyServiceImpl.java" timestamp="1608691348846" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1608699953698">
         <mark key="[" line="22" column="26" />
@@ -144,20 +145,20 @@
         <mark key="." line="0" column="289" />
         <mark key="^" line="0" column="226" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/EhrServiceImpl.java" timestamp="1608775442464">
-        <mark key="[" line="165" column="17" />
-        <mark key="]" line="165" column="17" />
-        <mark key="." line="165" column="17" />
-        <mark key="^" line="158" column="20" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/EhrServiceImpl.java" timestamp="1608775904015">
+        <mark key="[" line="448" column="48" />
+        <mark key="]" line="449" column="36" />
+        <mark key="." line="449" column="35" />
+        <mark key="^" line="449" column="36" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/EhrEmployeeProcessor.java" timestamp="1608775243083">
-        <mark key="'" line="286" column="11" />
-        <mark key="[" line="287" column="44" />
-        <mark key="]" line="288" column="8" />
-        <mark key="^" line="288" column="8" />
-        <mark key="." line="288" column="7" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/EhrEmployeeProcessor.java" timestamp="1608776036272">
+        <mark key="'" line="287" column="11" />
+        <mark key="[" line="216" column="15" />
+        <mark key="]" line="216" column="16" />
+        <mark key="^" line="216" column="16" />
+        <mark key="." line="216" column="15" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1608775477718">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1608775503955">
         <mark key="'" line="21" column="13" />
         <mark key="[" line="277" column="64" />
         <mark key="]" line="277" column="90" />
@@ -193,12 +194,15 @@
         <mark key="^" line="28" column="26" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/EmployeeBaseProvider.java" timestamp="1608776165445">
+        <mark key="[" line="64" column="25" />
+        <mark key="]" line="64" column="32" />
+        <mark key="^" line="64" column="32" />
+        <mark key="." line="64" column="31" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/hrp/cn-hrp-scenario-client/1.1.18/cn-hrp-scenario-client-1.1.18.jar!/com/cainiao/hrp/scenario/client/dto/mdm/emp/EmployeeJobDTO.class" timestamp="1608716124939" />
       <file name="/fragment.java" timestamp="1608726649597">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/AttendanceRegisterRecordFacadeImpl.java" timestamp="1608624435999">
-        <mark key="'" line="622" column="8" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/dts/task/EhrSyncParam.java" timestamp="1608727184278">
         <mark key="[" line="16" column="12" />
@@ -313,16 +317,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>this::</text>
+        <text>trainGroupCode</text>
       </register>
       <register name="-" type="4">
-        <text>this::</text>
+        <text>trainGroupCode</text>
       </register>
       <register name="/" type="4">
         <text>workplace</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IHdvcmtwbGFjZUNvZGVzOwo=</text>
+        <text encoding="base64">ICAgICAgICArICJlLnRyYWluX2dyb3VwX2NvZGUgYXMgdHJhaW5Hcm91cENvZGUsIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -331,16 +335,16 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgTGFib3VyQ29tcGFueU1hbmFnZXIgbGFib3VyQ29tcGFueU1hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlaHJJbmZvLnNldERlcGFydG1lbnRDb2RlKCk7CiAgICAgICAgZWhySW5mby5zZXREZXBhcnRtZW50TmFtZSgpOwogICAgICAgIGVockluZm8uc2V0U2FsYXJ5U3RhbmRhcmQoc2FsYXJ5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xvZ2dlci5pbmZvKCJjb21tb25JZE51bUxpc3Q9e318d29ya3BsYWNlQ29kZT17fSIsIGNvbW1vblVzZXJJZExpc3QsIHdvcmtwbGFjZUNvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBFbXBsb3llZUVockluZm8gZWhySW5mbyA9IG5ldyBFbXBsb3llZUVockluZm8oKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChFbnRyeTxTdHJpbmcsIExpc3Q8RW1wbG95ZWVETz4+IGVudHJ5IDogaWROdW0yRW1wbG95ZWVzLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgICAgIGlmIChlbnRyeS5nZXRWYWx1ZSgpLnNpemUoKSA+IDEpIHsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgTGFib3VyQ29tcGFueU1hbmFnZXIgbGFib3VyQ29tcGFueU1hbmFnZXI7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -883,13 +887,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2xvZ2dlci5pbmZvKCJjb21tb25JZE51bUxpc3Q9e318d29ya3BsYWNlQ29kZT17fSIsIGNvbW1vblVzZXJJZExpc3QsIHdvcmtwbGFjZUNvZGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFdtcExtc0V4Y2VwdGlvbihFSFJfSURfTlVNX0RVUExJQ0FURUQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoIkVIUui6q+S7veivgeWPt+mHjeWkjTp7fSIsIEpTT04udG9KU09OU3RyaW5nKGVudHJ5LmdldFZhbHVlKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChFbnRyeTxTdHJpbmcsIExpc3Q8RW1wbG95ZWVETz4+IGVudHJ5IDogaWROdW0yRW1wbG95ZWVzLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgICAgIGlmIChlbnRyeS5nZXRWYWx1ZSgpLnNpemUoKSA+IDEpIHsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
