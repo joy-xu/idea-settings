@@ -141,29 +141,31 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeChangeLogDO.java" timestamp="1608780639335">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/config/AuthWebAppConfigurer.java" timestamp="1608802388148">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/config/AuthWebAppConfigurer.java" timestamp="1608803713499">
         <mark key="'" line="127" column="59" />
-        <mark key="[" line="127" column="48" />
-        <mark key="]" line="127" column="64" />
-        <mark key="." line="127" column="63" />
-        <mark key="^" line="127" column="64" />
+        <mark key="[" line="127" column="47" />
+        <mark key="]" line="127" column="57" />
+        <mark key="." line="127" column="56" />
+        <mark key="^" line="127" column="57" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-pojo/src/main/java/com/cainiao/lms/enums/NewPositionEnum.java" timestamp="1608803307585" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/EhrServiceImpl.java" timestamp="1608793569314">
         <mark key="]" line="28" column="36" />
         <mark key="." line="28" column="35" />
         <mark key="^" line="28" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.1.4.RELEASE/spring-security-web-4.1.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/preauth/AbstractPreAuthenticatedProcessingFilter.java" timestamp="1608803676959" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/employee/EmployeeChangeLogProvider.java" timestamp="1608780767149">
         <mark key="[" line="94" column="34" />
         <mark key="]" line="94" column="41" />
         <mark key="." line="94" column="40" />
         <mark key="^" line="94" column="41" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1608802513565">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1608804009666">
         <mark key="'" line="191" column="8" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+        <mark key="[" line="140" column="6" />
+        <mark key="]" line="140" column="46" />
+        <mark key="." line="140" column="6" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/EhrEmployeeProcessor.java" timestamp="1608792298534">
         <mark key="'" line="286" column="11" />
@@ -184,7 +186,6 @@
         <mark key="^" line="16" column="34" />
         <mark key="." line="16" column="33" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/DingTalkAttendanceStatisticsDO.java" timestamp="1608726514770" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/pom.xml" timestamp="1608800040395">
         <mark key="[" line="228" column="0" />
         <mark key="]" line="228" column="0" />
@@ -200,17 +201,11 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="40" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/config/WebAppFilter.java" timestamp="1608802358338">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/config/WebAppFilter.java" timestamp="1608803508040">
         <mark key="[" line="29" column="31" />
         <mark key="]" line="29" column="31" />
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="31" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/typehandler/EmployeeEhrInfoTypeHandler.java" timestamp="1608726748460">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="28" column="26" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/EmployeeBaseProvider.java" timestamp="1608776165445">
         <mark key="[" line="64" column="25" />
@@ -334,10 +329,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>authFilter</text>
+        <text>AbstractPreAuthenticatedProcessingFilter</text>
       </register>
       <register name="-" type="4">
-        <text>authFilter</text>
+        <text>AbstractPreAuthenticatedProcessingFilter</text>
       </register>
       <register name="/" type="4">
         <text>AuthFilter</text>
