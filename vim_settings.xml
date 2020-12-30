@@ -130,12 +130,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/WorkPlaceFacadeImpl.java" timestamp="1609298285310">
-        <mark key="'" line="393" column="42" />
-        <mark key="[" line="280" column="0" />
-        <mark key="]" line="280" column="0" />
-        <mark key="." line="280" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/SupportWorkLoadFormDataBuilder.java" timestamp="1609309447841">
         <mark key="[" line="314" column="66" />
         <mark key="]" line="308" column="79" />
@@ -160,6 +154,7 @@
         <mark key="." line="340" column="0" />
         <mark key="^" line="339" column="53" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/HsfConsumerConfig.java" timestamp="1609314870687" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/WorkLoadFormDataBuilder.java" timestamp="1609309465335">
         <mark key="[" line="150" column="66" />
         <mark key="]" line="155" column="79" />
@@ -172,32 +167,40 @@
         <mark key="." line="1252" column="50" />
         <mark key="^" line="1252" column="51" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/employee/EmployeeMapper.java" timestamp="1609298472769">
-        <mark key="'" line="293" column="10" />
-        <mark key="[" line="329" column="84" />
-        <mark key="]" line="329" column="84" />
-        <mark key="." line="329" column="84" />
-        <mark key="^" line="329" column="83" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SalaryItemResultFacadeImpl.java" timestamp="1609309493542">
         <mark key="[" line="564" column="66" />
         <mark key="]" line="564" column="49" />
         <mark key="^" line="564" column="49" />
         <mark key="." line="564" column="48" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionResource.java" timestamp="1609299446818">
-        <mark key="[" line="50" column="52" />
-        <mark key="]" line="50" column="57" />
-        <mark key="." line="50" column="56" />
-        <mark key="^" line="50" column="57" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-lzd-daily.properties" timestamp="1609314902843">
+        <mark key="[" line="38" column="34" />
+        <mark key="]" line="38" column="39" />
+        <mark key="." line="38" column="39" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-project.properties" timestamp="1609314884932">
+        <mark key="[" line="28" column="34" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="39" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/piece/PieceDataDictionaryDO.java" timestamp="1609311123179" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-lzd-project.properties" timestamp="1609314898038">
+        <mark key="[" line="38" column="34" />
+        <mark key="]" line="38" column="39" />
+        <mark key="." line="38" column="39" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" timestamp="1609313373675">
         <mark key="'" line="50" column="45" />
         <mark key="[" line="116" column="43" />
         <mark key="]" line="116" column="56" />
         <mark key="." line="116" column="55" />
         <mark key="^" line="116" column="56" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/BaseMetadataInterationImpl.java" timestamp="1609314912181">
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="14" />
+        <mark key="^" line="24" column="31" />
+        <mark key="." line="24" column="14" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/AttendanceMakeUpFormDataBuilder.java" timestamp="1609309382979">
         <mark key="[" line="104" column="66" />
@@ -212,17 +215,17 @@
         <mark key="^" line="72" column="19" />
         <mark key="." line="72" column="18" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-dev.properties" timestamp="1609314875587">
+        <mark key="[" line="30" column="34" />
+        <mark key="]" line="30" column="39" />
+        <mark key="." line="30" column="38" />
+        <mark key="^" line="30" column="39" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/piece/impl/PiecePositionManagerImpl.java" timestamp="1609299556977">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="21" column="57" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/piece/PiecePositionManager.java" timestamp="1609299544654">
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/piece/impl/PieceDataDictionaryManagerImpl.java" timestamp="1609312832161">
         <mark key="[" line="133" column="31" />
@@ -235,18 +238,6 @@
         <mark key="]" line="92" column="79" />
         <mark key="." line="92" column="78" />
         <mark key="^" line="92" column="79" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/piece/PiecePositionAddQo.java" timestamp="1609299403468">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="33" />
-        <mark key="^" line="26" column="33" />
-        <mark key="." line="26" column="32" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/PiecePositionFacade.java" timestamp="1609299468222">
-        <mark key="[" line="36" column="14" />
-        <mark key="]" line="36" column="19" />
-        <mark key="." line="36" column="18" />
-        <mark key="^" line="36" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -355,10 +346,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>pieceData.get().getPositionName()</text>
+        <text>(required = false)</text>
       </register>
       <register name="-" type="4">
-        <text>pieceData.get().getPositionName()</text>
+        <text>(required = false)</text>
       </register>
       <register name="/" type="4">
         <text>AuthFilter</text>
