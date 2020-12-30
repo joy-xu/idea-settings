@@ -1,5 +1,11 @@
 <application>
   <component name="PostfixTemplates">
+    <template id="nn@userDefined" key=".nn" provider="builtin.java" language-level="8" topmost="true">
+      <conditions>
+        <condition id="non void" />
+      </conditions>
+      <template name="fakeKey" value="Objects.nonNull($EXPR$)" toReformat="true" toShortenFQNames="true" />
+    </template>
     <template id="com.intellij.lang.javascript.template.postfix.JSIntroduceConstPostfixTemplate#.const" key=".const" provider="builtin.js" builtin="com.intellij.lang.javascript.template.postfix.JSIntroduceConstPostfixTemplate#.const" />
   </component>
 </application>
