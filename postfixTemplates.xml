@@ -1,11 +1,28 @@
 <application>
   <component name="PostfixTemplates">
-    <template id="nn@userDefined" key=".nn" provider="builtin.java" language-level="8" topmost="true">
+    <template id="udf@userDefined" key=".notnull" provider="builtin.java" language-level="8" topmost="false">
       <conditions>
         <condition id="non void" />
       </conditions>
       <template name="fakeKey" value="Objects.nonNull($EXPR$)" toReformat="true" toShortenFQNames="true" />
     </template>
+    <template id="isnull@userDefined" key=".isnull" provider="builtin.java" language-level="8" topmost="false">
+      <conditions>
+        <condition id="non void" />
+      </conditions>
+      <template name="fakeKey" value="Objects.isNull($EXPR$)" toReformat="true" toShortenFQNames="true" />
+    </template>
     <template id="com.intellij.lang.javascript.template.postfix.JSIntroduceConstPostfixTemplate#.const" key=".const" provider="builtin.js" builtin="com.intellij.lang.javascript.template.postfix.JSIntroduceConstPostfixTemplate#.const" />
+  </component>
+  <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="builtin.java">
+        <value>
+          <set>
+            <option value="com.intellij.codeInsight.template.postfix.templates.NotNullCheckPostfixTemplate#.notnull" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
   </component>
 </application>
