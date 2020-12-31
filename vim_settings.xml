@@ -130,12 +130,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" timestamp="1609385953019">
-        <mark key="'" line="145" column="0" />
-        <mark key="[" line="253" column="67" />
-        <mark key="]" line="253" column="66" />
-        <mark key="." line="253" column="65" />
-        <mark key="^" line="253" column="66" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" timestamp="1609387207581">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="250" column="66" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/typehandler/PiecePositionEmployeeExtensionTypeHandler.java" timestamp="1609384442861">
         <mark key="[" line="16" column="29" />
@@ -237,7 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="26" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" />
       <jump line="124" column="57" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/config/AuthWebAppConfigurer.java" />
       <jump line="775" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" />
       <jump line="15" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/config/AuthWebAppConfigurer.java" />
@@ -337,12 +336,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionResource.java" />
       <jump line="142" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" />
       <jump line="18" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/piece/PiecePositionDO.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>com.cainiao.lms.entity.dataobject.piece.PiecePositionEmployeeExtension</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwaWVjZVBvc2l0aW9uLnNldFBpZWNlUG9zaXRpb25OYW1lKCJwb3NpdGlvbk5hbWUiKTsK</text>
       </register>
       <register name="-" type="4">
         <text>com.cainiao.lms.entity.dataobject.piece.PiecePositionEmployeeExtension</text>
@@ -354,22 +354,22 @@
         <text encoding="base64">ICAgICAgICA8dHlwZUhhbmRsZXIgaGFuZGxlcj0iY29tLmNhaW5pYW8ubG1zLnR5cGVoYW5kbGVyLlBpZWNlUG9zaXRpb25FbXBsb3llZUV4dGVuc2lvblR5cGVIYW5kbGVyIiBqYXZhVHlwZT0iY29tLmNhaW5pYW8ubG1zLmVudGl0eS5kYXRhb2JqZWN0LnBpZWNlLlBpZWNlUG9zaXRpb25FbXBsb3llZUV4dGVuc2lvbiIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUYWJsZUZpZWxkKHZhbHVlID0gInBpZWNlX3VuaXQiLAogICAgICAgIGVsID0gInBpZWNlVW5pdCwgdHlwZUhhbmRsZXI9Y29tLmNhaW5pYW8ubG1zLnR5cGVoYW5kbGVyLlNldFR5cGVIYW5kbGVyIikK</text>
+        <text encoding="base64">ICAgICAgICBwaWVjZVBvc2l0aW9uLnNldFBpZWNlUG9zaXRpb25OYW1lKCJwb3NpdGlvbk5hbWUiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwaWVjZVBvc2l0aW9uLnNldERlcGFydG1lbnROYW1lKCJkZXBhcnRtZW50TmFtZSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBUYWJsZUZpZWxkKHZhbHVlID0gInBpZWNlX3VuaXQiLAogICAgICAgIGVsID0gInBpZWNlVW5pdCwgdHlwZUhhbmRsZXI9Y29tLmNhaW5pYW8ubG1zLnR5cGVoYW5kbGVyLlBpZWNlUG9zaXRpb25QaWVjZVVuaXRUeXBlSGFuZGxlciIpCg==</text>
+        <text encoding="base64">ICAgIEBUYWJsZUZpZWxkKHZhbHVlID0gInBpZWNlX3VuaXQiLAogICAgICAgIGVsID0gInBpZWNlVW5pdCwgdHlwZUhhbmRsZXI9Y29tLmNhaW5pYW8ubG1zLnR5cGVoYW5kbGVyLlNldFR5cGVIYW5kbGVyIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICog6K6h5Lu25bKX5LiO5Lq65ZGY5YWz57O7ZXh0ZW5zaW9u5a2X5q6157G75Z6LaGFuZGxlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUYWJsZUZpZWxkKHZhbHVlID0gInBpZWNlX3VuaXQiLAogICAgICAgIGVsID0gInBpZWNlVW5pdCwgdHlwZUhhbmRsZXI9Y29tLmNhaW5pYW8ubG1zLnR5cGVoYW5kbGVyLlBpZWNlUG9zaXRpb25QaWVjZVVuaXRUeXBlSGFuZGxlciIpCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -912,16 +912,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFByb21vdGVNZXNzYWdlIFBJRUNFX1BPU0lUSU9OX1VOSVRfTlVMTCA9IDsK</text>
+        <text encoding="base64">ICog6K6h5Lu25bKX5LiO5Lq65ZGY5YWz57O7ZXh0ZW5zaW9u5a2X5q6157G75Z6LaGFuZGxlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoQXJncyhwaWVjZVBvc2l0aW9uTmFtZSwgcGllY2VVbml0LmdldERlc2MoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFByb21vdGVNZXNzYWdlIFBJRUNFX1BPU0lUSU9OX1VOSVRfTlVMTCA9IDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoQXJncyhwaWVjZVBvc2l0aW9uTmFtZSwgcGllY2VVbml0LmdldERlc2MoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
