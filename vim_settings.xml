@@ -134,6 +134,12 @@
         <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/indirectlabour/IndirectLabourVO.java" timestamp="1609916579804" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1609924940534">
+        <mark key="[" line="289" column="0" />
+        <mark key="]" line="289" column="43" />
+        <mark key="." line="289" column="0" />
+        <mark key="^" line="270" column="52" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/employee/EmployeePostRegisterFacade.java" timestamp="1609900979338">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="27" />
@@ -175,18 +181,14 @@
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="49" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/piece/PiecePositionEmployeeUpdateQo.java" timestamp="1609898113500">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="31" column="11" />
-        <mark key="^" line="31" column="11" />
-        <mark key="." line="31" column="10" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/employee/EmployeePostRegisterFacadeImpl.java" timestamp="1609903524061">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="55" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1609921260509">
-        <mark key="'" line="279" column="16" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1609923351584">
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="278" column="0" />
+        <mark key="." line="278" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/piece/PiecePositionEmployeeVO.java" timestamp="1609917153655">
         <mark key="[" line="14" column="0" />
@@ -309,35 +311,35 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2suZ2V0UHJvY2VzcygpLmFkZChtc2cpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnRQYXJhbS5zZXRXb3JrcGxhY2VDb2RlKHdvcmtwbGFjZUNvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzUGFja0NoYW5nZVVzZXIoeWVzdGVyZGF5TGFib3Vycyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2suZ2V0UHJvY2VzcygpLmFkZChtc2cpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2suc2V0Q29tcHV0ZVN0YXJ0VGltZSh0YXNrLmdldENvbXB1dGVFbmRUaW1lKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNvbGxlY3QodG9MaXN0KCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgc29ydGVkUHByRGF0YSA9IHNvcnRlZFBwckRhdGEuc3RyZWFtKCkKICAgICAgICAgICAgLnNvcnRlZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250ZXh0LmdldFBwckNvbXB1dGVTb3VyY2UoKSA9PSBQcHJDb21wdXRlU291cmNlRW51bS5XRUJfU1RBVFVTX1FVRVJZKSB7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -880,25 +882,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChPYmplY3RzLmVxdWFscyh0YXNrLmdldFRhc2tUeXBlKCksIFRhc2tUeXBlRW51bS5DSEVDS19BTkRfUEFDSy5nZXRWYWx1ZSgpKSAmJiB0YXNrLmlzQ2hhbmdlVXNlcigpKSB7CiAgICAgICAgICAgICAgICAgICAgdGFzay5zZXRDb21wdXRlU3RhcnRUaW1lKHRhc2suZ2V0Q29tcHV0ZUVuZFRpbWUoKSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGNvbnRleHQuZ2V0UHByQ29tcHV0ZVNvdXJjZSgpID09IFBwckNvbXB1dGVTb3VyY2VFbnVtLldFQl9TVEFUVVNfUVVFUlkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG1zZyA9IFN0cmluZy5mb3JtYXQoIuWkjeaguOS7u+WKoeW8gOWni+S4jue7k+adn+S4jeaYr+WQjOS4gOS4quW3peWPtywg5byA5aeL5bel5Y+3OiAlcywg57uT5p2f5bel5Y+3OiAlcywg6LCD5pW05byA5aeL5pe26Ze0LCDljp/lvIDlp4vml7bpl7Q6ICVzLCDosIPmlbTlkI46ICVzIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRhc2suZ2V0Q3JlYXRvcigpLCB0YXNrLmdldEVtcGxveWVlTnVtYmVyKCksIHRhc2suZ2V0Q29tcHV0ZVN0YXJ0VGltZSgpLCB0YXNrLmdldENvbXB1dGVFbmRUaW1lKCkpOwogICAgICAgICAgICAgICAgICAgICAgICB0YXNrLmdldFByb2Nlc3MoKS5hZGQobXNnKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoT2JqZWN0cy5lcXVhbHModGFzay5nZXRUYXNrVHlwZSgpLCBUYXNrVHlwZUVudW0uQ0hFQ0tfQU5EX1BBQ0suZ2V0VmFsdWUoKSkgJiYgdGFzay5pc0NoYW5nZVVzZXIoKSkgewogICAgICAgICAgICB0YXNrLnNldENvbXB1dGVTdGFydFRpbWUodGFzay5nZXRDb21wdXRlRW5kVGltZSgpKTsKICAgICAgICAgICAgaWYgKGNvbnRleHQuZ2V0UHByQ29tcHV0ZVNvdXJjZSgpID09IFBwckNvbXB1dGVTb3VyY2VFbnVtLldFQl9TVEFUVVNfUVVFUlkpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBtc2cgPSBTdHJpbmcuZm9ybWF0KCLlpI3moLjku7vliqHlvIDlp4vkuI7nu5PmnZ/kuI3mmK/lkIzkuIDkuKrlt6Xlj7csIOW8gOWni+W3peWPtzogJXMsIOe7k+adn+W3peWPtzogJXMsIOiwg+aVtOW8gOWni+aXtumXtCwg5Y6f5byA5aeL5pe26Ze0OiAlcywg6LCD5pW05ZCOOiAlcyIsCiAgICAgICAgICAgICAgICAgICAgdGFzay5nZXRDcmVhdG9yKCksIHRhc2suZ2V0RW1wbG95ZWVOdW1iZXIoKSwgdGFzay5nZXRDb21wdXRlU3RhcnRUaW1lKCksIHRhc2suZ2V0Q29tcHV0ZUVuZFRpbWUoKSk7CiAgICAgICAgICAgICAgICB0YXNrLmdldFByb2Nlc3MoKS5hZGQobXNnKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text>@GET
-    @Path(&quot;export&quot;)
-    @Produces(MediaType.APPLICATION_OCTET_STREAM)
-    public void getExportData(@Valid @NotBlank(message = &quot;工作点不能为空&quot;) @QueryParam(&quot;workplaceCode&quot;) String workplaceCode,
-                              @Valid @NotNull(message = &quot;计件岗不能为空&quot;) @QueryParam(&quot;piecePositionId&quot;) Long id) {
-        PiecePositionEmployeeQo exportParam = new PiecePositionEmployeeQo();
-        exportParam.setWorkplaceCode(workplaceCode);
-        exportParam.setWorkplaceCode(workplaceCode);
-        piecePositionEmployeeFacade.export(exportParam, response);
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
