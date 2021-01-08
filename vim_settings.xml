@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Function</entry>
         <entry>dingtalk</entry>
         <entry>forEach</entry>
         <entry>time used</entry>
@@ -27,6 +26,7 @@
         <entry>TODO</entry>
         <entry>code</entry>
         <entry>POST</entry>
+        <entry>GET</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/long/Long/g</entry>
@@ -155,18 +155,25 @@
         <mark key="." line="229" column="84" />
         <mark key="^" line="229" column="85" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionEmployeeResource.java" timestamp="1610077136312">
-        <mark key="'" line="118" column="0" />
-        <mark key="[" line="111" column="11" />
-        <mark key="]" line="111" column="40" />
-        <mark key="." line="111" column="39" />
-        <mark key="^" line="111" column="40" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionEmployeeResource.java" timestamp="1610086482031">
+        <mark key="'" line="66" column="5" />
+        <mark key="[" line="60" column="15" />
+        <mark key="]" line="60" column="16" />
+        <mark key="." line="60" column="15" />
+        <mark key="^" line="60" column="16" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/piece/PiecePositionEmployeeMapper.java" timestamp="1610070193392">
-        <mark key="[" line="74" column="11" />
-        <mark key="]" line="74" column="15" />
-        <mark key="." line="74" column="14" />
-        <mark key="^" line="74" column="15" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/annotation/CheckPiecePositionUpdateQo.java" timestamp="1610085499662">
+        <mark key="[" line="54" column="70" />
+        <mark key="]" line="54" column="70" />
+        <mark key="^" line="54" column="85" />
+        <mark key="." line="54" column="70" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionResource.java" timestamp="1610086414497">
+        <mark key="'" line="70" column="21" />
+        <mark key="[" line="69" column="5" />
+        <mark key="]" line="69" column="9" />
+        <mark key="." line="69" column="8" />
+        <mark key="^" line="69" column="9" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/glassfish/jersey/media/jersey-media-multipart/2.25.1/jersey-media-multipart-2.25.1-sources.jar!/org/glassfish/jersey/media/multipart/FormDataContentDisposition.java" timestamp="1610072543715" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/velocity/templates/toffee_pay_operate.vm" timestamp="1610070734521" />
@@ -182,12 +189,6 @@
         <mark key="]" line="40" column="47" />
         <mark key="." line="40" column="46" />
         <mark key="^" line="40" column="47" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/piece/impl/PiecePositionManagerImpl.java" timestamp="1610067667452">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="24" />
-        <mark key="^" line="38" column="24" />
-        <mark key="." line="38" column="23" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/test/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImplTest.java" timestamp="1610079335903">
         <mark key="'" line="400" column="4" />
@@ -235,9 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/EhrService.java" />
-      <jump line="47" column="20" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/EhrService.java" />
-      <jump line="35" column="33" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" />
       <jump line="65" column="42" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" />
       <jump line="78" column="34" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" />
       <jump line="48" column="45" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" />
@@ -335,18 +333,21 @@
       <jump line="12" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/piece/PieceDataDictionaryManager.java" />
       <jump line="49" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/piece/impl/PieceDataDictionaryManagerImpl.java" />
       <jump line="57" column="43" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/piece/impl/PieceDataDictionaryManagerImpl.java" />
+      <jump line="70" column="21" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionResource.java" />
+      <jump line="59" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionEmployeeResource.java" />
+      <jump line="65" column="5" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionEmployeeResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>getLstEmployeeJsCssVersion</text>
+        <text>qquery</text>
       </register>
       <register name="-" type="4">
-        <text>getLstEmployeeJsCssVersion</text>
+        <text>qquery</text>
       </register>
       <register name="/" type="4">
-        <text>POST</text>
+        <text>GET</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBXbXBMbXNFeGNlcHRpb24oUElFQ0VfUE9TSVRJT05fQUxSRUFEWV9FWElTVCk7Cg==</text>
@@ -928,9 +929,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>POST</last-search>
+      <last-search>GET</last-search>
       <last-offset />
-      <last-pattern>POST</last-pattern>
+      <last-pattern>GET</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
       <last-dir>1</last-dir>
