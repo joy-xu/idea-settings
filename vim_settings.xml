@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>time used</entry>
         <entry>work_place</entry>
         <entry>odps</entry>
         <entry>save</entry>
@@ -27,6 +26,7 @@
         <entry>GET</entry>
         <entry>KVStore</entry>
         <entry>KvStoreCacheManager</entry>
+        <entry>DELETE</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/long/Long/g</entry>
@@ -166,6 +166,13 @@
         <mark key="." line="801" column="88" />
         <mark key="^" line="801" column="89" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionEmployeeResource.java" timestamp="1610342137147">
+        <mark key="'" line="63" column="59" />
+        <mark key="[" line="60" column="15" />
+        <mark key="]" line="60" column="16" />
+        <mark key="." line="60" column="15" />
+        <mark key="^" line="60" column="16" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/piece/PiecePositionEmployeeRollJobProcessor.java" timestamp="1610095739661">
         <mark key="'" line="38" column="68" />
         <mark key="[" line="91" column="75" />
@@ -205,20 +212,14 @@
         <mark key="'" line="28" column="22" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-pojo/src/main/java/com/cainiao/lms/enums/piece/PieceUnitEnum.java" timestamp="1610333353049" />
-      <file name="/fragment.java" timestamp="1610095484814">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/piece/PiecePositionEmployeeProvider.java" timestamp="1610336837400">
-        <mark key="[" line="95" column="33" />
-        <mark key="]" line="95" column="47" />
-        <mark key="." line="95" column="46" />
-        <mark key="^" line="95" column="47" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/piece/PiecePositionEmployeeProvider.java" timestamp="1610337631098">
+        <mark key="[" line="138" column="68" />
+        <mark key="]" line="138" column="69" />
+        <mark key="." line="138" column="68" />
+        <mark key="^" line="138" column="69" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/BaseProvider.java" />
       <jump line="27" column="57" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/EmployeeProvider.java" />
       <jump line="223" column="21" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/EmployeeProvider.java" />
       <jump line="648" column="21" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/EmployeeProvider.java" />
@@ -318,18 +319,19 @@
       <jump line="37" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/piece/impl/PiecePositionEmployeeManagerImpl.java" />
       <jump line="35" column="3" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/piece/impl/PiecePositionEmployeeManagerImpl.java" />
       <jump line="27" column="53" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/piece/PiecePositionEmployeeMapper.java" />
+      <jump line="63" column="59" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionEmployeeResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>query</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>KvStoreCacheManager</text>
+        <text>DELETE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3FsLldIRVJFKCJwcGUubW9udGggPSAwIik7Cg==</text>
@@ -911,9 +913,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>KvStoreCacheManager</last-search>
+      <last-search>DELETE</last-search>
       <last-offset />
-      <last-pattern>KvStoreCacheManager</last-pattern>
+      <last-pattern>DELETE</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
       <last-dir>1</last-dir>
