@@ -4,9 +4,5 @@
       <display-name>ParamProvider.getWhereSql (com.cainiao.lms.provider)</display-name>
       <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("getWhereSql").withParameters("com.cainiao.lms.entity.query.ParamQuery", "java.lang.String").definedInClass("com.cainiao.lms.provider.ParamProvider"))]]></place>
     </injection>
-    <injection language="SQL" injector-id="java">
-      <display-name>StringBuilder.append (java.lang)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("append").withParameters("java.lang.String").definedInClass("java.lang.StringBuilder"))]]></place>
-    </injection>
   </component>
 </application>
