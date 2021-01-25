@@ -159,12 +159,6 @@
         <mark key="." line="455" column="0" />
         <mark key="^" line="437" column="32" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LocalDateUtil.java" timestamp="1611305860295">
-        <mark key="[" line="83" column="39" />
-        <mark key="]" line="83" column="20" />
-        <mark key="^" line="83" column="20" />
-        <mark key="." line="83" column="19" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/salary/SalaryResource.java" timestamp="1611306174843">
         <mark key="'" line="376" column="19" />
       </file>
@@ -187,6 +181,12 @@
         <mark key="]" line="129" column="41" />
         <mark key="." line="129" column="40" />
         <mark key="^" line="129" column="41" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1611562047453">
+        <mark key="[" line="1180" column="47" />
+        <mark key="]" line="1180" column="60" />
+        <mark key="." line="1180" column="59" />
+        <mark key="^" line="1180" column="60" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionEmployeeFacadeImpl.java" timestamp="1611546269116">
         <mark key="'" line="611" column="8" />
@@ -318,11 +318,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>pprData</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>pprData</text>
       </register>
       <register name="/" type="4">
         <text>DELETE</text>
@@ -331,22 +331,22 @@
         <text encoding="base64">ICAgICAgICBMYWJvdXJFZmZpY2llbmN5RFRPIG8xID0gbmV3IExhYm91ckVmZmljaWVuY3lEVE8oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBMaXN0PExhYm91ckVmZmljaWVuY3lEVE8+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oMik7CiAgICAgICAgTGFib3VyRWZmaWNpZW5jeURUTyBvMSA9IG5ldyBMYWJvdXJFZmZpY2llbmN5RFRPKCk7CiAgICAgICAgTG9jYWxEYXRlVGltZSBzdGFydCA9IExvY2FsRGF0ZVRpbWUubm93KCk7CiAgICAgICAgTG9jYWxEYXRlVGltZSBlbmQgPSBzdGFydC5wbHVzSG91cnMoMSk7CiAgICAgICAgbzEuc2V0U3RhcnRUaW1lKHN0YXJ0KTsKICAgICAgICBvMS5zZXRFbmRUaW1lKGVuZCk7CiAgICAgICAgbzEuc2V0VHlwZShMYWJvdXJFZmZpY2llbmN5VHlwZUVudW0uVEFTSyk7CgogICAgICAgIExhYm91ckVmZmljaWVuY3lEVE8gbzIgPSBuZXcgTGFib3VyRWZmaWNpZW5jeURUTygpOwogICAgICAgIG8yLnNldFN0YXJ0VGltZShzdGFydCk7CiAgICAgICAgbzIuc2V0RW5kVGltZShlbmQpOwogICAgICAgIG8yLnNldFR5cGUoTGFib3VyRWZmaWNpZW5jeVR5cGVFbnVtLlJFU1RfU1RBUlQpOwoKICAgICAgICBsaXN0LmFkZChvMSk7CiAgICAgICAgbGlzdC5hZGQobzIpOwoKICAgICAgICBMaXN0PExhYm91ckVmZmljaWVuY3lEVE8+IHNvcnRlZFJlc3VsdCA9IGxpc3Quc3RyZWFtKCkuc29ydGVkKCkKICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzb3J0ZWRSZXN1bHQpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMYWJvdXJFZmZpY2llbmN5RFRPIG8xID0gbmV3IExhYm91ckVmZmljaWVuY3lEVE8oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5piv5ZCm5piv5a6e6ZmF5bel5L2cCiAgICAgKgogICAgICogQHJldHVybiDmmK/lkKbmmK/njrDlnLrlt6XkvZwsIHRydWUgaWYg5pivLCBmYWxzZSBpZiDkuI3mmK8KICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -889,16 +889,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gdHJ1ZSBpZiAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBMaXN0PExhYm91ckVmZmljaWVuY3lEVE8+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oMik7CiAgICAgICAgTGFib3VyRWZmaWNpZW5jeURUTyBvMSA9IG5ldyBMYWJvdXJFZmZpY2llbmN5RFRPKCk7CiAgICAgICAgTG9jYWxEYXRlVGltZSBzdGFydCA9IExvY2FsRGF0ZVRpbWUubm93KCk7CiAgICAgICAgTG9jYWxEYXRlVGltZSBlbmQgPSBzdGFydC5wbHVzSG91cnMoMSk7CiAgICAgICAgbzEuc2V0U3RhcnRUaW1lKHN0YXJ0KTsKICAgICAgICBvMS5zZXRFbmRUaW1lKGVuZCk7CiAgICAgICAgbzEuc2V0VHlwZShMYWJvdXJFZmZpY2llbmN5VHlwZUVudW0uVEFTSyk7CgogICAgICAgIExhYm91ckVmZmljaWVuY3lEVE8gbzIgPSBuZXcgTGFib3VyRWZmaWNpZW5jeURUTygpOwogICAgICAgIG8yLnNldFN0YXJ0VGltZShzdGFydCk7CiAgICAgICAgbzIuc2V0RW5kVGltZShlbmQpOwogICAgICAgIG8yLnNldFR5cGUoTGFib3VyRWZmaWNpZW5jeVR5cGVFbnVtLlJFU1RfU1RBUlQpOwoKICAgICAgICBsaXN0LmFkZChvMSk7CiAgICAgICAgbGlzdC5hZGQobzIpOwoKICAgICAgICBMaXN0PExhYm91ckVmZmljaWVuY3lEVE8+IHNvcnRlZFJlc3VsdCA9IGxpc3Quc3RyZWFtKCkuc29ydGVkKCkKICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzb3J0ZWRSZXN1bHQpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMYWJvdXJFZmZpY2llbmN5RFRPIG8xID0gbmV3IExhYm91ckVmZmljaWVuY3lEVE8oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMYWJvdXJFZmZpY2llbmN5VHlwZUVudW0gdHlwZSA9IHRoaXMuZ2V0VHlwZSgpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5piv5ZCm5piv5a6e6ZmF5bel5L2cCiAgICAgKgogICAgICogQHJldHVybiDmmK/lkKbmmK/njrDlnLrlt6XkvZwsIHRydWUgaWYg5pivLCBmYWxzZSBpZiDkuI3mmK8KICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
