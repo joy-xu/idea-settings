@@ -130,6 +130,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/WorkPlaceFacadeImpl.java" timestamp="1611641144069">
+        <mark key="[" line="281" column="27" />
+        <mark key="]" line="281" column="29" />
+        <mark key="^" line="281" column="29" />
+        <mark key="." line="281" column="28" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/context/EmployeePprContext.java" timestamp="1611628803044">
         <mark key="[" line="39" column="4" />
         <mark key="]" line="41" column="11" />
@@ -148,23 +154,11 @@
         <mark key="." line="216" column="58" />
         <mark key="^" line="216" column="59" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" timestamp="1611540045198">
-        <mark key="'" line="239" column="16" />
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="0" />
-        <mark key="." line="184" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/LstPprHandler.java" timestamp="1611565625464">
         <mark key="[" line="131" column="61" />
         <mark key="]" line="131" column="74" />
         <mark key="." line="131" column="73" />
         <mark key="^" line="131" column="74" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" timestamp="1611632087255">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="30" />
-        <mark key="^" line="83" column="30" />
-        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/PreLabourEfficiencyPprDO.java" timestamp="1611563974941">
         <mark key="[" line="15" column="12" />
@@ -179,6 +173,9 @@
         <mark key="]" line="1367" column="57" />
         <mark key="^" line="1198" column="58" />
         <mark key="." line="1367" column="69" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" timestamp="1611640937064">
+        <mark key="'" line="1115" column="7" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-pojo/src/main/java/com/cainiao/lms/enums/LabourEfficiencyTypeEnum.java" timestamp="1611564292984">
         <mark key="'" line="19" column="4" />
@@ -231,7 +228,6 @@
       <file name="/fragment.java" timestamp="1611564056523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/piece/PiecePositionEmployeeProvider.java" timestamp="1611546053346" />
     </filemarks>
     <jumps>
       <jump line="29" column="58" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/piece/PiecePositionEmployeeImportQo.java" />
