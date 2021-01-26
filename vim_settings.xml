@@ -12,7 +12,6 @@
         <entry>KVStore</entry>
         <entry>KvStoreCacheManager</entry>
         <entry>markdown</entry>
-        <entry>Set</entry>
         <entry>pick</entry>
         <entry>pickType</entry>
         <entry>6603</entry>
@@ -27,6 +26,7 @@
         <entry>salaryItemSer</entry>
         <entry>delete</entry>
         <entry>DELETE</entry>
+        <entry>Set</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/long/Long/g</entry>
@@ -130,6 +130,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/io/ByteArrayInputStream.java" timestamp="1611645200246" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/WorkPlaceFacadeImpl.java" timestamp="1611641144069">
         <mark key="[" line="281" column="27" />
         <mark key="]" line="281" column="29" />
@@ -142,6 +143,7 @@
         <mark key="^" line="41" column="11" />
         <mark key="." line="41" column="10" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeWorkGroupResource.java" timestamp="1611642755583" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1611565991517">
         <mark key="[" line="244" column="13" />
         <mark key="]" line="216" column="59" />
@@ -154,14 +156,6 @@
         <mark key="." line="131" column="73" />
         <mark key="^" line="131" column="74" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/PreLabourEfficiencyPprDO.java" timestamp="1611563974941">
-        <mark key="[" line="15" column="12" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/time/LocalDateTime.java" timestamp="1611558549797">
-        <mark key="[" line="1815" column="0" />
-        <mark key="]" line="1815" column="74" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1611564718529" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/LzdPprHandler.java" timestamp="1611565646795">
         <mark key="[" line="1367" column="57" />
         <mark key="]" line="1367" column="57" />
@@ -171,15 +165,18 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" timestamp="1611641700925">
         <mark key="'" line="42" column="5" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" timestamp="1611640937064">
-        <mark key="'" line="1115" column="7" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" timestamp="1611642814865">
+        <mark key="'" line="1118" column="7" />
+        <mark key="[" line="310" column="89" />
+        <mark key="]" line="310" column="89" />
+        <mark key="^" line="310" column="44" />
+        <mark key="." line="310" column="89" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-pojo/src/main/java/com/cainiao/lms/enums/LabourEfficiencyTypeEnum.java" timestamp="1611564292984">
-        <mark key="'" line="19" column="4" />
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="22" column="21" />
-        <mark key="^" line="22" column="22" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/DiamondSwitchProperty.java" timestamp="1611646860404">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="48" column="135" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/context/PprComputeSourceEnum.java" timestamp="1611565513082">
         <mark key="[" line="30" column="7" />
@@ -207,18 +204,19 @@
         <mark key="." line="19" column="17" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionEmployeeFacadeImpl.java" timestamp="1611642203737">
-        <mark key="'" line="803" column="15" />
-        <mark key="[" line="801" column="32" />
-        <mark key="]" line="801" column="33" />
-        <mark key="." line="801" column="32" />
-        <mark key="^" line="801" column="33" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1611644492426">
+        <mark key="'" line="913" column="49" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" timestamp="1611559166779">
-        <mark key="[" line="390" column="0" />
-        <mark key="]" line="390" column="0" />
-        <mark key="." line="390" column="0" />
-        <mark key="^" line="179" column="24" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionEmployeeFacadeImpl.java" timestamp="1611643013396">
+        <mark key="'" line="459" column="20" />
+        <mark key="[" line="462" column="0" />
+        <mark key="]" line="462" column="0" />
+        <mark key="." line="462" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionResource.java" timestamp="1611642657365">
+        <mark key="[" line="63" column="39" />
+        <mark key="]" line="63" column="39" />
+        <mark key="." line="63" column="39" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/PreLmsLabourEfficiencyPprResultAdbDO.java" timestamp="1611628703707">
         <mark key="'" line="32" column="27" />
@@ -227,18 +225,15 @@
         <mark key="^" line="231" column="33" />
         <mark key="." line="234" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1611564056523">
+      <file name="/fragment.java" timestamp="1611646551646">
+        <mark key="'" line="0" column="64" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="9" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" />
-      <jump line="73" column="111" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/piece/impl/PiecePositionManagerImpl.java" />
-      <jump line="106" column="49" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/workplace/WorkPlaceResource.java" />
-      <jump line="906" column="18" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
-      <jump line="92" column="47" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
-      <jump line="133" column="69" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/salary/item/SalaryItemResultProcessor.java" />
-      <jump line="710" column="9" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="428" column="35" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionEmployeeFacadeImpl.java" />
       <jump line="48" column="32" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionEmployeeFacadeImpl.java" />
       <jump line="312" column="23" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
@@ -332,39 +327,46 @@
       <jump line="15" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
       <jump line="42" column="5" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" />
       <jump line="803" column="15" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionEmployeeFacadeImpl.java" />
+      <jump line="459" column="20" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionEmployeeFacadeImpl.java" />
+      <jump line="906" column="57" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
+      <jump line="908" column="41" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
+      <jump line="909" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
+      <jump line="912" column="65" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
+      <jump line="913" column="49" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
+      <jump line="0" column="64" filename="/fragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>StringUtils.EMPTY</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>StringUtils.EMPTY</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>DELETE</text>
+        <text>Set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGltcGxlbWVudGF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ2YWx1ZSAiICsgdmFsdWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1wbG95ZWUuc2V0TmFtZShTdHJpbmdVdGlscy50cmltKG5hbWVDZWxsLmdldFN0cmluZ0NlbGxWYWx1ZSgpKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtcGxveWVlLnNldE51bWJlcigobG9uZyludW1iZXJDZWxsLmdldE51bWVyaWNDZWxsVmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm5vdCBlcXVhbCBvbGRWYWx1ZSwgbmV3VmFsdWUgIiArICB2YWx1ZSArICIgIiArICBuZXdWYWx1ZSApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudHJ5LnNldFZhbHVlKG5ld1ZhbHVlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKCJ2YWx1ZSAiICsgdmFsdWUpOwogICAgICAgICAgICAgICAgLy9TeXN0ZW0ub3V0LnByaW50bG4oIm5ld1ZhbHVlICIgKyBuZXdWYWx1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFbXBsb3llZURPIGVtcGxveWVlID0gbmV3IEVtcGxveWVlRE8oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -907,16 +909,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQnVmZmVyZWRJbnB1dFN0cmVhbShpblN0cmVhbSwgU3RhbmRhcmRDaGFyc2V0cy5VVEZfOCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY29tcHV0ZURpcmVjdFRpbWUoRW1wbG95ZWVQcHJDb250ZXh0IGNvbnRleHQsIExhYm91ckVmZmljaWVuY3lEVE8gY3VycmVudEV2ZW50KSB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBieXRlQXJyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5jb21wdXRlV29ya1RpbWUoY29udGV4dCwgY3VycmVudEV2ZW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
@@ -925,9 +927,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>DELETE</last-search>
+      <last-search>Set</last-search>
       <last-offset />
-      <last-pattern>DELETE</last-pattern>
+      <last-pattern>Set</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
       <last-dir>1</last-dir>
