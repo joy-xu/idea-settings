@@ -150,6 +150,7 @@
         <mark key="^" line="1301" column="90" />
         <mark key="." line="1301" column="89" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/config/mybatis-config.xml" timestamp="1611726582276" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionEmployeeResource.java" timestamp="1611717701730">
         <mark key="'" line="119" column="58" />
       </file>
@@ -160,8 +161,8 @@
         <mark key="." line="53" column="28" />
         <mark key="^" line="53" column="29" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionResource.java" timestamp="1611714871557">
-        <mark key="'" line="55" column="49" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionResource.java" timestamp="1611725961503">
+        <mark key="'" line="93" column="0" />
         <mark key="[" line="63" column="39" />
         <mark key="]" line="63" column="39" />
         <mark key="." line="63" column="39" />
@@ -184,12 +185,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="^" line="29" column="25" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/workplace/WorkPlaceResource.java" timestamp="1611714605842">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="0" />
-        <mark key="." line="273" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/piece/PiecePositionVO.java" timestamp="1611717423340">
         <mark key="'" line="23" column="4" />
@@ -237,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionEmployeeResource.java" />
       <jump line="60" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/salary/SupportWorkloadsRecordResource.java" />
       <jump line="437" column="63" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/ProcessInstanceFacadeImpl.java" />
       <jump line="34" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/annotation/CheckDateFormat.java" />
@@ -337,6 +331,7 @@
       <jump line="23" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/piece/PiecePositionVO.java" />
       <jump line="119" column="58" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionEmployeeResource.java" />
       <jump line="807" column="20" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/LmsAttendanceStatisticsManager.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
