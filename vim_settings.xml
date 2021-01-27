@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pick</entry>
         <entry>pickType</entry>
         <entry>6603</entry>
         <entry>pad</entry>
@@ -27,6 +26,7 @@
         <entry>extension</entry>
         <entry>category</entry>
         <entry>Log</entry>
+        <entry>new ArrayList</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/long/Long/g</entry>
@@ -131,6 +131,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/piece/PiecePositionEmployeeUploadQo.java" timestamp="1611730450918" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/SalaryItemServiceImpl.java" timestamp="1611733715818">
+        <mark key="'" line="67" column="13" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/piece/impl/PiecePositionEmployeeManagerImpl.java" timestamp="1611731913626">
         <mark key="[" line="164" column="0" />
         <mark key="]" line="164" column="0" />
@@ -156,8 +159,13 @@
         <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/constants/Constants.java" timestamp="1611729542137" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/piece/PieceDataDictionaryDO.java" timestamp="1611728797858" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" timestamp="1611729627487">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/salary/item/SalaryItemResultProcessor.java" timestamp="1611734820702">
+        <mark key="[" line="80" column="54" />
+        <mark key="]" line="80" column="54" />
+        <mark key="." line="80" column="54" />
+        <mark key="^" line="80" column="46" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" timestamp="1611734324770">
         <mark key="'" line="227" column="29" />
         <mark key="[" line="217" column="33" />
         <mark key="]" line="217" column="40" />
@@ -179,7 +187,6 @@
         <mark key="^" line="84" column="11" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/piece/PiecePositionEmployeeRollUpJobProcessor.java" timestamp="1611730846661" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/piece/impl/PieceDataDictionaryManagerImpl.java" timestamp="1611728804143" />
       <file name="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.3.3/mybatis-plus-support-2.3.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" timestamp="1611729370217" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionEmployeeFacadeImpl.java" timestamp="1611730734333">
         <mark key="'" line="459" column="20" />
@@ -195,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="32" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/piece/PiecePositionEmployeeInsertQo.java" />
       <jump line="4" column="10" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/piece/PiecePositionEmployeeInsertQo.java" />
       <jump line="1056" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
       <jump line="21" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeDO.java" />
@@ -295,18 +301,19 @@
       <jump line="146" column="45" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionEmployeeResource.java" />
       <jump line="4" column="10" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/piece/PiecePositionEmployeeVO.java" />
       <jump line="147" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/piece/impl/PiecePositionEmployeeManagerImpl.java" />
+      <jump line="67" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/SalaryItemServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGdtdF9jcmVhdGUgLT4gZ210X21vZGlmaWVkCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDwgMA==</text>
       </register>
       <register name="-" type="4">
-        <text>isNull</text>
+        <text encoding="base64">IDwgMA==</text>
       </register>
       <register name="/" type="4">
-        <text>Log</text>
+        <text>new ArrayList</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb21tb25WYWxpZGF0ZVNlcnZpY2UudmFsaWRhdGVXb3JrcGxhY2VOb3ROdWxsKHdvcmtwbGFjZUNvZGUpOwo=</text>
@@ -888,9 +895,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Log</last-search>
+      <last-search>new ArrayList</last-search>
       <last-offset />
-      <last-pattern>Log</last-pattern>
+      <last-pattern>new ArrayList</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
       <last-dir>1</last-dir>
