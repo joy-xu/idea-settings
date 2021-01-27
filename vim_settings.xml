@@ -137,12 +137,17 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" timestamp="1611737766497">
         <mark key="'" line="646" column="10" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1611746512326">
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="19" column="51" />
+        <mark key="." line="19" column="50" />
+        <mark key="^" line="19" column="51" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/piece/impl/PiecePositionEmployeeManagerImpl.java" timestamp="1611731913626">
         <mark key="[" line="164" column="0" />
         <mark key="]" line="164" column="0" />
         <mark key="." line="164" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/piece/PiecePositionDO.java" timestamp="1611729250487" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/PiecePositionEmployeeFacade.java" timestamp="1611730463788" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionEmployeeResource.java" timestamp="1611729849018">
         <mark key="'" line="144" column="45" />
@@ -190,12 +195,12 @@
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/piece/PiecePositionEmployeeRollUpJobProcessor.java" timestamp="1611730846661" />
       <file name="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.3.3/mybatis-plus-support-2.3.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java" timestamp="1611729370217" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionEmployeeFacadeImpl.java" timestamp="1611740675174">
-        <mark key="'" line="459" column="20" />
-        <mark key="[" line="445" column="111" />
-        <mark key="]" line="446" column="8" />
-        <mark key="." line="446" column="7" />
-        <mark key="^" line="446" column="8" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionEmployeeFacadeImpl.java" timestamp="1611746687347">
+        <mark key="'" line="458" column="20" />
+        <mark key="[" line="456" column="54" />
+        <mark key="]" line="455" column="19" />
+        <mark key="." line="455" column="18" />
+        <mark key="^" line="455" column="19" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/piece/PiecePositionEmployeeProvider.java" timestamp="1611732326674">
         <mark key="[" line="102" column="0" />
@@ -312,7 +317,7 @@
         <text encoding="base64">ICAgICAgICBpZiAodXBsb2FkUGFyYW0uZ2V0RGlzUG9zaXRpb24oKS5nZXRTaXplKCkgPiBFeGNlbENvbnN0YW50cy5GSUxFX01BWF9TSVpFKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBXbXBMbXNFeGNlcHRpb24oRXhjZWwuVVBMT0FEX0NBTl9OT1RfRVhDRUVEXzVNKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDwgMA==</text>
+        <text>Period</text>
       </register>
       <register name="/" type="4">
         <text>root</text>
@@ -330,13 +335,13 @@
         <text encoding="base64">ICAgICAgICAvLyDmoKHpqozlr7zlhaXmlofku7blpKflsI8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmoKHpqozlr7zlhaXmlofku7blpKflsI8KICAgICAgICBpZiAodXBsb2FkUGFyYW0uZ2V0RGlzUG9zaXRpb24oKS5nZXRTaXplKCkgPiBFeGNlbENvbnN0YW50cy5GSUxFX01BWF9TSVpFKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBXbXBMbXNFeGNlcHRpb24oRXhjZWwuVVBMT0FEX0NBTl9OT1RfRVhDRUVEXzVNKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXBsb2FkUGFyYW0uZ2V0RGlzUG9zaXRpb24oKS5nZXRTaXplKCkgPiBFeGNlbENvbnN0YW50cy5GSUxFX01BWF9TSVpFKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBXbXBMbXNFeGNlcHRpb24oRXhjZWwuVVBMT0FEX0NBTl9OT1RfRVhDRUVEXzVNKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBFeGNlbFV0aWwuY2hlY2tGaWxlTWF4U2l6ZSh1cGxvYWRQYXJhbS5nZXREaXNQb3NpdGlvbigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyDmoKHpqozlr7zlhaXmlofku7blpKflsI8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGdtdF9jcmVhdGUgLT4gZ210X21vZGlmaWVkCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDmoKHpqozlr7zlhaXmlofku7blpKflsI8KICAgICAgICBpZiAodXBsb2FkUGFyYW0uZ2V0RGlzUG9zaXRpb24oKS5nZXRTaXplKCkgPiBFeGNlbENvbnN0YW50cy5GSUxFX01BWF9TSVpFKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBXbXBMbXNFeGNlcHRpb24oRXhjZWwuVVBMT0FEX0NBTl9OT1RfRVhDRUVEXzVNKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -879,10 +884,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBFeGNlbFV0aWwuY2hlY2tGaWxlTWF4U2l6ZSh1cGxvYWRQYXJhbS5nZXREaXNQb3NpdGlvbigpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUUg5riF55CG5Y6G5Y+y5pyI5pWw5o2uLCDlop7liqDkuovliqEgQOS4ieebuAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGdtdF9jcmVhdGUgLT4gZ210X21vZGlmaWVkCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
