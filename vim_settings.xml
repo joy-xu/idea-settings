@@ -169,11 +169,11 @@
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/efficiency/PreLmsLabourEfficiencyPprResultProvider.java" timestamp="1611824192077">
-        <mark key="[" line="40" column="33" />
-        <mark key="]" line="40" column="45" />
-        <mark key="^" line="40" column="45" />
-        <mark key="." line="40" column="44" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/efficiency/PreLmsLabourEfficiencyPprResultProvider.java" timestamp="1611835371244">
+        <mark key="[" line="36" column="45" />
+        <mark key="]" line="36" column="45" />
+        <mark key="^" line="36" column="45" />
+        <mark key="." line="36" column="44" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkAttendanceStatisticsResource.java" timestamp="1611820700316" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/config/LmsEnvConfig.java" timestamp="1611824947237" />
@@ -201,7 +201,7 @@
         <mark key="." line="280" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-blink-udx/src/main/java/com/cainiao/lms/blink/udx/labour/model/RestInfoDTO.java" timestamp="1611825887234" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/PreLmsLabourEfficiencyPprResultAdbDO.java" timestamp="1611824185358">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/PreLmsLabourEfficiencyPprResultAdbDO.java" timestamp="1611835341201">
         <mark key="'" line="16" column="13" />
         <mark key="[" line="252" column="55" />
         <mark key="]" line="252" column="69" />
@@ -311,17 +311,17 @@
       <jump line="269" column="35" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
       <jump line="123" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
       <jump line="129" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/PreLmsLabourEfficiencyPprResultAdbDO.java" />
-      <jump line="16" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/PreLmsLabourEfficiencyPprResultAdbDO.java" />
       <jump line="35" column="33" filename="$USER_HOME$/cainiao/wmplms/wmplms-blink-udx/src/main/java/com/cainiao/lms/blink/udx/labour/SalaryRestParser.java" />
+      <jump line="16" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/PreLmsLabourEfficiencyPprResultAdbDO.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>idleTime</text>
       </register>
       <register name="-" type="4">
-        <text>adbPprs</text>
+        <text>idleTime</text>
       </register>
       <register name="/" type="4">
         <text>inSala</text>
