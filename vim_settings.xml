@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>8978</entry>
         <entry>download</entry>
         <entry>instance</entry>
         <entry>salaryItemSer</entry>
@@ -27,6 +26,7 @@
         <entry>sala</entry>
         <entry>inSala</entry>
         <entry>Auto</entry>
+        <entry>orderNum</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/long/Long/g</entry>
@@ -194,8 +194,8 @@
         <mark key="." line="633" column="11" />
         <mark key="^" line="633" column="12" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" timestamp="1611900128454">
-        <mark key="'" line="123" column="17" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" timestamp="1611909435553">
+        <mark key="'" line="294" column="29" />
         <mark key="[" line="269" column="17" />
         <mark key="]" line="269" column="17" />
         <mark key="." line="269" column="21" />
@@ -225,22 +225,15 @@
       <file name="/fragment.java" timestamp="1611901417114">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" timestamp="1611908047046">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" timestamp="1611908097676">
         <mark key="'" line="267" column="106" />
-        <mark key="[" line="207" column="84" />
+        <mark key="[" line="343" column="84" />
         <mark key="]" line="207" column="84" />
         <mark key="." line="207" column="83" />
         <mark key="^" line="207" column="84" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="909" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" />
-      <jump line="131" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" />
-      <jump line="71" column="48" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionEmployeeResource.java" />
-      <jump line="58" column="22" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" />
-      <jump line="58" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/ppr/LmsLabourEfficiencyPprResultDO.java" />
-      <jump line="784" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" />
-      <jump line="277" column="18" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="315" column="104" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="66" column="11" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" />
       <jump line="131" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/SupportWorkloadsRecordFacadeImpl.java" />
@@ -334,6 +327,13 @@
       <jump line="266" column="106" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
       <jump line="300" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" />
       <jump line="201" column="65" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" />
+      <jump line="224" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
+      <jump line="83" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
+      <jump line="286" column="33" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
+      <jump line="287" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
+      <jump line="291" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
+      <jump line="292" column="28" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
+      <jump line="294" column="29" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -345,7 +345,7 @@
         <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>Auto</text>
+        <text>orderNum</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZSgibm90IGluIHNhbGFyeUF0dGVuZGFuY2UiLCBvdXRBdHRlbmRhbmNlVGFzay5nZXRJbkF0dGVuZGFuY2UoKSk7Cg==</text>
@@ -927,12 +927,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Auto</last-search>
+      <last-search>orderNum</last-search>
       <last-offset />
-      <last-pattern>Auto</last-pattern>
+      <last-pattern>orderNum</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
