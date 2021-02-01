@@ -313,11 +313,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$wmiconfig.hsf.consumer.version</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>$wmiconfig.hsf.consumer.version</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
