@@ -11,7 +11,6 @@
         <entry>DELETE</entry>
         <entry>Set</entry>
         <entry>==</entry>
-        <entry>===</entry>
         <entry>PUT</entry>
         <entry>extension</entry>
         <entry>category</entry>
@@ -27,6 +26,7 @@
         <entry>Ppr</entry>
         <entry>PpprBa</entry>
         <entry>PprBasic</entry>
+        <entry>===</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/long/Long/g</entry>
@@ -168,17 +168,19 @@
         <mark key="^" line="688" column="11" />
         <mark key="." line="688" column="10" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/impl/SalaryAttendanceResultManagerImpl.java" timestamp="1612170637317">
+        <mark key="'" line="325" column="45" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/util/RequestUtil.java" timestamp="1612168556903">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="^" line="5" column="14" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/pom.xml" timestamp="1612166480905">
-        <mark key="[" line="78" column="28" />
-        <mark key="]" line="78" column="42" />
-        <mark key="." line="78" column="41" />
-        <mark key="^" line="78" column="42" />
+      <file name="$USER_HOME$/cainiao/wmplms/pom.xml" timestamp="1612170772080">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionEmployeeFacadeImpl.java" timestamp="1612169392574">
         <mark key="'" line="458" column="20" />
@@ -187,7 +189,6 @@
         <mark key="." line="637" column="17" />
         <mark key="^" line="637" column="18" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1612160716430" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" timestamp="1612162486167">
         <mark key="[" line="216" column="22" />
         <mark key="]" line="216" column="22" />
@@ -215,9 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" />
-      <jump line="319" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" />
-      <jump line="702" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
       <jump line="864" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
       <jump line="645" column="9" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
       <jump line="809" column="9" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
@@ -315,39 +313,49 @@
       <jump line="171" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" />
       <jump line="69" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/piece/PiecePositionEmployeeProvider.java" />
       <jump line="14" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-pojo/src/main/java/com/cainiao/lms/enums/EhrSalaryStandardEnum.java" />
+      <jump line="262" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/impl/SalaryAttendanceResultManagerImpl.java" />
+      <jump line="191" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/impl/SalaryAttendanceResultManagerImpl.java" />
+      <jump line="463" column="45" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/impl/SalaryAttendanceResultManagerImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAzMmIwNDM2MzkwNmY1NjIzNjRlMTIxYTE2MzRjOGM2YzY4YjY3MjA3Cg==</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>PprBasic</text>
+        <text>===</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKCJpbnQgc2FsYXJ5QXR0ZW5kYW5jZSIsIGlkbGVFdmVudC5nZXRJbkF0dGVuZGFuY2UoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAzMmIwNDM2MzkwNmY1NjIzNjRlMTIxYTE2MzRjOGM2YzY4YjY3MjA3Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRWhyU2FsYXJ5U3RhbmRhcmRFbnVtLmdldEJ5TmFtZShzYWxhcnlTdGFuZGFyZCkKICAgICAgICAgICAgICAgIC5pZlByZXNlbnQoKTsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNhbGFyeVN0YW5kYXJkID0gZWhySW5mby5nZXRTYWxhcnlTdGFuZGFyZCgpOwogICAgICAgICAgICBFaHJTYWxhcnlTdGFuZGFyZEVudW0uZ2V0QnlOYW1lKHNhbGFyeVN0YW5kYXJkKQogICAgICAgICAgICAgICAgLmlmUHJlc2VudCgpOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+      <register name="4" type="4">
+        <text>if (SalaryProcessEnum.NONE.equals(resultDOList.get(0).getProcessStatus())) {
+            salaryAttendanceResultDO.setId(resultDOList.get(0).getId());
+            salaryAttendanceResultDO.setGmtCreate(resultDOList.get(0).getGmtCreate());
+
+            return salaryAttendanceResultMapper.updateAllColumnById(salaryAttendanceResultDO);
+        }
+        // 审批中 审批完成不更新
+        return 0;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -890,16 +898,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU2Vzc2lvblV0aWxzLmdldEJpZ0Z1bFJlcXVlc3RUeXBlKHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRWhyU2FsYXJ5U3RhbmRhcmRFbnVtLmdldEJ5TmFtZShzYWxhcnlTdGFuZGFyZCkKICAgICAgICAgICAgICAgIC5pZlByZXNlbnQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNhbGFyeVN0YW5kYXJkID0gZWhySW5mby5nZXRTYWxhcnlTdGFuZGFyZCgpOwogICAgICAgICAgICBFaHJTYWxhcnlTdGFuZGFyZEVudW0uZ2V0QnlOYW1lKHNhbGFyeVN0YW5kYXJkKQogICAgICAgICAgICAgICAgLmlmUHJlc2VudCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsdGVyS2V5ID0gU2Vzc2lvblV0aWxzLmdldEJpZ0Z1bFJlcXVlc3RUeXBlKHJlcXVlc3QpOwogICAgICAgIHJldHVybiBDbGllbnRUeXBlLkFORFJPSUQuZXF1YWxzKGZpbHRlcktleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
@@ -908,12 +916,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>PprBasic</last-search>
+      <last-search>===</last-search>
       <last-offset />
-      <last-pattern>PprBasic</last-pattern>
+      <last-pattern>===</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
