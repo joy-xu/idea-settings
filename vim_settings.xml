@@ -130,40 +130,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/efficiency/LabourPprProvider.java" timestamp="1612409619874">
-        <mark key="[" line="304" column="19" />
-        <mark key="]" line="304" column="19" />
-        <mark key="^" line="304" column="19" />
-        <mark key="." line="304" column="18" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.1.4.RELEASE/spring-security-config-4.1.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" timestamp="1612414909569" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/config/AuthWebAppConfigurer.java" timestamp="1612416288845">
-        <mark key="[" line="130" column="40" />
-        <mark key="]" line="130" column="57" />
-        <mark key="." line="130" column="56" />
-        <mark key="^" line="130" column="57" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/META-INF/autoconf/auto-config.xml" timestamp="1612415349797">
-        <mark key="[" line="78" column="76" />
-        <mark key="]" line="78" column="81" />
-        <mark key="." line="78" column="80" />
-        <mark key="^" line="78" column="81" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1612414608445">
-        <mark key="[" line="69" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/wmi/wmi-auth-client/3.0.7-SNAPSHOT/wmi-auth-client-3.0.7-20210125.114242-4-sources.jar!/com/cainiao/wmi/auth/filter/FilterRegisterCenter.java" timestamp="1612415119316" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/constants/ConfigConstants.java" timestamp="1612414412412" />
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/wmi/wmi-auth-client/3.0.7-SNAPSHOT/wmi-auth-client-3.0.7-20210125.114242-4-sources.jar!/com/cainiao/wmi/auth/filter/AuthUnifiedFilter.java" timestamp="1612414360373">
-        <mark key="'" line="89" column="77" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/wmi/wmi-auth-client/3.0.7-SNAPSHOT/wmi-auth-client-3.0.7-20210125.114242-4-sources.jar!/com/cainiao/wmi/auth/filter/AuthAndroidHandler.java" timestamp="1612417783554" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1612413744772">
-        <mark key="'" line="231" column="21" />
-        <mark key="[" line="694" column="0" />
-        <mark key="]" line="694" column="0" />
-        <mark key="." line="694" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1612409779907">
         <mark key="'" line="301" column="25" />
         <mark key="[" line="475" column="21" />
@@ -176,13 +142,37 @@
         <mark key="]" line="15" column="26" />
         <mark key="." line="15" column="26" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1612491258658">
+        <mark key="'" line="285" column="8" />
+        <mark key="[" line="218" column="29" />
+        <mark key="]" line="218" column="37" />
+        <mark key="." line="218" column="36" />
+        <mark key="^" line="218" column="37" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-pojo/src/main/java/com/cainiao/lms/enums/LabourEfficiencyTypeEnum.java" timestamp="1612491059166">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="24" column="11" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/target/classes/application-project.properties" timestamp="1612415862506">
         <mark key="[" line="28" column="34" />
         <mark key="]" line="28" column="39" />
         <mark key="." line="28" column="38" />
         <mark key="^" line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/target/classes/application.properties" timestamp="1612415846587" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/config/AuthWebAppConfigurer.java" timestamp="1612416288845">
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="57" />
+        <mark key="." line="26" column="56" />
+        <mark key="^" line="26" column="57" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/META-INF/autoconf/auto-config.xml" timestamp="1612415349797">
+        <mark key="[" line="78" column="76" />
+        <mark key="]" line="78" column="81" />
+        <mark key="." line="78" column="80" />
+        <mark key="^" line="78" column="81" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-project.properties" timestamp="1612415332936">
         <mark key="[" line="15" column="26" />
         <mark key="]" line="15" column="31" />
@@ -192,15 +182,23 @@
       <file name="$USER_HOME$/cainiao/wmplms/pom.xml" timestamp="1612415225371">
         <mark key="'" line="1038" column="20" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1612414554286" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/target/classes/application-dev.properties" timestamp="1612415855759" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1612414608445">
+        <mark key="[" line="69" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/wmi/wmi-auth-client/3.0.7-SNAPSHOT/wmi-auth-client-3.0.7-20210125.114242-4-sources.jar!/com/cainiao/wmi/auth/filter/AuthUnifiedFilter.java" timestamp="1612414360373">
+        <mark key="'" line="89" column="77" />
+      </file>
       <file name="/fragment.java" timestamp="1612417717765">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1612413744772">
+        <mark key="'" line="231" column="21" />
+        <mark key="[" line="694" column="0" />
+        <mark key="]" line="694" column="0" />
+        <mark key="." line="694" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="438" column="59" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
-      <jump line="418" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="492" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="421" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="441" column="55" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
@@ -299,12 +297,14 @@
       <jump line="300" column="25" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" />
       <jump line="89" column="77" filename="$MAVEN_REPOSITORY$/com/cainiao/wmi/wmi-auth-client/3.0.7-SNAPSHOT/wmi-auth-client-3.0.7-20210125.114242-4-sources.jar!/com/cainiao/wmi/auth/filter/AuthUnifiedFilter.java" />
       <jump line="127" column="28" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/config/AuthWebAppConfigurer.java" />
+      <jump line="216" column="58" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" />
+      <jump line="277" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>AbstractPreAuthenticatedProcessingFilter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihvIC0+ICkK</text>
       </register>
       <register name="-" type="4">
         <text>AbstractPreAuthenticatedProcessingFilter</text>
@@ -316,22 +316,22 @@
         <text encoding="base64">ICAgICAgICBodHRwLmFkZEZpbHRlckFmdGVyKGF1dGhGaWx0ZXIsIEFic3RyYWN0UHJlQXV0aGVudGljYXRlZFByb2Nlc3NpbmdGaWx0ZXIuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwLmFkZEZpbHRlckFmdGVyKGF1dGhVbmlmaWVkRmlsdGVyLCBBdXRoVW5pZmllZEZpbHRlci5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihvIC0+ICkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwLmFkZEZpbHRlckFmdGVyKGF1dGhVbmlmaWVkRmlsdGVyLCBBdXRoRmlsdGVyLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL+S4jeaLpuaIquWkp+WuneeZu+W9leaghyBhdXRoVW5pZmllZEZpbHRlci5zZXRJbnRlcmNlcHRXbXNMb2dpbihmYWxzZSk7CiAgICAgICAgLy/kuI3mi6bmiKrmnYPpmZAKICAgICAgICBhdXRoVW5pZmllZEZpbHRlci5zZXRJbnRlcmNlcHRNZW51QXV0aChmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBodHRwLmFkZEZpbHRlckFmdGVyKGF1dGhVbmlmaWVkRmlsdGVyLCBBdXRoVW5pZmllZEZpbHRlci5jbGFzcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBodHRwLmFkZEZpbHRlckFmdGVyKGF1dGhVbmlmaWVkRmlsdGVyLCBBdXRoRmlsdGVyLmNsYXNzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQXV0aFVuaWZpZWRGaWx0ZXIgYXV0aFVuaWZpZWRGaWx0ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL+S4jeaLpuaIquWkp+WuneeZu+W9leaghyBhdXRoVW5pZmllZEZpbHRlci5zZXRJbnRlcmNlcHRXbXNMb2dpbihmYWxzZSk7CiAgICAgICAgLy/kuI3mi6bmiKrmnYPpmZAKICAgICAgICBhdXRoVW5pZmllZEZpbHRlci5zZXRJbnRlcmNlcHRNZW51QXV0aChmYWxzZSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -874,16 +874,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQXV0aFVuaWZpZWRGaWx0ZXIgYXV0aFVuaWZpZWRGaWx0ZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiaGFuZGxlVXNlckluZm8iKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
