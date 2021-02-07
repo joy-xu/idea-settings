@@ -144,12 +144,10 @@
         <mark key="." line="26" column="56" />
         <mark key="^" line="26" column="57" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" timestamp="1612664894587">
-        <mark key="'" line="274" column="41" />
-        <mark key="[" line="315" column="56" />
-        <mark key="]" line="315" column="56" />
-        <mark key="." line="315" column="56" />
-        <mark key="^" line="309" column="66" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" timestamp="1612666753324">
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="309" column="0" />
+        <mark key="." line="309" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1612511417524">
         <mark key="[" line="69" column="0" />
@@ -208,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="68" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" />
       <jump line="65" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" />
       <jump line="1498" column="15" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="18" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
@@ -308,15 +305,16 @@
       <jump line="197" column="65" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" />
       <jump line="294" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" />
       <jump line="274" column="41" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" />
+      <jump line="304" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>attendanceEndTime</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>attendanceEndTime</text>
+        <text>labourOutAttendance</text>
       </register>
       <register name="/" type="4">
         <text>getNumber</text>
@@ -334,13 +332,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFib3VyT3V0QXR0ZW5kYW5jZS5nZXRQcm9jZXNzKCkuYWRkKFN0cmluZy5mb3JtYXQoIuiuoeiWquaXtumXtOiwg+aVtCwg5Y6f5byA5aeL5pe26Ze0OiAlcywg6LCD5pW05ZCOOiAlcyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYWJvdXJPdXRBdHRlbmRhbmNlLmdldENvbXB1dGVTdGFydFRpbWUoKSwgYXR0ZW5kYW5jZUVuZFRpbWUpKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGxhYm91ci5nZXRQcm9jZXNzKCkuYWRkKFN0cmluZy5mb3JtYXQoIuiuoeiWquaXtumXtOiwg+aVtCwg5Y6f57uT5p2f5pe26Ze0OiAlcywg6LCD5pW05ZCOOiAlcyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYWJvdXIuZ2V0Q29tcHV0ZUVuZFRpbWUoKSwgYXR0ZW5kYW5jZVN0YXJ0VGltZSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gUGFpci5vZihsYWJvdXJJbkF0dGVuZGFuY2UsIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFib3VySW5BdHRlbmRhbmNlLmdldFByb2Nlc3MoKS5hZGQoU3RyaW5nLmZvcm1hdCgi6K6h6Jaq5pe26Ze06LCD5pW0LCDljp/lvIDlp4vml7bpl7Q6ICVzLCDosIPmlbTlkI46ICVzIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhYm91ckluQXR0ZW5kYW5jZS5nZXRDb21wdXRlU3RhcnRUaW1lKCksIGF0dGVuZGFuY2VTdGFydFRpbWUpKTsKICAgICAgICAgICAgICAgICAgICAgICAgbGFib3VySW5BdHRlbmRhbmNlLmdldFByb2Nlc3MoKS5hZGQoU3RyaW5nLmZvcm1hdCgi6K6h6Jaq5pe26Ze06LCD5pW0LCDljp/nu5PmnZ/ml7bpl7Q6ICVzLCDosIPmlbTlkI46ICVzIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhYm91ckluQXR0ZW5kYW5jZS5nZXRDb21wdXRlRW5kVGltZSgpLCBhdHRlbmRhbmNlRW5kVGltZSkpOwoK</text>
       </register>
       <register name="u" type="4">
         <keys>
