@@ -130,6 +130,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/EhrEmployeeProcessor.java" timestamp="1613717259711" />
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/hrp/cn-hrp-scenario-client/1.1.18/cn-hrp-scenario-client-1.1.18.jar!/com/cainiao/hrp/scenario/client/facade/mdm/EmployeeReadFacade.class" timestamp="1613717370688" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1613699830078">
         <mark key="'" line="301" column="25" />
         <mark key="[" line="315" column="0" />
@@ -150,6 +152,9 @@
         <mark key="]" line="21" column="13" />
         <mark key="^" line="21" column="13" />
         <mark key="." line="21" column="12" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" timestamp="1613718583139">
+        <mark key="'" line="665" column="22" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" timestamp="1613697048970">
         <mark key="[" line="456" column="40" />
@@ -179,6 +184,8 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1613701648709">
         <mark key="[" line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/EhrServiceImpl.java" timestamp="1613718382802" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/TestController.java" timestamp="1613717896228" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/handler/ScPprHandlerTest.java" timestamp="1613699862150">
         <mark key="[" line="174" column="64" />
         <mark key="]" line="175" column="63" />
@@ -206,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="39" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
       <jump line="262" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
       <jump line="266" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
       <jump line="267" column="34" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
@@ -306,6 +312,7 @@
       <jump line="687" column="36" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeStatusFacadeImpl.java" />
       <jump line="538" column="96" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" />
       <jump line="842" column="72" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeStatusFacadeImpl.java" />
+      <jump line="665" column="22" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
