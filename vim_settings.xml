@@ -130,7 +130,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/PouchInOutWaterProvider.java" timestamp="1613983328834" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/salary/SalaryAttendanceResultMapper.java" timestamp="1613985538329" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/impl/AttendanceRegisterRecordManagerImpl.java" timestamp="1613984732656">
         <mark key="'" line="559" column="8" />
@@ -138,6 +137,20 @@
         <mark key="]" line="557" column="0" />
         <mark key="." line="557" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmi-auth/wmi-auth-api/wmi-auth-api-hsf/src/main/java/com/cainiao/wmi/auth/api/hsf/service/tools/warehouse/impl/WarehousePermissionInitServiceImpl.java" timestamp="1613987765046">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/salary/SalaryAttendanceResultDO.java" timestamp="1613986842567">
+        <mark key="'" line="257" column="53" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/cn/hutool/hutool-core/4.3.0/hutool-core-4.3.0-sources.jar!/cn/hutool/core/util/ReUtil.java" timestamp="1613984058730" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/EhrEmployeeProcessor.java" timestamp="1613986277981">
+        <mark key="'" line="128" column="74" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/cn/hutool/hutool-core/4.3.0/hutool-core-4.3.0-sources.jar!/cn/hutool/core/util/ReflectUtil.java" timestamp="1613984063694" />
+      <file name="$USER_HOME$/cainiao/wmi-auth/wmi-auth-service/src/main/java/com/cainiao/wmi/auth/metaq/MetaqConsumerConfig.java" timestamp="1613987727449" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1613987192844" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/AttendanceMakeUpFormDataBuilder.java" timestamp="1613985651309">
         <mark key="'" line="85" column="8" />
@@ -149,29 +162,16 @@
         <mark key="^" line="113" column="44" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Short.java" timestamp="1613985245305" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/PouchInOutWaterManagerImpl.java" timestamp="1613982544935" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/salary/SalaryAttendanceResultDO.java" timestamp="1613986842567">
-        <mark key="'" line="257" column="53" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/cn/hutool/hutool-core/4.3.0/hutool-core-4.3.0-sources.jar!/cn/hutool/core/util/ReUtil.java" timestamp="1613984058730" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.69_noneautotype/fastjson-1.2.69_noneautotype-sources.jar!/com/alibaba/fastjson/JSON.java" timestamp="1613984666709" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/EhrEmployeeProcessor.java" timestamp="1613986277981">
-        <mark key="'" line="128" column="74" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/LmsAttendanceStatisticsManager.java" timestamp="1613986417040">
         <mark key="'" line="361" column="37" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cn/hutool/hutool-core/4.3.0/hutool-core-4.3.0-sources.jar!/cn/hutool/core/util/ReflectUtil.java" timestamp="1613984063694" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/impl/SalaryAttendanceResultManagerImpl.java" timestamp="1613986599076">
         <mark key="'" line="311" column="57" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/WorkTypeGreySwitchManagerImpl.java" timestamp="1613983927888" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1613984055809">
         <mark key="'" line="1185" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/WorkplaceGroupMapper.java" timestamp="1613982693572" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/service/DingTalkApiService.java" timestamp="1613983063369">
-        <mark key="'" line="44" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -280,7 +280,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmdldAo=</text>
       </register>
       <register name="-" type="4">
         <text>isValidArray</text>
@@ -292,7 +292,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihvIC0+IG8uZ2V0SW5TYWxhcnlBdHRlbmRhbmNlKCkgPT0gbnVsbCB8fCBvLmdldEluU2FsYXJ5QXR0ZW5kYW5jZSgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmdldAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -301,13 +301,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiB2YWxpZGF0ZSA9IEpTT05WYWxpZGF0b3IuZnJvbSgpLnZhbGlkYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiB2YWxpZGF0ZSA9IEpTT05WYWxpZGF0b3IuZnJvbSgpLnZhbGlkYXRlKCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -850,16 +850,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OLgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
