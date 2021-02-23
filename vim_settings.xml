@@ -130,9 +130,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourPprModuleManagerImpl.java" timestamp="1614064310250">
-        <mark key="^" line="45" column="8" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/query/efficiency/PprTimeInfoQuery.java" timestamp="1614068739054">
         <mark key="'" line="13" column="13" />
         <mark key="[" line="31" column="4" />
@@ -145,6 +142,12 @@
         <mark key="]" line="1557" column="71" />
         <mark key="^" line="1557" column="71" />
         <mark key="." line="1557" column="70" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprPprHandlerWithFiveMinuteEfficiencyDecorator.java" timestamp="1614081847441">
+        <mark key="[" line="45" column="5" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1614079436570">
         <mark key="[" line="151" column="0" />
@@ -166,12 +169,12 @@
         <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/efficiency/LabourPprResource.java" timestamp="1614068344188" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1614079453333">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1614081421147">
         <mark key="'" line="254" column="54" />
-        <mark key="[" line="371" column="0" />
-        <mark key="]" line="371" column="0" />
-        <mark key="." line="371" column="0" />
-        <mark key="^" line="366" column="0" />
+        <mark key="[" line="363" column="131" />
+        <mark key="]" line="363" column="131" />
+        <mark key="." line="363" column="130" />
+        <mark key="^" line="363" column="131" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/constants/Constants.java" timestamp="1614067765993">
         <mark key="'" line="37" column="6" />
@@ -333,11 +336,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>super</text>
       </register>
       <register name="-" type="4">
-        <text>, sentinelData</text>
+        <text>super</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
