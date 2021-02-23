@@ -136,12 +136,11 @@
         <mark key="^" line="261" column="59" />
         <mark key="." line="261" column="58" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1614049149569">
-        <mark key="'" line="157" column="5" />
-        <mark key="[" line="156" column="21" />
-        <mark key="]" line="156" column="21" />
-        <mark key="." line="156" column="20" />
-        <mark key="^" line="156" column="21" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/EhrServiceImpl.java" timestamp="1614062628847">
+        <mark key="[" line="392" column="16" />
+        <mark key="]" line="392" column="16" />
+        <mark key="." line="392" column="16" />
+        <mark key="^" line="392" column="52" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/shardingmapper/LabourEfficiencyPprResultShardingMapper.java" timestamp="1614056525714">
         <mark key="[" line="268" column="32" />
@@ -171,12 +170,12 @@
         <mark key="^" line="520" column="140" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/PreLmsLabourEfficiencyPprResultAdbDO.java" timestamp="1614060250030" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/efficiency/LmsLabourEfficiencyPprResultProvider.java" timestamp="1614062423314">
-        <mark key="'" line="51" column="29" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="51" column="30" />
-        <mark key="." line="51" column="29" />
-        <mark key="^" line="51" column="30" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/efficiency/LmsLabourEfficiencyPprResultProvider.java" timestamp="1614062436849">
+        <mark key="'" line="48" column="29" />
+        <mark key="[" line="17" column="65" />
+        <mark key="]" line="17" column="65" />
+        <mark key="." line="17" column="65" />
+        <mark key="^" line="48" column="30" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/impl/LabourPprResultServiceImpl.java" timestamp="1614061259460" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" timestamp="1614051111265">
@@ -326,10 +325,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBMaXN0PExtc0xhYm91ckVmZmljaWVuY3lQcHJSZXN1bHRBZGJETz4gZW50aXRpZXMgPSAoTGlzdDxMbXNMYWJvdXJFZmZpY2llbmN5UHByUmVzdWx0QWRiRE8+KXBhcmFtcy5nZXQoImxpc3QiKTsKICAgICAgICBTdHJpbmdCdWlsZGVyIHNxbCA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgc3FsLmFwcGVuZCgiUkVQTEFDRSBJTlRPICIpCiAgICAgICAgICAgIC5hcHBlbmQoVEFCTEVfTkFNRV9XUklURSkKICAgICAgICAgICAgLmFwcGVuZCgiKGdtdF9tb2RpZmllZCwgd2FyZWhvdXNlX2lkLCBvcGVyYXRlX21vbnRoLCBvcGVyYXRlX2RheSwgaW5kdXN0cnlfY29kZSwiCiAgICAgICAgICAgICAgICArICIgb3BlcmF0ZV90aW1lLCBlbXBsb3llZV9udW1iZXIsIGVtcGxveWVlX25hbWUsIGNvb3BlcmF0aW9uX3N0YXJ0X2RhdGUsIGNhdGVnb3J5LCBwb3NpdGlvbiwgIgogICAgICAgICAgICAgICAgKyAid29ya190eXBlLCBvcmRlcl9udW0sIHBhY2thZ2VfbnVtLCBpdGVtX251bSwgc2t1X251bSwgd29ya190aW1lLCBpbmRpcmVjdF90aW1lLCBpZGxlX3RpbWUsICIKICAgICAgICAgICAgICAgICsgImF0dGVuZGFuY2VfdGltZSwgY29tcHV0ZV9wcm9jZXNzLCB3b3JrX2dyb3VwX2NvZGUsIHdvcmtfZ3JvdXBfbmFtZSwgd29ya19ncm91cF9sZWFkZXIsICIKICAgICAgICAgICAgICAgICsgIndvcmtfbmF0dXJlLCBlbXBsb3llZV9wb3NpdGlvbiwgcHJvZHVjdGlvbl93ZWlnaHQsIHByb2R1Y3Rpb25fdm9sdW1lLCBpc19kZWxldGUpIikKICAgICAgICAgICAgLmFwcGVuZCgiIFZBTFVFUyAiKTsKICAgICAgICBNZXNzYWdlRm9ybWF0IG1mID0gbmV3IE1lc3NhZ2VGb3JtYXQoCiAgICAgICAgICAgICIobm93KCksIyd7J2xpc3RbezB9XS53YXJlaG91c2VJZH0sIyd7J2xpc3RbezB9XS5vcGVyYXRlTW9udGh9LCMneydsaXN0W3swfV0ub3BlcmF0ZURheX0sIgogICAgICAgICAgICAgICAgKyAiIyd7J2xpc3RbezB9XS5pbmR1c3RyeUNvZGV9LCMneydsaXN0W3swfV0ub3BlcmF0ZVRpbWV9LCMneydsaXN0W3swfV0uZW1wbG95ZWVOdW1iZXJ9LCIKICAgICAgICAgICAgICAgICsgIiMneydsaXN0W3swfV0uZW1wbG95ZWVOYW1lfSwjJ3snbGlzdFt7MH1dLmNvb3BlcmF0aW9uU3RhcnREYXRlfSwiCiAgICAgICAgICAgICAgICArICIjJ3snbGlzdFt7MH1dLmNhdGVnb3J5fSwgIyd7J2xpc3RbezB9XS5wb3NpdGlvbn0sIyd7J2xpc3RbezB9XS53b3JrVHlwZX0sIgogICAgICAgICAgICAgICAgKyAiIyd7J2xpc3RbezB9XS5vcmRlck51bX0sICMneydsaXN0W3swfV0ucGFja2FnZU51bX0sIyd7J2xpc3RbezB9XS5pdGVtTnVtfSwgIyd7J2xpc3RbezB9XS5za3VOdW19LCIKICAgICAgICAgICAgICAgICsgIiMneydsaXN0W3swfV0ud29ya1RpbWV9LCMneydsaXN0W3swfV0uaW5kaXJlY3RUaW1lfSwgIyd7J2xpc3RbezB9XS5pZGxlVGltZX0sIgogICAgICAgICAgICAgICAgKyAiIyd7J2xpc3RbezB9XS5hdHRlbmRhbmNlVGltZX0sICMneydsaXN0W3swfV0uY29tcHV0ZVByb2Nlc3N9LCAjJ3snbGlzdFt7MH1dLndvcmtHcm91cENvZGV9LCIKICAgICAgICAgICAgICAgICsgIiMneydsaXN0W3swfV0ud29ya0dyb3VwTmFtZX0sICMneydsaXN0W3swfV0ud29ya0dyb3VwTGVhZGVyfSwgIyd7J2xpc3RbezB9XS53b3JrTmF0dXJlfSwgIgogICAgICAgICAgICAgICAgKyAiIyd7J2xpc3RbezB9XS5lbXBsb3llZVBvc2l0aW9ufSwgIyd7J2xpc3RbezB9XS5wcm9kdWN0aW9uV2VpZ2h0fSwgIyd7J2xpc3RbezB9XS5wcm9kdWN0aW9uVm9sdW1lfSwgIyd7J2xpc3RbezB9XS5kZWxldGVkfSkiKTsKICAgICAgICBpbnQgc2l6ZSA9IGVudGl0aWVzLnNpemUoKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHNpemU7IGkrKykgewogICAgICAgICAgICBzcWwuYXBwZW5kKG1mLmZvcm1hdChuZXcgT2JqZWN0W10ge2kgKyAiIn0pKTsKICAgICAgICAgICAgaWYgKGkgPCBzaXplIC0gMSkgewogICAgICAgICAgICAgICAgc3FsLmFwcGVuZCgiLCIpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBzcWwudG9TdHJpbmcoKTs=</text>
+        <text>Pre</text>
       </register>
       <register name="-" type="4">
-        <text>inAttendance</text>
+        <text>Pre</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
