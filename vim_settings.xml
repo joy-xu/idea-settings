@@ -156,17 +156,20 @@
       </file>
       <file name="$USER_HOME$/cainiao/wmi-auth/wmi-auth-service/src/main/java/com/cainiao/wmi/auth/metaq/MetaqConsumerConfig.java" timestamp="1613987727449" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/handler/LzdPprHandlerTest.java" timestamp="1613990348509" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1613998803934">
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="220" column="24" />
-        <mark key="." line="220" column="23" />
-        <mark key="^" line="220" column="24" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1613998857248">
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="252" column="0" />
+        <mark key="." line="252" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1613998841813">
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/AttendanceMakeUpFormDataBuilder.java" timestamp="1613985651309">
         <mark key="'" line="85" column="8" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Short.java" timestamp="1613985245305" />
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.69_noneautotype/fastjson-1.2.69_noneautotype-sources.jar!/com/alibaba/fastjson/JSON.java" timestamp="1613984666709" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/salary/SalaryResource.java" timestamp="1613997945953" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/LmsAttendanceStatisticsManager.java" timestamp="1613986417040">
         <mark key="'" line="361" column="37" />
@@ -287,7 +290,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>2021-01-01 09:00:00</text>
@@ -299,22 +302,22 @@
         <text encoding="base64">ICAgICAgICBmdXR1cmUuY29tcGxldGUoY29tcHV0ZURhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkodG9kYXlBdHRlbmRhbmNlcykpIHsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIOWinuWKoOiuoeiWquaXtumXtOWTqOWFtQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIOWinuWKoOiuoeiWquaXtumXtOWTqOWFtQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoImlkbGUgZXZlbnQgZW5kIHRpbWUiLCB0YXNrMlN0YXJ0VGltZSwgaWRsZUV2ZW50LmdldENvbXB1dGVFbmRUaW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoImlkbGUgZXZlbnQgZW5kIHRpbWUiLCB0YXNrMlN0YXJ0VGltZSwgaWRsZUV2ZW50LmdldENvbXB1dGVFbmRUaW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkodG9kYXlBdHRlbmRhbmNlcykpIHsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -860,19 +863,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoImlkbGUgZXZlbnQgZW5kIHRpbWUiLCB0YXNrMlN0YXJ0VGltZSwgaWRsZUV2ZW50LmdldENvbXB1dGVFbmRUaW1lKCkpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>LabourEfficiencyDTO salaryAttendance = new LabourEfficiencyDTO();
-        LocalDateTime attendanceStartTime = LocalDateUtil.parseDateTime(&quot;2021-01-01 09:00:00&quot;);
-        LocalDateTime attendanceEndTime = LocalDateUtil.parseDateTime(&quot;2021-01-01 11:00:00&quot;);
-        salaryAttendance.setStartTime(attendanceStartTime);
-        salaryAttendance.setEndTime(attendanceEndTime);
-        salaryAttendance.setActualNum((long)ONE_HOUR_IN_MILLI_SECONDS);
-        context.setSalaryAttendances(Collections.singletonList(salaryAttendance));</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoImlkbGUgZXZlbnQgZW5kIHRpbWUiLCB0YXNrMlN0YXJ0VGltZSwgaWRsZUV2ZW50LmdldENvbXB1dGVFbmRUaW1lKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0ZWRQcHJzLmFkZCh0YXNrMik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
