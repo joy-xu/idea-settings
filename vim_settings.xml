@@ -130,7 +130,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/salary/SalaryAttendanceResultMapper.java" timestamp="1613985538329" />
       <file name="$USER_HOME$/cainiao/wmi-auth/wmi-auth-api/wmi-auth-api-hsf/src/main/java/com/cainiao/wmi/auth/api/hsf/service/tools/warehouse/impl/WarehousePermissionInitServiceImpl.java" timestamp="1613987765046">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
@@ -174,12 +173,12 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/AttendanceMakeUpFormDataBuilder.java" timestamp="1613985651309">
         <mark key="'" line="85" column="8" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" timestamp="1614049618664">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" timestamp="1614051111265">
         <mark key="'" line="73" column="77" />
-        <mark key="[" line="67" column="28" />
-        <mark key="]" line="67" column="30" />
-        <mark key="." line="67" column="29" />
-        <mark key="^" line="67" column="30" />
+        <mark key="[" line="78" column="42" />
+        <mark key="]" line="78" column="52" />
+        <mark key="." line="78" column="51" />
+        <mark key="^" line="78" column="52" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/salary/SalaryResource.java" timestamp="1613997945953" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/LmsAttendanceStatisticsManager.java" timestamp="1613986417040">
@@ -187,6 +186,12 @@
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/impl/SalaryAttendanceResultManagerImpl.java" timestamp="1613986599076">
         <mark key="'" line="311" column="57" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeStatusFacadeImpl.java" timestamp="1614051079757">
+        <mark key="'" line="842" column="72" />
+        <mark key="[" line="889" column="0" />
+        <mark key="]" line="889" column="0" />
+        <mark key="." line="889" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" timestamp="1614049650693">
         <mark key="[" line="715" column="3" />
@@ -300,10 +305,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0T25seVNhbGFyeUF0dGVuZGFuY2UoKSB7CiAgICAgICAgRW1wbG95ZWVQcHJDb250ZXh0IGNvbnRleHQgPSBuZXcgRW1wbG95ZWVQcHJDb250ZXh0KCk7CgogICAgICAgIExhYm91ckVmZmljaWVuY3lEVE8gc2FsYXJ5QXR0ZW5kYW5jZSA9IG5ldyBMYWJvdXJFZmZpY2llbmN5RFRPKCk7CiAgICAgICAgc2FsYXJ5QXR0ZW5kYW5jZS5zZXRDb2RlKCJUQjIwMjAxMTExIik7CiAgICAgICAgc2FsYXJ5QXR0ZW5kYW5jZS5zZXRFbXBsb3llZU51bWJlcigyMDE5MTEwNjAwMDM2MDhMKTsKICAgICAgICBzYWxhcnlBdHRlbmRhbmNlLnNldEluZHVzdHJ5Q29kZSgiYnMiKTsKICAgICAgICBzYWxhcnlBdHRlbmRhbmNlLnNldFdhcmVob3VzZUlkKCIxMTk5Iik7CiAgICAgICAgc2FsYXJ5QXR0ZW5kYW5jZS5zZXRXb3JrcGxhY2VDb2RlKCJOR0I1MDMiKTsKICAgICAgICBMb2NhbERhdGVUaW1lIHRhc2sxU3RhcnRUaW1lID0gTG9jYWxEYXRlVXRpbC5wYXJzZURhdGVUaW1lKCIyMDIxLTAyLTIyIDA4OjAwOjAwIik7CiAgICAgICAgTG9jYWxEYXRlVGltZSB0YXNrMUVuZFRpbWUgPSBMb2NhbERhdGVVdGlsLnBhcnNlRGF0ZVRpbWUoIjIwMjEtMDItMjIgMTU6MzA6MDAiKTsKICAgICAgICBzYWxhcnlBdHRlbmRhbmNlLnNldFN0YXJ0VGltZSh0YXNrMVN0YXJ0VGltZSk7CiAgICAgICAgc2FsYXJ5QXR0ZW5kYW5jZS5zZXRFbmRUaW1lKHRhc2sxRW5kVGltZSk7CiAgICAgICAgc2FsYXJ5QXR0ZW5kYW5jZS5zZXRBY3R1YWxOdW0oMzYwMDAwMEwpOwogICAgICAgIHNhbGFyeUF0dGVuZGFuY2Uuc2V0VHlwZShTQUxBUllfQVRURU5EQU5DRSk7CgoKICAgICAgICBMaXN0PExhYm91ckVmZmljaWVuY3lEVE8+IHNvcnRlZFBwcnMgPSBuZXcgQXJyYXlMaXN0PD4oMik7CiAgICAgICAgc29ydGVkUHBycy5hZGQoc2FsYXJ5QXR0ZW5kYW5jZSk7CgogICAgICAgIGNvbnRleHQuc2V0Tm9ybWFsaXplZFBwckRhdGEoc29ydGVkUHBycyk7CgogICAgICAgIExpc3Q8TGFib3VyRWZmaWNpZW5jeURUTz4gaWRsZURhdGEgPSBic1BwckhhbmRsZXIuZ2VuZXJhdGVQcHJJZGxlRGF0YShjb250ZXh0KTsKCiAgICAgICAgYXNzZXJ0RXF1YWxzKCIxIGlkbGUgZXZlbnQiLCAxLCBpZGxlRGF0YS5zaXplKCkpOwoKICAgICAgICBMYWJvdXJFZmZpY2llbmN5RFRPIGlkbGVFdmVudCA9IGlkbGVEYXRhLmdldCgwKTsKICAgICAgICBhc3NlcnRFcXVhbHMoImlkbGUgZXZlbnQgdHlwZSwgc2FsYXJ5X3BhZGRpbmdfcmVzdCIsIFNBTEFSWV9QQURESU5HX1JFU1QsIGlkbGVFdmVudC5nZXRUeXBlKCkpOwogICAgICAgIGFzc2VydEVxdWFscygiaWRsZSBldmVudCBzdGFydCB0aW1lIiwgdGFzazFFbmRUaW1lLCBpZGxlRXZlbnQuZ2V0Q29tcHV0ZVN0YXJ0VGltZSgpKTsKICAgICAgICBhc3NlcnRUcnVlKCJpbnQgc2FsYXJ5QXR0ZW5kYW5jZSIsIGlkbGVFdmVudC5nZXRJbkF0dGVuZGFuY2UoKSk7CiAgICB9</text>
+        <text>getStartTime</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG51bGw=</text>
+        <text>getStartTime</text>
       </register>
       <register name="/" type="4">
         <text>getNumber</text>
