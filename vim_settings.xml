@@ -196,12 +196,12 @@
         <mark key="^" line="26" column="16" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/dashboard/ppr/EmployeeStructureVO.java" timestamp="1614829053257" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/dashboard/impl/AdminPprFacadeImpl.java" timestamp="1614838796867">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/dashboard/impl/AdminPprFacadeImpl.java" timestamp="1614839481628">
         <mark key="'" line="101" column="0" />
-        <mark key="[" line="141" column="48" />
-        <mark key="]" line="141" column="73" />
-        <mark key="^" line="141" column="73" />
-        <mark key="." line="141" column="72" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="176" column="0" />
+        <mark key="^" line="176" column="111" />
       </file>
       <file name="/fragment.java" timestamp="1614837829234">
         <mark key="[" line="0" column="46" />
@@ -315,11 +315,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>getCreateTimeRange</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdFZPLnNldExhYmVsKG8uZ2V0Q3JlYXRlVGltZVJhbmdlKCkuZ2V0RGVzYygpICsgIiAiICsgcGVyY2VudGFnZSArICIlIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getCreateTimeRange</text>
+        <text>getCooperationTimeRange</text>
       </register>
       <register name="/" type="4">
         <text>TO</text>
@@ -328,7 +328,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLnNvcnRlZChDb21wYXJhdG9yLmNvbXBhcmluZyhvIC0+IG8uZ2V0Q3JlYXRlVGltZVJhbmdlKCkub3JkaW5hbCgpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdFZPLnNldExhYmVsKG8uZ2V0Q3JlYXRlVGltZVJhbmdlKCkuZ2V0RGVzYygpICsgIiAiICsgcGVyY2VudGFnZSArICIlIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -337,10 +337,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTUUwgc3FsID0gbmV3IFNRTCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldENyZWF0ZVRpbWVSYW5nZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdFZPLnNldExhYmVsKG8uZ2V0Q3JlYXRlVGltZVJhbmdlKCkuZ2V0RGVzYygpKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -886,16 +886,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHRvdGFsRW1wbG95ZWVDb3VudCA9IGVtcGxveWVlU3RydWN0dXJlTGlzdC5zdHJlYW0oKQogICAgICAgICAgICAuZmlsdGVyKG8gLT4gby5nZXRDb29wZXJhdGlvblRpbWVSYW5nZSgpICE9IG51bGwpCiAgICAgICAgICAgIC5tYXBUb0xvbmcoUHByRW1wbG95ZWVTdHJ1Y3R1cmVCTzo6Z2V0RW1wbG95ZWVDb3VudCkKICAgICAgICAgICAgLnN1bSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGNvb3BlcmF0aW9uVG90YWwgPSB0b3RhbEVtcGxveWVlQ291bnQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
