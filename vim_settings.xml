@@ -150,6 +150,7 @@
         <mark key="." line="49" column="14" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/ppr/manager/PprManagerTimeRangeEnum.java" timestamp="1614824937032" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/jdbc/SQL.java" timestamp="1614826116616" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/dashboard/ppr/TimeDistributeVO.java" timestamp="1614756765450">
         <mark key="[" line="25" column="11" />
         <mark key="]" line="25" column="10" />
@@ -161,10 +162,11 @@
         <mark key="]" line="28" column="55" />
         <mark key="." line="28" column="55" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/dashboard/AdminPprProvider.java" timestamp="1614742669316">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/dashboard/AdminPprProvider.java" timestamp="1614826565554">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="98" column="15" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/dashboard/impl/AdminPprManagerImpl.java" timestamp="1614756680501">
         <mark key="[" line="30" column="0" />
@@ -172,12 +174,12 @@
         <mark key="^" line="29" column="63" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/dashboard/AdminPprResource.java" timestamp="1614824949859">
-        <mark key="'" line="134" column="46" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-        <mark key="^" line="140" column="101" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/dashboard/AdminPprResource.java" timestamp="1614826598625">
+        <mark key="'" line="135" column="46" />
+        <mark key="[" line="141" column="63" />
+        <mark key="]" line="141" column="68" />
+        <mark key="." line="141" column="67" />
+        <mark key="^" line="141" column="68" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" timestamp="1614743645879">
         <mark key="'" line="140" column="24" />
@@ -193,12 +195,12 @@
         <mark key="." line="26" column="15" />
         <mark key="^" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/dashboard/impl/AdminPprFacadeImpl.java" timestamp="1614824453306">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/dashboard/impl/AdminPprFacadeImpl.java" timestamp="1614826549367">
         <mark key="'" line="100" column="0" />
-        <mark key="[" line="243" column="15" />
-        <mark key="]" line="243" column="21" />
-        <mark key="^" line="243" column="21" />
-        <mark key="." line="243" column="20" />
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
+        <mark key="^" line="233" column="15" />
+        <mark key="." line="242" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1614737997341">
         <mark key="[" line="0" column="0" />
@@ -309,11 +311,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>range</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>TO</text>
@@ -322,22 +324,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZvLnNldERheShvLmdldERheSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSCg==</text>
+        <text encoding="base64">ICAgICAgICBTUUwgc3FsID0gbmV3IFNRTCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgby5nZXQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -880,16 +882,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICBxdWVyeURhdGVzID0gIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcnlEYXRlcyA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBxdWVyeURhdGVzID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3FsLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
