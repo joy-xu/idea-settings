@@ -130,18 +130,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/attendance/EmployeeStructureVO.java" timestamp="1614741183452">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="42" />
-        <mark key="^" line="18" column="42" />
-        <mark key="." line="18" column="41" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/dashboard/AdminPprMapper.java" timestamp="1614756646832">
-        <mark key="'" line="307" column="34" />
-        <mark key="[" line="307" column="32" />
-        <mark key="]" line="307" column="32" />
-        <mark key="^" line="305" column="11" />
-        <mark key="." line="307" column="32" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/dashboard/AdminPprMapper.java" timestamp="1614842515690">
+        <mark key="'" line="308" column="34" />
+        <mark key="[" line="305" column="99" />
+        <mark key="]" line="306" column="11" />
+        <mark key="^" line="306" column="11" />
+        <mark key="." line="306" column="10" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/dashboard/AdminPprFacade.java" timestamp="1614754339468">
         <mark key="[" line="49" column="13" />
@@ -149,13 +143,20 @@
         <mark key="^" line="49" column="15" />
         <mark key="." line="49" column="14" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/ppr/manager/PprManagerTimeRangeEnum.java" timestamp="1614840935051" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/ppr/manager/PprManagerTimeRangeEnum.java" timestamp="1614841706430" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/jdbc/SQL.java" timestamp="1614826116616" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/dashboard/ppr/TimeDistributeVO.java" timestamp="1614756765450">
         <mark key="[" line="25" column="11" />
         <mark key="]" line="25" column="10" />
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="9" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/ppr/LmsLabourEfficiencyPprDO.java" timestamp="1614842818572" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/workplace/WorkPlaceResource.java" timestamp="1614841806315">
+        <mark key="[" line="381" column="8" />
+        <mark key="]" line="381" column="15" />
+        <mark key="^" line="381" column="15" />
+        <mark key="." line="381" column="14" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/dashboard/AdminPprManager.java" timestamp="1614756664239">
         <mark key="[" line="28" column="55" />
@@ -174,7 +175,7 @@
         <mark key="^" line="29" column="63" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/dashboard/AdminPprResource.java" timestamp="1614840908040">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/dashboard/AdminPprResource.java" timestamp="1614842317582">
         <mark key="'" line="135" column="46" />
         <mark key="[" line="141" column="63" />
         <mark key="]" line="141" column="68" />
@@ -196,14 +197,14 @@
         <mark key="^" line="26" column="16" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/dashboard/ppr/EmployeeStructureVO.java" timestamp="1614829053257" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/dashboard/impl/AdminPprFacadeImpl.java" timestamp="1614839674781">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/dashboard/impl/AdminPprFacadeImpl.java" timestamp="1614842641918">
         <mark key="'" line="101" column="0" />
-        <mark key="[" line="178" column="39" />
-        <mark key="]" line="178" column="47" />
-        <mark key="." line="178" column="46" />
-        <mark key="^" line="178" column="47" />
+        <mark key="[" line="214" column="39" />
+        <mark key="]" line="214" column="40" />
+        <mark key="." line="214" column="39" />
+        <mark key="^" line="214" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1614839597505">
+      <file name="/fragment.java" timestamp="1614842625299">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -315,11 +316,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdFZPLnNldExhYmVsKG8uZ2V0Q3JlYXRlVGltZVJhbmdlKCkuZ2V0RGVzYygpICsgIiAiICsgcGVyY2VudGFnZSArICIlIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>getCooperationTimeRange</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>TO</text>
