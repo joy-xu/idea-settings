@@ -130,21 +130,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/demo/netty-demo/src/main/java/com/cainiao/demo/nio/NioClient.java" timestamp="1615514114952">
-        <mark key="[" line="29" column="99" />
-        <mark key="]" line="29" column="110" />
-        <mark key="^" line="29" column="110" />
-        <mark key="." line="29" column="109" />
+      <file name="$USER_HOME$/src/demo/netty-demo/src/main/java/com/cainiao/demo/nio/NioClient.java" timestamp="1615515648065">
+        <mark key="[" line="65" column="40" />
+        <mark key="]" line="65" column="40" />
+        <mark key="." line="65" column="48" />
+        <mark key="^" line="65" column="17" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-dev.properties" timestamp="1615454736132">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/src/demo/netty-demo/src/main/java/com/cainiao/demo/nio/NioServer.java" timestamp="1615514177474">
-        <mark key="'" line="29" column="21" />
-        <mark key="[" line="47" column="73" />
-        <mark key="]" line="77" column="16" />
-        <mark key="." line="77" column="15" />
-        <mark key="^" line="77" column="16" />
+      <file name="$USER_HOME$/src/demo/netty-demo/src/main/java/com/cainiao/demo/nio/NioServer.java" timestamp="1615515581046">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1615365700894">
         <mark key="[" line="195" column="53" />
@@ -199,8 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="27" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/ppr/manager/PprManagerTimeRangeEnum.java" />
-      <jump line="17" column="24" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/ppr/manager/PprManagerTimeRangeEnum.java" />
       <jump line="15" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/ppr/manager/PprManagerTimeRangeEnum.java" />
       <jump line="18" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/ppr/manager/PprManagerTimeRangeEnum.java" />
       <jump line="55" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/EmployeeAdbMapper.java" />
@@ -299,15 +295,17 @@
       <jump line="39" column="39" filename="$USER_HOME$/src/demo/netty-demo/src/main/java/com/cainiao/demo/nio/NioServer.java" />
       <jump line="64" column="4" filename="$USER_HOME$/src/demo/netty-demo/src/main/java/com/cainiao/demo/nio/NioServer.java" />
       <jump line="29" column="21" filename="$USER_HOME$/src/demo/netty-demo/src/main/java/com/cainiao/demo/nio/NioServer.java" />
+      <jump line="31" column="51" filename="$USER_HOME$/src/demo/netty-demo/src/main/java/com/cainiao/demo/nio/NioClient.java" />
+      <jump line="104" column="18" filename="$USER_HOME$/src/demo/netty-demo/src/main/java/com/cainiao/demo/nio/NioServer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>GroupChatClient</text>
       </register>
       <register name="-" type="4">
-        <text>byteBuffer</text>
+        <text>GroupChatClient</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
@@ -316,22 +314,22 @@
         <text encoding="base64">ICAgICAgICA8cG93ZXJtb2NrLnZlcnNpb24+MS43LjQ8L3Bvd2VybW9jay52ZXJzaW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCiAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CM6YCa5b6A5p625p6E5biI5LmL6Lev44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCiAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvcXFfMzg5NjUxNDAvYXJ0aWNsZS9kZXRhaWxzLzExMzkwMDM5MQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29ubmVjdCkgewo=</text>
+        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCiAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CM6YCa5b6A5p625p6E5biI5LmL6Lev44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCiAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvcXFfMzg5NjUxNDAvYXJ0aWNsZS9kZXRhaWxzLzExMzkwMDM5MQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGNvbm5lY3QgPSBzb2NrZXRDaGFubmVsLmNvbm5lY3QoKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIFNvY2tldENoYW5uZWwgc29ja2V0Q2hhbm5lbCA9IFNvY2tldENoYW5uZWwub3BlbihuZXcgSW5ldFNvY2tldEFkZHJlc3MoOTk5OSkpOwogICAgICAgIHNvY2tldENoYW5uZWwuY29uZmlndXJlQmxvY2tpbmcoZmFsc2UpOwoKICAgICAgICBTZWxlY3RvciBzZWxlY3RvciA9IFNlbGVjdG9yLm9wZW4oKTsKICAgICAgICBzb2NrZXRDaGFubmVsLnJlZ2lzdGVyKHNlbGVjdG9yLCBTZWxlY3Rpb25LZXkuT1BfUkVBRCk7CgogICAgICAgIG5ldyBUaHJlYWQoKCkgLT4gewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgICAgICBpbnQgY291bnQgPSBzZWxlY3Rvci5zZWxlY3QoNTAwMCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGNvdW50IDw9IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJubyBhY3RpdmUgcmVhZCBldmVudCIpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBJdGVyYXRvcjxTZWxlY3Rpb25LZXk+IGl0ZXJhdG9yID0gc2VsZWN0b3Iuc2VsZWN0ZWRLZXlzKCkuaXRlcmF0b3IoKTsKICAgICAgICAgICAgICAgICAgICB3aGlsZSAoaXRlcmF0b3IuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFNlbGVjdGlvbktleSBzZWxlY3Rpb25LZXkgPSBpdGVyYXRvci5uZXh0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChzZWxlY3Rpb25LZXkuaXNSZWFkYWJsZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTb2NrZXRDaGFubmVsIGNoYW5uZWwgPSAoU29ja2V0Q2hhbm5lbClzZWxlY3Rpb25LZXkuY2hhbm5lbCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgQnl0ZUJ1ZmZlciBieXRlQnVmZmVyID0gKEJ5dGVCdWZmZXIpc2VsZWN0aW9uS2V5LmF0dGFjaG1lbnQoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoYW5uZWwucmVhZChieXRlQnVmZmVyKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ5dGVCdWZmZXIuZmxpcCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNoYW5uZWwuZ2V0UmVtb3RlQWRkcmVzcygpICsgIuivtDogIiArIG5ldyBTdHJpbmcoYnl0ZUJ1ZmZlci5hcnJheSgpKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBieXRlQnVmZmVyLnJld2luZCgpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQoKICAgICAgICB9KS5zdGFydCgpOwoKICAgICAgICBTY2FubmVyIHNjYW5uZXIgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwoKICAgICAgICB3aGlsZSAoc2Nhbm5lci5oYXNOZXh0TGluZSgpKSB7CiAgICAgICAgICAgIFN0cmluZyBsaW5lID0gc2Nhbm5lci5uZXh0TGluZSgpOwogICAgICAgICAgICBzb2NrZXRDaGFubmVsLndyaXRlKEJ5dGVCdWZmZXIud3JhcChsaW5lLmdldEJ5dGVzKCkpKTsKICAgICAgICB9CgogICAgfQ==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVyYXRvci5yZW1vdmUoKTsK</text>
+        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCiAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CM6YCa5b6A5p625p6E5biI5LmL6Lev44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCiAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvcXFfMzg5NjUxNDAvYXJ0aWNsZS9kZXRhaWxzLzExMzkwMDM5MQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -874,16 +872,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCiAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CM6YCa5b6A5p625p6E5biI5LmL6Lev44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCiAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvcXFfMzg5NjUxNDAvYXJ0aWNsZS9kZXRhaWxzLzExMzkwMDM5MQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ5dGVCdWZmZXIgYnl0ZUJ1ZmZlciA9IEJ5dGVCdWZmZXIuYWxsb2NhdGUoMTAyNCk7CiAgICAgICAgICAgICAgICBieXRlQnVmZmVyLnB1dChsaW5lLmdldEJ5dGVzKCkpOwo=</text>
+        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4ukNTRE7ljZrkuLvjgIzpgJrlvoDmnrbmnoTluIjkuYvot6/jgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqpDQyA0LjAgQlktU0HniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIKICAgIOWOn+aWh+mTvuaOpe+8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9xcV8zODk2NTE0MC9hcnRpY2xlL2RldGFpbHMvMTEzOTAwMzkxCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIArigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJQKICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CM6YCa5b6A5p625p6E5biI5LmL6Lev44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCiAgICAgICAg5Y6f5paH6ZO+5o6l77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4OTY1MTQwL2FydGljbGUvZGV0YWlscy8xMTM5MDAzOTEK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
