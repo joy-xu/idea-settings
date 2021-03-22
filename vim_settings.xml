@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>inSala</entry>
         <entry>orderNum</entry>
         <entry>Ppr</entry>
         <entry>PpprBa</entry>
@@ -27,6 +26,7 @@
         <entry>INDIRE</entry>
         <entry>filter</entry>
         <entry>rest_time</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/long/Long/g</entry>
@@ -193,12 +193,18 @@
         <mark key="." line="296" column="23" />
         <mark key="^" line="296" column="24" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" timestamp="1616394600982">
-        <mark key="'" line="2005" column="12" />
-        <mark key="[" line="213" column="62" />
-        <mark key="]" line="217" column="0" />
-        <mark key="^" line="217" column="0" />
-        <mark key="." line="217" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/IndirectLabourManager.java" timestamp="1616395324988">
+        <mark key="[" line="153" column="26" />
+        <mark key="]" line="153" column="107" />
+        <mark key="^" line="153" column="107" />
+        <mark key="." line="153" column="106" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" timestamp="1616395205343">
+        <mark key="'" line="220" column="12" />
+        <mark key="[" line="2049" column="55" />
+        <mark key="]" line="2049" column="75" />
+        <mark key="." line="2049" column="74" />
+        <mark key="^" line="2049" column="75" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" timestamp="1616305960777">
         <mark key="[" line="114" column="72" />
@@ -213,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="65" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/dashboard/impl/AdminPprFacadeImpl.java" />
       <jump line="174" column="34" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/dashboard/impl/AdminPprFacadeImpl.java" />
       <jump line="134" column="46" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/dashboard/AdminPprResource.java" />
       <jump line="86" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/dashboard/impl/AdminPprFacadeImpl.java" />
@@ -313,18 +318,19 @@
       <jump line="88" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/LstPprHandler.java" />
       <jump line="66" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/DingTalkAttendanceStatisticsMapper.java" />
       <jump line="2000" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" />
+      <jump line="220" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIOafpeaJvuaYr+WQpuacieWkluWHuuS8keaBrywg5aaC5p6c5pyJ55qE6K+dLCDliqDlhaXliLDmgLvkvJHmga/ml7bplb/kuK0K</text>
+      <register name="&quot;" type="4">
+        <text>list</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
-        <text>rest_time</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPIOafpeaJvuaYr+WQpuacieWkluWHuuS8keaBrywg5aaC5p6c5pyJ55qE6K+dLCDliqDlhaXliLDmgLvkvJHmga/ml7bplb/kuK0K</text>
@@ -342,10 +348,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExhYm91ckVmZmljaWVuY3lEVE8+IHNhbGFyeUF0dGVuZGFuY2VMaXN0ID0gY29udGV4dC5nZXRTYWxhcnlBdHRlbmRhbmNlcygpOwogICAgICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShzYWxhcnlBdHRlbmRhbmNlTGlzdCkpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgLy8g5Yy65YiG6K6h6Jaq5pe26Ze05YaFL+WklgogICAgICAgIHNwbGl0QnlTYWxhcnlBdHRlbmRhbmNlKGNvbnRleHQsIHNvcnRlZFBwckRhdGEsIHNhbGFyeUF0dGVuZGFuY2VMaXN0KTsKCiAgICAgICAgc29ydGVkUHByRGF0YS5zdHJlYW0oKQogICAgICAgICAgICAvLyDliJ3lp4vnu5/kuIDorr7nva7orqHolqrojIPlm7TlpJbmoIfor4YKICAgICAgICAgICAgLmZpbHRlcihvIC0+IG8uZ2V0SW5BdHRlbmRhbmNlKCkgPT0gbnVsbCkKICAgICAgICAgICAgLmZvckVhY2gobyAtPiBvLnNldEluQXR0ZW5kYW5jZShCb29sZWFuLkZBTFNFKSk7</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PExhYm91ckVmZmljaWVuY3lEVE8+IHNhbGFyeUF0dGVuZGFuY2VMaXN0ID0gY29udGV4dC5nZXRTYWxhcnlBdHRlbmRhbmNlcygpOwogICAgICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShzYWxhcnlBdHRlbmRhbmNlTGlzdCkpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgLy8g5Yy65YiG6K6h6Jaq5pe26Ze05YaFL+WklgogICAgICAgIHNwbGl0QnlTYWxhcnlBdHRlbmRhbmNlKGNvbnRleHQsIHNvcnRlZFBwckRhdGEsIHNhbGFyeUF0dGVuZGFuY2VMaXN0KTsKCiAgICAgICAgc29ydGVkUHByRGF0YS5zdHJlYW0oKQogICAgICAgICAgICAvLyDliJ3lp4vnu5/kuIDorr7nva7orqHolqrojIPlm7TlpJbmoIfor4YKICAgICAgICAgICAgLmZpbHRlcihvIC0+IG8uZ2V0SW5BdHRlbmRhbmNlKCkgPT0gbnVsbCkKICAgICAgICAgICAgLmZvckVhY2gobyAtPiBvLnNldEluQXR0ZW5kYW5jZShCb29sZWFuLkZBTFNFKSk7</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -891,13 +897,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIE9wdGlvbmFsPExhYm91ckVmZmljaWVuY3lEVE8+IGdldENyb3NzRGF5U3RhbmRhcmQoTGlzdDxMYWJvdXJFZmZpY2llbmN5RFRPPiBsYWJvdXJzKSB7CiAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIE9wdGlvbmFsPExhYm91ckVmZmljaWVuY3lEVE8+IGdldENyb3NzRGF5U3RhbmRhcmQoTGlzdDxMYWJvdXJFZmZpY2llbmN5RFRPPiBsYWJvdXJzKSB7CiAgICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJsc3QgZ2V0IHNhbGFyeSBjcm9zc0RheVN0YW5kYXJkOiB7fSIsIHNhbGFyeUF0dGVuZGFuY2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
@@ -906,9 +912,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>rest_time</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern>rest_time</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
       <last-dir>1</last-dir>
