@@ -197,6 +197,7 @@
         <mark key="." line="678" column="60" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/context/PprComputeSourceEnum.java" timestamp="1616572039372" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/dts/task/PprTaskParam.java" timestamp="1616572785319" />
       <file name="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/config/BatchConfiguration.java" timestamp="1616555792616">
         <mark key="'" line="68" column="19" />
         <mark key="[" line="22" column="0" />
@@ -219,18 +220,12 @@
         <mark key="^" line="469" column="62" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/constants/Constants.java" timestamp="1616572433875" />
-      <file name="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/simple/SimpleJobApplication.java" timestamp="1616555766981">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="64" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" timestamp="1616572563833">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" timestamp="1616572687704">
         <mark key="'" line="706" column="49" />
-        <mark key="[" line="752" column="62" />
-        <mark key="]" line="752" column="62" />
-        <mark key="^" line="752" column="62" />
-        <mark key="." line="752" column="61" />
+        <mark key="[" line="754" column="75" />
+        <mark key="]" line="754" column="93" />
+        <mark key="^" line="754" column="93" />
+        <mark key="." line="754" column="92" />
       </file>
       <file name="/fragment.java" timestamp="1616565503484">
         <mark key="[" line="0" column="0" />
@@ -342,10 +337,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1000</text>
+        <text>isOutEat</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>isOutEat</text>
       </register>
       <register name="/" type="4">
         <text>work_group_name</text>
