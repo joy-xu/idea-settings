@@ -150,12 +150,6 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/simple/SimpleJob.java" timestamp="1616555785002">
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="15" column="29" />
-        <mark key="." line="15" column="28" />
-        <mark key="^" line="15" column="29" />
-      </file>
       <file name="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/simple/SimpleJobConfig.java" timestamp="1616555977965">
         <mark key="[" line="32" column="26" />
         <mark key="]" line="33" column="20" />
@@ -211,6 +205,7 @@
         <mark key="." line="741" column="97" />
         <mark key="^" line="741" column="98" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/LabourPprModuleProcessor.java" timestamp="1616574048857" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1616571902536" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/handler/ScPprHandlerTest.java" timestamp="1616565426677">
         <mark key="'" line="62" column="0" />
@@ -220,19 +215,18 @@
         <mark key="^" line="469" column="62" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/constants/Constants.java" timestamp="1616572433875" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" timestamp="1616572687704">
-        <mark key="'" line="706" column="49" />
-        <mark key="[" line="754" column="75" />
-        <mark key="]" line="754" column="93" />
-        <mark key="^" line="754" column="93" />
-        <mark key="." line="754" column="92" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" timestamp="1616575121218">
+        <mark key="'" line="762" column="7" />
+        <mark key="[" line="778" column="34" />
+        <mark key="]" line="778" column="12" />
+        <mark key="^" line="778" column="12" />
+        <mark key="." line="778" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1616565503484">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="56" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="354" column="42" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="559" column="54" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
       <jump line="1727" column="110" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/indirectlabour/impl/IndirectLabourFacadeImpl.java" />
@@ -332,15 +326,16 @@
       <jump line="536" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/ScPprHandlerTest.java" />
       <jump line="514" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/ScPprHandlerTest.java" />
       <jump line="706" column="49" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
+      <jump line="763" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>isOutEat</text>
+        <text>salaryAttendances</text>
       </register>
       <register name="-" type="4">
-        <text>isOutEat</text>
+        <text>salaryAttendances</text>
       </register>
       <register name="/" type="4">
         <text>work_group_name</text>
@@ -355,16 +350,16 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXNpY1BwckRhdGEuYWRkKHNhbGFyeUF0dGVuZGFuY2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICBMYWJvdXJFZmZpY2llbmN5RFRPIHNhbGFyeUF0dGVuZGFuY2UgPSBuZXcgTGFib3VyRWZmaWNpZW5jeURUTygpOwogICAgICAgIHNhbGFyeUF0dGVuZGFuY2Uuc2V0VHlwZShTQUxBUllfQVRURU5EQU5DRSk7CiAgICAgICAgc2FsYXJ5QXR0ZW5kYW5jZS5zZXRTdGFydFRpbWUoTG9jYWxEYXRlVGltZS5ub3coKSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -907,16 +902,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHNjUHBySGFuZGxlci5nZXRTZW50aW5lbEV2ZW50KGFueU9iamVjdCgpLCBhbnlPYmplY3QoKSkpLnRoZW5SZXR1cm4oQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnBlZWsobyAtPiBvLnNldFdvcmtOYW1lKGluZGlyZWN0TGFib3VyQ29kZTJOYW1lLmdldChvLmdldFdvcmtOYW1lKCkpKSkK</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
