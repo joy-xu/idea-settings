@@ -165,11 +165,11 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/efficiency/LabourPprProvider.java" timestamp="1616739065317">
         <mark key="'" line="90" column="37" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" timestamp="1616743686223">
-        <mark key="[" line="234" column="37" />
-        <mark key="]" line="234" column="37" />
-        <mark key="." line="234" column="36" />
-        <mark key="^" line="234" column="37" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" timestamp="1616746976128">
+        <mark key="[" line="281" column="28" />
+        <mark key="]" line="282" column="52" />
+        <mark key="." line="282" column="51" />
+        <mark key="^" line="282" column="52" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/EhrService.java" timestamp="1616739101560">
         <mark key="'" line="91" column="28" />
@@ -190,7 +190,7 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" timestamp="1616735587306">
         <mark key="'" line="2017" column="9" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" timestamp="1616744636529">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" timestamp="1616745925471">
         <mark key="[" line="752" column="73" />
         <mark key="]" line="752" column="50" />
         <mark key="." line="752" column="49" />
@@ -302,32 +302,32 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMYWJvdXJFZmZpY2llbmN5RFRPIHNhbGFyeUF0dGVuZGFuY2UgPSBuZXcgTGFib3VyRWZmaWNpZW5jeURUTygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>IDLE</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>spring-boot-starter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMYWJvdXJFZmZpY2llbmN5RFRPIHNhbGFyeUF0dGVuZGFuY2UgPSBuZXcgTGFib3VyRWZmaWNpZW5jeURUTygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZGxlRXZlbnQyLnNldENvbXB1dGVTdGFydFRpbWUoZXZlbnQyQ29tcHV0ZVN0YXJ0VGltZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudHMuYWRkKGV2ZW50Myk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudHMuYWRkKGV2ZW50Mik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudHMuYWRkKGV2ZW50MSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -873,16 +873,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudHMK</text>
+        <text encoding="base64">ICAgICAgICBMYWJvdXJFZmZpY2llbmN5RFRPIGV2ZW50MyA9IG5ldyBMYWJvdXJFZmZpY2llbmN5RFRPKCk7CiAgICAgICAgZXZlbnQzLnNldENvZGUoIlRCMjAyMDExMTEiKTsKICAgICAgICBldmVudDMuc2V0RW1wbG95ZWVOdW1iZXIoMjAxOTExMDYwMDAzNjA4TCk7CiAgICAgICAgZXZlbnQzLnNldEluZHVzdHJ5Q29kZSgiYnMiKTsKICAgICAgICBldmVudDMuc2V0V2FyZWhvdXNlSWQoIjExOTkiKTsKICAgICAgICBldmVudDMuc2V0V29ya3BsYWNlQ29kZSgiTkdCNTAzIik7CiAgICAgICAgTG9jYWxEYXRlVGltZSBldmVudDNTdGFydFRpbWUgPSBMb2NhbERhdGVVdGlsLnBhcnNlRGF0ZVRpbWUoIjIwMjEtMDEtMDIgMTI6MDA6MDAiKTsKICAgICAgICBMb2NhbERhdGVUaW1lIGV2ZW50M0VuZFRpbWUgPSBMb2NhbERhdGVVdGlsLnBhcnNlRGF0ZVRpbWUoIjIwMjItMDEtMDIgMTI6MDA6MDAiKTsKICAgICAgICBldmVudDMuc2V0U3RhcnRUaW1lKGV2ZW50M1N0YXJ0VGltZSk7CiAgICAgICAgZXZlbnQzLnNldEVuZFRpbWUoZXZlbnQzRW5kVGltZSk7CiAgICAgICAgZXZlbnQzLnNldEFjdHVhbE51bSgxMDBMKTsKICAgICAgICBldmVudDMuc2V0VHlwZShTRU5USU5FTCk7CiAgICAgICAgaWRsZUV2ZW50cy5hZGQoZXZlbnQzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudHMuYWRkKHNhbGFyeUF0dGVuZGFuY2UpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LnNldE5vcm1hbGl6ZWRQcHJEYXRhKGlkbGVFdmVudHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
