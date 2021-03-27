@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>restTime</entry>
         <entry>attendanceEff</entry>
         <entry>efficiencyAtten</entry>
         <entry>efficiency</entry>
@@ -27,6 +26,7 @@
         <entry>starter</entry>
         <entry>spring-boot-starter</entry>
         <entry>spring-boot-starter-</entry>
+        <entry>lombok</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/long/Long/g</entry>
@@ -160,13 +160,6 @@
         <mark key="^" line="1062" column="61" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1616768852345" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-pojo/src/main/java/com/cainiao/lms/enums/LabourEfficiencyTypeEnum.java" timestamp="1616741937565">
-        <mark key="'" line="5" column="12" />
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="54" column="9" />
-        <mark key="^" line="54" column="9" />
-        <mark key="." line="54" column="8" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.9.RELEASE/spring-core-5.2.9.RELEASE-sources.jar!/org/springframework/core/io/support/SpringFactoriesLoader.java" timestamp="1616806868531" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" timestamp="1616749632576">
         <mark key="[" line="727" column="0" />
@@ -178,11 +171,10 @@
         <mark key="]" line="343" column="0" />
         <mark key="." line="343" column="0" />
       </file>
-      <file name="$USER_HOME$/src/demo/spring-boot-demo/pom.xml" timestamp="1616806378169">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="21" />
-        <mark key="." line="16" column="20" />
-        <mark key="^" line="16" column="21" />
+      <file name="$USER_HOME$/src/demo/spring-boot-demo/pom.xml" timestamp="1616813951779">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/src/demo/springboot2/boot-01-helloworld/src/main/java/com/atguigu/boot/config/MyConfig.java" timestamp="1616768788396" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/metaq/EmployeePprEventConsumer.java" timestamp="1616808053909">
@@ -202,10 +194,12 @@
         <mark key="]" line="405" column="0" />
         <mark key="." line="405" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.9.RELEASE/spring-boot-dependencies-1.5.9.RELEASE.pom" timestamp="1616813961514">
+        <mark key="'" line="218" column="16" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1616807110970" />
     </filemarks>
     <jumps>
-      <jump line="100" column="86" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsShardingProvider.java" />
       <jump line="101" column="44" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsShardingProvider.java" />
       <jump line="24" column="91" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsShardingProvider.java" />
       <jump line="25" column="21" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsShardingProvider.java" />
@@ -305,39 +299,40 @@
       <jump line="33" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-cache/1.5.7.RELEASE/spring-boot-starter-cache-1.5.7.RELEASE.pom" />
       <jump line="182" column="28" filename="$USER_HOME$/cainiao/wmplms/pom.xml" />
       <jump line="1062" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
+      <jump line="218" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.9.RELEASE/spring-boot-dependencies-1.5.9.RELEASE.pom" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>getEventType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtsb21ib2sudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>getEventType</text>
       </register>
       <register name="/" type="4">
-        <text>spring-boot-starter-</text>
+        <text>lombok</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZGxlRXZlbnQyLnNldENvbXB1dGVTdGFydFRpbWUoZXZlbnQyQ29tcHV0ZVN0YXJ0VGltZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyVXRpbC5wcHJMb2dnZXIuaW5mbygiZW1wbG95ZWUyIHt9LHdvcmtQbGFjZUNvZGU6e30se30iLGV2ZW50LmdldEVtcGxveWVlTnVtYmVyKCksZXZlbnQuZ2V0V29ya3BsYWNlQ29kZSgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyZXNzVGVzdGluZ1V0aWwuaXNUZXN0Rmxvd0FsbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtsb21ib2sudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlclV0aWwucHByTG9nZ2VyLmluZm8oImVtcGxveWVlMSB7fSx3b3JrUGxhY2VDb2RlOnt9LHt9IixldmVudC5nZXRFbXBsb3llZU51bWJlcigpLGV2ZW50LmdldFdvcmtwbGFjZUNvZGUoKSwKICAgICAgICAgICAgICAgICAgICBTdHJlc3NUZXN0aW5nVXRpbC5pc1Rlc3RGbG93QWxsKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LmdldEVtcGxveWVlKCkuZ2V0TnVtYmVyKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyVXRpbC5wcHJMb2dnZXIuaW5mbygiZW1wbG95ZWUyIHt9LHdvcmtQbGFjZUNvZGU6e30se30iLGV2ZW50LmdldEVtcGxveWVlTnVtYmVyKCksZXZlbnQuZ2V0V29ya3BsYWNlQ29kZSgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyZXNzVGVzdGluZ1V0aWwuaXNUZXN0Rmxvd0FsbCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiZmluZCB6ZXJvIGZldGNoIGhiYXNlIHRhc2siKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlclV0aWwucHByTG9nZ2VyLmluZm8oImVtcGxveWVlMSB7fSx3b3JrUGxhY2VDb2RlOnt9LHt9IixldmVudC5nZXRFbXBsb3llZU51bWJlcigpLGV2ZW50LmdldFdvcmtwbGFjZUNvZGUoKSwKICAgICAgICAgICAgICAgICAgICBTdHJlc3NUZXN0aW5nVXRpbC5pc1Rlc3RGbG93QWxsKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGFibGVOYW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LmdldEVtcGxveWVlKCkuZ2V0TnVtYmVyKCksCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -880,13 +875,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXJVdGlsLmluZm9Mb2dnZXIuaW5mbygiZ2V0SGJhc2VUYWJsZU5hbWUgdGFibGUgbmFtZToge30iLCB0YWJsZU5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiZmluZCB6ZXJvIGZldGNoIGhiYXNlIHRhc2siKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGFibGVOYW1lOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIFJFTU9WRQo=</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXJVdGlsLmluZm9Mb2dnZXIuaW5mbygiZ2V0SGJhc2VUYWJsZU5hbWUgdGFibGUgbmFtZToge30iLCB0YWJsZU5hbWUpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
@@ -898,9 +893,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>spring-boot-starter-</last-search>
+      <last-search>lombok</last-search>
       <last-offset />
-      <last-pattern>spring-boot-starter-</last-pattern>
+      <last-pattern>lombok</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
       <last-dir>1</last-dir>
