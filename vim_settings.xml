@@ -137,6 +137,11 @@
         <mark key="^" line="399" column="47" />
         <mark key="." line="399" column="46" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmi-auth/wmi-auth-service/src/main/java/com/cainiao/wmi/auth/service/base/impl/WarehouseQueryServiceImpl.java" timestamp="1616993176949">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" timestamp="1616988564216" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/DingTalkAttendanceStatisticsDO.java" timestamp="1616985004360">
         <mark key="'" line="77" column="17" />
@@ -168,6 +173,7 @@
         <mark key="." line="1062" column="61" />
         <mark key="^" line="1062" column="61" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmi-auth/wmi-auth-service/src/main/java/com/cainiao/wmi/auth/service/base/WarehouseQueryService.java" timestamp="1616993145618" />
       <file name="$USER_HOME$/cainiao/wmi-auth/wmi-auth-api/wmi-auth-api-hsf/src/main/java/com/cainiao/wmi/auth/api/hsf/service/security/impl/DeviceInfoServiceImpl.java" timestamp="1616993079102">
         <mark key="'" line="39" column="2" />
         <mark key="[" line="132" column="118" />
@@ -183,9 +189,6 @@
         <mark key="]" line="233" column="8" />
         <mark key="." line="233" column="7" />
         <mark key="^" line="233" column="8" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.9.RELEASE/spring-boot-dependencies-1.5.9.RELEASE.pom" timestamp="1616813961514">
-        <mark key="'" line="218" column="16" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1616983108753">
         <mark key="'" line="793" column="23" />
@@ -204,11 +207,6 @@
         <mark key="'" line="150" column="43" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1616988026103" />
-      <file name="$USER_HOME$/src/demo/spring-boot-demo/pom.xml" timestamp="1616813951779">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="162" column="57" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/handler/ScPprHandlerTest.java" />
@@ -315,8 +313,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgID0gd29ya3BsYWNl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjYWNoZUNvZGUuY29tcHV0ZUlmQWJzZW50KCkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgID0gd29ya3BsYWNl</text>
@@ -328,22 +326,22 @@
         <text encoding="base64">ICAgICAgICBpZGxlRXZlbnQyLnNldENvbXB1dGVTdGFydFRpbWUoZXZlbnQyQ29tcHV0ZVN0YXJ0VGltZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZUNvZGUuY29tcHV0ZUlmQWJzZW50KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUGFpci5vZihMb2NhbERhdGVUaW1lLm5vdygpLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBMb2dnZXJVdGlsLmVycm9yTG9nZ2VyLmVycm9yKCJnZXQgSEJhc2UgZGF0YSBvY2N1cnMgZXJyb3IsIHRhYmxlOiB7fSwgcm93S2V5OiB7fSIsCiAgICAgICAgICAgICAgICBoQmFzZVRhYmxlLCByb3dLZXksIGUpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUGFpci5vZihMb2NhbERhdGVUaW1lLm5vdygpLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBMb2dnZXJVdGlsLmVycm9yTG9nZ2VyLmVycm9yKCJnZXQgSEJhc2UgZGF0YSBvY2N1cnMgZXJyb3IsIHRhYmxlOiB7fSwgcm93S2V5OiB7fSIsCiAgICAgICAgICAgICAgICBoQmFzZVRhYmxlLCByb3dLZXksIGUpOwogICAgICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -886,13 +884,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBMb2dnZXJVdGlsLmVycm9yTG9nZ2VyLmVycm9yKCJwdXQgSEJhc2UgZGF0YSBvY2N1cnMgZXJyb3IsIHJvd0tleToge30sIHBwclNpemU6IHt9IiwKICAgICAgICAgICAgICAgIHJvd0tleSwgcHBycy5zaXplKCksIGUpOwogICAgICAgICAgICB0aHJvdyBlOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBMb2dnZXJVdGlsLmVycm9yTG9nZ2VyLmVycm9yKCJwdXQgSEJhc2UgZGF0YSBvY2N1cnMgZXJyb3IsIHJvd0tleToge30sIHBwclNpemU6IHt9IiwKICAgICAgICAgICAgICAgIHJvd0tleSwgcHBycy5zaXplKCksIGUpOwogICAgICAgICAgICB0aHJvdyBlOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBMb2dnZXJVdGlsLmVycm9yTG9nZ2VyLmVycm9yKCJwdXQgSEJhc2UgZGF0YSBvY2N1cnMgZXJyb3IsIHJvd0tleToge30sIHBwclNpemU6IHt9IiwKICAgICAgICAgICAgICAgIHJvd0tleSwgcHBycy5zaXplKCksIGUpOwogICAgICAgICAgICB0aHJvdyBlOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
