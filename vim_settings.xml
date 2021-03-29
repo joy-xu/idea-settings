@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>attendanceEff</entry>
-        <entry>efficiencyAtten</entry>
         <entry>efficiency</entry>
         <entry>rest</entry>
         <entry>WorkHour</entry>
@@ -27,6 +25,8 @@
         <entry>spring-boot-starter</entry>
         <entry>spring-boot-starter-</entry>
         <entry>lombok</entry>
+        <entry>hbase</entry>
+        <entry>HBASE</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/long/Long/g</entry>
@@ -130,15 +130,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-cache/1.5.7.RELEASE/spring-boot-starter-cache-1.5.7.RELEASE.pom" timestamp="1616756363869">
-        <mark key="'" line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1616983138281">
         <mark key="'" line="241" column="20" />
         <mark key="[" line="399" column="45" />
         <mark key="]" line="399" column="47" />
         <mark key="^" line="399" column="47" />
         <mark key="." line="399" column="46" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1616984200250">
+        <mark key="'" line="2325" column="12" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/pom.xml" timestamp="1616756380661">
         <mark key="'" line="182" column="28" />
@@ -166,14 +166,16 @@
         <mark key="^" line="1062" column="61" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/AuthFilter.java" timestamp="1616768852345" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/LmsAttendanceStatisticsManager.java" timestamp="1616984143173">
-        <mark key="'" line="752" column="30" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/DingTalkAttendanceStatisticsDO.java" timestamp="1616985004360">
+        <mark key="'" line="77" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.9.RELEASE/spring-core-5.2.9.RELEASE-sources.jar!/org/springframework/core/io/support/SpringFactoriesLoader.java" timestamp="1616806868531" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" timestamp="1616755873480">
-        <mark key="[" line="343" column="0" />
-        <mark key="]" line="343" column="0" />
-        <mark key="." line="343" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" timestamp="1616985389149">
+        <mark key="'" line="897" column="31" />
+        <mark key="[" line="83" column="25" />
+        <mark key="]" line="83" column="25" />
+        <mark key="^" line="83" column="25" />
+        <mark key="." line="83" column="24" />
       </file>
       <file name="$USER_HOME$/src/demo/spring-boot-demo/pom.xml" timestamp="1616813951779">
         <mark key="[" line="54" column="0" />
@@ -193,22 +195,12 @@
         <mark key="." line="132" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.4.RELEASE/spring-boot-autoconfigure-2.3.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java" timestamp="1616806746873" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" timestamp="1616755876938">
-        <mark key="[" line="405" column="0" />
-        <mark key="]" line="405" column="0" />
-        <mark key="." line="405" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.9.RELEASE/spring-boot-dependencies-1.5.9.RELEASE.pom" timestamp="1616813961514">
         <mark key="'" line="218" column="16" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1616903612717" />
     </filemarks>
     <jumps>
-      <jump line="24" column="91" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsShardingProvider.java" />
-      <jump line="25" column="21" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsShardingProvider.java" />
-      <jump line="27" column="106" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsShardingProvider.java" />
-      <jump line="61" column="86" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsShardingProvider.java" />
-      <jump line="62" column="44" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsShardingProvider.java" />
       <jump line="65" column="91" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/DingTalkAttendanceStatisticsShardingProvider.java" />
       <jump line="68" column="19" filename="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/config/BatchConfiguration.java" />
       <jump line="44" column="14" filename="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/flow/simple/SimpleFlowConfig.java" />
@@ -304,6 +296,11 @@
       <jump line="1062" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
       <jump line="218" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.9.RELEASE/spring-boot-dependencies-1.5.9.RELEASE.pom" />
       <jump line="752" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/LmsAttendanceStatisticsManager.java" />
+      <jump line="2325" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
+      <jump line="77" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/DingTalkAttendanceStatisticsDO.java" />
+      <jump line="808" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
+      <jump line="820" column="35" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
+      <jump line="897" column="31" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,7 +312,7 @@
         <text>getEventType</text>
       </register>
       <register name="/" type="4">
-        <text>lombok</text>
+        <text>HBASE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZGxlRXZlbnQyLnNldENvbXB1dGVTdGFydFRpbWUoZXZlbnQyQ29tcHV0ZVN0YXJ0VGltZSk7Cg==</text>
@@ -897,9 +894,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>lombok</last-search>
+      <last-search>HBASE</last-search>
       <last-offset />
-      <last-pattern>lombok</last-pattern>
+      <last-pattern>HBASE</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
       <last-dir>1</last-dir>
