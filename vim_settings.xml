@@ -141,6 +141,7 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/DingTalkAttendanceStatisticsDO.java" timestamp="1616985004360">
         <mark key="'" line="77" column="17" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmi-auth/console/console-service/src/main/java/com/cainiao/wmi/auth/console/service/security/impl/DeviceKeyServiceImpl.java" timestamp="1616992695732" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" timestamp="1616985389149">
         <mark key="'" line="897" column="31" />
         <mark key="[" line="83" column="25" />
@@ -166,6 +167,16 @@
         <mark key="]" line="1062" column="61" />
         <mark key="." line="1062" column="61" />
         <mark key="^" line="1062" column="61" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmi-auth/wmi-auth-api/wmi-auth-api-hsf/src/main/java/com/cainiao/wmi/auth/api/hsf/service/security/impl/DeviceInfoServiceImpl.java" timestamp="1616993079102">
+        <mark key="'" line="39" column="2" />
+        <mark key="[" line="132" column="118" />
+        <mark key="]" line="132" column="118" />
+        <mark key="^" line="132" column="118" />
+        <mark key="." line="132" column="117" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmi-auth/admin/admin-service/src/main/java/com/cainiao/wmi/auth/admin/read/AbstractBaseReadService.java" timestamp="1616992629099">
+        <mark key="'" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" timestamp="1616982880189">
         <mark key="[" line="232" column="82" />
@@ -200,8 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="722" column="49" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
-      <jump line="731" column="41" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
       <jump line="162" column="57" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/handler/ScPprHandlerTest.java" />
       <jump line="62" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/handler/ScPprHandlerTest.java" />
       <jump line="491" column="48" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/ScPprHandlerTest.java" />
@@ -300,6 +309,8 @@
       <jump line="175" column="20" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/permissions/AccountResource.java" />
       <jump line="379" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/permissions/AccountResource.java" />
       <jump line="150" column="43" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/EhrServiceImpl.java" />
+      <jump line="24" column="22" filename="$USER_HOME$/cainiao/wmi-auth/admin/admin-service/src/main/java/com/cainiao/wmi/auth/admin/read/AbstractBaseReadService.java" />
+      <jump line="39" column="2" filename="$USER_HOME$/cainiao/wmi-auth/wmi-auth-api/wmi-auth-api-hsf/src/main/java/com/cainiao/wmi/auth/api/hsf/service/security/impl/DeviceInfoServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
