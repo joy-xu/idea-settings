@@ -22,11 +22,11 @@
         <entry>starter</entry>
         <entry>spring-boot-starter</entry>
         <entry>spring-boot-starter-</entry>
-        <entry>lombok</entry>
         <entry>hbase</entry>
         <entry>HBASE</entry>
         <entry>profile</entry>
         <entry>===</entry>
+        <entry>lombok</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/long/Long/g</entry>
@@ -130,47 +130,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1617090959576">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1617097611627">
+        <mark key="[" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/SelectVO.java" timestamp="1617087639975">
-        <mark key="'" line="11" column="13" />
-        <mark key="[" line="58" column="5" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.0.7.RELEASE/spring-boot-dependencies-2.0.7.RELEASE.pom" timestamp="1617097543882">
+        <mark key="'" line="120" column="33" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-start/src/main/java/com/cainiao/wmplms/MainController.java" timestamp="1617091523265">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/pom.xml" timestamp="1617097554413">
+        <mark key="[" line="43" column="39" />
+        <mark key="]" line="44" column="21" />
+        <mark key="." line="44" column="20" />
+        <mark key="^" line="44" column="21" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/pom.xml" timestamp="1617094259376">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="27" />
-        <mark key="^" line="5" column="27" />
-        <mark key="." line="5" column="26" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/diamond/DiamondDataCallbackImpl.java" timestamp="1617097874826">
+        <mark key="[" line="58" column="75" />
+        <mark key="]" line="58" column="76" />
+        <mark key="^" line="58" column="76" />
+        <mark key="." line="58" column="75" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/Dockerfile_base" timestamp="1617096679758">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="30" />
-        <mark key="^" line="10" column="31" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/pom.xml" timestamp="1617096674942">
-        <mark key="[" line="62" column="25" />
-        <mark key="]" line="62" column="43" />
-        <mark key="." line="62" column="42" />
-        <mark key="^" line="62" column="43" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-start/src/main/resources/application.properties" timestamp="1617093998262">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1617087035736">
-        <mark key="'" line="648" column="13" />
-        <mark key="[" line="707" column="0" />
-        <mark key="]" line="707" column="0" />
-        <mark key="." line="707" column="0" />
-        <mark key="^" line="731" column="4" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/pom.xml" timestamp="1617097343032">
+        <mark key="[" line="26" column="51" />
+        <mark key="]" line="26" column="51" />
+        <mark key="." line="26" column="50" />
+        <mark key="^" line="26" column="51" />
       </file>
       <file name="$USER_HOME$/cainiao/pandora-boot-demo-jdk11/pom.xml" timestamp="1617096241715">
         <mark key="[" line="25" column="30" />
@@ -178,6 +160,26 @@
         <mark key="^" line="25" column="45" />
         <mark key="." line="25" column="44" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/diamond/DiamondDataCallbackDemo.java" timestamp="1617097495135">
+        <mark key="[" line="38" column="71" />
+        <mark key="]" line="38" column="71" />
+        <mark key="." line="38" column="70" />
+        <mark key="^" line="38" column="71" />
+      </file>
+      <file name="$USER_HOME$/Downloads/calc/pom.xml" timestamp="1617097095023" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/diamond/ConfigBean.java" timestamp="1617097579204">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/Dockerfile_base" timestamp="1617096679758">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/Downloads/calc/calc-service/pom.xml" timestamp="1617097473677" />
       <file name="/fragment.java" timestamp="1617095117533">
         <mark key="[" line="0" column="0" />
       </file>
@@ -189,8 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/ScPprHandlerTest.java" />
-      <jump line="536" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/ScPprHandlerTest.java" />
       <jump line="514" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/ScPprHandlerTest.java" />
       <jump line="706" column="49" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
       <jump line="763" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
@@ -289,39 +289,41 @@
       <jump line="830" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
       <jump line="648" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
       <jump line="11" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/SelectVO.java" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.0.7.RELEASE/spring-boot-dependencies-2.0.7.RELEASE.pom" />
+      <jump line="120" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.0.7.RELEASE/spring-boot-dependencies-2.0.7.RELEASE.pom" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>2018-12-release</text>
+        <text>result</text>
       </register>
       <register name="-" type="4">
-        <text>2018-12-release</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
-        <text>===</text>
+        <text>lombok</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlxcIiwgIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5lcnJvcigiQmluZCB0aGUgZGF0YSB0byBjb25maWdCZWFuIGZhaWwuIFByb3BlcnRpZXM6IHt9LCByZXN1bHQ6IHt9IiwgcHJvcGVydGllcywgcmVzdWx0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8ucGFuZG9yYS5ib290LlBhbmRvcmFCb290c3RyYXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJCaW5kIHRoZSBkYXRhIHRvIGNvbmZpZ0JlYW4gZmFpbC4gUHJvcGVydGllczoge30sIHJlc3VsdDoge30iLCBwcm9wZXJ0aWVzLCByZXN1bHQpOwogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFuYWdlbWVudC5zZWN1cml0eS5lbmFibGVkID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWFuYWdlbWVudC5wb3J0PTcwMDIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmJvb3QudmVsb2NpdHkuYW5ub3RhdGlvbi5WZWxvY2l0eUxheW91dDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRm9vIGZvbzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuOC4wPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPGFubm90YXRpb25Qcm9jZXNzb3JQYXRocz4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcucHJvamVjdGxvbWJvazwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEuMTguNjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9wYXRoPgogICAgICAgICAgICAgICAgICAgIDwvYW5ub3RhdGlvblByb2Nlc3NvclBhdGhzPgogICAgICAgICAgICAgICAgICAgIDxyZWxlYXNlPjExPC9yZWxlYXNlPgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWQ7CiAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -864,16 +866,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0SWQoKSB7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5hbGliYWJhLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD52ZWxvY2l0eS1zcHJpbmctYm9vdC1zdGFydGVyPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+JHt2ZWxvY2l0eS5zdGFydGVyLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcubXliYXRpcy5zcHJpbmcuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm15YmF0aXMtc3ByaW5nLWJvb3Qtc3RhcnRlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7bXliYXRpcy1zdGFydGVyLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZXRJZChTdHJpbmcgaWQpIHsKICAgICAgICB0aGlzLmlkID0gaWQ7CiAgICB9CgogICAgcHVibGljIGludCBnZXROdW1iZXIoKSB7CiAgICAgICAgcmV0dXJuIG51bWJlcjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXROdW1iZXIoaW50IG51bWJlcikgewogICAgICAgIHRoaXMubnVtYmVyID0gbnVtYmVyOwogICAgfQoKICAgIHB1YmxpYyBGb28gZ2V0Rm9vKCkgewogICAgICAgIHJldHVybiBmb287CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Rm9vKEZvbyBmb28pIHsKICAgICAgICB0aGlzLmZvbyA9IGZvbzsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgcmV0dXJuICJDb25maWdCZWFuIFtpZD0iICsgaWQgKyAiLCBudW1iZXI9IiArIG51bWJlciArICIsIGZvbz0iICsgZm9vICsgIl0iOwogICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8dmVsb2NpdHkuc3RhcnRlci52ZXJzaW9uPjEuMC40LlJFTEVBU0U8L3ZlbG9jaXR5LnN0YXJ0ZXIudmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
@@ -882,9 +884,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>===</last-search>
+      <last-search>lombok</last-search>
       <last-offset />
-      <last-pattern>===</last-pattern>
+      <last-pattern>lombok</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
       <last-dir>1</last-dir>
