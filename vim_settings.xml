@@ -170,20 +170,22 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1617174901954">
-        <mark key="[" line="502" column="0" />
-        <mark key="]" line="502" column="75" />
-        <mark key="." line="504" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1617178156360">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="528" column="22" />
+        <mark key="]" line="585" column="34" />
+        <mark key="." line="585" column="33" />
+        <mark key="^" line="585" column="34" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/pom.xml" timestamp="1617110005795">
         <mark key="'" line="16" column="8" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" timestamp="1617174972740">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" timestamp="1617176518729">
         <mark key="'" line="776" column="0" />
-        <mark key="[" line="772" column="45" />
-        <mark key="]" line="772" column="54" />
-        <mark key="." line="772" column="53" />
-        <mark key="^" line="772" column="54" />
+        <mark key="[" line="775" column="20" />
+        <mark key="]" line="775" column="32" />
+        <mark key="." line="775" column="31" />
+        <mark key="^" line="775" column="32" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/pom.xml" timestamp="1617109877308">
         <mark key="j" line="24" column="30" />
@@ -218,8 +220,6 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1617110768571" />
     </filemarks>
     <jumps>
-      <jump line="598" column="43" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/ScPprHandlerTest.java" />
-      <jump line="744" column="74" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
       <jump line="804" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
       <jump line="813" column="82" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
       <jump line="845" column="24" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
@@ -318,15 +318,74 @@
       <jump line="747" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" />
       <jump line="748" column="9" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" />
       <jump line="774" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" />
+      <jump line="528" column="5354" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>context.getBasicPprData()</text>
+        <text>[LabourEfficiencyDTO(type=ATTENDANCE, operateMonth=202103, operateDay=2021-03-29, active=1, &quot;
+            + &quot;warehouseId=1163, workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓, code=ATTENDANCE_202103280000852, &quot;
+            + &quot;oriCode=null, taskType=null, customType=null, employeeNumber=202103280000852, employeeName=马雪冲, &quot;
+            + &quot;cooperateStartDate=2021-03-28T00:00, startTime=2021-03-29T16:56:52, &quot;
+            + &quot;computeStartTime=2021-03-29T16:56:52,endTime=2021-03-30T07:05:05, computeEndTime=2021-03-30T07:05:05, &quot;
+            + &quot;tbgType=null, tbgCode=null, packageNum=null, planNum=null, actualNum=null, computeActualNum=null, &quot;
+            + &quot;orderNum=null, skuNum=null, industryCode=null, pickType=null, pickBillType=null, &quot;
+            + &quot;pickBillCategory=null, menuType=null, packageType=null, isSecKill=null, isSingleItem=null, &quot;
+            + &quot;positionCode=null, workGroupName=null, workGroupLeader=null, workGroupPeopleCount=null, &quot;
+            + &quot;workGroupCode=null, dataSource=ATM, inventoryStatus=null, customAttributes=null, &quot;
+            + &quot;totalOperateWeight=null, totalOperateVolume=null, process=[], workType=null, bu=null, location=null, &quot;
+            + &quot;zone=null, size=null, creator=null, inAttendance=null), LabourEfficiencyDTO(type=INDIRECT_LABOUR, &quot;
+            + &quot;operateMonth=202103, operateDay=2021-03-29, active=null, warehouseId=1163, workplaceCode=WUX208, &quot;
+            + &quot;workplaceName=菜鸟华东无锡标准7号仓, code=IL202103290025222, oriCode=null, taskType=null, customType=null, &quot;
+            + &quot;employeeNumber=202103280000852, employeeName=马雪冲, cooperateStartDate=2021-03-28T00:00, &quot;
+            + &quot;startTime=2021-03-29T17:00:29, computeStartTime=2021-03-29T16:56:52, endTime=2021-03-30T06:00, &quot;
+            + &quot;computeEndTime=2021-03-30T00:00, tbgType=null, tbgCode=null, packageNum=0, planNum=null, &quot;
+            + &quot;actualNum=null, computeActualNum=0, orderNum=0, skuNum=0, industryCode=kx, pickType=null, &quot;
+            + &quot;pickBillType=null, pickBillCategory=null, menuType=null, packageType=null, isSecKill=null, &quot;
+            + &quot;isSingleItem=null, positionCode=kw_zl, workGroupName=null, workGroupLeader=null, &quot;
+            + &quot;workGroupPeopleCount=null, workGroupCode=null, dataSource=null, inventoryStatus=null, &quot;
+            + &quot;customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, process=[], workType=null, &quot;
+            + &quot;bu=null, location=null, zone=null, size=null, creator=202103280000852, inAttendance=null), &quot;
+            + &quot;LabourEfficiencyDTO(type=SHIFT, operateMonth=202103, operateDay=2021-03-29, active=1, &quot;
+            + &quot;warehouseId=1163, workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓, code=BM20点半1111, oriCode=null, &quot;
+            + &quot;taskType=null, customType=null, employeeNumber=202103280000852, employeeName=马雪\n&quot;
+            + &quot;冲, cooperateStartDate=2021-03-28T00:00, startTime=2021-03-29T20:30, computeStartTime=2021-03-29T20:30,&quot;
+            + &quot; endTime=2021-03-30T06:30, computeEndTime=2021-03-30T06:30, tbgType=null, tbgCode=null, &quot;
+            + &quot;packageNum=null, planNum=null,actualNum=null, computeActualNum=null, orderNum=null, skuNum=null, &quot;
+            + &quot;industryCode=null, pickType=null, pickBillType=null, pickBillCategory=null, menuType=null, &quot;
+            + &quot;packageType=null, isSecKill=null, isSingleItem=null, positionCode=null, workGroupName=null, &quot;
+            + &quot;workGroupLeader=null, workGroupPeopleCount=null, workGroupCode=null, dataSource=null, &quot;
+            + &quot;inventoryStatus=null, customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, &quot;
+            + &quot;process=[], workType=null, bu=null, location=null, zone=null, size=null, creator=null, &quot;
+            + &quot;inAttendance=null), LabourEfficiencyDTO(type=SALARY_ATTENDANCE, operateMonth=202103, &quot;
+            + &quot;operateDay=2021-03-29, active=1, warehouseId=1163, workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓, &quot;
+            + &quot;code=SALARY_ATTENDANCE_202103280000852, oriCode=null, taskType=null, customType=null, &quot;
+            + &quot;employeeNumber=202103280000852, employeeName=马雪冲, cooperateStartDate=2021-03-28T00:00, &quot;
+            + &quot;startTime=2021-03-29T20:30, computeStartTime=2021-03-29T20:30, endTime=2021-03-30T07:01, &quot;
+            + &quot;computeEndTime=2021-03-30T07:01, tbgType=null, tbgCode=null, packageNum=null, planNum=null, &quot;
+            + &quot;actualNum=3600000, computeActualNum=3600000, orderNum=null, skuNum=null, industryCode=null, &quot;
+            + &quot;pickType=null, pickBillType=null, pickBillCategory=null, menuType=null, packageType=null, &quot;
+            + &quot;isSecKill=null, isSingleItem=null, positionCode=null, workGroupName=null, workGroupLeader=null, &quot;
+            + &quot;workGroupPeopleCount=null, workGroupCode=null, dataSource=null, inventoryStatus=null, &quot;
+            + &quot;customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, process=[], workType=null, &quot;
+            + &quot;bu=null, location=null, zone=null, size=null, creator=null, inAttendance=null), LabourEfficiencyDTO&quot;
+            + &quot;(type=REST, operateMonth=202103, operateDay=2021-03-29, active=1, warehouseId=1163, &quot;
+            + &quot;workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓,code=REST_202103280000852, oriCode=null, &quot;
+            + &quot;taskType=null, customType=null, employeeNumber=202103280000852, employeeName=马雪冲, &quot;
+            + &quot;cooperateStartDate=2021-03-28T00:00, startTime=2021-03-30T00:00, computeStartTime=2021-03-30T00:00, &quot;
+            + &quot;endTime=2021-03-30T01:00, computeEndTime=2021-03-30T01:00, tbgType=null, tbgCode=null, &quot;
+            + &quot;packageNum=null, planNum=null, actualNum=null, computeActualNum=null, orderNum=null, skuNum=null, &quot;
+            + &quot;industryCode=null, pickType=null, pickBillType=null, pickBillCategory=null, menuType=null, &quot;
+            + &quot;packageType=null, isSecKill=null, isSingleItem=null, positionCode=null, workGroupName=null, &quot;
+            + &quot;workGroupLeader=null, workGroupPeopleCount=null, workGroupCode=null, dataSource=null, &quot;
+            + &quot;inventoryStatus=null, customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, &quot;
+            + &quot;process=[], workType=null, bu=null, location=null, zone=null, size=null, creator=null, &quot;
+            + &quot;inAttendance=null)]</text>
       </register>
       <register name="-" type="4">
-        <text>context.getBasicPprData()</text>
+        <text>[LabourEfficiencyDTO(type=ATTENDANCE, operateMonth=202103, operateDay=2021-03-29, active=1, warehouseId=1163, workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓, code=ATTENDANCE_202103280000852, oriCode=null, taskType=null, customType=null, employeeNumber=202103280000852, employeeName=马雪冲, cooperateStartDate=2021-03-28T00:00, startTime=2021-03-29T16:56:52, computeStartTime=2021-03-29T16:56:52, endTime=2021-03-30T07:05:05, computeEndTime=2021-03-30T07:05:05, tbgType=null, tbgCode=null, packageNum=null, planNum=null, actualNum=null, computeActualNum=null, orderNum=null, skuNum=null, industryCode=null, pickType=null, pickBillType=null, pickBillCategory=null, menuType=null, packageType=null, isSecKill=null, isSingleItem=null, positionCode=null, workGroupName=null, workGroupLeader=null, workGroupPeopleCount=null, workGroupCode=null, dataSource=ATM, inventoryStatus=null, customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, process=[], workType=null, bu=null, location=null, zone=null, size=null, creator=null, inAttendance=null), LabourEfficiencyDTO(type=INDIRECT_LABOUR, operateMonth=202103, operateDay=2021-03-29, active=null, warehouseId=1163, workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓, code=IL202103290025222, oriCode=null, taskType=null, customType=null, employeeNumber=202103280000852, employeeName=马雪冲, cooperateStartDate=2021-03-28T00:00, startTime=2021-03-29T17:00:29, computeStartTime=2021-03-29T16:56:52, endTime=2021-03-30T06:00, computeEndTime=2021-03-30T00:00, tbgType=null, tbgCode=null, packageNum=0, planNum=null, actualNum=null, computeActualNum=0, orderNum=0, skuNum=0, industryCode=kx, pickType=null, pickBillType=null, pickBillCategory=null, menuType=null, packageType=null, isSecKill=null, isSingleItem=null, positionCode=kw_zl, workGroupName=null, workGroupLeader=null, workGroupPeopleCount=null, workGroupCode=null, dataSource=null, inventoryStatus=null, customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, process=[被休息开始截断, 原结束时间: 2021-03-30T06:00, 调整后: 2021-03-30T00:00, 正常间隙调整, 原开始时间: 2021-03-29T17:00:29, 调整后: 2021-03-29T16:56:52], workType=null, bu=null, location=null, zone=null, size=null, creator=202103280000852, inAttendance=null), LabourEfficiencyDTO(type=SHIFT, operateMonth=202103, operateDay=2021-03-29, active=1, warehouseId=1163, workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓, code=BM20点半1111, oriCode=null, taskType=null, customType=null, employeeNumber=202103280000852, employeeName=马雪冲, cooperateStartDate=2021-03-28T00:00, startTime=2021-03-29T20:30, computeStartTime=2021-03-29T20:30, endTime=2021-03-30T06:30, computeEndTime=2021-03-30T06:30, tbgType=null, tbgCode=null, packageNum=null, planNum=null, actualNum=null, computeActualNum=null, orderNum=null, skuNum=null, industryCode=null, pickType=null, pickBillType=null, pickBillCategory=null, menuType=null, packageType=null, isSecKill=null, isSingleItem=null, positionCode=null, workGroupName=null, workGroupLeader=null, workGroupPeopleCount=null, workGroupCode=null, dataSource=null, inventoryStatus=null, customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, process=[], workType=null, bu=null, location=null, zone=null, size=null, creator=null, inAttendance=null), LabourEfficiencyDTO(type=SALARY_ATTENDANCE, operateMonth=202103, operateDay=2021-03-29, active=1, warehouseId=1163, workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓, code=SALARY_ATTENDANCE_202103280000852, oriCode=null, taskType=null, customType=null, employeeNumber=202103280000852, employeeName=马雪冲, cooperateStartDate=2021-03-28T00:00, startTime=2021-03-29T20:30, computeStartTime=2021-03-29T20:30, endTime=2021-03-30T07:01, computeEndTime=2021-03-30T07:01, tbgType=null, tbgCode=null, packageNum=null, planNum=null, actualNum=3600000, computeActualNum=3600000, orderNum=null, skuNum=null, industryCode=null, pickType=null, pickBillType=null, pickBillCategory=null, menuType=null, packageType=null, isSecKill=null, isSingleItem=null, positionCode=null, workGroupName=null, workGroupLeader=null, workGroupPeopleCount=null, workGroupCode=null, dataSource=null, inventoryStatus=null, customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, process=[], workType=null, bu=null, location=null, zone=null, size=null, creator=null, inAttendance=null), LabourEfficiencyDTO(type=REST, operateMonth=202103, operateDay=2021-03-29, active=1, warehouseId=1163, workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓, code=REST_202103280000852, oriCode=null, taskType=null, customType=null, employeeNumber=202103280000852, employeeName=马雪冲, cooperateStartDate=2021-03-28T00:00, startTime=2021-03-30T00:00, computeStartTime=2021-03-30T00:00, endTime=2021-03-30T01:00, computeEndTime=2021-03-30T01:00, tbgType=null, tbgCode=null, packageNum=null, planNum=null, actualNum=null, computeActualNum=null, orderNum=null, skuNum=null, industryCode=null, pickType=null, pickBillType=null, pickBillCategory=null, menuType=null, packageType=null, isSecKill=null, isSingleItem=null, positionCode=null, workGroupName=null, workGroupLeader=null, workGroupPeopleCount=null, workGroupCode=null, dataSource=null, inventoryStatus=null, customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, process=[], workType=null, bu=null, location=null, zone=null, size=null, creator=null, inAttendance=null)]</text>
       </register>
       <register name="/" type="4">
         <text>lombok</text>
@@ -334,8 +393,65 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGN1cnJlbnRNZDUgPSBnZXRQcHJSZXN1bHRNZDUoY29udGV4dC5nZXRCYXNpY1BwckRhdGEoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>[LabourEfficiencyDTO(type=ATTENDANCE, operateMonth=202103, operateDay=2021-03-29, active=1, &quot;
+            + &quot;warehouseId=1163, workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓, code=ATTENDANCE_202103280000852, &quot;
+            + &quot;oriCode=null, taskType=null, customType=null, employeeNumber=202103280000852, employeeName=马雪冲, &quot;
+            + &quot;cooperateStartDate=2021-03-28T00:00, startTime=2021-03-29T16:56:52, &quot;
+            + &quot;computeStartTime=2021-03-29T16:56:52,endTime=2021-03-30T07:05:05, computeEndTime=2021-03-30T07:05:05, &quot;
+            + &quot;tbgType=null, tbgCode=null, packageNum=null, planNum=null, actualNum=null, computeActualNum=null, &quot;
+            + &quot;orderNum=null, skuNum=null, industryCode=null, pickType=null, pickBillType=null, &quot;
+            + &quot;pickBillCategory=null, menuType=null, packageType=null, isSecKill=null, isSingleItem=null, &quot;
+            + &quot;positionCode=null, workGroupName=null, workGroupLeader=null, workGroupPeopleCount=null, &quot;
+            + &quot;workGroupCode=null, dataSource=ATM, inventoryStatus=null, customAttributes=null, &quot;
+            + &quot;totalOperateWeight=null, totalOperateVolume=null, process=[], workType=null, bu=null, location=null, &quot;
+            + &quot;zone=null, size=null, creator=null, inAttendance=null), LabourEfficiencyDTO(type=INDIRECT_LABOUR, &quot;
+            + &quot;operateMonth=202103, operateDay=2021-03-29, active=null, warehouseId=1163, workplaceCode=WUX208, &quot;
+            + &quot;workplaceName=菜鸟华东无锡标准7号仓, code=IL202103290025222, oriCode=null, taskType=null, customType=null, &quot;
+            + &quot;employeeNumber=202103280000852, employeeName=马雪冲, cooperateStartDate=2021-03-28T00:00, &quot;
+            + &quot;startTime=2021-03-29T17:00:29, computeStartTime=2021-03-29T16:56:52, endTime=2021-03-30T06:00, &quot;
+            + &quot;computeEndTime=2021-03-30T00:00, tbgType=null, tbgCode=null, packageNum=0, planNum=null, &quot;
+            + &quot;actualNum=null, computeActualNum=0, orderNum=0, skuNum=0, industryCode=kx, pickType=null, &quot;
+            + &quot;pickBillType=null, pickBillCategory=null, menuType=null, packageType=null, isSecKill=null, &quot;
+            + &quot;isSingleItem=null, positionCode=kw_zl, workGroupName=null, workGroupLeader=null, &quot;
+            + &quot;workGroupPeopleCount=null, workGroupCode=null, dataSource=null, inventoryStatus=null, &quot;
+            + &quot;customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, process=[], workType=null, &quot;
+            + &quot;bu=null, location=null, zone=null, size=null, creator=202103280000852, inAttendance=null), &quot;
+            + &quot;LabourEfficiencyDTO(type=SHIFT, operateMonth=202103, operateDay=2021-03-29, active=1, &quot;
+            + &quot;warehouseId=1163, workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓, code=BM20点半1111, oriCode=null, &quot;
+            + &quot;taskType=null, customType=null, employeeNumber=202103280000852, employeeName=马雪\n&quot;
+            + &quot;冲, cooperateStartDate=2021-03-28T00:00, startTime=2021-03-29T20:30, computeStartTime=2021-03-29T20:30,&quot;
+            + &quot; endTime=2021-03-30T06:30, computeEndTime=2021-03-30T06:30, tbgType=null, tbgCode=null, &quot;
+            + &quot;packageNum=null, planNum=null,actualNum=null, computeActualNum=null, orderNum=null, skuNum=null, &quot;
+            + &quot;industryCode=null, pickType=null, pickBillType=null, pickBillCategory=null, menuType=null, &quot;
+            + &quot;packageType=null, isSecKill=null, isSingleItem=null, positionCode=null, workGroupName=null, &quot;
+            + &quot;workGroupLeader=null, workGroupPeopleCount=null, workGroupCode=null, dataSource=null, &quot;
+            + &quot;inventoryStatus=null, customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, &quot;
+            + &quot;process=[], workType=null, bu=null, location=null, zone=null, size=null, creator=null, &quot;
+            + &quot;inAttendance=null), LabourEfficiencyDTO(type=SALARY_ATTENDANCE, operateMonth=202103, &quot;
+            + &quot;operateDay=2021-03-29, active=1, warehouseId=1163, workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓, &quot;
+            + &quot;code=SALARY_ATTENDANCE_202103280000852, oriCode=null, taskType=null, customType=null, &quot;
+            + &quot;employeeNumber=202103280000852, employeeName=马雪冲, cooperateStartDate=2021-03-28T00:00, &quot;
+            + &quot;startTime=2021-03-29T20:30, computeStartTime=2021-03-29T20:30, endTime=2021-03-30T07:01, &quot;
+            + &quot;computeEndTime=2021-03-30T07:01, tbgType=null, tbgCode=null, packageNum=null, planNum=null, &quot;
+            + &quot;actualNum=3600000, computeActualNum=3600000, orderNum=null, skuNum=null, industryCode=null, &quot;
+            + &quot;pickType=null, pickBillType=null, pickBillCategory=null, menuType=null, packageType=null, &quot;
+            + &quot;isSecKill=null, isSingleItem=null, positionCode=null, workGroupName=null, workGroupLeader=null, &quot;
+            + &quot;workGroupPeopleCount=null, workGroupCode=null, dataSource=null, inventoryStatus=null, &quot;
+            + &quot;customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, process=[], workType=null, &quot;
+            + &quot;bu=null, location=null, zone=null, size=null, creator=null, inAttendance=null), LabourEfficiencyDTO&quot;
+            + &quot;(type=REST, operateMonth=202103, operateDay=2021-03-29, active=1, warehouseId=1163, &quot;
+            + &quot;workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓,code=REST_202103280000852, oriCode=null, &quot;
+            + &quot;taskType=null, customType=null, employeeNumber=202103280000852, employeeName=马雪冲, &quot;
+            + &quot;cooperateStartDate=2021-03-28T00:00, startTime=2021-03-30T00:00, computeStartTime=2021-03-30T00:00, &quot;
+            + &quot;endTime=2021-03-30T01:00, computeEndTime=2021-03-30T01:00, tbgType=null, tbgCode=null, &quot;
+            + &quot;packageNum=null, planNum=null, actualNum=null, computeActualNum=null, orderNum=null, skuNum=null, &quot;
+            + &quot;industryCode=null, pickType=null, pickBillType=null, pickBillCategory=null, menuType=null, &quot;
+            + &quot;packageType=null, isSecKill=null, isSingleItem=null, positionCode=null, workGroupName=null, &quot;
+            + &quot;workGroupLeader=null, workGroupPeopleCount=null, workGroupCode=null, dataSource=null, &quot;
+            + &quot;inventoryStatus=null, customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, &quot;
+            + &quot;process=[], workType=null, bu=null, location=null, zone=null, size=null, creator=null, &quot;
+            + &quot;inAttendance=null)]</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -344,13 +460,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc29ydGVkUmVzdWx0ID0gYmFzaWNEYXRhLnN0cmVhbSgpCiAgICAgICAgICAgIC5zb3J0ZWQoKQogICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKQogICAgICAgICAgICAudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY3VycmVudE1kNSA9IFNlY3VyZVV0aWwubWQ1KHNvcnRlZFJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -893,16 +1009,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxMYWJvdXJFZmZpY2llbmN5RFRPPiBwcHJCYXNpY0RhdGEgPSBjb250ZXh0LmdldEJhc2ljUHByRGF0YSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGN1cnJlbnRNZDUgPSBnZXRQcHJSZXN1bHRNZDUocHByQmFzaWNEYXRhKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT05PYmplY3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IHJlc3VsdCAgPSBuZXcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
