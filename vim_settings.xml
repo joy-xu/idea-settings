@@ -165,17 +165,24 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/wmp/task-client/1.1.4/task-client-1.1.4-sources.jar!/com/cainiao/wmp/task/client/common/constants/taskBatch/TaskBatchStatusEnum.java" timestamp="1617157078516" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" timestamp="1617180100535">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" timestamp="1617180211316">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="424" column="5" />
+        <mark key="[" line="472" column="0" />
+        <mark key="]" line="472" column="0" />
+        <mark key="^" line="429" column="27" />
+        <mark key="." line="472" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/Dockerfile_staging" timestamp="1617156208026">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1617180088376">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1617181489658">
+        <mark key="'" line="529" column="5202" />
+        <mark key="[" line="528" column="3716" />
+        <mark key="]" line="528" column="3717" />
+        <mark key="^" line="528" column="3717" />
+        <mark key="." line="528" column="3716" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/pom.xml" timestamp="1617110005795">
         <mark key="'" line="16" column="8" />
@@ -215,8 +222,6 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1617110768571" />
     </filemarks>
     <jumps>
-      <jump line="813" column="82" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
-      <jump line="845" column="24" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
       <jump line="846" column="65" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
       <jump line="945" column="41" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
       <jump line="851" column="18" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/BsPprHandlerTest.java" />
@@ -315,12 +320,14 @@
       <jump line="528" column="5354" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" />
       <jump line="30" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" />
+      <jump line="510" column="38" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" />
+      <jump line="529" column="5202" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -329,82 +336,25 @@
         <text>lombok</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWQ1MiA9IFNlY3VyZVV0aWwubWQ1KHN0cik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWQ1KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAid2FyZWhvdXNlSWQ9MTE2Mywgd29ya3BsYWNlQ29kZT1XVVgyMDgsIHdvcmtwbGFjZU5hbWU96I+c6bif5Y2O5Lic5peg6ZSh5qCH5YeGN+WPt+S7kywgY29kZT1BVFRFTkRBTkNFXzIwMjEwMzI4MDAwMDg1MiwgIgogICAgICAgICAgICArICJvcmlDb2RlPW51bGwsIHRhc2tUeXBlPW51bGwsIGN1c3RvbVR5cGU9bnVsbCwgZW1wbG95ZWVOdW1iZXI9MjAyMTAzMjgwMDAwODUyLCBlbXBsb3llZU5hbWU96ams6Zuq5YayLCAiCiAgICAgICAgICAgICsgImNvb3BlcmF0ZVN0YXJ0RGF0ZT0yMDIxLTAzLTI4VDAwOjAwLCBzdGFydFRpbWU9MjAyMS0wMy0yOVQxNjo1Njo1MiwgIgogICAgICAgICAgICArICJjb21wdXRlU3RhcnRUaW1lPTIwMjEtMDMtMjlUMTY6NTY6NTIsZW5kVGltZT0yMDIxLTAzLTMwVDA3OjA1OjA1LCBjb21wdXRlRW5kVGltZT0yMDIxLTAzLTMwVDA3OjA1OjA1LCAiCiAgICAgICAgICAgICsgInRiZ1R5cGU9bnVsbCwgdGJnQ29kZT1udWxsLCBwYWNrYWdlTnVtPW51bGwsIHBsYW5OdW09bnVsbCwgYWN0dWFsTnVtPW51bGwsIGNvbXB1dGVBY3R1YWxOdW09bnVsbCwgIgogICAgICAgICAgICArICJvcmRlck51bT1udWxsLCBza3VOdW09bnVsbCwgaW5kdXN0cnlDb2RlPW51bGwsIHBpY2tUeXBlPW51bGwsIHBpY2tCaWxsVHlwZT1udWxsLCAiCiAgICAgICAgICAgICsgInBpY2tCaWxsQ2F0ZWdvcnk9bnVsbCwgbWVudVR5cGU9bnVsbCwgcGFja2FnZVR5cGU9bnVsbCwgaXNTZWNLaWxsPW51bGwsIGlzU2luZ2xlSXRlbT1udWxsLCAiCiAgICAgICAgICAgICsgInBvc2l0aW9uQ29kZT1udWxsLCB3b3JrR3JvdXBOYW1lPW51bGwsIHdvcmtHcm91cExlYWRlcj1udWxsLCB3b3JrR3JvdXBQZW9wbGVDb3VudD1udWxsLCAiCiAgICAgICAgICAgICsgIndvcmtHcm91cENvZGU9bnVsbCwgZGF0YVNvdXJjZT1BVE0sIGludmVudG9yeVN0YXR1cz1udWxsLCBjdXN0b21BdHRyaWJ1dGVzPW51bGwsICIKICAgICAgICAgICAgKyAidG90YWxPcGVyYXRlV2VpZ2h0PW51bGwsIHRvdGFsT3BlcmF0ZVZvbHVtZT1udWxsLCBwcm9jZXNzPVtdLCB3b3JrVHlwZT1udWxsLCBidT1udWxsLCBsb2NhdGlvbj1udWxsLCAiCiAgICAgICAgICAgICsgInpvbmU9bnVsbCwgc2l6ZT1udWxsLCBjcmVhdG9yPW51bGwsIGluQXR0ZW5kYW5jZT1udWxsKSwgTGFib3VyRWZmaWNpZW5jeURUTyh0eXBlPUlORElSRUNUX0xBQk9VUiwgIgogICAgICAgICAgICArICJvcGVyYXRlTW9udGg9MjAyMTAzLCBvcGVyYXRlRGF5PTIwMjEtMDMtMjksIGFjdGl2ZT1udWxsLCB3YXJlaG91c2VJZD0xMTYzLCB3b3JrcGxhY2VDb2RlPVdVWDIwOCwgIgogICAgICAgICAgICArICJ3b3JrcGxhY2VOYW1lPeiPnOm4n+WNjuS4nOaXoOmUoeagh+WHhjflj7fku5MsIGNvZGU9SUwyMDIxMDMyOTAwMjUyMjIsIG9yaUNvZGU9bnVsbCwgdGFza1R5cGU9bnVsbCwgY3VzdG9tVHlwZT1udWxsLCAiCiAgICAgICAgICAgICsgImVtcGxveWVlTnVtYmVyPTIwMjEwMzI4MDAwMDg1MiwgZW1wbG95ZWVOYW1lPemprOmbquWGsiwgY29vcGVyYXRlU3RhcnREYXRlPTIwMjEtMDMtMjhUMDA6MDAsICIKICAgICAgICAgICAgKyAic3RhcnRUaW1lPTIwMjEtMDMtMjlUMTc6MDA6MjksIGNvbXB1dGVTdGFydFRpbWU9MjAyMS0wMy0yOVQxNjo1Njo1MiwgZW5kVGltZT0yMDIxLTAzLTMwVDA2OjAwLCAiCiAgICAgICAgICAgICsgImNvbXB1dGVFbmRUaW1lPTIwMjEtMDMtMzBUMDA6MDAsIHRiZ1R5cGU9bnVsbCwgdGJnQ29kZT1udWxsLCBwYWNrYWdlTnVtPTAsIHBsYW5OdW09bnVsbCwgIgogICAgICAgICAgICArICJhY3R1YWxOdW09bnVsbCwgY29tcHV0ZUFjdHVhbE51bT0wLCBvcmRlck51bT0wLCBza3VOdW09MCwgaW5kdXN0cnlDb2RlPWt4LCBwaWNrVHlwZT1udWxsLCAiCiAgICAgICAgICAgICsgInBpY2tCaWxsVHlwZT1udWxsLCBwaWNrQmlsbENhdGVnb3J5PW51bGwsIG1lbnVUeXBlPW51bGwsIHBhY2thZ2VUeXBlPW51bGwsIGlzU2VjS2lsbD1udWxsLCAiCiAgICAgICAgICAgICsgImlzU2luZ2xlSXRlbT1udWxsLCBwb3NpdGlvbkNvZGU9a3dfemwsIHdvcmtHcm91cE5hbWU9bnVsbCwgd29ya0dyb3VwTGVhZGVyPW51bGwsICIKICAgICAgICAgICAgKyAid29ya0dyb3VwUGVvcGxlQ291bnQ9bnVsbCwgd29ya0dyb3VwQ29kZT1udWxsLCBkYXRhU291cmNlPW51bGwsIGludmVudG9yeVN0YXR1cz1udWxsLCAiCiAgICAgICAgICAgICsgImN1c3RvbUF0dHJpYnV0ZXM9bnVsbCwgdG90YWxPcGVyYXRlV2VpZ2h0PW51bGwsIHRvdGFsT3BlcmF0ZVZvbHVtZT1udWxsLCBwcm9jZXNzPVtdLCB3b3JrVHlwZT1udWxsLCAiCiAgICAgICAgICAgICsgImJ1PW51bGwsIGxvY2F0aW9uPW51bGwsIHpvbmU9bnVsbCwgc2l6ZT1udWxsLCBjcmVhdG9yPTIwMjEwMzI4MDAwMDg1MiwgaW5BdHRlbmRhbmNlPW51bGwpLCAiCiAgICAgICAgICAgICsgIkxhYm91ckVmZmljaWVuY3lEVE8odHlwZT1TSElGVCwgb3BlcmF0ZU1vbnRoPTIwMjEwMywgb3BlcmF0ZURheT0yMDIxLTAzLTI5LCBhY3RpdmU9MSwgIgogICAgICAgICAgICArICJ3YXJlaG91c2VJZD0xMTYzLCB3b3JrcGxhY2VDb2RlPVdVWDIwOCwgd29ya3BsYWNlTmFtZT3oj5zpuJ/ljY7kuJzml6DplKHmoIflh4Y35Y+35LuTLCBjb2RlPUJNMjDngrnljYoxMTExLCBvcmlDb2RlPW51bGwsICIKICAgICAgICAgICAgKyAidGFza1R5cGU9bnVsbCwgY3VzdG9tVHlwZT1udWxsLCBlbXBsb3llZU51bWJlcj0yMDIxMDMyODAwMDA4NTIsIGVtcGxveWVlTmFtZT3pqazpm6pcbiIKICAgICAgICAgICAgKyAi5YayLCBjb29wZXJhdGVTdGFydERhdGU9MjAyMS0wMy0yOFQwMDowMCwgc3RhcnRUaW1lPTIwMjEtMDMtMjlUMjA6MzAsIGNvbXB1dGVTdGFydFRpbWU9MjAyMS0wMy0yOVQyMDozMCwiCiAgICAgICAgICAgICsgIiBlbmRUaW1lPTIwMjEtMDMtMzBUMDY6MzAsIGNvbXB1dGVFbmRUaW1lPTIwMjEtMDMtMzBUMDY6MzAsIHRiZ1R5cGU9bnVsbCwgdGJnQ29kZT1udWxsLCAiCiAgICAgICAgICAgICsgInBhY2thZ2VOdW09bnVsbCwgcGxhbk51bT1udWxsLGFjdHVhbE51bT1udWxsLCBjb21wdXRlQWN0dWFsTnVtPW51bGwsIG9yZGVyTnVtPW51bGwsIHNrdU51bT1udWxsLCAiCiAgICAgICAgICAgICsgImluZHVzdHJ5Q29kZT1udWxsLCBwaWNrVHlwZT1udWxsLCBwaWNrQmlsbFR5cGU9bnVsbCwgcGlja0JpbGxDYXRlZ29yeT1udWxsLCBtZW51VHlwZT1udWxsLCAiCiAgICAgICAgICAgICsgInBhY2thZ2VUeXBlPW51bGwsIGlzU2VjS2lsbD1udWxsLCBpc1NpbmdsZUl0ZW09bnVsbCwgcG9zaXRpb25Db2RlPW51bGwsIHdvcmtHcm91cE5hbWU9bnVsbCwgIgogICAgICAgICAgICArICJ3b3JrR3JvdXBMZWFkZXI9bnVsbCwgd29ya0dyb3VwUGVvcGxlQ291bnQ9bnVsbCwgd29ya0dyb3VwQ29kZT1udWxsLCBkYXRhU291cmNlPW51bGwsICIKICAgICAgICAgICAgKyAiaW52ZW50b3J5U3RhdHVzPW51bGwsIGN1c3RvbUF0dHJpYnV0ZXM9bnVsbCwgdG90YWxPcGVyYXRlV2VpZ2h0PW51bGwsIHRvdGFsT3BlcmF0ZVZvbHVtZT1udWxsLCAiCiAgICAgICAgICAgICsgInByb2Nlc3M9W10sIHdvcmtUeXBlPW51bGwsIGJ1PW51bGwsIGxvY2F0aW9uPW51bGwsIHpvbmU9bnVsbCwgc2l6ZT1udWxsLCBjcmVhdG9yPW51bGwsICIKICAgICAgICAgICAgKyAiaW5BdHRlbmRhbmNlPW51bGwpLCBMYWJvdXJFZmZpY2llbmN5RFRPKHR5cGU9U0FMQVJZX0FUVEVOREFOQ0UsIG9wZXJhdGVNb250aD0yMDIxMDMsICIKICAgICAgICAgICAgKyAib3BlcmF0ZURheT0yMDIxLTAzLTI5LCBhY3RpdmU9MSwgd2FyZWhvdXNlSWQ9MTE2Mywgd29ya3BsYWNlQ29kZT1XVVgyMDgsIHdvcmtwbGFjZU5hbWU96I+c6bif5Y2O5Lic5peg6ZSh5qCH5YeGN+WPt+S7kywgIgogICAgICAgICAgICArICJjb2RlPVNBTEFSWV9BVFRFTkRBTkNFXzIwMjEwMzI4MDAwMDg1Miwgb3JpQ29kZT1udWxsLCB0YXNrVHlwZT1udWxsLCBjdXN0b21UeXBlPW51bGwsICIKICAgICAgICAgICAgKyAiZW1wbG95ZWVOdW1iZXI9MjAyMTAzMjgwMDAwODUyLCBlbXBsb3llZU5hbWU96ams6Zuq5YayLCBjb29wZXJhdGVTdGFydERhdGU9MjAyMS0wMy0yOFQwMDowMCwgIgogICAgICAgICAgICArICJzdGFydFRpbWU9MjAyMS0wMy0yOVQyMDozMCwgY29tcHV0ZVN0YXJ0VGltZT0yMDIxLTAzLTI5VDIwOjMwLCBlbmRUaW1lPTIwMjEtMDMtMzBUMDc6MDEsICIKICAgICAgICAgICAgKyAiY29tcHV0ZUVuZFRpbWU9MjAyMS0wMy0zMFQwNzowMSwgdGJnVHlwZT1udWxsLCB0YmdDb2RlPW51bGwsIHBhY2thZ2VOdW09bnVsbCwgcGxhbk51bT1udWxsLCAiCiAgICAgICAgICAgICsgImFjdHVhbE51bT0zNjAwMDAwLCBjb21wdXRlQWN0dWFsTnVtPTM2MDAwMDAsIG9yZGVyTnVtPW51bGwsIHNrdU51bT1udWxsLCBpbmR1c3RyeUNvZGU9bnVsbCwgIgogICAgICAgICAgICArICJwaWNrVHlwZT1udWxsLCBwaWNrQmlsbFR5cGU9bnVsbCwgcGlja0JpbGxDYXRlZ29yeT1udWxsLCBtZW51VHlwZT1udWxsLCBwYWNrYWdlVHlwZT1udWxsLCAiCiAgICAgICAgICAgICsgImlzU2VjS2lsbD1udWxsLCBpc1NpbmdsZUl0ZW09bnVsbCwgcG9zaXRpb25Db2RlPW51bGwsIHdvcmtHcm91cE5hbWU9bnVsbCwgd29ya0dyb3VwTGVhZGVyPW51bGwsICIKICAgICAgICAgICAgKyAid29ya0dyb3VwUGVvcGxlQ291bnQ9bnVsbCwgd29ya0dyb3VwQ29kZT1udWxsLCBkYXRhU291cmNlPW51bGwsIGludmVudG9yeVN0YXR1cz1udWxsLCAiCiAgICAgICAgICAgICsgImN1c3RvbUF0dHJpYnV0ZXM9bnVsbCwgdG90YWxPcGVyYXRlV2VpZ2h0PW51bGwsIHRvdGFsT3BlcmF0ZVZvbHVtZT1udWxsLCBwcm9jZXNzPVtdLCB3b3JrVHlwZT1udWxsLCAiCiAgICAgICAgICAgICsgImJ1PW51bGwsIGxvY2F0aW9uPW51bGwsIHpvbmU9bnVsbCwgc2l6ZT1udWxsLCBjcmVhdG9yPW51bGwsIGluQXR0ZW5kYW5jZT1udWxsKSwgTGFib3VyRWZmaWNpZW5jeURUTyIKICAgICAgICAgICAgKyAiKHR5cGU9UkVTVCwgb3BlcmF0ZU1vbnRoPTIwMjEwMywgb3BlcmF0ZURheT0yMDIxLTAzLTI5LCBhY3RpdmU9MSwgd2FyZWhvdXNlSWQ9MTE2MywgIgogICAgICAgICAgICArICJ3b3JrcGxhY2VDb2RlPVdVWDIwOCwgd29ya3BsYWNlTmFtZT3oj5zpuJ/ljY7kuJzml6DplKHmoIflh4Y35Y+35LuTLGNvZGU9UkVTVF8yMDIxMDMyODAwMDA4NTIsIG9yaUNvZGU9bnVsbCwgIgogICAgICAgICAgICArICJ0YXNrVHlwZT1udWxsLCBjdXN0b21UeXBlPW51bGwsIGVtcGxveWVlTnVtYmVyPTIwMjEwMzI4MDAwMDg1MiwgZW1wbG95ZWVOYW1lPemprOmbquWGsiwgIgogICAgICAgICAgICArICJjb29wZXJhdGVTdGFydERhdGU9MjAyMS0wMy0yOFQwMDowMCwgc3RhcnRUaW1lPTIwMjEtMDMtMzBUMDA6MDAsIGNvbXB1dGVTdGFydFRpbWU9MjAyMS0wMy0zMFQwMDowMCwgIgogICAgICAgICAgICArICJlbmRUaW1lPTIwMjEtMDMtMzBUMDE6MDAsIGNvbXB1dGVFbmRUaW1lPTIwMjEtMDMtMzBUMDE6MDAsIHRiZ1R5cGU9bnVsbCwgdGJnQ29kZT1udWxsLCAiCiAgICAgICAgICAgICsgInBhY2thZ2VOdW09bnVsbCwgcGxhbk51bT1udWxsLCBhY3R1YWxOdW09bnVsbCwgY29tcHV0ZUFjdHVhbE51bT1udWxsLCBvcmRlck51bT1udWxsLCBza3VOdW09bnVsbCwgIgogICAgICAgICAgICArICJpbmR1c3RyeUNvZGU9bnVsbCwgcGlja1R5cGU9bnVsbCwgcGlja0JpbGxUeXBlPW51bGwsIHBpY2tCaWxsQ2F0ZWdvcnk9bnVsbCwgbWVudVR5cGU9bnVsbCwgIgogICAgICAgICAgICArICJwYWNrYWdlVHlwZT1udWxsLCBpc1NlY0tpbGw9bnVsbCwgaXNTaW5nbGVJdGVtPW51bGwsIHBvc2l0aW9uQ29kZT1udWxsLCB3b3JrR3JvdXBOYW1lPW51bGwsICIKICAgICAgICAgICAgKyAid29ya0dyb3VwTGVhZGVyPW51bGwsIHdvcmtHcm91cFBlb3BsZUNvdW50PW51bGwsIHdvcmtHcm91cENvZGU9bnVsbCwgZGF0YVNvdXJjZT1udWxsLCAiCiAgICAgICAgICAgICsgImludmVudG9yeVN0YXR1cz1udWxsLCBjdXN0b21BdHRyaWJ1dGVzPW51bGwsIHRvdGFsT3BlcmF0ZVdlaWdodD1udWxsLCB0b3RhbE9wZXJhdGVWb2x1bWU9bnVsbCwgIgogICAgICAgICAgICArICJwcm9jZXNzPVtdLCB3b3JrVHlwZT1udWxsLCBidT1udWxsLCBsb2NhdGlvbj1udWxsLCB6b25lPW51bGwsIHNpemU9bnVsbCwgY3JlYXRvcj1udWxsLCAiCiAgICAgICAgICAgICsgImluQXR0ZW5kYW5jZT1udWxsKV0iOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWQ1MiA9IFNlY3VyZVV0aWwubWQ1KHN0cik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiwgcHJvY2Vzcz0iICsgcHJvY2VzcyArCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>[LabourEfficiencyDTO(type=ATTENDANCE, operateMonth=202103, operateDay=2021-03-29, active=1, &quot;
-            + &quot;warehouseId=1163, workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓, code=ATTENDANCE_202103280000852, &quot;
-            + &quot;oriCode=null, taskType=null, customType=null, employeeNumber=202103280000852, employeeName=马雪冲, &quot;
-            + &quot;cooperateStartDate=2021-03-28T00:00, startTime=2021-03-29T16:56:52, &quot;
-            + &quot;computeStartTime=2021-03-29T16:56:52,endTime=2021-03-30T07:05:05, computeEndTime=2021-03-30T07:05:05, &quot;
-            + &quot;tbgType=null, tbgCode=null, packageNum=null, planNum=null, actualNum=null, computeActualNum=null, &quot;
-            + &quot;orderNum=null, skuNum=null, industryCode=null, pickType=null, pickBillType=null, &quot;
-            + &quot;pickBillCategory=null, menuType=null, packageType=null, isSecKill=null, isSingleItem=null, &quot;
-            + &quot;positionCode=null, workGroupName=null, workGroupLeader=null, workGroupPeopleCount=null, &quot;
-            + &quot;workGroupCode=null, dataSource=ATM, inventoryStatus=null, customAttributes=null, &quot;
-            + &quot;totalOperateWeight=null, totalOperateVolume=null, process=[], workType=null, bu=null, location=null, &quot;
-            + &quot;zone=null, size=null, creator=null, inAttendance=null), LabourEfficiencyDTO(type=INDIRECT_LABOUR, &quot;
-            + &quot;operateMonth=202103, operateDay=2021-03-29, active=null, warehouseId=1163, workplaceCode=WUX208, &quot;
-            + &quot;workplaceName=菜鸟华东无锡标准7号仓, code=IL202103290025222, oriCode=null, taskType=null, customType=null, &quot;
-            + &quot;employeeNumber=202103280000852, employeeName=马雪冲, cooperateStartDate=2021-03-28T00:00, &quot;
-            + &quot;startTime=2021-03-29T17:00:29, computeStartTime=2021-03-29T16:56:52, endTime=2021-03-30T06:00, &quot;
-            + &quot;computeEndTime=2021-03-30T00:00, tbgType=null, tbgCode=null, packageNum=0, planNum=null, &quot;
-            + &quot;actualNum=null, computeActualNum=0, orderNum=0, skuNum=0, industryCode=kx, pickType=null, &quot;
-            + &quot;pickBillType=null, pickBillCategory=null, menuType=null, packageType=null, isSecKill=null, &quot;
-            + &quot;isSingleItem=null, positionCode=kw_zl, workGroupName=null, workGroupLeader=null, &quot;
-            + &quot;workGroupPeopleCount=null, workGroupCode=null, dataSource=null, inventoryStatus=null, &quot;
-            + &quot;customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, process=[], workType=null, &quot;
-            + &quot;bu=null, location=null, zone=null, size=null, creator=202103280000852, inAttendance=null), &quot;
-            + &quot;LabourEfficiencyDTO(type=SHIFT, operateMonth=202103, operateDay=2021-03-29, active=1, &quot;
-            + &quot;warehouseId=1163, workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓, code=BM20点半1111, oriCode=null, &quot;
-            + &quot;taskType=null, customType=null, employeeNumber=202103280000852, employeeName=马雪\n&quot;
-            + &quot;冲, cooperateStartDate=2021-03-28T00:00, startTime=2021-03-29T20:30, computeStartTime=2021-03-29T20:30,&quot;
-            + &quot; endTime=2021-03-30T06:30, computeEndTime=2021-03-30T06:30, tbgType=null, tbgCode=null, &quot;
-            + &quot;packageNum=null, planNum=null,actualNum=null, computeActualNum=null, orderNum=null, skuNum=null, &quot;
-            + &quot;industryCode=null, pickType=null, pickBillType=null, pickBillCategory=null, menuType=null, &quot;
-            + &quot;packageType=null, isSecKill=null, isSingleItem=null, positionCode=null, workGroupName=null, &quot;
-            + &quot;workGroupLeader=null, workGroupPeopleCount=null, workGroupCode=null, dataSource=null, &quot;
-            + &quot;inventoryStatus=null, customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, &quot;
-            + &quot;process=[], workType=null, bu=null, location=null, zone=null, size=null, creator=null, &quot;
-            + &quot;inAttendance=null), LabourEfficiencyDTO(type=SALARY_ATTENDANCE, operateMonth=202103, &quot;
-            + &quot;operateDay=2021-03-29, active=1, warehouseId=1163, workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓, &quot;
-            + &quot;code=SALARY_ATTENDANCE_202103280000852, oriCode=null, taskType=null, customType=null, &quot;
-            + &quot;employeeNumber=202103280000852, employeeName=马雪冲, cooperateStartDate=2021-03-28T00:00, &quot;
-            + &quot;startTime=2021-03-29T20:30, computeStartTime=2021-03-29T20:30, endTime=2021-03-30T07:01, &quot;
-            + &quot;computeEndTime=2021-03-30T07:01, tbgType=null, tbgCode=null, packageNum=null, planNum=null, &quot;
-            + &quot;actualNum=3600000, computeActualNum=3600000, orderNum=null, skuNum=null, industryCode=null, &quot;
-            + &quot;pickType=null, pickBillType=null, pickBillCategory=null, menuType=null, packageType=null, &quot;
-            + &quot;isSecKill=null, isSingleItem=null, positionCode=null, workGroupName=null, workGroupLeader=null, &quot;
-            + &quot;workGroupPeopleCount=null, workGroupCode=null, dataSource=null, inventoryStatus=null, &quot;
-            + &quot;customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, process=[], workType=null, &quot;
-            + &quot;bu=null, location=null, zone=null, size=null, creator=null, inAttendance=null), LabourEfficiencyDTO&quot;
-            + &quot;(type=REST, operateMonth=202103, operateDay=2021-03-29, active=1, warehouseId=1163, &quot;
-            + &quot;workplaceCode=WUX208, workplaceName=菜鸟华东无锡标准7号仓,code=REST_202103280000852, oriCode=null, &quot;
-            + &quot;taskType=null, customType=null, employeeNumber=202103280000852, employeeName=马雪冲, &quot;
-            + &quot;cooperateStartDate=2021-03-28T00:00, startTime=2021-03-30T00:00, computeStartTime=2021-03-30T00:00, &quot;
-            + &quot;endTime=2021-03-30T01:00, computeEndTime=2021-03-30T01:00, tbgType=null, tbgCode=null, &quot;
-            + &quot;packageNum=null, planNum=null, actualNum=null, computeActualNum=null, orderNum=null, skuNum=null, &quot;
-            + &quot;industryCode=null, pickType=null, pickBillType=null, pickBillCategory=null, menuType=null, &quot;
-            + &quot;packageType=null, isSecKill=null, isSingleItem=null, positionCode=null, workGroupName=null, &quot;
-            + &quot;workGroupLeader=null, workGroupPeopleCount=null, workGroupCode=null, dataSource=null, &quot;
-            + &quot;inventoryStatus=null, customAttributes=null, totalOperateWeight=null, totalOperateVolume=null, &quot;
-            + &quot;process=[], workType=null, bu=null, location=null, zone=null, size=null, creator=null, &quot;
-            + &quot;inAttendance=null)]</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIiwgY29tcHV0ZUFjdHVhbE51bT0iICsgY29tcHV0ZUFjdHVhbE51bSArCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiwgY29tcHV0ZUVuZFRpbWU9IiArIGNvbXB1dGVFbmRUaW1lICsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiwgY29tcHV0ZVN0YXJ0VGltZT0iICsgY29tcHV0ZVN0YXJ0VGltZSArCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -947,16 +897,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiwgY29vcGVyYXRlU3RhcnREYXRlPSIgKyBjb29wZXJhdGVTdGFydERhdGUgKwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiwgZW1wbG95ZWVOYW1lPSciICsgZW1wbG95ZWVOYW1lICsgJ1wnJyArCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxMYWJvdXJFZmZpY2llbmN5RFRPPiBwcHJCYXNpY0RhdGEgPSBjb250ZXh0LmdldEJhc2ljUHByRGF0YSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAid2FyZWhvdXNlSWQ9MTE2Mywgd29ya3BsYWNlQ29kZT1XVVgyMDgsIHdvcmtwbGFjZU5hbWU96I+c6bif5Y2O5Lic5peg6ZSh5qCH5YeGN+WPt+S7kywgY29kZT1BVFRFTkRBTkNFXzIwMjEwMzI4MDAwMDg1MiwgIgogICAgICAgICAgICArICJvcmlDb2RlPW51bGwsIHRhc2tUeXBlPW51bGwsIGN1c3RvbVR5cGU9bnVsbCwgZW1wbG95ZWVOdW1iZXI9MjAyMTAzMjgwMDAwODUyLCBlbXBsb3llZU5hbWU96ams6Zuq5YayLCAiCiAgICAgICAgICAgICsgImNvb3BlcmF0ZVN0YXJ0RGF0ZT0yMDIxLTAzLTI4VDAwOjAwLCBzdGFydFRpbWU9MjAyMS0wMy0yOVQxNjo1Njo1MiwgIgogICAgICAgICAgICArICJjb21wdXRlU3RhcnRUaW1lPTIwMjEtMDMtMjlUMTY6NTY6NTIsZW5kVGltZT0yMDIxLTAzLTMwVDA3OjA1OjA1LCBjb21wdXRlRW5kVGltZT0yMDIxLTAzLTMwVDA3OjA1OjA1LCAiCiAgICAgICAgICAgICsgInRiZ1R5cGU9bnVsbCwgdGJnQ29kZT1udWxsLCBwYWNrYWdlTnVtPW51bGwsIHBsYW5OdW09bnVsbCwgYWN0dWFsTnVtPW51bGwsIGNvbXB1dGVBY3R1YWxOdW09bnVsbCwgIgogICAgICAgICAgICArICJvcmRlck51bT1udWxsLCBza3VOdW09bnVsbCwgaW5kdXN0cnlDb2RlPW51bGwsIHBpY2tUeXBlPW51bGwsIHBpY2tCaWxsVHlwZT1udWxsLCAiCiAgICAgICAgICAgICsgInBpY2tCaWxsQ2F0ZWdvcnk9bnVsbCwgbWVudVR5cGU9bnVsbCwgcGFja2FnZVR5cGU9bnVsbCwgaXNTZWNLaWxsPW51bGwsIGlzU2luZ2xlSXRlbT1udWxsLCAiCiAgICAgICAgICAgICsgInBvc2l0aW9uQ29kZT1udWxsLCB3b3JrR3JvdXBOYW1lPW51bGwsIHdvcmtHcm91cExlYWRlcj1udWxsLCB3b3JrR3JvdXBQZW9wbGVDb3VudD1udWxsLCAiCiAgICAgICAgICAgICsgIndvcmtHcm91cENvZGU9bnVsbCwgZGF0YVNvdXJjZT1BVE0sIGludmVudG9yeVN0YXR1cz1udWxsLCBjdXN0b21BdHRyaWJ1dGVzPW51bGwsICIKICAgICAgICAgICAgKyAidG90YWxPcGVyYXRlV2VpZ2h0PW51bGwsIHRvdGFsT3BlcmF0ZVZvbHVtZT1udWxsLCBwcm9jZXNzPVtdLCB3b3JrVHlwZT1udWxsLCBidT1udWxsLCBsb2NhdGlvbj1udWxsLCAiCiAgICAgICAgICAgICsgInpvbmU9bnVsbCwgc2l6ZT1udWxsLCBjcmVhdG9yPW51bGwsIGluQXR0ZW5kYW5jZT1udWxsKSwgTGFib3VyRWZmaWNpZW5jeURUTyh0eXBlPUlORElSRUNUX0xBQk9VUiwgIgogICAgICAgICAgICArICJvcGVyYXRlTW9udGg9MjAyMTAzLCBvcGVyYXRlRGF5PTIwMjEtMDMtMjksIGFjdGl2ZT1udWxsLCB3YXJlaG91c2VJZD0xMTYzLCB3b3JrcGxhY2VDb2RlPVdVWDIwOCwgIgogICAgICAgICAgICArICJ3b3JrcGxhY2VOYW1lPeiPnOm4n+WNjuS4nOaXoOmUoeagh+WHhjflj7fku5MsIGNvZGU9SUwyMDIxMDMyOTAwMjUyMjIsIG9yaUNvZGU9bnVsbCwgdGFza1R5cGU9bnVsbCwgY3VzdG9tVHlwZT1udWxsLCAiCiAgICAgICAgICAgICsgImVtcGxveWVlTnVtYmVyPTIwMjEwMzI4MDAwMDg1MiwgZW1wbG95ZWVOYW1lPemprOmbquWGsiwgY29vcGVyYXRlU3RhcnREYXRlPTIwMjEtMDMtMjhUMDA6MDAsICIKICAgICAgICAgICAgKyAic3RhcnRUaW1lPTIwMjEtMDMtMjlUMTc6MDA6MjksIGNvbXB1dGVTdGFydFRpbWU9MjAyMS0wMy0yOVQxNjo1Njo1MiwgZW5kVGltZT0yMDIxLTAzLTMwVDA2OjAwLCAiCiAgICAgICAgICAgICsgImNvbXB1dGVFbmRUaW1lPTIwMjEtMDMtMzBUMDA6MDAsIHRiZ1R5cGU9bnVsbCwgdGJnQ29kZT1udWxsLCBwYWNrYWdlTnVtPTAsIHBsYW5OdW09bnVsbCwgIgogICAgICAgICAgICArICJhY3R1YWxOdW09bnVsbCwgY29tcHV0ZUFjdHVhbE51bT0wLCBvcmRlck51bT0wLCBza3VOdW09MCwgaW5kdXN0cnlDb2RlPWt4LCBwaWNrVHlwZT1udWxsLCAiCiAgICAgICAgICAgICsgInBpY2tCaWxsVHlwZT1udWxsLCBwaWNrQmlsbENhdGVnb3J5PW51bGwsIG1lbnVUeXBlPW51bGwsIHBhY2thZ2VUeXBlPW51bGwsIGlzU2VjS2lsbD1udWxsLCAiCiAgICAgICAgICAgICsgImlzU2luZ2xlSXRlbT1udWxsLCBwb3NpdGlvbkNvZGU9a3dfemwsIHdvcmtHcm91cE5hbWU9bnVsbCwgd29ya0dyb3VwTGVhZGVyPW51bGwsICIKICAgICAgICAgICAgKyAid29ya0dyb3VwUGVvcGxlQ291bnQ9bnVsbCwgd29ya0dyb3VwQ29kZT1udWxsLCBkYXRhU291cmNlPW51bGwsIGludmVudG9yeVN0YXR1cz1udWxsLCAiCiAgICAgICAgICAgICsgImN1c3RvbUF0dHJpYnV0ZXM9bnVsbCwgdG90YWxPcGVyYXRlV2VpZ2h0PW51bGwsIHRvdGFsT3BlcmF0ZVZvbHVtZT1udWxsLCBwcm9jZXNzPVtdLCB3b3JrVHlwZT1udWxsLCAiCiAgICAgICAgICAgICsgImJ1PW51bGwsIGxvY2F0aW9uPW51bGwsIHpvbmU9bnVsbCwgc2l6ZT1udWxsLCBjcmVhdG9yPTIwMjEwMzI4MDAwMDg1MiwgaW5BdHRlbmRhbmNlPW51bGwpLCAiCiAgICAgICAgICAgICsgIkxhYm91ckVmZmljaWVuY3lEVE8odHlwZT1TSElGVCwgb3BlcmF0ZU1vbnRoPTIwMjEwMywgb3BlcmF0ZURheT0yMDIxLTAzLTI5LCBhY3RpdmU9MSwgIgogICAgICAgICAgICArICJ3YXJlaG91c2VJZD0xMTYzLCB3b3JrcGxhY2VDb2RlPVdVWDIwOCwgd29ya3BsYWNlTmFtZT3oj5zpuJ/ljY7kuJzml6DplKHmoIflh4Y35Y+35LuTLCBjb2RlPUJNMjDngrnljYoxMTExLCBvcmlDb2RlPW51bGwsICIKICAgICAgICAgICAgKyAidGFza1R5cGU9bnVsbCwgY3VzdG9tVHlwZT1udWxsLCBlbXBsb3llZU51bWJlcj0yMDIxMDMyODAwMDA4NTIsIGVtcGxveWVlTmFtZT3pqazpm6pcbiIKICAgICAgICAgICAgKyAi5YayLCBjb29wZXJhdGVTdGFydERhdGU9MjAyMS0wMy0yOFQwMDowMCwgc3RhcnRUaW1lPTIwMjEtMDMtMjlUMjA6MzAsIGNvbXB1dGVTdGFydFRpbWU9MjAyMS0wMy0yOVQyMDozMCwiCiAgICAgICAgICAgICsgIiBlbmRUaW1lPTIwMjEtMDMtMzBUMDY6MzAsIGNvbXB1dGVFbmRUaW1lPTIwMjEtMDMtMzBUMDY6MzAsIHRiZ1R5cGU9bnVsbCwgdGJnQ29kZT1udWxsLCAiCiAgICAgICAgICAgICsgInBhY2thZ2VOdW09bnVsbCwgcGxhbk51bT1udWxsLGFjdHVhbE51bT1udWxsLCBjb21wdXRlQWN0dWFsTnVtPW51bGwsIG9yZGVyTnVtPW51bGwsIHNrdU51bT1udWxsLCAiCiAgICAgICAgICAgICsgImluZHVzdHJ5Q29kZT1udWxsLCBwaWNrVHlwZT1udWxsLCBwaWNrQmlsbFR5cGU9bnVsbCwgcGlja0JpbGxDYXRlZ29yeT1udWxsLCBtZW51VHlwZT1udWxsLCAiCiAgICAgICAgICAgICsgInBhY2thZ2VUeXBlPW51bGwsIGlzU2VjS2lsbD1udWxsLCBpc1NpbmdsZUl0ZW09bnVsbCwgcG9zaXRpb25Db2RlPW51bGwsIHdvcmtHcm91cE5hbWU9bnVsbCwgIgogICAgICAgICAgICArICJ3b3JrR3JvdXBMZWFkZXI9bnVsbCwgd29ya0dyb3VwUGVvcGxlQ291bnQ9bnVsbCwgd29ya0dyb3VwQ29kZT1udWxsLCBkYXRhU291cmNlPW51bGwsICIKICAgICAgICAgICAgKyAiaW52ZW50b3J5U3RhdHVzPW51bGwsIGN1c3RvbUF0dHJpYnV0ZXM9bnVsbCwgdG90YWxPcGVyYXRlV2VpZ2h0PW51bGwsIHRvdGFsT3BlcmF0ZVZvbHVtZT1udWxsLCAiCiAgICAgICAgICAgICsgInByb2Nlc3M9W10sIHdvcmtUeXBlPW51bGwsIGJ1PW51bGwsIGxvY2F0aW9uPW51bGwsIHpvbmU9bnVsbCwgc2l6ZT1udWxsLCBjcmVhdG9yPW51bGwsICIKICAgICAgICAgICAgKyAiaW5BdHRlbmRhbmNlPW51bGwpLCBMYWJvdXJFZmZpY2llbmN5RFRPKHR5cGU9U0FMQVJZX0FUVEVOREFOQ0UsIG9wZXJhdGVNb250aD0yMDIxMDMsICIKICAgICAgICAgICAgKyAib3BlcmF0ZURheT0yMDIxLTAzLTI5LCBhY3RpdmU9MSwgd2FyZWhvdXNlSWQ9MTE2Mywgd29ya3BsYWNlQ29kZT1XVVgyMDgsIHdvcmtwbGFjZU5hbWU96I+c6bif5Y2O5Lic5peg6ZSh5qCH5YeGN+WPt+S7kywgIgogICAgICAgICAgICArICJjb2RlPVNBTEFSWV9BVFRFTkRBTkNFXzIwMjEwMzI4MDAwMDg1Miwgb3JpQ29kZT1udWxsLCB0YXNrVHlwZT1udWxsLCBjdXN0b21UeXBlPW51bGwsICIKICAgICAgICAgICAgKyAiZW1wbG95ZWVOdW1iZXI9MjAyMTAzMjgwMDAwODUyLCBlbXBsb3llZU5hbWU96ams6Zuq5YayLCBjb29wZXJhdGVTdGFydERhdGU9MjAyMS0wMy0yOFQwMDowMCwgIgogICAgICAgICAgICArICJzdGFydFRpbWU9MjAyMS0wMy0yOVQyMDozMCwgY29tcHV0ZVN0YXJ0VGltZT0yMDIxLTAzLTI5VDIwOjMwLCBlbmRUaW1lPTIwMjEtMDMtMzBUMDc6MDEsICIKICAgICAgICAgICAgKyAiY29tcHV0ZUVuZFRpbWU9MjAyMS0wMy0zMFQwNzowMSwgdGJnVHlwZT1udWxsLCB0YmdDb2RlPW51bGwsIHBhY2thZ2VOdW09bnVsbCwgcGxhbk51bT1udWxsLCAiCiAgICAgICAgICAgICsgImFjdHVhbE51bT0zNjAwMDAwLCBjb21wdXRlQWN0dWFsTnVtPTM2MDAwMDAsIG9yZGVyTnVtPW51bGwsIHNrdU51bT1udWxsLCBpbmR1c3RyeUNvZGU9bnVsbCwgIgogICAgICAgICAgICArICJwaWNrVHlwZT1udWxsLCBwaWNrQmlsbFR5cGU9bnVsbCwgcGlja0JpbGxDYXRlZ29yeT1udWxsLCBtZW51VHlwZT1udWxsLCBwYWNrYWdlVHlwZT1udWxsLCAiCiAgICAgICAgICAgICsgImlzU2VjS2lsbD1udWxsLCBpc1NpbmdsZUl0ZW09bnVsbCwgcG9zaXRpb25Db2RlPW51bGwsIHdvcmtHcm91cE5hbWU9bnVsbCwgd29ya0dyb3VwTGVhZGVyPW51bGwsICIKICAgICAgICAgICAgKyAid29ya0dyb3VwUGVvcGxlQ291bnQ9bnVsbCwgd29ya0dyb3VwQ29kZT1udWxsLCBkYXRhU291cmNlPW51bGwsIGludmVudG9yeVN0YXR1cz1udWxsLCAiCiAgICAgICAgICAgICsgImN1c3RvbUF0dHJpYnV0ZXM9bnVsbCwgdG90YWxPcGVyYXRlV2VpZ2h0PW51bGwsIHRvdGFsT3BlcmF0ZVZvbHVtZT1udWxsLCBwcm9jZXNzPVtdLCB3b3JrVHlwZT1udWxsLCAiCiAgICAgICAgICAgICsgImJ1PW51bGwsIGxvY2F0aW9uPW51bGwsIHpvbmU9bnVsbCwgc2l6ZT1udWxsLCBjcmVhdG9yPW51bGwsIGluQXR0ZW5kYW5jZT1udWxsKSwgTGFib3VyRWZmaWNpZW5jeURUTyIKICAgICAgICAgICAgKyAiKHR5cGU9UkVTVCwgb3BlcmF0ZU1vbnRoPTIwMjEwMywgb3BlcmF0ZURheT0yMDIxLTAzLTI5LCBhY3RpdmU9MSwgd2FyZWhvdXNlSWQ9MTE2MywgIgogICAgICAgICAgICArICJ3b3JrcGxhY2VDb2RlPVdVWDIwOCwgd29ya3BsYWNlTmFtZT3oj5zpuJ/ljY7kuJzml6DplKHmoIflh4Y35Y+35LuTLGNvZGU9UkVTVF8yMDIxMDMyODAwMDA4NTIsIG9yaUNvZGU9bnVsbCwgIgogICAgICAgICAgICArICJ0YXNrVHlwZT1udWxsLCBjdXN0b21UeXBlPW51bGwsIGVtcGxveWVlTnVtYmVyPTIwMjEwMzI4MDAwMDg1MiwgZW1wbG95ZWVOYW1lPemprOmbquWGsiwgIgogICAgICAgICAgICArICJjb29wZXJhdGVTdGFydERhdGU9MjAyMS0wMy0yOFQwMDowMCwgc3RhcnRUaW1lPTIwMjEtMDMtMzBUMDA6MDAsIGNvbXB1dGVTdGFydFRpbWU9MjAyMS0wMy0zMFQwMDowMCwgIgogICAgICAgICAgICArICJlbmRUaW1lPTIwMjEtMDMtMzBUMDE6MDAsIGNvbXB1dGVFbmRUaW1lPTIwMjEtMDMtMzBUMDE6MDAsIHRiZ1R5cGU9bnVsbCwgdGJnQ29kZT1udWxsLCAiCiAgICAgICAgICAgICsgInBhY2thZ2VOdW09bnVsbCwgcGxhbk51bT1udWxsLCBhY3R1YWxOdW09bnVsbCwgY29tcHV0ZUFjdHVhbE51bT1udWxsLCBvcmRlck51bT1udWxsLCBza3VOdW09bnVsbCwgIgogICAgICAgICAgICArICJpbmR1c3RyeUNvZGU9bnVsbCwgcGlja1R5cGU9bnVsbCwgcGlja0JpbGxUeXBlPW51bGwsIHBpY2tCaWxsQ2F0ZWdvcnk9bnVsbCwgbWVudVR5cGU9bnVsbCwgIgogICAgICAgICAgICArICJwYWNrYWdlVHlwZT1udWxsLCBpc1NlY0tpbGw9bnVsbCwgaXNTaW5nbGVJdGVtPW51bGwsIHBvc2l0aW9uQ29kZT1udWxsLCB3b3JrR3JvdXBOYW1lPW51bGwsICIKICAgICAgICAgICAgKyAid29ya0dyb3VwTGVhZGVyPW51bGwsIHdvcmtHcm91cFBlb3BsZUNvdW50PW51bGwsIHdvcmtHcm91cENvZGU9bnVsbCwgZGF0YVNvdXJjZT1udWxsLCAiCiAgICAgICAgICAgICsgImludmVudG9yeVN0YXR1cz1udWxsLCBjdXN0b21BdHRyaWJ1dGVzPW51bGwsIHRvdGFsT3BlcmF0ZVdlaWdodD1udWxsLCB0b3RhbE9wZXJhdGVWb2x1bWU9bnVsbCwgIgogICAgICAgICAgICArICJwcm9jZXNzPVtdLCB3b3JrVHlwZT1udWxsLCBidT1udWxsLCBsb2NhdGlvbj1udWxsLCB6b25lPW51bGwsIHNpemU9bnVsbCwgY3JlYXRvcj1udWxsLCAiCiAgICAgICAgICAgICsgImluQXR0ZW5kYW5jZT1udWxsKV0iOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGN1cnJlbnRNZDUgPSBnZXRQcHJSZXN1bHRNZDUocHByQmFzaWNEYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWQ1MiA9IFNlY3VyZVV0aWwubWQ1KHN0cik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
