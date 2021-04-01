@@ -131,11 +131,8 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.7.RELEASE/spring-boot-actuator-autoconfigure-2.0.7.RELEASE.jar!/META-INF/spring-configuration-metadata.json" timestamp="1617242732888" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/environment/common/bin/setenv.sh" timestamp="1617162339976">
-        <mark key="[" line="83" column="52" />
-        <mark key="]" line="83" column="52" />
-        <mark key="^" line="83" column="52" />
-        <mark key="." line="83" column="51" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/efficiency/GroupEfficiencyResource.java" timestamp="1617243617061">
+        <mark key="'" line="54" column="13" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/diamond/DiamondDataCallbackImpl.java" timestamp="1617200237699">
         <mark key="'" line="36" column="7" />
@@ -222,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="91" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
       <jump line="10" column="29" filename="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/listener/MyChunkListener.java" />
       <jump line="88" column="30" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/ppr/WorkplacePprPositionResource.java" />
       <jump line="288" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/pom.xml" />
@@ -322,6 +318,7 @@
       <jump line="287" column="21" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/dashboard/impl/AdminPprFacadeImpl.java" />
       <jump line="488" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/dashboard/impl/AdminPprFacadeImpl.java" />
       <jump line="36" column="7" filename="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/diamond/DiamondDataCallbackImpl.java" />
+      <jump line="54" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/efficiency/GroupEfficiencyResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
