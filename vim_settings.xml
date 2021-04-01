@@ -130,11 +130,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.7.RELEASE/spring-boot-actuator-autoconfigure-2.0.7.RELEASE.jar!/META-INF/spring-configuration-metadata.json" timestamp="1617242732888" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/efficiency/GroupEfficiencyResource.java" timestamp="1617243617061">
-        <mark key="'" line="54" column="13" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/diamond/DiamondDataCallbackImpl.java" timestamp="1617257751751">
+        <mark key="'" line="37" column="7" />
+        <mark key="[" line="53" column="12" />
+        <mark key="]" line="53" column="22" />
+        <mark key="." line="53" column="21" />
+        <mark key="^" line="53" column="22" />
       </file>
-      <file name="$USER_HOME$/staragent/staragent-proxy/proxy-repository/pom.xml" timestamp="1617200741287" />
       <file name="$USER_HOME$/cainiao/wmplms-framework/pom.xml" timestamp="1617257548557">
         <mark key="[" line="16" column="30" />
         <mark key="]" line="16" column="35" />
@@ -145,24 +147,43 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="40" />
       </file>
-      <file name="$USER_HOME$/Downloads/calc/calc-start/src/main/resources/application.properties" timestamp="1617241976849" />
-      <file name="$USER_HOME$/staragent/staragent-frameworks/pom.xml" timestamp="1617247941982" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.7.RELEASE/spring-boot-2.0.7.RELEASE-sources.jar!/org/springframework/boot/context/properties/bind/Bindable.java" timestamp="1617257735862" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-start/src/main/java/com/cainiao/wmplms/controller/TestController.java" timestamp="1617259334788">
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="45" />
+        <mark key="^" line="24" column="45" />
+        <mark key="." line="24" column="44" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-start/src/main/java/com/cainiao/wmplms/Application.java" timestamp="1617259257211">
+        <mark key="[" line="15" column="64" />
+        <mark key="]" line="15" column="244" />
+        <mark key="." line="15" column="243" />
+        <mark key="^" line="15" column="244" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.7.RELEASE/spring-boot-actuator-autoconfigure-2.0.7.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/metrics/jdbc/HikariDataSourceMetricsPostProcessor.java" timestamp="1617259112506" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/mapper/entity/EmployeeDO.java" timestamp="1617259453649">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="23" column="24" />
+        <mark key="^" line="23" column="24" />
+        <mark key="." line="23" column="23" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/mapper-spring-boot-starter-autoconfigure/pom.xml" timestamp="1617255933096">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="45" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/mapper-spring-boot-starter/src/main/resources/application.properties" timestamp="1617257420490">
+      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/mapper-spring-boot-starter/src/main/resources/application.properties" timestamp="1617258703965">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-start/src/main/resources/application.properties" timestamp="1617242894865">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="43" />
-        <mark key="." line="8" column="42" />
-        <mark key="^" line="8" column="43" />
+      <file name="$USER_HOME$/cainiao/wmplms/pom.xml" timestamp="1617258709989" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-start/src/main/resources/application.properties" timestamp="1617259620773">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="7" column="43" />
+        <mark key="^" line="7" column="44" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/mapper-spring-boot-starter/pom.xml" timestamp="1617257652839">
         <mark key="[" line="27" column="21" />
@@ -176,33 +197,36 @@
         <mark key="." line="7" column="41" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/pom.xml" timestamp="1617200335446">
+      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/pom.xml" timestamp="1617260695307">
         <mark key="'" line="16" column="8" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="36" column="21" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/pom.xml" timestamp="1617200317183">
+      <file name="$USER_HOME$/cainiao/wmplms-calc/pom.xml" timestamp="1617260686923">
         <mark key="j" line="24" column="30" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="89" column="25" />
+        <mark key="[" line="72" column="25" />
+        <mark key="]" line="72" column="31" />
+        <mark key="." line="72" column="30" />
+        <mark key="^" line="72" column="31" />
       </file>
-      <file name="$USER_HOME$/src/demo/springboot2/boot-09-customer-starter/atguigu-hello-spring-boot-starter-autoconfigure/pom.xml" timestamp="1617248367490" />
-      <file name="$USER_HOME$/staragent/staragent-frameworks/staragent-base/staragent-model/pom.xml" timestamp="1617247915136" />
-      <file name="$USER_HOME$/staragent/staragent-frameworks/staragent-base/pom.xml" timestamp="1617247935180">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="65" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.7.RELEASE/spring-boot-2.0.7.RELEASE-sources.jar!/org/springframework/boot/context/properties/bind/Binder.java" timestamp="1617257749586" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/mapper/EmployeeMapper.java" timestamp="1617258349401">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-start/pom.xml" timestamp="1617200370913">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="190" column="31" />
-        <mark key="." line="36" column="0" />
+      <file name="/Dummy.txt" timestamp="1617260107161">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1617245380128" />
-      <file name="$USER_HOME$/staragent/staragent-frameworks/staragent-datasource-starter/pom.xml" timestamp="1617247212355" />
+      <file name="/fragment.java" timestamp="1617260107133">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="25" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="10" column="29" filename="$USER_HOME$/demo/springbatchdemo/src/main/java/com/cainiao/batch/listener/MyChunkListener.java" />
@@ -309,11 +333,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Latest Version</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+OC4wLjIzPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Latest Version</text>
+        <text>5.1.37</text>
       </register>
       <register name="/" type="4">
         <text>lombok</text>
@@ -322,22 +346,22 @@
         <text encoding="base64">c3ByaW5nLnRkZGwuYXBwS2V5PSR7bG1zLnRkZGwuYXBwfV9HUk9VUAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWpkYmM8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+OC4wLjIzPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3ByaW5nLnRkZGwuYXBwS2V5PUNBSU5JQU9fV01QX0xNU19HUk9VUAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4gPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">c3ByaW5nLnRkZGwuYXBwPQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -880,16 +904,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5jb20uY2Fpbmlhby53bXBsbXM8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5jb20uY2Fpbmlhby53bXBsbXM8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtteWJhdGlzLnBsdXMudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPiR7d21wbG1zLmZyYW1ld29yay52ZXJzb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWpkYmM8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPiR7d21wbG1zLmZyYW1ld29yay52ZXJzb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
