@@ -135,7 +135,6 @@
         <mark key="]" line="24" column="51" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.4.2/mybatis-plus-boot-starter-3.4.2-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java" timestamp="1617275325733" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/common/enums/LmsEnum.java" timestamp="1617269236511" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/pom.xml" timestamp="1617270804223">
         <mark key="'" line="16" column="8" />
         <mark key="[" line="39" column="21" />
@@ -180,7 +179,6 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/mapper-spring-boot-starter/src/main/java/com/cainiao/wmplms/mybatis/typehandler/CustomLocalDateTimeTypeHandler.java" timestamp="1617270676581" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/employee/EmployeeEhrInfo.java" timestamp="1617269279970" />
       <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-base/wmplms-entity/pom.xml" timestamp="1617269573823">
         <mark key="[" line="17" column="43" />
         <mark key="]" line="18" column="27" />
@@ -193,7 +191,7 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="17" column="73" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-base/wmplms-entity/src/main/java/com/cainiao/wmplms/entity/dataobject/employee/EmployeeDO.java" timestamp="1617275542811">
+      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-base/wmplms-entity/src/main/java/com/cainiao/wmplms/entity/dataobject/employee/EmployeeDO.java" timestamp="1617276456637">
         <mark key="'" line="136" column="12" />
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="63" />
@@ -206,8 +204,21 @@
         <mark key="." line="15" column="72" />
         <mark key="^" line="15" column="73" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-base/wmplms-entity/src/main/java/com/cainiao/wmplms/enums/BusinessTypeEnum.java" timestamp="1617276569472">
+        <mark key="[" line="80" column="44" />
+        <mark key="]" line="80" column="44" />
+        <mark key="." line="80" column="44" />
+        <mark key="^" line="3" column="9" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1617276414161" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/typehandler/EmployeeEhrInfoTypeHandler.java" timestamp="1617269399748" />
-      <file name="/fragment.java" timestamp="1617275429022">
+      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-base/wmplms-entity/src/main/java/com/cainiao/wmplms/entity/dataobject/workplace/WorkplaceDO.java" timestamp="1617276528571">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1617276507459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="24" />
@@ -320,11 +331,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUYWJsZUZpZWxkKHR5cGVIYW5kbGVyID0gQ3VzdG9tTG9jYWxEYXRlVHlwZUhhbmRsZXIuY2xhc3MpCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Time</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>LocalDate</text>
@@ -333,22 +344,22 @@
         <text encoding="base64">ICAgIEBUYWJsZUZpZWxkKHR5cGVIYW5kbGVyID0gQ3VzdG9tTG9jYWxEYXRlVHlwZUhhbmRsZXIuY2xhc3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5TdHJpbmdVdGlsczsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLmxtcy51dGlsLkkxOG5VdGlsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBUYWJsZUZpZWxkKHR5cGVIYW5kbGVyID0gQykK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5hbm5vdGF0aW9ucy5UYWJsZUZpZWxkOwppbXBvcnQgY29tLmJhb21pZG91Lm15YmF0aXNwbHVzLmFubm90YXRpb25zLlRhYmxlTmFtZTsKaW1wb3J0IGNvbS5jYWluaWFvLmxtcy5lbnVtcy5CdXNpbmVzc1R5cGVFbnVtOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLndtcGxtcy5lbnRpdHkuZGF0YW9iamVjdC5FbXBsb3llZURPOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -891,16 +902,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBGcm9udE5hbWUoIumSiemSiXVzZXJJZCIpCg==</text>
+        <text encoding="base64">ICAgIEBUYWJsZUZpZWxkKHR5cGVIYW5kbGVyID0gQykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBGcm9udE5hbWUoIuWKs+WKoeWFrOWPuCIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLndtcGxtcy5lbnRpdHkuZGF0YW9iamVjdC5FbXBsb3llZURPOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBGcm9udE5hbWUoIue7k+eul+aWueW8jyIpCg==</text>
+        <text encoding="base64">ICAgIC8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBGcm9udE5hbWUoIumdouivleWkh+azqCIpCg==</text>
+        <text encoding="base64">ICAgIEBGcm9udE5hbWUoIumSiemSiXVzZXJJZCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
