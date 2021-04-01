@@ -149,16 +149,17 @@
         <mark key="." line="29" column="41" />
       </file>
       <file name="$USER_HOME$/Downloads/calc/calc-start/src/main/resources/application.properties" timestamp="1617241976849" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/diamond/DiamondProperty.java" timestamp="1617200209734">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/staragent/staragent-frameworks/pom.xml" timestamp="1617247941982" />
       <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/mapper-spring-boot-starter-autoconfigure/pom.xml" timestamp="1617255933096">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="45" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/mapper-spring-boot-starter/src/main/resources/application.properties" timestamp="1617257350968">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/calc-start/src/main/resources/application.properties" timestamp="1617242894865">
         <mark key="[" line="8" column="43" />
@@ -166,10 +167,11 @@
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/mapper-spring-boot-starter/pom.xml" timestamp="1617256780213">
+      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/mapper-spring-boot-starter/pom.xml" timestamp="1617257176615">
         <mark key="[" line="19" column="21" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="21" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/pom.xml" timestamp="1617256354924">
         <mark key="[" line="7" column="19" />
@@ -310,11 +312,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4gPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>WMPLMS_APP</text>
       </register>
       <register name="-" type="4">
-        <text>artifactId</text>
+        <text>WMPLMS_APP</text>
       </register>
       <register name="/" type="4">
         <text>lombok</text>
