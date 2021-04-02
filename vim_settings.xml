@@ -134,6 +134,11 @@
         <mark key="'" line="63" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.4.2/mybatis-plus-core-3.4.2-sources.jar!/com/baomidou/mybatisplus/core/handlers/MetaObjectHandler.java" timestamp="1617371176660" />
+      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/sharding-mapper-spring-boot-starter/pom.xml" timestamp="1617371691962">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/sharding-mapper-spring-boot-starter-autoconfigure/src/main/java/com/cainiao/wmplms/autoconfigure/ShardingMapperAutoConfiguration.java" timestamp="1617351685382">
         <mark key="[" line="44" column="31" />
         <mark key="]" line="44" column="59" />
@@ -154,10 +159,16 @@
         <mark key="." line="31" column="32" />
         <mark key="^" line="31" column="33" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/sharding-mapper-spring-boot-starter-autoconfigure/src/main/java/com/cainiao/wms/autoconfigure/ShardingMapperProperties.java" timestamp="1617371751979" />
       <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-base/wmplms-common/src/main/java/com/cainiao/wmplms/common/util/DateUtil.java" timestamp="1617345542549">
         <mark key="[" line="266" column="0" />
         <mark key="]" line="266" column="0" />
         <mark key="." line="266" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/sharding-mapper-spring-boot-starter-autoconfigure/src/main/resources/mybatis-sharding-config.xml" timestamp="1617372302847">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/pom.xml" timestamp="1617368544872">
         <mark key="'" line="19" column="8" />
@@ -172,10 +183,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/sharding-mapper-spring-boot-starter-autoconfigure/src/main/java/com/cainiao/wms/autoconfigure/ShardingMapperAutoConfiguration.java" timestamp="1617371588687">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/sharding-mapper-spring-boot-starter-autoconfigure/src/main/java/com/cainiao/wms/autoconfigure/ShardingMapperAutoConfiguration.java" timestamp="1617372285985">
+        <mark key="[" line="65" column="92" />
+        <mark key="]" line="65" column="101" />
+        <mark key="." line="65" column="100" />
+        <mark key="^" line="65" column="101" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/calc-start/src/main/resources/application.properties" timestamp="1617350675078">
         <mark key="[" line="2" column="0" />
@@ -204,7 +216,7 @@
         <mark key="^" line="32" column="32" />
         <mark key="." line="32" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1617345500708">
+      <file name="/fragment.java" timestamp="1617372089642">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="24" />
@@ -317,7 +329,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25SZXNvdXJjZQo=</text>
+        <text encoding="base64">ICAgICAgICA8dHlwZUhhbmRsZXIgaGFuZGxlcj0iY29tLmNhaW5pYW8ud21wbG1zLm15YmF0aXMudHlwZWhhbmRsZXIuRW1wbG95ZWVFaHJJbmZvVHlwZUhhbmRsZXIiLz4K</text>
       </register>
       <register name="-" type="4">
         <text>ConditionalOnMissingBean</text>
@@ -329,22 +341,22 @@
         <text encoding="base64">d21wbG1zLnNoYXJkaW5nLnRkZGwuYXBwPUNBSU5JQU9fV01QX0xNU19TSEFSRElOR19BUFAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25SZXNvdXJjZQo=</text>
+        <text encoding="base64">ICAgICAgICA8dHlwZUhhbmRsZXIgaGFuZGxlcj0iY29tLmNhaW5pYW8ud21wbG1zLm15YmF0aXMudHlwZWhhbmRsZXIuRW1wbG95ZWVFaHJJbmZvVHlwZUhhbmRsZXIiLz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWxDb25maWcuc2V0TWV0YU9iamVjdEhhbmRsZXIobWV0YU9iamVjdEhhbmRsZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmJhb21pZG91PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5teWJhdGlzLXBsdXMtYm9vdC1zdGFydGVyPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QENvbmRpdGlvbmFsT25SZXNvdXJjZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnbG9iYWxDb25maWcuc2V0TWV0YU9iamVjdEhhbmRsZXIobWV0YU9iamVjdEhhbmRsZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydGllcz4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -887,16 +899,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICDkvZzogIXvvJrmnqvlj7bmoqjoirEKICAgICAgICDpk77mjqXvvJpodHRwczovL2p1ZWppbi5jbi9wb3N0LzY4NDQ5MDM4NzAxMDgyNzA2MDYKICAgICAgICDmnaXmupDvvJrmjpjph5EKICAgICAgICDokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydGllcz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d21wbG1zLnNoYXJkaW5nLnRkZGw9Q0FJTklBT19XTVBfTE1TX1NIQVJESU5HX0FQUAo=</text>
+        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d21wbG1zLnNoYXJkaW5nLnRkZGw9Q0FJTklBT19XTVBfTE1TX1NIQVJESU5HX0FQUAo=</text>
+        <text encoding="base64">ICAgICAgICDkvZzogIXvvJrmnqvlj7bmoqjoirEKICAgICAgICDpk77mjqXvvJpodHRwczovL2p1ZWppbi5jbi9wb3N0LzY4NDQ5MDM4NzAxMDgyNzA2MDYKICAgICAgICDmnaXmupDvvJrmjpjph5EKICAgICAgICDokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
