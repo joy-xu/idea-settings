@@ -131,6 +131,7 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/wmplms/mapper-spring-boot-starter-autoconfigure/1.0.0-SNAPSHOT/mapper-spring-boot-starter-autoconfigure-1.0.0-SNAPSHOT.jar!/com/cainiao/wms/autoconfigure/MapperAutoConfiguration.class" timestamp="1617713600839" />
+      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/data-spring-boot-starter-autoconfigure/src/main/java/com/cainiao/wms/autoconfigure/KvStoreProperties.java" timestamp="1617713676852" />
       <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-base/wmplms-entity/src/main/java/com/cainiao/wmplms/mybatis/typehandler/SalaryAttendanceResultExtensionHandler.java" timestamp="1617712740285">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -141,11 +142,6 @@
         <mark key="]" line="24" column="63" />
         <mark key="^" line="24" column="63" />
         <mark key="." line="24" column="62" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-base/wmplms-entity/src/main/java/com/cainiao/wmplms/mybatis/typehandler/AttendanceRegisterRecordExtensionHandler.java" timestamp="1617712608139">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/ppr/handler/ScPprPprHandlerWithFiveMinuteEfficiencyDecorator.java" timestamp="1617713195797">
         <mark key="[" line="26" column="0" />
@@ -165,12 +161,12 @@
         <mark key="." line="79" column="54" />
         <mark key="^" line="79" column="55" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/mapper-spring-boot-starter-autoconfigure/src/main/java/com/cainiao/wms/autoconfigure/MapperProperties.java" timestamp="1617713674391" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/manager/ppr/impl/LabourPprTestManagerImpl.java" timestamp="1617713219076">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/LmsAttendanceStatisticsDO.java" timestamp="1617712518103" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/ppr/handler/LstPprHandler.java" timestamp="1617713136078">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="64" column="12" />
@@ -195,10 +191,18 @@
         <mark key="." line="20" column="39" />
         <mark key="^" line="35" column="21" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-base/wmplms-entity/src/main/java/com/cainiao/wmplms/entity/dataobject/salary/AttendanceRegisterRecordExtension.java" timestamp="1617712624314" />
+      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/mapper-spring-boot-starter-autoconfigure/src/main/java/com/cainiao/wms/autoconfigure/MapperAutoConfiguration.java" timestamp="1617713700942">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="54" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/LmsAttendanceStatisticsMapper.java" timestamp="1617713191338" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/LmsAttendanceStatisticsManager.java" timestamp="1617712472566" />
-      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-base/wmplms-entity/src/main/java/com/cainiao/wmplms/entity/dataobject/salary/SalaryAttendanceResultExtension.java" timestamp="1617712565901" />
+      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/data-spring-boot-starter-autoconfigure/src/main/java/com/cainiao/wms/autoconfigure/KvStoreAutoConfiguration.java" timestamp="1617713727054" />
+      <file name="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/adbmapper-spring-boot-starter-autoconfigure/src/main/java/com/cainiao/wms/autoconfigure/AdbMapperAutoConfiguration.java" timestamp="1617713717206">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="14" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1617712688734">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
@@ -312,7 +316,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLndtcGxtcy5hZGJtYXBwZXIucHByLkxhYm91ckVmZmljaWVuY3lQcHJNYXBwZXI7Cg==</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb24K</text>
       </register>
       <register name="-" type="4">
         <text>WorkPlaceDO</text>
@@ -324,22 +328,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5pc05vdE51bGwoTG1zQXR0ZW5kYW5jZVN0YXRpc3RpY3NETzo6Z2V0T25EdXR5QXR0ZW5kYW5jZVRpbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLndtcGxtcy5hZGJtYXBwZXIucHByLkxhYm91ckVmZmljaWVuY3lQcHJNYXBwZXI7Cg==</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLndtcGxtcy5lbnRpdHkuZGF0YW9iamVjdC5wcHIuTG1zTGFib3VyRWZmaWNpZW5jeVBwclRlc3RETzsK</text>
+        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKE1hcHBlclByb3BlcnRpZXMuY2xhc3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIExhYm91clBwclRlc3RJbmRpcmVjdE1hcHBlciBsYWJvdXJQcHJUZXN0SW5kaXJlY3RNYXBwZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLndtcGxtcy5hZGJtYXBwZXIucHByLkxhYm91ckVmZmljaWVuY3lQcHJNYXBwZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLmxtcy5hZGJtYXBwZXIuTGFib3VyUHByVGVzdEluZGlyZWN0TWFwcGVyOwppbXBvcnQgY29tLmNhaW5pYW8ubG1zLmNvbnRleHQuRW1wbG95ZWVQcHJDb250ZXh0OwppbXBvcnQgY29tLmNhaW5pYW8ubG1zLmVudGl0eS5MYWJvdXJFZmZpY2llbmN5RFRPOwppbXBvcnQgY29tLmNhaW5pYW8ubG1zLmVudGl0eS5kYXRhb2JqZWN0LldvcmtQbGFjZURPOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLndtcGxtcy5lbnRpdHkuZGF0YW9iamVjdC5wcHIuTG1zTGFib3VyRWZmaWNpZW5jeVBwclRlc3RETzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pc05vdE51bGwoIm9mZl9kdXR5X2F0dGVuZGFuY2VfdGltZSIpKQo=</text>
+        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIExhYm91clBwclRlc3RJbmRpcmVjdE1hcHBlciBsYWJvdXJQcHJUZXN0SW5kaXJlY3RNYXBwZXI7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -881,19 +885,19 @@
           <key char="34920" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLmxtcy5hZGJtYXBwZXIuTGFib3VyUHByVGVzdEluZGlyZWN0TWFwcGVyOwppbXBvcnQgY29tLmNhaW5pYW8ubG1zLmNvbnRleHQuRW1wbG95ZWVQcHJDb250ZXh0OwppbXBvcnQgY29tLmNhaW5pYW8ubG1zLmVudGl0eS5MYWJvdXJFZmZpY2llbmN5RFRPOwppbXBvcnQgY29tLmNhaW5pYW8ubG1zLmVudGl0eS5kYXRhb2JqZWN0LldvcmtQbGFjZURPOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pc05vdE51bGwoIm9mZl9kdXR5X2F0dGVuZGFuY2VfdGltZSIpKQo=</text>
+      </register>
+      <register name="8" type="4">
         <text>value = &quot;extension&quot;,
         el = &quot;extension, typeHandler=com.cainiao.lms.typehandler.SalaryAttendanceResultExtensionHandler&quot;</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>value = &quot;extension&quot;,
         el = &quot;extension, typeHandler=com.cainiao.lms.typehandler.AttendanceRegisterRecordExtensionHandler&quot;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLmxtcy5lbnRpdHkuZGF0YW9iamVjdC5zYWxhcnkuQXR0ZW5kYW5jZVJlZ2lzdGVyUmVjb3JkRXh0ZW5zaW9uOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5hbm5vdGF0aW9ucy5UYWJsZUZpZWxkOwppbXBvcnQgY29tLmJhb21pZG91Lm15YmF0aXNwbHVzLmFubm90YXRpb25zLlRhYmxlTmFtZTsKaW1wb3J0IGNvbS5jYWluaWFvLmxtcy5lbnVtcy5SZWdpc3RlclR5cGVFbnVtOwppbXBvcnQgY29tLmNhaW5pYW8ubG1zLmVudW1zLnNhbGFyeS5BdHRlbmRhbmNlTWFrZVVwSW5zdGFuY2VTdGF0dXNFbnVtOwo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
