@@ -141,6 +141,13 @@
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_base" timestamp="1617760721794" />
       <file name="$USER_HOME$/Downloads/calc/calc-start/pom.xml" timestamp="1617760170358" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-start/src/main/resources/application-project.properties" timestamp="1617763243423" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-start/src/main/resources/application-pre.properties" timestamp="1617763360528">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/calc-start/src/main/java/com/cainiao/wmplms/hsf/consumer/HsfController.java" timestamp="1617761222291">
         <mark key="[" line="35" column="56" />
         <mark key="]" line="35" column="57" />
@@ -178,16 +185,11 @@
         <mark key="." line="77" column="106" />
         <mark key="^" line="77" column="107" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-start/src/main/resources/application.properties" timestamp="1617761689847">
+      <file name="$USER_HOME$/cainiao/wmplms-calc/calc-start/src/main/resources/application.properties" timestamp="1617763248701">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="16" column="52" />
         <mark key="^" line="16" column="52" />
         <mark key="." line="16" column="51" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/Dockerfile_staging" timestamp="1617759120435">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/calc-start/src/main/resources/application-daily.properties" timestamp="1617761703698">
         <mark key="[" line="5" column="0" />
@@ -199,12 +201,6 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/Dockerfile_testing" timestamp="1617759130411">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="2" />
-        <mark key="." line="71" column="1" />
-        <mark key="^" line="71" column="2" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/pom.xml" timestamp="1617760133478">
         <mark key="'" line="26" column="24" />
@@ -327,26 +323,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>producer-id=PID-ons-test
-producer.mq-type=METAQ
-consumer-id=CID-ons-test
-consume-thread-nums=30
-consumer.mq-type=METAQ
-
-tddl.app=PB_TEST_APP
-tddl.sharding=false
-
-hsf.group=HSF
-hsf.version=1.0.0.DAILY
-hsf.timeout=2000
-
-user-name=9ed882569b0c433a
-
-autoconfig.vale=autoconfig</text>
+      <register name="&quot;" type="4">
+        <text>mdbcomm-daily</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>mdbcomm-daily</text>
       </register>
       <register name="/" type="4">
         <text>De</text>
