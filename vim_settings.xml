@@ -130,13 +130,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/impl/AttendanceRegisterRecordManagerImpl.java" timestamp="1617885107704" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/efficiency/impl/LabourPprFacadeImpl.java" timestamp="1617885343315">
-        <mark key="'" line="1463" column="56" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprResultManagerImpl.java" timestamp="1617940690742">
+        <mark key="[" line="57" column="11" />
+        <mark key="]" line="57" column="21" />
+        <mark key="^" line="57" column="21" />
+        <mark key="." line="57" column="20" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkAttendanceStatisticsResource.java" timestamp="1617884540556" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" timestamp="1617884811953">
-        <mark key="'" line="2696" column="8" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/ppr/LmsLabourEfficiencyPprResultDO.java" timestamp="1617939839132">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="244" column="20" />
+        <mark key="]" line="244" column="26" />
+        <mark key="." line="244" column="25" />
+        <mark key="^" line="244" column="26" />
       </file>
       <file name="$USER_HOME$/cainiao/wmpinbound/wmpinbound-common/src/main/java/com/cainiao/wmpinbound/common/constant/LogConstant.java" timestamp="1617936560607" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/eck/EmployeeDingUserIdCheckAndRepairProcessor.java" timestamp="1617891435130">
@@ -145,13 +150,17 @@
         <mark key="^" line="68" column="12" />
         <mark key="." line="68" column="11" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/attendance/DingTalkAttendanceSummaryListVO.java" timestamp="1617885101195" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1617939562640" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/eck/EmployeeCheckWithDingtalkBO.java" timestamp="1617933698137">
         <mark key="'" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/eck/EmployeeCheckDingTalkResultDO.java" timestamp="1617888216203" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/efficiency/LabourPprProvider.java" timestamp="1617885322975">
-        <mark key="'" line="579" column="10" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/efficiency/LmsLabourEfficiencyPprResultProvider.java" timestamp="1617939865639" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/impl/LabourPprResultServiceImpl.java" timestamp="1617940310666">
+        <mark key="[" line="157" column="34" />
+        <mark key="]" line="157" column="46" />
+        <mark key="." line="157" column="45" />
+        <mark key="^" line="157" column="46" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/eck/package-info.java" timestamp="1617888735516">
         <mark key="[" line="0" column="0" />
@@ -168,6 +177,12 @@
         <mark key="'" line="539" column="40" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/eck/impl/EmployeeCheckServiceImpl.java" timestamp="1617891642842" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/ppr/LmsLabourEfficiencyPprResultAdbDO.java" timestamp="1617939834789" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/ppr/LabourPprResultProvider.java" timestamp="1617939881864">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1617890170840" />
     </filemarks>
     <jumps>
@@ -275,11 +290,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
+      <register name="&quot;" type="4">
+        <text>resultDOList</text>
       </register>
       <register name="-" type="4">
-        <text>getOffDutySalaryTime</text>
+        <text>resultDOList</text>
       </register>
       <register name="/" type="4">
         <text>De</text>
