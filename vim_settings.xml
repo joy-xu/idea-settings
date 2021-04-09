@@ -143,28 +143,23 @@
         <mark key="." line="244" column="25" />
         <mark key="^" line="244" column="26" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" timestamp="1617951928838">
+        <mark key="'" line="2691" column="18" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1617945432515">
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
         <mark key="^" line="148" column="65" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/DingTalkAttendanceStatisticFacade.java" timestamp="1617951365678" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionEmployeeResource.java" timestamp="1617948476362" />
       <file name="$USER_HOME$/cainiao/wmpinbound/wmpinbound-common/src/main/java/com/cainiao/wmpinbound/common/constant/LogConstant.java" timestamp="1617936560607" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/eck/EmployeeDingUserIdCheckAndRepairProcessor.java" timestamp="1617891435130">
-        <mark key="[" line="68" column="92" />
-        <mark key="]" line="68" column="12" />
-        <mark key="^" line="68" column="12" />
-        <mark key="." line="68" column="11" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1617945874025">
         <mark key="[" line="579" column="118" />
         <mark key="]" line="579" column="9" />
         <mark key="." line="579" column="8" />
         <mark key="^" line="579" column="9" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/eck/EmployeeCheckWithDingtalkBO.java" timestamp="1617933698137">
-        <mark key="'" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/efficiency/LmsLabourEfficiencyPprResultProvider.java" timestamp="1617939865639" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/impl/LabourPprResultServiceImpl.java" timestamp="1617940310666">
@@ -173,13 +168,14 @@
         <mark key="." line="157" column="45" />
         <mark key="^" line="157" column="46" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/common/enums/LmsEnum.java" timestamp="1617951899182" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/dingtalk/AttendanceRecordDetail.java" timestamp="1617950641250" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpSalaryAttendanceResultChangeConsumer.java" timestamp="1617946122032">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/dingtalk/DingTalkAttendanceCheckType.java" timestamp="1617950559868" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/eck/impl/EmployeeCheckServiceImpl.java" timestamp="1617891642842" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/ppr/LmsLabourEfficiencyPprResultAdbDO.java" timestamp="1617939834789" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/ppr/LabourPprResultProvider.java" timestamp="1617939881864">
         <mark key="[" line="22" column="0" />
@@ -189,9 +185,14 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" timestamp="1617945956209">
         <mark key="'" line="196" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/ExcelOperatorFacadeImpl.java" timestamp="1617952211056">
+        <mark key="[" line="4573" column="44" />
+        <mark key="]" line="4573" column="35" />
+        <mark key="^" line="4573" column="35" />
+        <mark key="." line="4573" column="34" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/service/LabourPprService.java" />
       <jump line="32" column="1" filename="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/service/impl/LabourPprServiceImpl.java" />
       <jump line="39" column="12" filename="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/service/impl/LabourPprServiceImpl.java" />
       <jump line="54" column="46" filename="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/service/impl/LabourPprServiceImpl.java" />
@@ -291,6 +292,7 @@
       <jump line="23" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/eck/EmployeeCheckWithDingtalkBO.java" />
       <jump line="547" column="23" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="196" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/bo/efficiency/LmsLabourEfficiencyPprBO.java" />
+      <jump line="2691" column="18" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/attendance/impl/DingTalkAttendanceStatisticFacadeImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
