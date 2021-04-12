@@ -137,7 +137,13 @@
         <mark key="." line="139" column="12" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/ppr/LmsLabourEfficiencyPprResultDO.java" timestamp="1618194487548" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" timestamp="1618197671768">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" timestamp="1618199248043">
+        <mark key="[" line="357" column="69" />
+        <mark key="]" line="357" column="66" />
+        <mark key="^" line="357" column="66" />
+        <mark key="." line="357" column="65" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" timestamp="1618199027595">
         <mark key="'" line="791" column="7" />
         <mark key="[" line="784" column="8" />
         <mark key="]" line="785" column="34" />
@@ -158,9 +164,6 @@
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="18" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1617979743054">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/shardingmapper/LabourEfficiencyPprResultShardingMapper.java" timestamp="1618197726799">
         <mark key="'" line="41" column="64" />
         <mark key="[" line="351" column="7" />
@@ -179,18 +182,13 @@
         <mark key="^" line="141" column="21" />
         <mark key="." line="141" column="20" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/ppr/LabourPprResultProvider.java" timestamp="1617979978561">
-        <mark key="[" line="60" column="12" />
-        <mark key="]" line="60" column="12" />
-        <mark key="." line="60" column="12" />
-        <mark key="^" line="55" column="109" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1618195286453">
         <mark key="[" line="258" column="113" />
         <mark key="]" line="258" column="121" />
         <mark key="^" line="258" column="121" />
         <mark key="." line="258" column="120" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1618199068327" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1618193114156" />
       <file name="/fragment.java" timestamp="1618020400036">
         <mark key="[" line="0" column="15" />
@@ -309,11 +307,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ONE_DAY_IN_SECONDS</text>
       </register>
       <register name="-" type="4">
-        <text>PprResultManager</text>
+        <text>ONE_DAY_IN_SECONDS</text>
       </register>
       <register name="/" type="4">
         <text>indirectLabour</text>
