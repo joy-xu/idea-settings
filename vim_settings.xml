@@ -130,11 +130,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/test/java/com/cainiao/lms/service/ppr/handler/ScPprHandlerTest.java" timestamp="1618195405245">
-        <mark key="[" line="139" column="12" />
-        <mark key="]" line="139" column="12" />
-        <mark key="^" line="139" column="28" />
-        <mark key="." line="139" column="12" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprResultManagerImpl.java" timestamp="1618218082999">
+        <mark key="[" line="32" column="42" />
+        <mark key="]" line="42" column="5" />
+        <mark key="^" line="42" column="5" />
+        <mark key="." line="42" column="4" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/ppr/LmsLabourEfficiencyPprResultDO.java" timestamp="1618214359714">
         <mark key="'" line="17" column="13" />
@@ -156,12 +156,18 @@
         <mark key="^" line="357" column="66" />
         <mark key="." line="357" column="65" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" timestamp="1618199027595">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" timestamp="1618218051220">
         <mark key="'" line="791" column="7" />
-        <mark key="[" line="784" column="8" />
-        <mark key="]" line="785" column="34" />
-        <mark key="^" line="785" column="34" />
-        <mark key="." line="785" column="33" />
+        <mark key="[" line="799" column="57" />
+        <mark key="]" line="799" column="57" />
+        <mark key="^" line="799" column="56" />
+        <mark key="." line="799" column="57" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/efficiency/LabourEfficiencyPprResultManager.java" timestamp="1618218075600">
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="32" column="19" />
+        <mark key="^" line="32" column="19" />
+        <mark key="." line="29" column="7" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkAttendanceStatisticsResource.java" timestamp="1618205268461">
         <mark key="'" line="69" column="8" />
@@ -195,12 +201,6 @@
         <mark key="]" line="41" column="88" />
         <mark key="." line="41" column="87" />
         <mark key="^" line="41" column="88" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1618195286453">
-        <mark key="[" line="258" column="113" />
-        <mark key="]" line="258" column="121" />
-        <mark key="^" line="258" column="121" />
-        <mark key="." line="258" column="120" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1618199068327" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" timestamp="1618205132187">
@@ -318,10 +318,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>uk_business</text>
+        <text>entity</text>
       </register>
       <register name="-" type="4">
-        <text>uk_business</text>
+        <text>entity</text>
       </register>
       <register name="/" type="4">
         <text>ibatis</text>
@@ -330,19 +330,20 @@
         <text encoding="base64">ICAgICAgICBlbnRpdHkuc2V0RW1wbG95ZWVOdW1iZXIoZW1wbG95ZWVOdW1iZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL2BlbXBsb3llZV9udW1iZXJgLGBvcGVyYXRlX2RheWAsYHdhcmVob3VzZV9pZGAsYG9wZXJhdGVfbW9udGhgLGBvcGVyYXRlX3RpbWVgLGBpbmR1c3RyeV9jb2RlYCxgd29ya190eXBlYCxgaXNfaW5fYXR0ZW5kYW5jZWAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0dQo=</text>
+        <text encoding="base64">ICAgICAgICBMbXNMYWJvdXJFZmZpY2llbmN5UHByUmVzdWx0RE8gZW50aXR5ID0gbmV3IExtc0xhYm91ckVmZmljaWVuY3lQcHJSZXN1bHRETygpOwogICAgICAgIGVudGl0eS5zZXRXYXJlaG91c2VJZCh3YXJlaG91c2VJZCk7CiAgICAgICAgZW50aXR5LnNldEVtcGxveWVlTnVtYmVyKGVtcGxveWVlTnVtYmVyKTsKICAgICAgICBlbnRpdHkuc2V0T3BlcmF0ZURheShMb2NhbERhdGVVdGlsLnBhcnNlRGF0ZShkYXRlKSk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>@QueryParam(&quot;warehouseId&quot;) Long warehouseId, @QueryParam(&quot;date&quot;) String date,
+                                          @QueryParam(&quot;employeeNumber&quot;) Long employeeNumber</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -888,16 +889,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2BlbXBsb3llZV9udW1iZXJgLGBvcGVyYXRlX2RheWAsYHdhcmVob3VzZV9pZGAsYG9wZXJhdGVfbW9udGhgLGBvcGVyYXRlX3RpbWVgLGBpbmR1c3RyeV9jb2RlYCxgd29ya190eXBlYCxgaXNfaW5fYXR0ZW5kYW5jZWAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0dQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
