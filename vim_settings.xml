@@ -150,6 +150,9 @@
         <mark key="." line="76" column="15" />
         <mark key="^" line="76" column="16" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" timestamp="1618816967696">
+        <mark key="'" line="141" column="8" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/indirectlabour/IndirectLabourWorkTypeEnum.java" timestamp="1618401834706" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/indirectlabour/IndirectLabourStartQo.java" timestamp="1618707668718" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/process/YidaProcessInstanceProvider.java" timestamp="1618318899348">
@@ -184,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="43" filename="$USER_HOME$/cainiao/wmplms-framework/wmplms-base/wmplms-entity/src/main/java/com/cainiao/wmplms/entity/dataobject/efficiency/LmsLabourEfficiencyPprTestDO.java" />
       <jump line="46" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/manager/ppr/impl/LabourPprManagerImpl.java" />
       <jump line="33" column="44" filename="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/adbmapper-spring-boot-starter/src/main/java/com/cainiao/wmplms/adbmapper/ppr/LmsLabourEfficiencyPprMapper.java" />
       <jump line="62" column="38" filename="$USER_HOME$/cainiao/wmplms-calc/calc-service/src/main/java/com/cainiao/wmplms/ppr/handler/ScPprHandler.java" />
@@ -284,6 +286,7 @@
       <jump line="48" column="37" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/LmsAuthFilter.java" />
       <jump line="71" column="32" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/filter/ApiCallLogFilter.java" />
       <jump line="44" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" />
+      <jump line="141" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
