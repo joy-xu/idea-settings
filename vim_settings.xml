@@ -134,11 +134,11 @@
         <mark key="[" line="1365" column="0" />
         <mark key="]" line="1365" column="45" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1619494137933">
-        <mark key="[" line="2091" column="0" />
-        <mark key="]" line="2091" column="0" />
-        <mark key="^" line="2084" column="56" />
-        <mark key="." line="2091" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1619506307553">
+        <mark key="[" line="2072" column="0" />
+        <mark key="]" line="2072" column="0" />
+        <mark key="^" line="2085" column="56" />
+        <mark key="." line="2072" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1619494030628">
         <mark key="[" line="2361" column="11" />
@@ -152,11 +152,12 @@
         <mark key="^" line="50" column="36" />
         <mark key="." line="50" column="35" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/employee/EmployeeCertificateStatisticsQo.java" timestamp="1619494813501">
-        <mark key="[" line="47" column="12" />
-        <mark key="]" line="47" column="18" />
-        <mark key="^" line="47" column="18" />
-        <mark key="." line="47" column="17" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/employee/EmployeeCertificateStatisticsQo.java" timestamp="1619506358748">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="56" column="11" />
+        <mark key="^" line="56" column="11" />
+        <mark key="." line="56" column="10" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/test/java/com/cainiao/lms/web/facade/impl/employee/EmployeeFacadeTest.java" timestamp="1619494213744">
         <mark key="[" line="56" column="155" />
@@ -171,23 +172,23 @@
         <mark key="." line="958" column="10" />
         <mark key="^" line="958" column="11" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/query/EmployeeCertificateStatisticsQuery.java" timestamp="1619494872002">
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="18" />
-        <mark key="." line="40" column="17" />
-        <mark key="^" line="40" column="18" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/query/EmployeeCertificateStatisticsQuery.java" timestamp="1619506330158">
+        <mark key="'" line="15" column="13" />
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="50" column="35" />
+        <mark key="." line="50" column="34" />
+        <mark key="^" line="50" column="35" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1619493683974" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/employee/EmployeeCertificateStatisticsMapper.java" timestamp="1619503707387">
-        <mark key="[" line="115" column="23" />
-        <mark key="]" line="115" column="23" />
-        <mark key="." line="115" column="23" />
-        <mark key="^" line="83" column="28" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/applicationContext.xml" timestamp="1619507152538" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/employee/EmployeeCertificateStatisticsMapper.java" timestamp="1619506391749">
+        <mark key="[" line="94" column="8" />
+        <mark key="]" line="93" column="12" />
+        <mark key="." line="93" column="11" />
+        <mark key="^" line="93" column="12" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="2" filename="$USER_HOME$/cainiao/wmplms-framework/wmplms-base/wmplms-entity/src/main/java/com/cainiao/wmplms/entity/dataobject/ParamDO.java" />
-      <jump line="22" column="19" filename="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/data-spring-boot-starter-autoconfigure/src/main/java/com/cainiao/wms/autoconfigure/HBaseAutoConfiguration.java" />
       <jump line="111" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.9.RELEASE/spring-boot-autoconfigure-2.3.9.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/DispatcherServletAutoConfiguration.java" />
       <jump line="39" column="16" filename="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/mapper-spring-boot-starter-autoconfigure/src/main/java/com/cainiao/wmplms/autoconfigure/MapperAutoConfiguration.java" />
       <jump line="39" column="0" filename="$USER_HOME$/cainiao/wmplms-framework/wmplms-starter/mapper-spring-boot-starter-autoconfigure/src/main/java/com/cainiao/wms/autoconfigure/MapperAutoConfiguration.java" />
@@ -286,15 +287,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/WorkPlaceDO.java" />
       <jump line="956" column="89" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/EfficiencyServiceImpl.java" />
       <jump line="34" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/employee/EmployeeManager.java" />
+      <jump line="18" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/qo/employee/EmployeeCertificateStatisticsQo.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/query/EmployeeCertificateStatisticsQuery.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>labour_company_id</text>
       </register>
       <register name="/" type="4">
         <text>BIZ-ERROR</text>
@@ -303,22 +306,22 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFdlYlJlc3VsdDw+KHJlc3VsdCwgcGFnZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV1dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTGlzdFV0aWxzLkVNUFRZX0xJU1Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV1dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkoZW1wbG95ZWVDZXJ0aWZpY2F0ZVN0YXRpc3RpY3NET0xpc3QpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTGlzdFV0aWxzLkVNUFRZX0xJU1Q7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -864,10 +867,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkoZW1wbG95ZWVDZXJ0aWZpY2F0ZVN0YXRpc3RpY3NET0xpc3QpKSB7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
