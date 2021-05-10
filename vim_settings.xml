@@ -141,7 +141,7 @@
         <mark key="^" line="165" column="82" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/cache/WorkTypeSwitchCache.java" timestamp="1620409235995" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1619695747430">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1620614807029">
         <mark key="[" line="2256" column="51" />
         <mark key="]" line="2256" column="74" />
         <mark key="." line="2256" column="73" />
@@ -154,6 +154,9 @@
       <file name="$USER_HOME$/cainiao/wmi-auth/wmi-auth-model/src/main/java/com/cainiao/wmi/auth/constant/FieldConstant.java" timestamp="1620402822664" />
       <file name="$MAVEN_REPOSITORY$/com/cainiao/cnuser/cnuser-client/1.8.9/cnuser-client-1.8.9-sources.jar!/com/cainiao/cnuser/client/service/CnUserInfoQueryService.java" timestamp="1620404399966" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourPprManagerImpl.java" timestamp="1620465517445" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" timestamp="1620616572318">
+        <mark key="'" line="200" column="76" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1620467671180" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-client/src/main/java/com/cainiao/lms/service/EmployeeLabelService.java" timestamp="1620370678273" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/LabourPprModuleProcessor.java" timestamp="1620381307203">
@@ -173,7 +176,6 @@
       <file name="$USER_HOME$/cainiao/wmi-auth/wmi-auth-service/src/main/java/com/cainiao/wmi/auth/service/api/impl/UserServiceImpl.java" timestamp="1620412645217" />
     </filemarks>
     <jumps>
-      <jump line="33" column="60" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/efficiency/impl/StandardGroupEfficiencyFacadeImpl.java" />
       <jump line="3732" column="26" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" />
       <jump line="102" column="58" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkTaskApiService.java" />
       <jump line="662" column="70" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" />
@@ -273,6 +275,7 @@
       <jump line="45" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/vo/employee/EmployeeCertificateStatisticsExportVO.java" />
       <jump line="688" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/employee/EmployeeResource.java" />
       <jump line="291" column="49" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" />
+      <jump line="200" column="76" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
