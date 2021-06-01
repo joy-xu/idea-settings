@@ -130,11 +130,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1622469562565">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1622537571480">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/top/top-api-sdk-dev/1.1.8-alibaba-SNAPSHOT/top-api-sdk-dev-1.1.8-alibaba-20210122.124103-5.jar!/com/dingtalk/api/request/OapiUserCreateRequest.class" timestamp="1622515496388" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/DingTalkCallbackEventProcessor.java" timestamp="1622513057055" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/salary/ProcessSalaryAttendanceResultProcessor.java" timestamp="1622537584000" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/constants/DingTalkConstants.java" timestamp="1622515712272" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/DingTalkSyncService.java" timestamp="1622512645276" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1622515546419" />
@@ -150,7 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/LmsAuthFilter.java" />
       <jump line="1196" column="39" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" />
       <jump line="1501" column="66" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" />
       <jump line="132" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" />
@@ -250,6 +250,7 @@
       <jump line="1164" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
       <jump line="112" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" />
       <jump line="1388" column="24" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/attendance/DingTalkApiToolResource.java" />
+      <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
