@@ -130,7 +130,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/CustomTypeEnum.java" timestamp="1622619952253" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" timestamp="1622705799552">
         <mark key="[" line="209" column="88" />
         <mark key="]" line="209" column="91" />
@@ -180,6 +179,12 @@
         <mark key="[" line="800" column="0" />
         <mark key="]" line="800" column="0" />
         <mark key="." line="800" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1622707207456">
+        <mark key="[" line="1670" column="26" />
+        <mark key="]" line="1670" column="47" />
+        <mark key="." line="1670" column="46" />
+        <mark key="^" line="1670" column="47" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/PprWorkTypeEnum.java" timestamp="1622705172682" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/EmployeeChangeLogServiceImpl.java" timestamp="1622703591570">
@@ -307,10 +312,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>!= null</text>
+        <text>isDirectLabour</text>
       </register>
       <register name="-" type="4">
-        <text>!= null</text>
+        <text>isDirectLabour</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
@@ -319,7 +324,7 @@
         <text encoding="base64">cHByLmNvbXB1dGVQcHJBcHBHcm91cHM9d21wbG1zX2NhbGNfaG9zdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChpZGxlRXZlbnQuaXNEaXJlY3RMYWJvdXIoKSkgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -328,10 +333,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRhc2tUeXBlID09IFRhc2tUeXBlRW51bS5DSEVDS19BTkRfUEFDSykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyZXNob2xkID0gcHByUGFja1RocmVzaG9sZDsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgS3ZTdG9yZUNhY2hlTWFuYWdlciBrdlN0b3JlQ2FjaGVNYW5hZ2VyOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -877,16 +882,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IHBwclBhY2tUaHJlc2hvbGQgPSA1MDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRhc2tUeXBlID09IFRhc2tUeXBlRW51bS5DSEVDS19BTkRfUEFDSykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyZXNob2xkID0gcHByUGFja1RocmVzaG9sZDsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgS3ZTdG9yZUNhY2hlTWFuYWdlciBrdlN0b3JlQ2FjaGVNYW5hZ2VyOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaEJhc2VUYWJsZSA9IFBwclV0aWxzLmdldEhiYXNlVGFibGVOYW1lKEhCYXNlVGFibGVUeXBlLlBQUl9SRVNVTFQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IHBwclBhY2tUaHJlc2hvbGQgPSA1MDsK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
