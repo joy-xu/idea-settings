@@ -130,7 +130,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/context/EmployeePprContext.java" timestamp="1622708529337" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1622721976673">
+        <mark key="[" line="2235" column="47" />
+        <mark key="]" line="2235" column="62" />
+        <mark key="." line="2235" column="61" />
+        <mark key="^" line="2235" column="62" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" timestamp="1622705799552">
         <mark key="[" line="209" column="88" />
         <mark key="]" line="209" column="91" />
@@ -144,27 +149,8 @@
         <mark key="." line="859" column="91" />
         <mark key="^" line="859" column="92" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/indirectlabour/IndirectLabourPositionDO.java" timestamp="1622707983867" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/indirectlabour/IndirectLabourWorkTypeEnum.java" timestamp="1622708725753" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1622705713100">
-        <mark key="[" line="162" column="8" />
-        <mark key="]" line="162" column="9" />
-        <mark key="." line="162" column="8" />
-        <mark key="^" line="162" column="9" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/config/HBaseConfig.java" timestamp="1622704302696">
-        <mark key="[" line="33" column="44" />
-        <mark key="]" line="33" column="45" />
-        <mark key="^" line="33" column="45" />
-        <mark key="." line="33" column="44" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/query/BaseQuery.java" timestamp="1622722237485" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/JobWayEnum.java" timestamp="1622710244015" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1622721976673">
-        <mark key="[" line="2235" column="47" />
-        <mark key="]" line="2235" column="62" />
-        <mark key="." line="2235" column="61" />
-        <mark key="^" line="2235" column="62" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1622736776498">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" timestamp="1622704456752">
         <mark key="[" line="295" column="18" />
@@ -178,6 +164,18 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="50" column="47" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1622705713100">
+        <mark key="[" line="162" column="8" />
+        <mark key="]" line="162" column="9" />
+        <mark key="." line="162" column="8" />
+        <mark key="^" line="162" column="9" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/config/HBaseConfig.java" timestamp="1622704302696">
+        <mark key="[" line="33" column="44" />
+        <mark key="]" line="33" column="45" />
+        <mark key="^" line="33" column="45" />
+        <mark key="." line="33" column="44" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1622703842711">
         <mark key="'" line="727" column="4" />
         <mark key="[" line="800" column="0" />
@@ -189,6 +187,9 @@
         <mark key="]" line="1694" column="71" />
         <mark key="." line="1694" column="70" />
         <mark key="^" line="1694" column="71" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/PprWorkTypeEnum.java" timestamp="1622736796967">
+        <mark key="'" line="259" column="4" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/EmployeeChangeLogServiceImpl.java" timestamp="1622703591570">
         <mark key="'" line="118" column="4" />
@@ -209,8 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="522" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" />
-      <jump line="203" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" />
       <jump line="181" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" />
       <jump line="177" column="103" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" />
       <jump line="350" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" />
@@ -309,6 +308,8 @@
       <jump line="1164" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
       <jump line="1168" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
       <jump line="922" column="65" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
+      <jump line="259" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/PprWorkTypeEnum.java" />
+      <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
