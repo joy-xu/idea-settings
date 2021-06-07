@@ -47,8 +47,8 @@
         <entry>%s normal A,</entry>
         <entry>%s normal I&quot;</entry>
         <entry>q!</entry>
-        <entry>wq</entry>
         <entry>actionlist</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -130,28 +130,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1622721976673">
-        <mark key="[" line="2235" column="47" />
-        <mark key="]" line="2235" column="62" />
-        <mark key="." line="2235" column="61" />
-        <mark key="^" line="2235" column="62" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1623048355921">
+        <mark key="'" line="2237" column="55" />
+        <mark key="[" line="2233" column="71" />
+        <mark key="]" line="2234" column="21" />
+        <mark key="." line="2234" column="20" />
+        <mark key="^" line="2234" column="21" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/CustomTypeEnum.java" timestamp="1623048173937" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.java" timestamp="1623036102019">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" timestamp="1623048183052">
-        <mark key="[" line="117" column="42" />
-        <mark key="]" line="117" column="43" />
-        <mark key="." line="117" column="42" />
-        <mark key="^" line="117" column="43" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" timestamp="1623048957744">
+        <mark key="[" line="236" column="59" />
+        <mark key="]" line="236" column="60" />
+        <mark key="." line="236" column="59" />
+        <mark key="^" line="236" column="60" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" timestamp="1622712033899">
-        <mark key="'" line="922" column="65" />
-        <mark key="[" line="859" column="36" />
-        <mark key="]" line="859" column="92" />
-        <mark key="." line="859" column="91" />
-        <mark key="^" line="859" column="92" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" timestamp="1623048304644">
+        <mark key="'" line="1169" column="12" />
+        <mark key="[" line="859" column="17" />
+        <mark key="]" line="860" column="12" />
+        <mark key="." line="860" column="11" />
+        <mark key="^" line="860" column="12" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/DingtalkCallbackEventMapper.java" timestamp="1623037433019" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1622736776498">
@@ -205,7 +206,6 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/employee/EmployeeDistributeFacadeImpl.java" timestamp="1623036232168" />
     </filemarks>
     <jumps>
-      <jump line="40" column="64" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/shardingmapper/LabourEfficiencyPprResultShardingMapper.java" />
       <jump line="627" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
       <jump line="7" column="46" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
       <jump line="356" column="84" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/salary/impl/SalaryAttendanceResultManagerImpl.java" />
@@ -297,7 +297,6 @@
       <jump line="87" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
       <jump line="918" column="35" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
       <jump line="1164" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
-      <jump line="1168" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
       <jump line="922" column="65" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
       <jump line="259" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/PprWorkTypeEnum.java" />
       <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" />
@@ -305,15 +304,17 @@
       <jump line="99" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/DingTalkAttendanceSyncByCorpIdProcessor.java" />
       <jump line="273" column="36" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/DingTalkAttendanceSyncByCorpIdProcessor.java" />
       <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.java" />
+      <jump line="1168" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
+      <jump line="2237" column="55" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHByLnBhY2sudGhyZXNob2xkPTUwCg==</text>
+      <register name="&quot;" type="4">
+        <text>10</text>
       </register>
       <register name="-" type="4">
-        <text>workDateForm</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
@@ -892,7 +893,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtwcHIucGFjay50aHJlc2hvbGR9IikKICAgIHByaXZhdGUgaW50IHBwclBhY2tUaHJlc2hvbGQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
