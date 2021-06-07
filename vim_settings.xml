@@ -136,11 +136,16 @@
         <mark key="." line="2235" column="61" />
         <mark key="^" line="2235" column="62" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" timestamp="1622705799552">
-        <mark key="[" line="209" column="88" />
-        <mark key="]" line="209" column="91" />
-        <mark key="." line="209" column="90" />
-        <mark key="^" line="209" column="91" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.java" timestamp="1623033525456">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" timestamp="1623032744418">
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="0" />
+        <mark key="." line="212" column="0" />
+        <mark key="^" line="203" column="39" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" timestamp="1622712033899">
         <mark key="'" line="922" column="65" />
@@ -164,12 +169,10 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="50" column="47" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/indirectlabour/IndirectLabourWorkTypeEnum.java" timestamp="1622738366277" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1622705713100">
-        <mark key="[" line="162" column="8" />
-        <mark key="]" line="162" column="9" />
-        <mark key="." line="162" column="8" />
-        <mark key="^" line="162" column="9" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1623033708033">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/config/HBaseConfig.java" timestamp="1622704302696">
         <mark key="[" line="33" column="44" />
@@ -177,7 +180,7 @@
         <mark key="^" line="33" column="45" />
         <mark key="." line="33" column="44" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1622703842711">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1623033480011">
         <mark key="'" line="727" column="4" />
         <mark key="[" line="800" column="0" />
         <mark key="]" line="800" column="0" />
@@ -199,6 +202,7 @@
         <mark key="." line="117" column="0" />
         <mark key="^" line="115" column="81" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/DingTalkAttendanceSyncByCorpIdProcessor.java" timestamp="1623033609976" />
       <file name="$USER_HOME$/staragent/staragent-proxy/src/main/java/com/alibaba/staragent/proxy/dao/task/hbase/HbaseConfig.java" timestamp="1622704313476">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="71" />
@@ -211,9 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" />
-      <jump line="177" column="103" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" />
-      <jump line="350" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" />
       <jump line="783" column="7" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" />
       <jump line="40" column="64" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/shardingmapper/LabourEfficiencyPprResultShardingMapper.java" />
       <jump line="627" column="17" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
@@ -311,39 +312,42 @@
       <jump line="922" column="65" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
       <jump line="259" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/PprWorkTypeEnum.java" />
       <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" />
+      <jump line="98" column="45" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/DingTalkAttendanceSyncByCorpIdProcessor.java" />
+      <jump line="99" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/DingTalkAttendanceSyncByCorpIdProcessor.java" />
+      <jump line="273" column="36" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/dts/DingTalkAttendanceSyncByCorpIdProcessor.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>pageSize</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHByLnBhY2sudGhyZXNob2xkPTUwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>pageSize</text>
+        <text>workDateForm</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbXBsb3llZUNlcnRpZmljYXRlU3RhdGlzdGljc1F1ZXJ5LnNldEN1cnJlbnRQYWdlKGVtcGxveWVlQ2VydGlmaWNhdGVTdGF0aXN0aWNzUW8uZ2V0UGFnZU51bWJlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od29ya0RhdGVGb3JtKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bnVsbAogICAgICAgICAgICAgICAgICAgICAgICA6IGVtcGxveWVlQ2VydGlmaWNhdGVTdGF0aXN0aWNzUW8uZ2V0RW1wbG95ZWVXb3JrTmF0dXJlcygpKTsKICAgICAgICBlbXBsb3llZUNlcnRpZmljYXRlU3RhdGlzdGljc1F1ZXJ5LnNldENvbnRlbnRJZChlbXBsb3llZUNlcnRpZmljYXRlU3RhdGlzdGljc1FvLmdldENvbnRlbnRJZCgpKTsKICAgICAgICB2ZXJpZnlEYXRlKGVtcGxveWVlQ2VydGlmaWNhdGVTdGF0aXN0aWNzUW8sIGVtcGxveWVlQ2VydGlmaWNhdGVTdGF0aXN0aWNzUXVlcnkpOwogICAgICAgIGlmIChlbXBsb3llZUNlcnRpZmljYXRlU3RhdGlzdGljc1FvLmdldFBhZ2VOdW1iZXIoKSAhPSBudWxsCiAgICAgICAgICAgICYmIGVtcGxveWVlQ2VydGlmaWNhdGVTdGF0aXN0aWNzUW8uZ2V0UGFnZVNpemUoKSAhPSBudWxsKSB7CiAgICAgICAgICAgIGVtcGxveWVlQ2VydGlmaWNhdGVTdGF0aXN0aWNzUXVlcnkuc2V0UXVlcnlGcm9tKGVtcGxveWVlQ2VydGlmaWNhdGVTdGF0aXN0aWNzUW8uZ2V0UGFnZU51bWJlcigpIC0gMSk7CiAgICAgICAgICAgIGVtcGxveWVlQ2VydGlmaWNhdGVTdGF0aXN0aWNzUXVlcnkuc2V0UGFnZVNpemUoZW1wbG95ZWVDZXJ0aWZpY2F0ZVN0YXRpc3RpY3NRby5nZXRQYWdlU2l6ZSgpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGVtcGxveWVlQ2VydGlmaWNhdGVTdGF0aXN0aWNzUXVlcnk7CiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">cHByLnBhY2sudGhyZXNob2xkPTUwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRlVXRpbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lOwppbXBvcnQgamF2YS51dGlsLkFycmF5TGlzdDsKaW1wb3J0IGphdmEudXRpbC5MaXN0OwoKaW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT047CgppbXBvcnQgY29tLmNhaW5pYW8ubG1zLmVudGl0eS5kYXRhb2JqZWN0LmRpbmd0YWxrLkRpbmdUYWxrQXR0ZW5kYW5jZVN0YXRpc3RpY3NDdXN0b21BdHRyaWJ1dGU7CmltcG9ydCBjb20uY2Fpbmlhby5sbXMuZW50aXR5LmRhdGFvYmplY3QuZGluZ3RhbGsuRGluZ1RhbGtSZXN0RGV0YWlsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbXBsb3kK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -889,13 +893,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRhc2tUeXBlID09IFRhc2tUeXBlRW51bS5DSEVDS19BTkRfUEFDSyAmJiBwcHJQYWNrVGhyZXNob2xkID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyZXNob2xkID0gcHByUGFja1RocmVzaG9sZDsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChpZGxlRXZlbnQuaXNJbkRpcmVjdExhYm91cigpKSB7CiAgICAgICAgICAgICAgICBwcHJLZXkgPSB3YXJlaG91c2VJZCArIGluZHVzdHJ5Q29kZSArIGVtcGxveWVlTnVtYmVyICsgaWRsZUV2ZW50LmdldFBvc2l0aW9uQ29kZSgpICsgb3BlcmF0ZVRpbWU7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoaWRsZUV2ZW50LmlzRGlyZWN0TGFib3VyKCkpIHsKICAgICAgICAgICAgICAgIHBvc2l0aW9uID0gZ2V0UG9zaXRpb25Gcm9tVGFzayhpZGxlRXZlbnQpOwogICAgICAgICAgICAgICAgcHByS2V5ID0gd2FyZWhvdXNlSWQgKyBpbmR1c3RyeUNvZGUgKyBlbXBsb3llZU51bWJlciArIHBvc2l0aW9uLmdldFdvcmtUeXBlKCkgKyBvcGVyYXRlVGltZTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtwcHIucGFjay50aHJlc2hvbGR9IikKICAgIHByaXZhdGUgaW50IHBwclBhY2tUaHJlc2hvbGQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
