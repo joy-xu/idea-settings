@@ -130,12 +130,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/model/LabourEfficiencyDTO.java" timestamp="1623122675303">
-        <mark key="'" line="47" column="4" />
-        <mark key="[" line="391" column="5" />
-        <mark key="]" line="393" column="34" />
-        <mark key="^" line="393" column="34" />
-        <mark key="." line="393" column="33" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/model/LabourEfficiencyDTO.java" timestamp="1623141441301">
+        <mark key="s" line="81" column="36" />
+        <mark key="'" line="81" column="3" />
+        <mark key="[" line="409" column="5" />
+        <mark key="]" line="89" column="31" />
+        <mark key="^" line="89" column="31" />
+        <mark key="." line="89" column="30" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-blink-udx/src/main/java/com/cainiao/lms/blink/udx/labour/model/LabourEfficiencyDTO.java" timestamp="1623121697613" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/CustomTypeEnum.java" timestamp="1623138231228" />
@@ -154,11 +155,12 @@
         <mark key="." line="860" column="11" />
         <mark key="^" line="860" column="12" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/LabourEfficiencyJsonUdf.java" timestamp="1623122807366">
-        <mark key="[" line="63" column="35" />
-        <mark key="]" line="64" column="35" />
-        <mark key="^" line="64" column="35" />
-        <mark key="." line="64" column="34" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/LabourEfficiencyJsonUdf.java" timestamp="1623141571191">
+        <mark key="'" line="25" column="67" />
+        <mark key="[" line="72" column="29" />
+        <mark key="]" line="72" column="39" />
+        <mark key="." line="72" column="38" />
+        <mark key="^" line="72" column="39" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/TemporarySwitchProperty.java" timestamp="1623051054506">
         <mark key="'" line="42" column="4" />
@@ -188,11 +190,6 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" timestamp="1623121713598" />
     </filemarks>
     <jumps>
-      <jump line="1958" column="37" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" />
-      <jump line="1882" column="15" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" />
-      <jump line="34" column="67" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" />
-      <jump line="351" column="23" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" />
-      <jump line="806" column="89" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/LmsAuthFilter.java" />
       <jump line="810" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/LmsAuthFilter.java" />
       <jump line="153" column="45" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/LmsAuthFilter.java" />
       <jump line="150" column="50" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/indirectlabour/IndirectLabourResource.java" />
@@ -288,39 +285,48 @@
       <jump line="390" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/model/LabourEfficiencyDTO.java" />
       <jump line="79" column="28" filename="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/model/LabourEfficiencyDTO.java" />
       <jump line="47" column="4" filename="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/model/LabourEfficiencyDTO.java" />
+      <jump line="403" column="42" filename="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/model/LabourEfficiencyDTO.java" />
+      <jump line="64" column="15" filename="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/LabourEfficiencyJsonUdf.java" />
+      <jump line="23" column="110" filename="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/LabourEfficiencyJsonUdf.java" />
+      <jump line="81" column="3" filename="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/model/LabourEfficiencyDTO.java" />
+      <jump line="25" column="67" filename="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/LabourEfficiencyJsonUdf.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>fromAreaType</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>fromAreaType</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od29ya0RhdGVGb3JtKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0RnJvbUFyZWFUeXBlKGZyb21BcmVhVHlwZSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cHByLnBhY2sudGhyZXNob2xkPTUwCg==</text>
+      <register name="1" type="4">
+        <text>result.setInboundOrderType(inboundOrderType);
+        result.setB2bOrderType(b2bOrderType);
+        result.setCountSourceType(countSourceType);
+        result.setFromAreaType(fromAreaType);
+        result.setFromAreaType(fromAreaType);</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVXRpbAo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0VGFza0JhdGNoRXh0ZW5zaW9uKHRhc2tCYXRjaEV4dGVuc2lvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lOwppbXBvcnQgamF2YS51dGlsLkFycmF5TGlzdDsKaW1wb3J0IGphdmEudXRpbC5MaXN0OwoKaW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT047CgppbXBvcnQgY29tLmNhaW5pYW8ubG1zLmVudGl0eS5kYXRhb2JqZWN0LmRpbmd0YWxrLkRpbmdUYWxrQXR0ZW5kYW5jZVN0YXRpc3RpY3NDdXN0b21BdHRyaWJ1dGU7CmltcG9ydCBjb20uY2Fpbmlhby5sbXMuZW50aXR5LmRhdGFvYmplY3QuZGluZ3RhbGsuRGluZ1RhbGtSZXN0RGV0YWlsOwo=</text>
+        <text encoding="base64">cHByLnBhY2sudGhyZXNob2xkPTUwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRlVXRpbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lOwppbXBvcnQgamF2YS51dGlsLkFycmF5TGlzdDsKaW1wb3J0IGphdmEudXRpbC5MaXN0OwoKaW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT047CgppbXBvcnQgY29tLmNhaW5pYW8ubG1zLmVudGl0eS5kYXRhb2JqZWN0LmRpbmd0YWxrLkRpbmdUYWxrQXR0ZW5kYW5jZVN0YXRpc3RpY3NDdXN0b21BdHRyaWJ1dGU7CmltcG9ydCBjb20uY2Fpbmlhby5sbXMuZW50aXR5LmRhdGFvYmplY3QuZGluZ3RhbGsuRGluZ1RhbGtSZXN0RGV0YWlsOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -866,13 +872,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRhc2tUeXBlID09IFRhc2tUeXBlRW51bS5DSEVDS19BTkRfUEFDSyAmJiBwcHJQYWNrVGhyZXNob2xkID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyZXNob2xkID0gcHByUGFja1RocmVzaG9sZDsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtwcHIucGFjay50aHJlc2hvbGR9IikKICAgIHByaXZhdGUgaW50IHBwclBhY2tUaHJlc2hvbGQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRhc2tUeXBlID09IFRhc2tUeXBlRW51bS5DSEVDS19BTkRfUEFDSyAmJiBwcHJQYWNrVGhyZXNob2xkID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyZXNob2xkID0gcHByUGFja1RocmVzaG9sZDsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
