@@ -130,13 +130,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/model/LabourEfficiencyDTO.java" timestamp="1623141441301">
-        <mark key="s" line="81" column="36" />
-        <mark key="'" line="81" column="3" />
-        <mark key="[" line="409" column="5" />
-        <mark key="]" line="89" column="31" />
-        <mark key="^" line="89" column="31" />
-        <mark key="." line="89" column="30" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/model/LabourEfficiencyDTO.java" timestamp="1623203484317">
+        <mark key="s" line="84" column="36" />
+        <mark key="'" line="84" column="3" />
+        <mark key="[" line="110" column="6" />
+        <mark key="]" line="116" column="81" />
+        <mark key="^" line="116" column="81" />
+        <mark key="." line="116" column="80" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-blink-udx/src/main/java/com/cainiao/lms/blink/udx/labour/model/LabourEfficiencyDTO.java" timestamp="1623121697613" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/CustomTypeEnum.java" timestamp="1623138231228" />
@@ -148,13 +148,14 @@
         <mark key="^" line="236" column="60" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" timestamp="1623064866316" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" timestamp="1623064693480">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" timestamp="1623154958995">
         <mark key="'" line="233" column="94" />
         <mark key="[" line="859" column="17" />
         <mark key="]" line="860" column="12" />
         <mark key="." line="860" column="11" />
         <mark key="^" line="860" column="12" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-pojo/src/main/java/com/cainiao/lms/enums/NewPositionEnum.java" timestamp="1623154913184" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-odps-udx/src/main/java/com/cainiao/lms/odps/udx/LabourEfficiencyJsonUdf.java" timestamp="1623153549535">
         <mark key="'" line="25" column="67" />
         <mark key="[" line="72" column="29" />
@@ -166,13 +167,6 @@
         <mark key="'" line="42" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/wmp/task-global-client/1.0.10/task-global-client-1.0.10-sources.jar!/com/cainiao/wmp/task/client/common/constants/taskBatch/TbgTypeEnum.java" timestamp="1623057604553" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeFacadeImpl.java" timestamp="1623048355921">
-        <mark key="'" line="2237" column="55" />
-        <mark key="[" line="2233" column="71" />
-        <mark key="]" line="2234" column="21" />
-        <mark key="." line="2234" column="20" />
-        <mark key="^" line="2234" column="21" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1623051837075">
         <mark key="[" line="1677" column="37" />
         <mark key="]" line="1677" column="37" />
@@ -187,7 +181,7 @@
         <mark key="'" line="4927" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/wmi/wmi-config-client/3.0.4/wmi-config-client-3.0.4-sources.jar!/com/cainiao/wmi/config/constants/SourceOrderTypeEnum.java" timestamp="1623057644844" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" timestamp="1623121713598" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" timestamp="1623203258612" />
     </filemarks>
     <jumps>
       <jump line="810" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/fliter/LmsAuthFilter.java" />
@@ -294,8 +288,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>fromAreaType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIC8qKgogICAgICAqICAqCiAgICAgICogICovCiAgICAgICAgICoKCg==</text>
       </register>
       <register name="-" type="4">
         <text>fromAreaType</text>
@@ -306,27 +300,23 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0RnJvbUFyZWFUeXBlKGZyb21BcmVhVHlwZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>result.setInboundOrderType(inboundOrderType);
-        result.setB2bOrderType(b2bOrderType);
-        result.setCountSourceType(countSourceType);
-        result.setFromAreaType(fromAreaType);
-        result.setFromAreaType(fromAreaType);</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAqIC8qKgogICAgICAqICAqCiAgICAgICogICovCiAgICAgICAgICoKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0VGFza0JhdGNoRXh0ZW5zaW9uKHRhc2tCYXRjaEV4dGVuc2lvbik7Cg==</text>
+        <text encoding="base64">ICAgICAqIC8qKgogICAgICAqICAqCiAgICAgICogICovCiAgICAgICAgICoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHByLnBhY2sudGhyZXNob2xkPTUwCg==</text>
+        <text encoding="base64">ICAgICAqIC8qKgogICAgICAqICAqCiAgICAgICogICovCiAgICAgICAgICoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVXRpbAo=</text>
+        <text encoding="base64">ICAgICAqIC8qKgogICAgICAqICAqCiAgICAgICogICovCiAgICAgICAgICoKCiAgICBBRERfU0VSVklDRSg0LCLlop7lgLzmnI3liqEiLCJhZGRTZXJ2aWNlIiksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lOwppbXBvcnQgamF2YS51dGlsLkFycmF5TGlzdDsKaW1wb3J0IGphdmEudXRpbC5MaXN0OwoKaW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT047CgppbXBvcnQgY29tLmNhaW5pYW8ubG1zLmVudGl0eS5kYXRhb2JqZWN0LmRpbmd0YWxrLkRpbmdUYWxrQXR0ZW5kYW5jZVN0YXRpc3RpY3NDdXN0b21BdHRyaWJ1dGU7CmltcG9ydCBjb20uY2Fpbmlhby5sbXMuZW50aXR5LmRhdGFvYmplY3QuZGluZ3RhbGsuRGluZ1RhbGtSZXN0RGV0YWlsOwo=</text>
+        <text encoding="base64">ICAgICAqIC8qKgogICAgICogICoKICAgICAqICAqLwogICAgICoKCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -871,14 +861,18 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>result.setInboundOrderType(inboundOrderType);
+        result.setB2bOrderType(b2bOrderType);
+        result.setCountSourceType(countSourceType);
+        result.setFromAreaType(fromAreaType);
+        result.setFromAreaType(fromAreaType);</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0VGFza0JhdGNoRXh0ZW5zaW9uKHRhc2tCYXRjaEV4dGVuc2lvbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRhc2tUeXBlID09IFRhc2tUeXBlRW51bS5DSEVDS19BTkRfUEFDSyAmJiBwcHJQYWNrVGhyZXNob2xkID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyZXNob2xkID0gcHByUGFja1RocmVzaG9sZDsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">cHByLnBhY2sudGhyZXNob2xkPTUwCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
