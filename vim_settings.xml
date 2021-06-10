@@ -130,7 +130,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourEfficiencyPprResultManagerImpl.java" timestamp="1623237556312" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-pub.properties" timestamp="1623223099044">
+        <mark key="[" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/shardingmapper/LabourEfficiencyPprResultShardingMapper.java" timestamp="1623237631877">
+        <mark key="'" line="93" column="105" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1623237384285">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
@@ -143,41 +151,6 @@
         <mark key="." line="236" column="59" />
         <mark key="^" line="236" column="60" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/ppr/StandardPprShardingMapper.java" timestamp="1623237484843">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="19" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="22" column="19" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/efficiency/LabourPprManager.java" timestamp="1623237163878">
-        <mark key="'" line="94" column="6" />
-        <mark key="[" line="97" column="17" />
-        <mark key="]" line="97" column="19" />
-        <mark key="." line="97" column="18" />
-        <mark key="^" line="97" column="19" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.94-adh3u11.8.3/hbase-0.94-adh3u11.8.3-sources.jar!/org/apache/hadoop/hbase/client/HTable.java" timestamp="1623221770773">
-        <mark key="'" line="117" column="13" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/shardingmapper/LabourEfficiencyPprResultShardingMapper.java" timestamp="1623237631877">
-        <mark key="'" line="93" column="105" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/adbmapper/LabourPprMapper.java" timestamp="1623237599028" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" timestamp="1623222690154">
-        <mark key="'" line="263" column="33" />
-        <mark key="[" line="103" column="17" />
-        <mark key="]" line="103" column="17" />
-        <mark key="." line="103" column="20" />
-        <mark key="^" line="173" column="26" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/pom.xml" timestamp="1623227377867" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-pub.properties" timestamp="1623223099044">
-        <mark key="[" line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/adb/efficiency/LabourPprProvider.java" timestamp="1623237678875" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/EfficiencyServiceImpl.java" timestamp="1623238534740">
         <mark key="'" line="586" column="8" />
         <mark key="[" line="541" column="21" />
@@ -192,14 +165,25 @@
         <mark key="." line="860" column="11" />
         <mark key="^" line="860" column="12" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/sharding/LabourPprResultShardingProvider.java" timestamp="1623237756554" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/mapper/ppr/StandardPprShardingMapper.java" timestamp="1623237484843">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="19" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="19" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" timestamp="1623222690154">
+        <mark key="'" line="263" column="33" />
+        <mark key="[" line="103" column="17" />
+        <mark key="]" line="103" column="17" />
+        <mark key="." line="103" column="20" />
+        <mark key="^" line="173" column="26" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourPprManagerImpl.java" timestamp="1623238564188">
         <mark key="[" line="200" column="20" />
         <mark key="]" line="201" column="26" />
         <mark key="." line="201" column="25" />
         <mark key="^" line="201" column="26" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/provider/ppr/StandardPprResultProvider.java" timestamp="1623232500405" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1623238424127">
         <mark key="'" line="621" column="58" />
         <mark key="[" line="1194" column="80" />
@@ -207,6 +191,17 @@
         <mark key="." line="1194" column="79" />
         <mark key="^" line="1194" column="80" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/efficiency/LabourPprManager.java" timestamp="1623237163878">
+        <mark key="'" line="94" column="6" />
+        <mark key="[" line="97" column="17" />
+        <mark key="]" line="97" column="19" />
+        <mark key="." line="97" column="18" />
+        <mark key="^" line="97" column="19" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.94-adh3u11.8.3/hbase-0.94-adh3u11.8.3-sources.jar!/org/apache/hadoop/hbase/client/HTable.java" timestamp="1623221770773">
+        <mark key="'" line="117" column="13" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-client/src/main/java/com/cainiao/lms/service/EfficiencyService.java" timestamp="1623292988994" />
       <file name="/fragment.java" timestamp="1623237337115">
         <mark key="[" line="0" column="0" />
       </file>
