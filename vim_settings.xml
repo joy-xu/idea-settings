@@ -131,7 +131,7 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/lindorm/lindorm-client/2.1.25/lindorm-client-2.1.25-sources.jar!/com/alibaba/lindorm/client/core/utils/Bytes.java" timestamp="1625837838600" />
-      <file name="$USER_HOME$/src/docs/lindorm-client/src/main/java/com/alibaba/lindorm/demo/dml/DynamicColumnDemos.java" timestamp="1625834654338" />
+      <file name="$USER_HOME$/src/docs/lindorm-client/src/main/java/com/alibaba/lindorm/demo/dml/DynamicColumnDemos.java" timestamp="1626052317729" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1625819934746">
         <mark key="'" line="360" column="11" />
         <mark key="[" line="360" column="0" />
@@ -156,13 +156,14 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/lindorm/lindorm-client/2.1.25/lindorm-client-2.1.25-sources.jar!/com/alibaba/lindorm/client/core/types/LString.java" timestamp="1625840187754">
         <mark key="'" line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" timestamp="1626051990592">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" timestamp="1626055250277">
         <mark key="'" line="163" column="29" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
+        <mark key="[" line="134" column="49" />
+        <mark key="]" line="134" column="55" />
+        <mark key="." line="134" column="54" />
+        <mark key="^" line="134" column="55" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/pom.xml" timestamp="1625830553884">
+      <file name="$USER_HOME$/cainiao/wmplms/pom.xml" timestamp="1626054407525">
         <mark key="[" line="799" column="25" />
         <mark key="]" line="805" column="25" />
         <mark key="." line="805" column="24" />
@@ -177,17 +178,12 @@
         <mark key="^" line="63" column="34" />
         <mark key="." line="63" column="33" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" timestamp="1625798977651">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" timestamp="1626057572595">
+        <mark key="'" line="62" column="26" />
         <mark key="[" line="1338" column="0" />
         <mark key="]" line="1338" column="0" />
         <mark key="." line="1338" column="0" />
         <mark key="^" line="1324" column="34" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/test/java/com/cainiao/lms/web/facade/efficiency/impl/LazadaEmployeeStatusImplTest.java" timestamp="1625798991100">
-        <mark key="'" line="22" column="32" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/HBaseService.java" timestamp="1625831314805">
         <mark key="[" line="31" column="51" />
@@ -214,6 +210,7 @@
         <mark key="^" line="65" column="34" />
         <mark key="." line="65" column="33" />
       </file>
+      <file name="$USER_HOME$/src/docs/lindorm-client/src/main/java/com/alibaba/lindorm/demo/dml/Query.java" timestamp="1626052361082" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/lindorm/lindorm-client/2.1.29/lindorm-client-2.1.29-sources.jar!/com/alibaba/lindorm/client/core/ipc/ConfigUpdater.java" timestamp="1625819890592">
         <mark key="'" line="50" column="62" />
       </file>
@@ -229,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="25" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" />
       <jump line="226" column="25" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" />
       <jump line="253" column="25" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" />
       <jump line="294" column="25" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/HBaseServiceImpl.java" />
@@ -329,15 +325,16 @@
       <jump line="58" column="25" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application-pre2.properties" />
       <jump line="171" column="6" filename="$MAVEN_REPOSITORY$/com/alibaba/lindorm/lindorm-client/2.1.25/lindorm-client-2.1.25-sources.jar!/com/alibaba/lindorm/client/dml/Row.java" />
       <jump line="30" column="13" filename="$MAVEN_REPOSITORY$/com/alibaba/lindorm/lindorm-client/2.1.25/lindorm-client-2.1.25-sources.jar!/com/alibaba/lindorm/client/core/types/LString.java" />
+      <jump line="62" column="26" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/util/PprUtils.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cy4K</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>toObject</text>
@@ -346,22 +343,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0PExhYm91ckVmZmljaWVuY3lEVE8+IGpzb25SZXN1bHQgPSBuZXcgQXJyYXlMaXN0PD4oMTYpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2x1bW5zKGNvbS5hbGliYWJhLmxpbmRvcm0uY2xpZW50LmNvcmUudXRpbHMuQnl0ZXMudG9CeXRlcygidmFsdWUiKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5saW1pdCgwLCAxMDAwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxMYWJvdXJFZmZpY2llbmN5RFRPPiBqc29uUmVzdWx0ID0gbmV3IEFycmF5TGlzdDw+KDE2KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxMYWJvdXJFZmZpY2llbmN5RFRPPiBqc29uUmVzdWx0ID0gbmV3IEFycmF5TGlzdDw+KDE2KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImxpbmRvcm0gZ2V0IHJvdywgdGFibGVOYW1lOiB7fSwgcm93S2V5OiB7fSwgcmVzdWx0czoge30iLCB0YWJsZU5hbWUsIHJvd0tleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxMYWJvdXJFZmZpY2llbmN5RFRPPiBqc29uUmVzdWx0ID0gbmV3IEFycmF5TGlzdDw+KDE2KTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -904,10 +901,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxMYWJvdXJFZmZpY2llbmN5RFRPPiBqc29uUmVzdWx0ID0gbmV3IEFycmF5TGlzdDw+KDE2KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImxpbmRvcm0gZ2V0IHJvdywgdGFibGVOYW1lOiB7fSwgcm93S2V5OiB7fSwgcmVzdWx0czoge30iLCB0YWJsZU5hbWUsIHJvd0tleSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
