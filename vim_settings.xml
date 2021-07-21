@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>==</entry>
-        <entry>Exception</entry>
         <entry>PUT</entry>
         <entry>TODO</entry>
         <entry>getTrain</entry>
@@ -27,6 +25,8 @@
         <entry>===</entry>
         <entry>login</entry>
         <entry>1401</entry>
+        <entry>hHaseService</entry>
+        <entry>hBaseService</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/long/Long/g</entry>
@@ -130,23 +130,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/OpsResource.java" timestamp="1626686218850">
-        <mark key="[" line="68" column="5" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1626763013588">
+        <mark key="'" line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/resources/application-pub.properties" timestamp="1626686289130">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="33" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1626686189444">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/TemporarySwitchProperty.java" timestamp="1626849265552" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1626851946521">
         <mark key="'" line="139" column="13" />
         <mark key="[" line="917" column="60" />
         <mark key="]" line="921" column="13" />
         <mark key="^" line="921" column="13" />
         <mark key="." line="921" column="12" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/wmp/task-global-client/1.0.10/task-global-client-1.0.10-sources.jar!/com/cainiao/wmp/task/client/common/constants/taskBatch/TaskBatchStatusEnum.java" timestamp="1626773706801" />
       <file name="$USER_HOME$/cainiao/wmplms/pom.xml" timestamp="1626761436360">
         <mark key="[" line="297" column="39" />
         <mark key="]" line="297" column="39" />
@@ -154,77 +149,39 @@
         <mark key="." line="297" column="38" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/LabourAccountMappingRecordDO.java" timestamp="1626750621755" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1626749832946">
-        <mark key="'" line="196" column="15" />
-        <mark key="[" line="460" column="42" />
-        <mark key="]" line="460" column="43" />
-        <mark key="^" line="460" column="43" />
-        <mark key="." line="460" column="42" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1626763706158">
+        <mark key="'" line="662" column="45" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/enums/CustomTypeEnum.java" timestamp="1626773714998" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/EfficiencyServiceImpl.java" timestamp="1626761526282">
         <mark key="'" line="418" column="49" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/resources/application-pre.properties" timestamp="1626686267327">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="55" column="42" />
-        <mark key="]" line="61" column="34" />
-        <mark key="^" line="61" column="34" />
-        <mark key="." line="61" column="33" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1626838641143" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/pom.xml" timestamp="1626851895539">
+        <mark key="'" line="84" column="12" />
+        <mark key="[" line="81" column="9" />
+        <mark key="]" line="81" column="40" />
+        <mark key="^" line="81" column="40" />
+        <mark key="." line="81" column="39" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/resources/application-gray.properties" timestamp="1626686251934">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="33" />
-        <mark key="]" line="58" column="34" />
-        <mark key="^" line="58" column="34" />
-        <mark key="." line="58" column="33" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/dataobject/WorkTypeGreySwitchDO.java" timestamp="1626750245339">
-        <mark key="'" line="21" column="13" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/EmployeeReadServiceImpl.java" timestamp="1626751760947">
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/EmployeeReadServiceImpl.java" timestamp="1626766436836">
         <mark key="'" line="818" column="60" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourPprManagerImpl.java" timestamp="1626838570518" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-client/src/main/java/com/cainiao/lms/dto/GetContinueLabourInfoDTO.java" timestamp="1626751602743" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/resources/application-pre2.properties" timestamp="1626686278719">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="56" column="38" />
-        <mark key="]" line="62" column="34" />
-        <mark key="^" line="62" column="34" />
-        <mark key="." line="62" column="33" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/framework/cache-center/2.1.2/cache-center-2.1.2-sources.jar!/com/cainiao/wmp/cache/util/CacheDiamondUtils.java" timestamp="1626762191407">
         <mark key="'" line="17" column="74" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/resources/application.properties" timestamp="1626686301674">
-        <mark key="'" line="365" column="16" />
-        <mark key="[" line="367" column="24" />
-        <mark key="]" line="373" column="36" />
-        <mark key="^" line="373" column="36" />
-        <mark key="." line="373" column="35" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-client/src/main/java/com/cainiao/lms/operate/service/EmployeeReadService.java" timestamp="1626766068476">
+        <mark key="'" line="67" column="53" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-client/src/main/java/com/cainiao/lms/operate/service/EmployeeReadService.java" timestamp="1626752464531" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/LabourFacadeImpl.java" timestamp="1626751316225">
         <mark key="'" line="522" column="15" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1626751820296" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/controller/MainController.java" timestamp="1626708239787" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/efficiency/impl/LmsEfficiencyRankManagerImpl.java" timestamp="1626686160773">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/enums/PprWorkTypeEnum.java" timestamp="1626773854991" />
     </filemarks>
     <jumps>
-      <jump line="2242" column="22" filename="$USER_HOME$/cainiao/wmplms/wmplms-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" />
-      <jump line="385" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" />
-      <jump line="4846" column="52" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/java/com/cainiao/lms/web/facade/impl/ExcelOperatorFacadeImpl.java" />
-      <jump line="390" column="19" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/impl/IndirectLabourCommonServiceImpl.java" />
-      <jump line="1304" column="76" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/LmsAttendanceStatisticsManager.java" />
-      <jump line="1041" column="15" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/LmsAttendanceStatisticsManager.java" />
-      <jump line="360" column="16" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/LmsAttendanceStatisticsManager.java" />
-      <jump line="96" column="6" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/middleware/diamond/TemporarySwitchProperty.java" />
-      <jump line="122" column="0" filename="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/util/LabourUtil.java" />
-      <jump line="14" column="13" filename="$USER_HOME$/cainiao/wmplms/wmplms-mapper/src/main/java/com/cainiao/lms/entity/vo/IDInfo.java" />
       <jump line="165" column="19" filename="$USER_HOME$/cainiao/wmi-auth/wmi-auth-client/src/main/java/com/cainiao/wmi/auth/diamond/AuthDiamondConfig.java" />
       <jump line="0" column="0" filename="$USER_HOME$/cainiao/wmi-auth/wmi-auth-start/src/main/resources/velocity/templates/login.vm" />
       <jump line="157" column="38" filename="$USER_HOME$/cainiao/wmi-auth/wmi-auth-start/src/main/resources/velocity/templates/login.vm" />
@@ -315,21 +272,31 @@
       <jump line="418" column="49" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/EfficiencyServiceImpl.java" />
       <jump line="27" column="4" filename="$MAVEN_REPOSITORY$/com/cainiao/framework/cache-center/2.1.2/cache-center-2.1.2-sources.jar!/com/cainiao/wmp/cache/util/CacheDiamondUtils.java" />
       <jump line="17" column="74" filename="$MAVEN_REPOSITORY$/com/cainiao/framework/cache-center/2.1.2/cache-center-2.1.2-sources.jar!/com/cainiao/wmp/cache/util/CacheDiamondUtils.java" />
+      <jump line="14" column="25" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" />
+      <jump line="693" column="16" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
+      <jump line="696" column="14" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
+      <jump line="148" column="25" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
+      <jump line="607" column="38" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
+      <jump line="622" column="18" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
+      <jump line="659" column="29" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
+      <jump line="662" column="45" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
+      <jump line="67" column="53" filename="$USER_HOME$/cainiao/wmplms/wmplms-operate-client/src/main/java/com/cainiao/lms/operate/service/EmployeeReadService.java" />
+      <jump line="83" column="12" filename="$USER_HOME$/cainiao/wmplms-calc/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLnlhcm4uWWFyblZlcnNpb25Bbm5vdGF0aW9uOwo=</text>
+      <register name="&quot;" type="4">
+        <text>lindorm.client.version</text>
       </register>
       <register name="-" type="4">
-        <text>hBaseService</text>
+        <text>lindorm.client.version</text>
       </register>
       <register name="/" type="4">
-        <text>1401</text>
+        <text>hBaseService</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vTWFwPFN0cmluZywgTGlzdDxMYWJvdXJFZmZpY2llbmN5RFRPPj4gcmVzdWx0ID0gaEJhc2VTZXJ2aWNlLmdldExhYm91ckVmZmljaWVuY2llcyhmZXRjaFJvd0tleXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8bGluZG9ybS5jbGllbnQudmVyc2lvbj4yLjEuMjU8L2xpbmRvcm0uY2xpZW50LnZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLnlhcm4uWWFyblZlcnNpb25Bbm5vdGF0aW9uOwo=</text>
@@ -908,9 +875,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>1401</last-search>
+      <last-search>hBaseService</last-search>
       <last-offset />
-      <last-pattern>1401</last-pattern>
+      <last-pattern>hBaseService</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
       <last-dir>1</last-dir>
