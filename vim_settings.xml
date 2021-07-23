@@ -130,19 +130,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-client/pom.xml" timestamp="1627030008439" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-client/pom.xml" timestamp="1627032296627">
+        <mark key="[" line="56" column="44" />
+        <mark key="]" line="57" column="26" />
+        <mark key="^" line="57" column="26" />
+        <mark key="." line="57" column="25" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/piece/impl/PiecePositionGroupManagerImpl.java" timestamp="1627023631655">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/HsfConsumerConfig.java" timestamp="1627030119023">
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/HsfConsumerConfig.java" timestamp="1627030852992">
         <mark key="'" line="32" column="13" />
         <mark key="[" line="91" column="64" />
         <mark key="]" line="92" column="44" />
         <mark key="." line="92" column="43" />
         <mark key="^" line="92" column="44" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/provider/ppr/StandardPprResultProvider.java" timestamp="1627018435026">
-        <mark key="'" line="591" column="12" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-client/src/main/java/com/cainiao/lms/operate/service/hsf/filter/HsfClientFilter.java" timestamp="1627032021758">
+        <mark key="[" line="14" column="55" />
+        <mark key="]" line="14" column="54" />
+        <mark key="^" line="14" column="54" />
+        <mark key="." line="14" column="53" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/pom.xml" timestamp="1627030034043">
         <mark key="[" line="220" column="21" />
@@ -153,28 +161,30 @@
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_base" timestamp="1627019759601">
         <mark key="'" line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms/pom.xml" timestamp="1627032059971">
+        <mark key="[" line="297" column="39" />
+        <mark key="]" line="297" column="39" />
+        <mark key="^" line="297" column="39" />
+        <mark key="." line="297" column="38" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-starter-hsf/2018-08-release-final/pandora-boot-starter-hsf-2018-08-release-final.pom" timestamp="1627032085597" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/piece/PiecePositionGroupEmployeeBO.java" timestamp="1627022501669">
         <mark key="'" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1627018333623">
-        <mark key="'" line="1540" column="20" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/Dockerfile_staging" timestamp="1627018168663">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-client/src/main/resources/META-INF/services/com.taobao.hsf.invocation.filter.RPCFilter" timestamp="1627032013597">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1627027757622" />
       <file name="$MAVEN_REPOSITORY$/com/moredian/algorithm/moredian-algorithm-tool/1.0/moredian-algorithm-tool-1.0.jar!/com/moredian/algorithm/SingleFactory.class" timestamp="1627026178015" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/controller/TestController.java" timestamp="1627030206953">
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/controller/TestController.java" timestamp="1627030793271">
         <mark key="'" line="352" column="21" />
         <mark key="[" line="389" column="73" />
         <mark key="]" line="389" column="74" />
         <mark key="." line="389" column="73" />
         <mark key="^" line="389" column="74" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/efficiency/impl/LabourPprFacadeImpl.java" timestamp="1627018513604">
-        <mark key="'" line="1643" column="61" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/impl/employee/EmployeeChangeLogFacadeImpl.java" timestamp="1627026453941" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/pom.xml" timestamp="1627027933930">
@@ -183,15 +193,18 @@
         <mark key="^" line="81" column="44" />
         <mark key="." line="81" column="43" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourPprManagerImpl.java" timestamp="1627018356789">
-        <mark key="'" line="425" column="43" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/HsfClientFilter.java" timestamp="1627032197151">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/filter/HsfOptionalExceptionFilter.java" timestamp="1627028679949" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/dataobject/adb/ppr/ProcessEfficiencyDO.java" timestamp="1627018408548">
-        <mark key="'" line="26" column="5" />
-      </file>
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/filter/HsfOptionalExceptionFilter.java" timestamp="1627031562876" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/metaq/WmpTaskBatchEndConsumer.java" timestamp="1627026703356">
         <mark key="'" line="72" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1627030766123">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -300,10 +313,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>HsfOptionalExceptionFilter</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>HsfOptionalExceptionFilter</text>
       </register>
       <register name="/" type="4">
         <text>ERROR</text>
@@ -312,22 +325,22 @@
         <text encoding="base64">RlJPTSByZWcuZG9ja2VyLmFsaWJhYmEtaW5jLmNvbS9hbGkvb3M6NnUyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbXBsb3llZU1hbmFnZXIgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDEuMC4wCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0SGFuZGxlci4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBSVU4gY2htb2QgK3ggL2hvbWUvYWRtaW4vJHtBUFBfTkFNRX0vdGFyZ2V0LyR7QVBQX05BTUV9L0JPT1QtSU5GL2NsYXNzZXMvbW9yZWRpYW4vbGliZmFjZURldF9qbmkuc28K</text>
+        <text encoding="base64">ICAgICAgICBlbXBsb3llZU1hbmFnZXIgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyDljYfnuqdnY2PniYjmnKwKUlVOIHl1bSBpbnN0YWxsIGdjYzQ4LTQuOC41LTI1MjQ3MC5hbGlvczYueDg2XzY0IC1iIGN1cnJlbnQgLXkgJiYgXAogICAgeXVtIGluc3RhbGwgb3BlbmJsYXMtMC4yLjE4LTUuZWw2Lng4Nl82NCAtYiBjdXJyZW50IC15ICYmIFwKICAgIGxkY29uZmlnIC91c3IvbG9jYWwvZ2NjLTQuOC41L2xpYjY0ICYmIFwKICAgIGNwIC91c3IvbG9jYWwvZ2NjLTQuOC41L2xpYjY0L2xpYnN0ZGMrKy5zby42LjAuMTkgL3Vzci9saWI2NCAmJiBcCiAgICBjZCAvdXNyL2xpYjY0ICYmIFwKICAgIHJtIC1yZiBsaWJzdGRjKysuc28uNiAmJiBcCiAgICBsbiAtcyBsaWJzdGRjKysuc28uNi4wLjE5IGxpYnN0ZGMrKy5zby42Cgo=</text>
+        <text encoding="base64">ICAgIDEuMC4wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBSVU4gY2htb2QgK3ggL2hvbWUvYWRtaW4vJHtBUFBfTkFNRX0vdGFyZ2V0LyR7QVBQX05BTUV9L0JPT1QtSU5GL2NsYXNzZXMvbW9yZWRpYW4vbGliZmFjZURldF9qbmkuc28K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -870,16 +883,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RlJPTSByZWcuZG9ja2VyLmFsaWJhYmEtaW5jLmNvbS9hb25lLWJhc2Uvd21wbG1zLWNhbGNfN3UyOjIwMjEwNzIyMTEzOTA2Cg==</text>
+        <text encoding="base64">IyDljYfnuqdnY2PniYjmnKwKUlVOIHl1bSBpbnN0YWxsIGdjYzQ4LTQuOC41LTI1MjQ3MC5hbGlvczYueDg2XzY0IC1iIGN1cnJlbnQgLXkgJiYgXAogICAgeXVtIGluc3RhbGwgb3BlbmJsYXMtMC4yLjE4LTUuZWw2Lng4Nl82NCAtYiBjdXJyZW50IC15ICYmIFwKICAgIGxkY29uZmlnIC91c3IvbG9jYWwvZ2NjLTQuOC41L2xpYjY0ICYmIFwKICAgIGNwIC91c3IvbG9jYWwvZ2NjLTQuOC41L2xpYjY0L2xpYnN0ZGMrKy5zby42LjAuMTkgL3Vzci9saWI2NCAmJiBcCiAgICBjZCAvdXNyL2xpYjY0ICYmIFwKICAgIHJtIC1yZiBsaWJzdGRjKysuc28uNiAmJiBcCiAgICBsbiAtcyBsaWJzdGRjKysuc28uNi4wLjE5IGxpYnN0ZGMrKy5zby42Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RlJPTSByZWcuZG9ja2VyLmFsaWJhYmEtaW5jLmNvbS9hb25lLWJhc2Uvd21wbG1zLWNhbGNfMjAyMS0wNy0xNDoyMDIxMDcxNDE0MDcyNgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">RlJPTSByZWcuZG9ja2VyLmFsaWJhYmEtaW5jLmNvbS9hb25lLWJhc2Uvd21wbG1zLWNhbGNfN3UyOjIwMjEwNzIyMTEzOTA2Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RlJPTSByZWcuZG9ja2VyLmFsaWJhYmEtaW5jLmNvbS9hb25lLWJhc2Uvd21wbG1zLWNhbGNfN3UyOjIwMjEwNzIyMTEzOTA2Cg==</text>
+        <text encoding="base64">RlJPTSByZWcuZG9ja2VyLmFsaWJhYmEtaW5jLmNvbS9hb25lLWJhc2Uvd21wbG1zLWNhbGNfMjAyMS0wNy0xNDoyMDIxMDcxNDE0MDcyNgo=</text>
       </register>
       <register name=":" type="4">
         <text>1330</text>
