@@ -130,6 +130,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1627306422259">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionEmployeeFacadeImpl.java" timestamp="1627298390445">
         <mark key="'" line="781" column="85" />
         <mark key="[" line="782" column="85" />
@@ -143,12 +146,12 @@
         <mark key="^" line="30" column="28" />
         <mark key="." line="30" column="27" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" timestamp="1627291492774">
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" timestamp="1627306045901">
         <mark key="'" line="1637" column="24" />
-        <mark key="[" line="1636" column="108" />
-        <mark key="]" line="1636" column="125" />
-        <mark key="." line="1636" column="124" />
-        <mark key="^" line="1636" column="125" />
+        <mark key="[" line="1639" column="13" />
+        <mark key="]" line="1639" column="18" />
+        <mark key="." line="1639" column="18" />
+        <mark key="^" line="1639" column="18" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionGroupFacadeImpl.java" timestamp="1627301066499">
         <mark key="'" line="303" column="12" />
@@ -224,11 +227,14 @@
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionResource.java" timestamp="1627304558460">
         <mark key="'" line="44" column="13" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" timestamp="1627305364928">
-        <mark key="[" line="272" column="31" />
-        <mark key="]" line="273" column="33" />
-        <mark key="." line="273" column="32" />
-        <mark key="^" line="273" column="33" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionFacadeImpl.java" timestamp="1627306090443">
+        <mark key="[" line="274" column="65" />
+        <mark key="]" line="274" column="70" />
+        <mark key="." line="274" column="69" />
+        <mark key="^" line="274" column="70" />
+      </file>
+      <file name="/fragment.java" timestamp="1627306422251">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -337,34 +343,34 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>true存在启用的员工，false不存在启用的员工</text>
+        <text>EMPLOYEE</text>
       </register>
       <register name="-" type="4">
-        <text>true存在启用的员工，false不存在启用的员工</text>
+        <text>EMPLOYEE</text>
       </register>
       <register name="/" type="4">
         <text>PUT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgV21wTG1zRXhjZXB0aW9uKFdPUktfR1JPVVBfTk9fU0FMQVJZX0VNUExPWUVFKTsK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gdHJ1ZeWtmOWcqOWQr+eUqOeahOWRmOW3pe+8jGZhbHNl5LiN5a2Y5Zyo5ZCv55So55qE5ZGY5belCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIEVSUk9SCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEJvb2xlYW4gZ2V0RW5hYmxlZFBpZWNlUG9zaXRpb25Hcm91cHMoU3RyaW5nIHdvcmtwbGFjZUNvZGUsIFN0cmluZyBwaWVjZVBvc2l0aW9uQ29kZSwgTG9jYWxEYXRlVGltZSBlZmZlY3RpdmVEYXRlKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEJvb2xlYW4gZ2V0RW5hYmxlZFBpZWNlUG9zaXRpb25Hcm91cHMoU3RyaW5nIHdvcmtwbGFjZUNvZGUsIFN0cmluZyBwaWVjZVBvc2l0aW9uQ29kZSwgTG9jYWxEYXRlVGltZSBlZmZlY3RpdmVEYXRlKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOafpeivouS7iuWkqeWIsOacrOaciOeUn+aViOaXpeacn+S4reeahOiuoeS7tuWylwo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4g5ZCv55So55qE5bel5L2c57uE5YiX6KGoCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -907,16 +913,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAwNzRlZDA1MGU2ZDM0YTU2N2ExMGY2MmUwOTM3ZGI3OWFhMDlhNGNkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQppbXBvcnQgY29tLmNhaW5pYW8ubG1zLndlYi52by5waWVjZS5QaWVjZVBvc2l0aW9uR3JvdXBTaW1wbGVWTzsK</text>
+        <text encoding="base64">ICAgIEJvb2xlYW4gZ2V0RW5hYmxlZFBpZWNlUG9zaXRpb25Hcm91cHMoU3RyaW5nIHdvcmtwbGFjZUNvZGUsIFN0cmluZyBwaWVjZVBvc2l0aW9uQ29kZSwgTG9jYWxEYXRlVGltZSBlZmZlY3RpdmVEYXRlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIEJvb2xlYW4gZ2V0RW5hYmxlZFBpZWNlUG9zaXRpb25Hcm91cHMoU3RyaW5nIHdvcmtwbGFjZUNvZGUsIFN0cmluZyBwaWVjZVBvc2l0aW9uQ29kZSwgTG9jYWxEYXRlVGltZSBlZmZlY3RpdmVEYXRlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAwNzRlZDA1MGU2ZDM0YTU2N2ExMGY2MmUwOTM3ZGI3OWFhMDlhNGNkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1330</text>
