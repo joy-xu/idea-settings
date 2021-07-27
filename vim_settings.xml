@@ -130,21 +130,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1627306422259">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/impl/SalaryItemGroupServiceImpl.java" timestamp="1627308502763">
         <mark key="[" line="190" column="61" />
         <mark key="]" line="190" column="90" />
         <mark key="^" line="190" column="90" />
         <mark key="." line="190" column="89" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/piece/impl/PiecePositionEmployeeFacadeImpl.java" timestamp="1627298390445">
-        <mark key="'" line="781" column="85" />
-        <mark key="[" line="782" column="85" />
-        <mark key="]" line="782" column="104" />
-        <mark key="." line="737" column="311" />
-        <mark key="^" line="782" column="104" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" timestamp="1627306045901">
         <mark key="'" line="1637" column="24" />
@@ -160,6 +150,7 @@
         <mark key="." line="336" column="19" />
         <mark key="^" line="336" column="20" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1627356445651" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/resources/application-pre.properties" timestamp="1627301212025">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="55" column="42" />
@@ -177,6 +168,20 @@
       <file name="$MAVEN_REPOSITORY$/com/cainiao/bigful-client/1.2.4/bigful-client-1.2.4-sources.jar!/com/cainiao/bigful/errorcodegen/PromoteMessage.java" timestamp="1627303545646">
         <mark key="'" line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/piece/PiecePositionEmployeeManager.java" timestamp="1627305179219">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="40" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/piece/PiecePositionGroupFacade.java" timestamp="1627307584542">
+        <mark key="'" line="15" column="17" />
+        <mark key="[" line="87" column="14" />
+        <mark key="]" line="87" column="27" />
+        <mark key="^" line="87" column="27" />
+        <mark key="." line="87" column="26" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1627306422259">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/piece/PiecePositionGroupManager.java" timestamp="1627308256239">
         <mark key="'" line="116" column="6" />
         <mark key="[" line="23" column="0" />
@@ -188,29 +193,19 @@
         <mark key="[" line="4426" column="25" />
         <mark key="]" line="4426" column="25" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/piece/PiecePositionEmployeeManager.java" timestamp="1627305179219">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="40" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/piece/PiecePositionGroupBO.java" timestamp="1627308622273">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="29" column="16" />
         <mark key="^" line="29" column="16" />
         <mark key="." line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/provider/piece/PiecePositionGroupProvider.java" timestamp="1627309663950">
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/controller/MainController.java" timestamp="1627356323715" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/provider/piece/PiecePositionGroupProvider.java" timestamp="1627309758692">
         <mark key="'" line="164" column="58" />
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="31" column="30" />
-        <mark key="." line="31" column="29" />
-        <mark key="^" line="31" column="30" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/piece/PiecePositionGroupFacade.java" timestamp="1627307584542">
-        <mark key="'" line="15" column="17" />
-        <mark key="[" line="87" column="14" />
-        <mark key="]" line="87" column="27" />
-        <mark key="^" line="87" column="27" />
-        <mark key="." line="87" column="26" />
+        <mark key="[" line="30" column="108" />
+        <mark key="]" line="30" column="110" />
+        <mark key="." line="30" column="109" />
+        <mark key="^" line="30" column="110" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionGroupResource.java" timestamp="1627307525299">
         <mark key="'" line="52" column="66" />
@@ -218,9 +213,6 @@
         <mark key="]" line="94" column="71" />
         <mark key="." line="94" column="70" />
         <mark key="^" line="94" column="71" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionEmployeeResource.java" timestamp="1627298092591">
-        <mark key="'" line="120" column="43" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionResource.java" timestamp="1627304558460">
         <mark key="'" line="44" column="13" />
@@ -341,10 +333,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>S</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>PUT</text>
