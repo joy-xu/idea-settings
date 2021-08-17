@@ -141,7 +141,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-common/src/main/java/com/cainiao/lms/util/StringGenerator.java" timestamp="1629217499976">
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-common/src/main/java/com/cainiao/lms/util/StringGenerator.java" timestamp="1629218850625">
         <mark key="[" line="24" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210817.073644-10-sources.jar!/com/cainiao/gwms/tida/client/dto/scp/ScPlanOrderDetailDTO.java" timestamp="1629211372963">
@@ -159,7 +159,9 @@
         <mark key="^" line="19" column="24" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/OpsResource.java" timestamp="1629216564332" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/OpsResource.java" timestamp="1629218848885">
+        <mark key="'" line="35" column="1" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/ScpQueryPlanDetailBO.java" timestamp="1629211539544">
         <mark key="[" line="20" column="19" />
         <mark key="]" line="20" column="23" />
@@ -193,8 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="74" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/HsfConsumerConfig.java" />
-      <jump line="20" column="13" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/SupplyChainPlanServiceImpl.java" />
       <jump line="25" column="37" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/SupplyChainPlanBaseBO.java" />
       <jump line="53" column="49" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-common/src/main/java/com/cainiao/lms/middleware/diamond/DiamondSwitchProperty.java" />
       <jump line="15" column="41" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
@@ -293,6 +293,8 @@
       <jump line="14" column="13" filename="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210817.073644-10-sources.jar!/com/cainiao/gwms/tida/client/dto/scp/ScPlanOrderUnitDTO.java" />
       <jump line="13" column="13" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/ScpUnitDetailBO.java" />
       <jump line="40" column="5" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/ScpUnitDetailBO.java" />
+      <jump line="75" column="28" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/OpsResource.java" />
+      <jump line="35" column="1" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/OpsResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
