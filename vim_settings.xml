@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>and</entry>
         <entry>LocalDateTime.now</entry>
         <entry>hbase</entry>
         <entry>Hbase</entry>
@@ -26,6 +25,7 @@
         <entry>version</entry>
         <entry>Page</entry>
         <entry>===</entry>
+        <entry>status</entry>
         <entry>TODO</entry>
       </history-search>
       <history-cmd>
@@ -130,50 +130,53 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/enums/scp/SupplyChainPlanOrderTypeEnum.java" timestamp="1629254287962" />
       <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210817.073644-10-sources.jar!/com/cainiao/gwms/tida/client/dto/scp/ScPlanOrderUnitDTO.java" timestamp="1629211390497">
         <mark key="'" line="14" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210817.073644-10-sources.jar!/com/cainiao/gwms/tida/client/req/scp/SpdQueryParam.java" timestamp="1629205321438" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/BindingEmployeeServiceImpl.java" timestamp="1629193730918" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" timestamp="1629212675888">
-        <mark key="'" line="147" column="19" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" timestamp="1629254902118">
+        <mark key="'" line="443" column="40" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-common/src/main/java/com/cainiao/lms/util/StringGenerator.java" timestamp="1629222448941">
-        <mark key="[" line="24" column="44" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-common/src/main/java/com/cainiao/lms/util/StringGenerator.java" timestamp="1629253352853">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210817.073644-10-sources.jar!/com/cainiao/gwms/tida/client/dto/scp/ScPlanOrderDetailDTO.java" timestamp="1629211372963">
         <mark key="'" line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/scp/ScpCopyServiceImpl.java" timestamp="1629193747827">
-        <mark key="[" line="18" column="65" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="45" />
-        <mark key="^" line="13" column="46" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/ScpLogQueryResultBO.java" timestamp="1629254422798">
+        <mark key="'" line="13" column="13" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="7" />
+        <mark key="." line="39" column="6" />
+        <mark key="^" line="39" column="7" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/pom.xml" timestamp="1629193681254" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpCopyServiceImpl.java" timestamp="1629193775478">
-        <mark key="]" line="19" column="24" />
-        <mark key="^" line="19" column="24" />
-        <mark key="." line="19" column="23" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/enums/scp/ScpSpdStatusEnum.java" timestamp="1629254497916">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="28" />
+        <mark key="." line="18" column="27" />
+        <mark key="^" line="18" column="28" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/OpsResource.java" timestamp="1629218848885">
         <mark key="'" line="35" column="1" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/ScpBaseBO.java" timestamp="1629253995946">
+        <mark key="'" line="13" column="13" />
+        <mark key="[" line="58" column="32" />
+        <mark key="]" line="58" column="33" />
+        <mark key="^" line="58" column="33" />
+        <mark key="." line="58" column="32" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/ScpQueryPlanDetailBO.java" timestamp="1629211539544">
         <mark key="[" line="20" column="19" />
         <mark key="]" line="20" column="23" />
         <mark key="^" line="20" column="23" />
         <mark key="." line="20" column="22" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/ScpCapacityBO.java" timestamp="1629203317640">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="50" column="33" />
-        <mark key="]" line="50" column="34" />
-        <mark key="." line="50" column="33" />
-        <mark key="^" line="50" column="34" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/ScpService.java" timestamp="1629205984706">
         <mark key="'" line="42" column="18" />
@@ -183,24 +186,23 @@
         <mark key="." line="98" column="47" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210817.073644-10-sources.jar!/com/cainiao/gwms/tida/client/service/scp/ProductionCapacityPlanService.java" timestamp="1629204203398" />
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210818.022736-12-sources.jar!/com/cainiao/gwms/tida/client/enums/scp/state/SpdStates.java" timestamp="1629254237795" />
       <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210817.073644-10-sources.jar!/com/cainiao/gwms/tida/client/service/scp/ScPlanOrderDetailService.java" timestamp="1629205241305" />
       <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210817.073644-10-sources.jar!/com/cainiao/gwms/tida/client/service/scp/ScPlanOrderUnitService.java" timestamp="1629212627141" />
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210817.073644-10-sources.jar!/com/cainiao/gwms/tida/client/dto/scp/ScPlanOrderDTO.java" timestamp="1629203773854" />
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210817.073644-10-sources.jar!/com/cainiao/gwms/tida/client/dto/scp/ProductionCapacitySpdDayDTO.java" timestamp="1629202703622" />
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210817.135213-11-sources.jar!/com/cainiao/gwms/tida/client/service/scp/ScPlanOrderDetailService.java" timestamp="1629253404032">
+        <mark key="'" line="24" column="17" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/ScpUnitDetailBO.java" timestamp="1629211705942">
         <mark key="'" line="40" column="5" />
         <mark key="]" line="68" column="1" />
         <mark key="^" line="68" column="1" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210818.022736-12-sources.jar!/com/cainiao/gwms/tida/client/service/scp/ScPlanOrderDetailService.java" timestamp="1629253934025">
+        <mark key="'" line="25" column="17" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="37" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/SupplyChainPlanBaseBO.java" />
-      <jump line="53" column="49" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-common/src/main/java/com/cainiao/lms/middleware/diamond/DiamondSwitchProperty.java" />
-      <jump line="15" column="41" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
-      <jump line="21" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/SupplyChainPlanBaseBO.java" />
-      <jump line="45" column="19" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/SupplyChainPlanServiceImpl.java" />
-      <jump line="59" column="27" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/SupplyChainPlanServiceImpl.java" />
       <jump line="903" column="23" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" />
       <jump line="219" column="43" filename="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourPprManagerImpl.java" />
       <jump line="23" column="17" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/indirectlabour/IndirectLabourManager.java" />
@@ -286,7 +288,6 @@
       <jump line="2149" column="60" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" />
       <jump line="32" column="8" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" />
       <jump line="193" column="24" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/productplan/impl/HumanResourcePlanFacadeImpl.java" />
-      <jump line="13" column="13" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/ScpBaseBO.java" />
       <jump line="373" column="16" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
       <jump line="147" column="19" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
       <jump line="19" column="13" filename="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210817.073644-10-sources.jar!/com/cainiao/gwms/tida/client/dto/scp/ScPlanOrderDetailDTO.java" />
@@ -295,15 +296,22 @@
       <jump line="40" column="5" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/ScpUnitDetailBO.java" />
       <jump line="75" column="28" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/OpsResource.java" />
       <jump line="35" column="1" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/OpsResource.java" />
+      <jump line="24" column="17" filename="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210817.135213-11-sources.jar!/com/cainiao/gwms/tida/client/service/scp/ScPlanOrderDetailService.java" />
+      <jump line="25" column="17" filename="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210818.022736-12-sources.jar!/com/cainiao/gwms/tida/client/service/scp/ScPlanOrderDetailService.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/ScpLogQueryResultBO.java" />
+      <jump line="13" column="13" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/ScpBaseBO.java" />
+      <jump line="128" column="40" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
+      <jump line="12" column="13" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/ScpLogQueryResultBO.java" />
+      <jump line="435" column="40" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLmxtcy5lbnRpdHkuYm8uc2NwLlNjcFF1ZXJ5UGxhbkRldGFpbEJPLlNjcFF1ZXJ5UGxhbkRldGFpbDsK</text>
+        <text encoding="base64">ICAgICAgICBzcG9EVE8uZ2V0Q3AK</text>
       </register>
       <register name="-" type="4">
-        <text>ScpQueryPlanDetailBO</text>
+        <text>requestResult</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -312,22 +320,22 @@
         <text encoding="base64">ICogPHA+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLmxtcy5lbnRpdHkuYm8uc2NwLlNjcFF1ZXJ5UGxhbkRldGFpbEJPLlNjcFF1ZXJ5UGxhbkRldGFpbDsK</text>
+        <text encoding="base64">ICAgICAgICBzcG9EVE8uZ2V0Q3AK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgU2NwUXVlcnlQbGFuRGV0YWlsQk8gZGV0YWlsUXVlcnkgPSBuZXcgU2NwUXVlcnlQbGFuRGV0YWlsQk8oKTsKICAgICAgICBTY3BRdWVyeVBsYW5EZXRhaWwgZGV0YWlsID0gbmV3IFNjcFF1ZXJ5UGxhbkRldGFpbChzcGRDb2RlLCBzcGRWZXJzaW9uKTsKICAgICAgICBkZXRhaWxRdWVyeS5zZXRTcGRMaXN0KENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoZGV0YWlsKSk7CiAgICAgICAgTGlzdDxTY3BVbml0RGV0YWlsQk8+IHNjcFVuaXREZXRhaWwgPSBmaW5kQWxsUGxhblVuaXREZXRhaWxzKGRldGFpbFF1ZXJ5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG8uZ2V0U3RhdHVzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIOWGhemDqOaPoeaJi+S4rQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogPC9wPgo=</text>
+        <text encoding="base64">ICAgIGludCAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -870,13 +878,15 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogPHA+CiAqIHNwb0NvZGXkuI3kuLrnqbrnmoTor50sIOihqOekumNvZGXkuI3lj5gsIOS9huimgeaWsOWinueJiOacrAogKiA8L3A+CiAqIDxwPgogKiBzcG9Db2Rl5Li656m655qE6K+dLCDooajnpLropoHlrozlhajliJvlu7rmlrDniYjmnKwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgT3B0aW9uYWw8U2NwU3BkU3RhdHVzRW51bT4gZ2V0QnlUeXBlKEludGVnZXIgdHlwZSkgewogICAgICAgIGlmICh0eXBlID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7CiAgICAgICAgfQogICAgICAgIGZvciAoU3VwcGx5Q2hhaW5QbGFuT3JkZXJUeXBlRW51bSBlIDogU3VwcGx5Q2hhaW5QbGFuT3JkZXJUeXBlRW51bS52YWx1ZXMoKSkgewogICAgICAgICAgICBpZiAoZS5nZXRUeXBlKCkgPT0gdHlwZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mKGUpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gT3B0aW9uYWwuZW1wdHkoKTsKICAgIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>ScpSpdStatusEnum(int type) {
+        this.type = type;
+    }</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
