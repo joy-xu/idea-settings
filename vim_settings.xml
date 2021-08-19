@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>idle</entry>
         <entry>====</entry>
         <entry>hBaseService</entry>
         <entry>CollectionUtils</entry>
@@ -27,6 +26,7 @@
         <entry>RequestParam</entry>
         <entry>String</entry>
         <entry>RoleInfoUtil</entry>
+        <entry>setCpCode</entry>
       </history-search>
       <history-cmd>
         <entry>%s/int/Integer/g</entry>
@@ -139,7 +139,13 @@
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" timestamp="1629363566810">
         <mark key="'" line="935" column="12" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" timestamp="1629363520935" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" timestamp="1629366618147">
+        <mark key="'" line="298" column="16" />
+        <mark key="[" line="453" column="56" />
+        <mark key="]" line="454" column="67" />
+        <mark key="." line="454" column="66" />
+        <mark key="^" line="454" column="67" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/productplan/impl/HumanResourcePlanFacadeImpl.java" timestamp="1629362050698">
         <mark key="[" line="445" column="57" />
         <mark key="]" line="445" column="0" />
@@ -182,6 +188,7 @@
         <mark key="^" line="30" column="12" />
         <mark key="." line="30" column="11" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210818.041707-13-sources.jar!/com/cainiao/gwms/tida/client/dto/scp/ScPlanOrderUnitDTO.java" timestamp="1629365685406" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/ScpService.java" timestamp="1629359071668">
         <mark key="'" line="122" column="36" />
         <mark key="[" line="83" column="51" />
@@ -201,23 +208,13 @@
         <mark key="." line="445" column="0" />
         <mark key="^" line="445" column="0" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/ScpTestResource.java" timestamp="1629364096813">
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/ScpTestResource.java" timestamp="1629366867121">
         <mark key="[" line="62" column="75" />
         <mark key="]" line="62" column="49" />
         <mark key="^" line="62" column="49" />
         <mark key="." line="62" column="48" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/fliter/LmsAuthFilter.java" timestamp="1629341810101">
-        <mark key="'" line="368" column="10" />
-        <mark key="[" line="412" column="0" />
-        <mark key="]" line="412" column="0" />
-        <mark key="." line="412" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/dataobject/productplan/DimCsnWmpIntlBasicCampaignDO.java" timestamp="1629342350366">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/qo/productplan/HumanResourcePlanQO.java" timestamp="1629365569441" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/controller/MainController.java" timestamp="1629360848425">
         <mark key="'" line="90" column="4" />
       </file>
@@ -232,14 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="13" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/BasicHsfConsumer.java" />
-      <jump line="462" column="12" filename="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/logback-spring.xml" />
-      <jump line="33" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/ScpService.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-scp-client/pom.xml" />
-      <jump line="5313" column="28" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/impl/ExcelOperatorFacadeImpl.java" />
-      <jump line="5128" column="12" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/impl/ExcelOperatorFacadeImpl.java" />
-      <jump line="840" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/impl/ExcelOperatorFacadeImpl.java" />
-      <jump line="39" column="14" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/ExcelOperatorFacade.java" />
       <jump line="116" column="4" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/param/ParamResource.java" />
       <jump line="55" column="13" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/indirectlabour/FinishWithAttendanceProcessor.java" />
       <jump line="74" column="1" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/dataobject/ParamDO.java" />
@@ -332,24 +321,32 @@
       <jump line="91" column="56" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/OpsResource.java" />
       <jump line="51" column="7" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/OpsResource.java" />
       <jump line="935" column="12" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/AdminResource.java" />
+      <jump line="480" column="25" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
+      <jump line="263" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
+      <jump line="405" column="16" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
+      <jump line="443" column="31" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
+      <jump line="453" column="31" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
+      <jump line="481" column="15" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
+      <jump line="264" column="23" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
+      <jump line="298" column="16" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>RequestParam</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldGFpbAo=</text>
       </register>
       <register name="-" type="4">
         <text>RequestParam</text>
       </register>
       <register name="/" type="4">
-        <text>RoleInfoUtil</text>
+        <text>setCpCode</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1bml0Qk8uc2V0T3BlcmF0b3JJZChSb2xlSW5mb1V0aWwuZ2V0QWNjb3VudFZPKCkuZ2V0QWNjb3VudElkKCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldGFpbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -361,10 +358,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCJ0ZXN0U2VhcmNoT3BlcmF0ZUxvZyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCJ0ZXN0U2VhcmNoT3BlcmF0ZUxvZyIpCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -907,16 +904,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCJ0ZXN0RmluZEFsbFBsYW5Vbml0RGV0YWlscyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCJ0ZXN0RmluZEFsbFBsYW5Vbml0RGV0YWlscyIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCJ0ZXN0RWRpdFBsYW5Vbml0RGV0YWlsIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCJ0ZXN0RWRpdFBsYW5Vbml0RGV0YWlsIikK</text>
       </register>
       <register name=":" type="4">
         <text>620</text>
@@ -925,12 +922,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>RoleInfoUtil</last-search>
+      <last-search>setCpCode</last-search>
       <last-offset />
-      <last-pattern>RoleInfoUtil</last-pattern>
+      <last-pattern>setCpCode</last-pattern>
       <last-replace>startTime</last-replace>
       <last-substitute>localDateTime</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
