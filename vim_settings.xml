@@ -154,13 +154,18 @@
         <mark key="." line="101" column="17" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/permissions/AccountResource.java" timestamp="1629380613311" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/qo/productplan/HumanResourcePlanQO.java" timestamp="1629365569441" />
       <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210818.041707-13-sources.jar!/com/cainiao/gwms/tida/client/service/scp/ProductionCapacityPlanService.java" timestamp="1629442031196" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" timestamp="1629448186000">
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" timestamp="1629449947566">
         <mark key="'" line="107" column="8" />
         <mark key="[" line="570" column="0" />
         <mark key="]" line="570" column="42" />
         <mark key="." line="570" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/productplan/impl/HumanResourcePlanFacadeImpl.java" timestamp="1629450194086">
+        <mark key="[" line="307" column="26" />
+        <mark key="]" line="307" column="30" />
+        <mark key="." line="307" column="29" />
+        <mark key="^" line="307" column="30" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpCopyServiceImpl.java" timestamp="1629379411230">
         <mark key="[" line="41" column="0" />
@@ -290,11 +295,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0Q29udGVudChvLmdldENvbnRlbnQoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Id</text>
       </register>
       <register name="-" type="4">
-        <text>o.getCode()</text>
+        <text>Id</text>
       </register>
       <register name="/" type="4">
         <text>setCpCode</text>
