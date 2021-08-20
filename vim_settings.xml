@@ -156,6 +156,12 @@
         <mark key="^" line="445" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210818.041707-13-sources.jar!/com/cainiao/gwms/tida/client/service/scp/ScPlanOrderDetailService.java" timestamp="1629373800998" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/qo/productplan/SaveNeedPersonQo.java" timestamp="1629434331843">
+        <mark key="[" line="15" column="71" />
+        <mark key="]" line="15" column="70" />
+        <mark key="^" line="15" column="70" />
+        <mark key="." line="15" column="69" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpCopyServiceImpl.java" timestamp="1629379411230">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -167,18 +173,6 @@
         <mark key="." line="37" column="12" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210818.041707-13-sources.jar!/com/cainiao/gwms/tida/client/dto/scp/ScPlanOrderUnitDTO.java" timestamp="1629365685406" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/productplan/impl/ProductionEfficiencyPlanFacadeImpl.java" timestamp="1629362032223">
-        <mark key="[" line="264" column="86" />
-        <mark key="]" line="265" column="8" />
-        <mark key="." line="265" column="7" />
-        <mark key="^" line="265" column="8" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/productplan/impl/EfficiencyPlanTargetDetailFacadeImpl.java" timestamp="1629362042659">
-        <mark key="[" line="442" column="37" />
-        <mark key="]" line="445" column="0" />
-        <mark key="." line="445" column="0" />
-        <mark key="^" line="445" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/ScpTestResource.java" timestamp="1629374460749">
         <mark key="[" line="101" column="17" />
         <mark key="]" line="101" column="18" />
@@ -196,23 +190,13 @@
       <file name="$MAVEN_REPOSITORY$/org/glassfish/jersey/media/jersey-media-multipart/2.25.1/jersey-media-multipart-2.25.1-sources.jar!/org/glassfish/jersey/media/multipart/FormDataParam.java" timestamp="1629431409727">
         <mark key="'" line="65" column="1" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/productplan/EfficiencyPlanTargetDetailResource.java" timestamp="1629431520442">
-        <mark key="[" line="118" column="107" />
-        <mark key="]" line="119" column="30" />
-        <mark key="^" line="119" column="30" />
-        <mark key="." line="119" column="29" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/resources/META-INF/services/com.taobao.hsf.invocation.filter.RPCFilter" timestamp="1629379077728" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/piece/PiecePositionEmployeeResource.java" timestamp="1629432823994" />
       <file name="/fragment.java" timestamp="1629379085965">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="1" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/dataobject/ParamDO.java" />
-      <jump line="54" column="13" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/ppr/impl/PprPositionManagerImpl.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/ppr/impl/PprPositionManagerImpl.java" />
-      <jump line="110" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/ParamManager.java" />
-      <jump line="87" column="12" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/ScPprHandler.java" />
       <jump line="288" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" />
       <jump line="142" column="5" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/workplace/handler/AbstractPprWorkplaceHandler.java" />
       <jump line="41" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/ScpService.java" />
@@ -308,15 +292,20 @@
       <jump line="114" column="39" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
       <jump line="11" column="13" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-scp-client/src/main/java/com/cainiao/wmplms/scp/dto/WmpResultDTO.java" />
       <jump line="65" column="1" filename="$MAVEN_REPOSITORY$/org/glassfish/jersey/media/jersey-media-multipart/2.25.1/jersey-media-multipart-2.25.1-sources.jar!/org/glassfish/jersey/media/multipart/FormDataParam.java" />
+      <jump line="128" column="4" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/productplan/EfficiencyPlanTargetDetailResource.java" />
+      <jump line="126" column="140" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/productplan/EfficiencyPlanTargetDetailResource.java" />
+      <jump line="133" column="85" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/productplan/EfficiencyPlanTargetDetailResource.java" />
+      <jump line="136" column="4" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/productplan/EfficiencyPlanTargetDetailResource.java" />
+      <jump line="98" column="4" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/productplan/EfficiencyPlanTargetDetailResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>@</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>setCpCode</text>
