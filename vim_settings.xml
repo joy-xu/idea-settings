@@ -131,15 +131,18 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-client/src/main/java/com/cainiao/lms/client/DiamondLmsSwitchProperty.java" timestamp="1629636683177" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-spring-boot-starter/src/main/java/com/cainiao/lms/diamond/LocalCacheDiamondConfig.java" timestamp="1629637784157">
-        <mark key="'" line="18" column="35" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="28" column="56" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-spring-boot-starter/src/main/java/com/cainiao/lms/diamond/Main.java" timestamp="1629642358073">
+        <mark key="'" line="16" column="53" />
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="36" column="38" />
+        <mark key="^" line="36" column="38" />
+        <mark key="." line="36" column="37" />
       </file>
-      <file name="/a.dummy" timestamp="1629633926432">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-spring-boot-starter/src/main/java/com/cainiao/lms/diamond/LocalCacheDiamondConfig.java" timestamp="1629642348578">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="117" />
+        <mark key="." line="38" column="106" />
+        <mark key="^" line="38" column="107" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-spring-boot-starter/src/main/java/com/cainiao/lms/util/LmsEnvUtil.java" timestamp="1629635276898">
         <mark key="'" line="20" column="0" />
@@ -155,19 +158,8 @@
         <mark key="." line="1178" column="38" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-web/src/main/resources/application.properties" timestamp="1629636676423" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-spring-boot-starter/src/main/java/com/cainiao/lms/diamond/LocalCacheDiamond.java" timestamp="1629633936091">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="9" column="5" />
-        <mark key="^" line="9" column="5" />
-        <mark key="." line="9" column="4" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/lms/wmplms-operate-spring-boot-starter/1.0.0-SNAPSHOT/wmplms-operate-spring-boot-starter-1.0.0-SNAPSHOT.jar!/com/cainiao/lms/diamond/LocalCacheDiamondConfig.class" timestamp="1629639821934" />
-      <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-spring-boot-starter/src/main/java/com/cainiao/lms/operate/auto/OperateClientAutoConfiguration.java" timestamp="1629634404673">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="16" column="15" />
-      </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpCopyServiceImpl.java" timestamp="1629640295696" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/pom.xml" timestamp="1629637632744">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="234" column="0" />
@@ -185,6 +177,7 @@
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-client/src/main/java/com/cainiao/lms/operate/service/EmployeeReadService.java" timestamp="1629635858258" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/EmployeeLabelServiceImpl.java" timestamp="1629638443893" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/fliter/LmsAuthFilter.java" timestamp="1629641973741" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/filter/HsfOptionalExceptionFilter.java" timestamp="1629638518757" />
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-spring-boot-starter/pom.xml" timestamp="1629637745070">
         <mark key="[" line="27" column="28" />
@@ -199,6 +192,9 @@
         <mark key="^" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/resources/META-INF/services/com.taobao.hsf.invocation.filter.RPCFilter" timestamp="1629638506355" />
+      <file name="/fragment.java" timestamp="1629641526947">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-operate-spring-boot-starter/src/main/java/com/cainiao/lms/operate/filter/LmsOperateLocalCacheFilter.java" timestamp="1629638563522">
         <mark key="]" line="23" column="39" />
         <mark key="^" line="23" column="39" />
@@ -206,8 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="40" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
-      <jump line="12" column="13" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/ScpLogQueryResultBO.java" />
       <jump line="435" column="40" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
       <jump line="155" column="31" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/BsPprHandler.java" />
       <jump line="365" column="67" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/LabourEfficiencyDTO.java" />
@@ -306,24 +300,26 @@
       <jump line="303" column="29" filename="$USER_HOME$/cainiao/wmplms-calc/pom.xml" />
       <jump line="11" column="12" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/pom.xml" />
       <jump line="68" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/pom.xml" />
+      <jump line="47" column="8" filename="$USER_HOME$/cainiao/wmplms/wmplms-operate-spring-boot-starter/src/main/java/com/cainiao/lms/diamond/LocalCacheDiamondConfig.java" />
+      <jump line="15" column="53" filename="$USER_HOME$/cainiao/wmplms/wmplms-operate-spring-boot-starter/src/main/java/com/cainiao/lms/diamond/Main.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>hsfOptionalExceptionFilter</text>
+        <text>configInfo</text>
       </register>
       <register name="-" type="4">
-        <text>hsfOptionalExceptionFilter</text>
+        <text>configInfo</text>
       </register>
       <register name="/" type="4">
         <text>findPlanUnit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5qC55o2ubWV0aG9kS2V5LCDpgJrov4fosIPnlKjlj4LmlbDku45jYWNoZeS4reebtOaOpeiOt+WPluaehOmAoOi/lOWbnue7k+aenAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZpZyA9IEpTT04ucGFyc2VPYmplY3QoY29uZmlnSW5mbywgbmV3IFR5cGVSZWZlcmVuY2U8TWFwPFN0cmluZywgTWFwPFN0cmluZywgQ2FjaGVDb25maWc+Pj4oKSB7fSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcgPSBKU09OLnBhcnNlT2JqZWN0KGpzb24sIGNvbmZpZy5nZXRDbGFzcygpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -332,13 +328,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4wLjAtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd21wbG1zLW9wZXJhdGUtc3ByaW5nLWJvb3Qtc3RhcnRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OLnBhcnNlCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -881,16 +877,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBMTVNfT1BFUkFURV9TV0lUQ0hfREFUQV9JRCA9ICJjb20uY2Fpbmlhby53bXBsbXMuZGlhbW9uZC5Td2l0Y2hQcm9wZXJ0eSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4wLjAtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd21wbG1zLW9wZXJhdGUtc3ByaW5nLWJvb3Qtc3RhcnRlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>620</text>
