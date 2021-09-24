@@ -130,6 +130,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/controller/DingtalkCallbackController.java" timestamp="1632488858585">
+        <mark key="'" line="422" column="16" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/top/top-api-sdk-dev/1.1.8-alibaba-SNAPSHOT/top-api-sdk-dev-1.1.8-alibaba-20210122.124103-5-sources.jar!/com/dingtalk/api/DefaultDingTalkClient.java" timestamp="1632469796968">
         <mark key="'" line="16" column="13" />
       </file>
@@ -159,12 +162,6 @@
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/Dockerfile_staging" timestamp="1632483889121" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/Dockerfile_pre2_staging2" timestamp="1632483883199" />
-      <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_staging" timestamp="1632403129739">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="74" />
-        <mark key="." line="2" column="73" />
-        <mark key="^" line="2" column="74" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/Dockerfile_testing" timestamp="1632483891913" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/controller/TestController.java" timestamp="1632459535351">
         <mark key="'" line="386" column="12" />
@@ -198,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="51" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
       <jump line="401" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
       <jump line="17" column="17" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/adbmapper/LabourPprTestMapper.java" />
       <jump line="59" column="16" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/ScpService.java" />
@@ -298,6 +294,7 @@
       <jump line="17" column="13" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/dataobject/ppr/LmsLabourEfficiencyPprResultDO.java" />
       <jump line="386" column="12" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/controller/TestController.java" />
       <jump line="16" column="13" filename="$MAVEN_REPOSITORY$/com/taobao/top/top-api-sdk-dev/1.1.8-alibaba-SNAPSHOT/top-api-sdk-dev-1.1.8-alibaba-20210122.124103-5-sources.jar!/com/dingtalk/api/DefaultDingTalkClient.java" />
+      <jump line="422" column="16" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/controller/DingtalkCallbackController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
