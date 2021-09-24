@@ -136,6 +136,9 @@
         <mark key="." line="12" column="115" />
         <mark key="^" line="12" column="116" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/top/top-api-sdk-dev/1.1.8-alibaba-SNAPSHOT/top-api-sdk-dev-1.1.8-alibaba-20210122.124103-5-sources.jar!/com/dingtalk/api/DefaultDingTalkClient.java" timestamp="1632469796968">
+        <mark key="'" line="16" column="13" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmi-auth/APP-META/docker-config/Dockerfile_sig-pre" timestamp="1632402201171">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -150,19 +153,14 @@
         <mark key="^" line="11" column="116" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_project" timestamp="1632403122849" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1632469606704" />
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_base" timestamp="1632403097665">
         <mark key="[" line="19" column="133" />
         <mark key="]" line="19" column="133" />
         <mark key="." line="19" column="133" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmi-auth/APP-META/docker-config/Dockerfile_project" timestamp="1632402195749">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="12" column="116" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkTaskApiService.java" timestamp="1632456190618" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkTaskApiService.java" timestamp="1632469734297" />
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_gray" timestamp="1632403108344">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="74" />
@@ -191,16 +189,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="116" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmi-auth/APP-META/docker-config/Dockerfile_production" timestamp="1632402191149">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_pre-sig" timestamp="1632403118349" />
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_pre2_staging2" timestamp="1632403115007" />
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_lzd-pre_staging1" timestamp="1632403109811" />
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_production" timestamp="1632403126697" />
-      <file name="$USER_HOME$/cainiao/wmi-auth/APP-META/docker-config/Dockerfile_testing-trunk" timestamp="1632402242686">
+      <file name="$USER_HOME$/cainiao/wmi-auth/APP-META/docker-config/Dockerfile_testing-trunk" timestamp="1632470126291">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="11" column="117" />
         <mark key="." line="11" column="116" />
@@ -208,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="8" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
       <jump line="368" column="51" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
       <jump line="401" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
       <jump line="17" column="17" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/adbmapper/LabourPprTestMapper.java" />
@@ -308,6 +300,7 @@
       <jump line="308" column="40" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" />
       <jump line="17" column="13" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/dataobject/ppr/LmsLabourEfficiencyPprResultDO.java" />
       <jump line="386" column="12" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/controller/TestController.java" />
+      <jump line="16" column="13" filename="$MAVEN_REPOSITORY$/com/taobao/top/top-api-sdk-dev/1.1.8-alibaba-SNAPSHOT/top-api-sdk-dev-1.1.8-alibaba-20210122.124103-5-sources.jar!/com/dingtalk/api/DefaultDingTalkClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
