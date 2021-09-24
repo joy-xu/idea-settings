@@ -135,6 +135,11 @@
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_project" timestamp="1632403122849" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1632469606704" />
+      <file name="$USER_HOME$/cainiao/wmplms/pom.xml" timestamp="1632475544643">
+        <mark key="[" line="1033" column="0" />
+        <mark key="]" line="1033" column="0" />
+        <mark key="." line="1033" column="0" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkTaskApiService.java" timestamp="1632469734297" />
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_testing" timestamp="1632403132853">
         <mark key="[" line="2" column="0" />
@@ -157,7 +162,6 @@
       <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/Dockerfile_lzd-publish_production1" timestamp="1632470407548" />
       <file name="$MAVEN_REPOSITORY$/com/moredian/algorithm/moredian-algorithm-tool/1.1/moredian-algorithm-tool-1.1.jar!/com/moredian/algorithm/AlgorithmInspection.class" timestamp="1632455014639" />
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_pre-sig" timestamp="1632403118349" />
-      <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_pre2_staging2" timestamp="1632403115007" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/Dockerfile_base" timestamp="1632470383589">
         <mark key="[" line="26" column="30" />
         <mark key="]" line="26" column="106" />
@@ -280,11 +284,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>reg.docker.alibaba-inc.com/aone-base/wmplms_2021-09-23:20210923205436</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uY2Fpbmlhby50b3J0b2lzZTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnRvcnRvaXNlLWJvbTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjAuNS40PC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPHR5cGU+cG9tPC90eXBlPgogICAgICAgICAgICAgICAgPHNjb3BlPmltcG9ydDwvc2NvcGU+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="-" type="4">
-        <text>reg.docker.alibaba-inc.com/aone-base/wmplms_2021-09-23:20210923205436</text>
+        <text>0.7.8</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
@@ -293,7 +297,7 @@
         <text encoding="base64">RlJPTSByZWcuZG9ja2VyLmFsaWJhYmEtaW5jLmNvbS9hb25lLWJhc2Uvd21wbG1zXzIwMjEtMDktMjM6MjAyMTA5MjMyMDU0MzYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2dldCAtYyAiaHR0cDovL29wcy5qbS50YW9iYW8ub3JnOjk5OTkvcGFuZG9yYS13ZWIvc2FyLyR7U0FSX1ZFUlNJT059L3Rhb2Jhby1oc2YudGd6IiAtTyAvaG9tZS9hZG1pbi90YW9iYW8taHNmLnRnego=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uY2Fpbmlhby50b3J0b2lzZTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnRvcnRvaXNlLWJvbTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjAuNS40PC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPHR5cGU+cG9tPC90eXBlPgogICAgICAgICAgICAgICAgPHNjb3BlPmltcG9ydDwvc2NvcGU+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -860,7 +864,7 @@
         <text encoding="base64">d2dldCAtYyAiaHR0cDovL29wcy5qbS50YW9iYW8ub3JnOjk5OTkvcGFuZG9yYS13ZWIvc2FyLyR7U0FSX1ZFUlNJT059L3Rhb2Jhby1oc2YudGd6IiAtTyAvaG9tZS9hZG1pbi90YW9iYW8taHNmLnRnego=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2dldCAtcWMgLU8gL2hvbWUvYWRtaW4vJEFQUF9OQU1FL3RhcmdldC90YW9iYW8taHNmLnRneiAiaHR0cDovL29wcy5qbS50YW9iYW8ub3JnOjk5OTkvcGFuZG9yYS13ZWIvc2FyLyR7c2FyX3ZlcnNpb259L3Rhb2Jhby1oc2YudGd6IiAmJiBcCg==</text>
+        <text encoding="base64">d2dldCAtYyAiaHR0cDovL29wcy5qbS50YW9iYW8ub3JnOjk5OTkvcGFuZG9yYS13ZWIvc2FyLyR7U0FSX1ZFUlNJT059L3Rhb2Jhby1oc2YudGd6IiAtTyAvaG9tZS9hZG1pbi90YW9iYW8taHNmLnRnego=</text>
       </register>
       <register name=":" type="4">
         <text>620</text>
