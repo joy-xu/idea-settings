@@ -154,12 +154,6 @@
         <mark key="." line="1033" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkTaskApiService.java" timestamp="1632469734297" />
-      <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_testing" timestamp="1632403132853">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="74" />
-        <mark key="." line="2" column="73" />
-        <mark key="^" line="2" column="74" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/Dockerfile_staging" timestamp="1632483889121" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/Dockerfile_pre2_staging2" timestamp="1632483883199" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/Dockerfile_testing" timestamp="1632483891913" />
@@ -173,6 +167,9 @@
         <mark key="." line="1024" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/moredian/algorithm/moredian-algorithm-tool/1.1/moredian-algorithm-tool-1.1.jar!/com/moredian/algorithm/AlgorithmInspection.class" timestamp="1632455014639" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/efficiency/impl/StaffEfficiencyFacadeImpl.java" timestamp="1632730318525">
+        <mark key="'" line="124" column="8" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/Dockerfile_base" timestamp="1632483818996">
         <mark key="[" line="69" column="30" />
         <mark key="]" line="69" column="34" />
@@ -195,8 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="401" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
-      <jump line="17" column="17" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/adbmapper/LabourPprTestMapper.java" />
       <jump line="59" column="16" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/ScpService.java" />
       <jump line="13" column="13" filename="$MAVEN_REPOSITORY$/com/cainiao/gwms/gwms-tida-client/1.0.8-SNAPSHOT/gwms-tida-client-1.0.8-20210820.074758-16-sources.jar!/com/cainiao/gwms/tida/client/dto/scp/OrderForecastHourDetailDTO.java" />
       <jump line="15" column="6" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/bo/scp/OrderForecastHourDetailBO.java" />
@@ -295,6 +290,8 @@
       <jump line="386" column="12" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/controller/TestController.java" />
       <jump line="16" column="13" filename="$MAVEN_REPOSITORY$/com/taobao/top/top-api-sdk-dev/1.1.8-alibaba-SNAPSHOT/top-api-sdk-dev-1.1.8-alibaba-20210122.124103-5-sources.jar!/com/dingtalk/api/DefaultDingTalkClient.java" />
       <jump line="422" column="16" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/controller/DingtalkCallbackController.java" />
+      <jump line="80" column="23" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/efficiency/impl/StaffEfficiencyFacadeImpl.java" />
+      <jump line="124" column="8" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/efficiency/impl/StaffEfficiencyFacadeImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
