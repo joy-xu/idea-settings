@@ -130,15 +130,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_lzd-publish_production" timestamp="1632808721542" />
-      <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_project" timestamp="1632808732795" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-common/src/main/java/com/cainiao/lms/constants/DingTalkConstants.java" timestamp="1633099843321" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/impl/EmployeeChangeHandler.java" timestamp="1632905120628" />
-      <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_gray" timestamp="1632808716662">
+      <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_staging" timestamp="1632808736249">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="74" />
         <mark key="." line="2" column="73" />
         <mark key="^" line="2" column="74" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" timestamp="1632915922366">
+        <mark key="'" line="1946" column="7" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/productplan/impl/EfficiencyPlanTargetDetailFacadeImpl.java" timestamp="1632989333186">
+        <mark key="'" line="446" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/pom.xml" timestamp="1632811622937">
+        <mark key="[" line="1024" column="0" />
+        <mark key="]" line="1024" column="0" />
+        <mark key="." line="1024" column="0" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_testing" timestamp="1632808740203">
         <mark key="[" line="2" column="0" />
@@ -146,33 +153,6 @@
         <mark key="." line="2" column="73" />
         <mark key="^" line="2" column="74" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_staging" timestamp="1632808736249">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="74" />
-        <mark key="." line="2" column="73" />
-        <mark key="^" line="2" column="74" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1632916180467" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/pom.xml" timestamp="1632811622937">
-        <mark key="[" line="1024" column="0" />
-        <mark key="]" line="1024" column="0" />
-        <mark key="." line="1024" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/mapper/DingtalkCallbackEventMapper.java" timestamp="1632841854339" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/DingTalkCallbackEventProcessor.java" timestamp="1632841746572" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/salary/AbnormalResultNotifyProcessor.java" timestamp="1632841097893" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" timestamp="1632915922366">
-        <mark key="'" line="1946" column="7" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_pre-sig" timestamp="1632808727452" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/productplan/impl/EfficiencyPlanTargetDetailFacadeImpl.java" timestamp="1632989333186">
-        <mark key="'" line="446" column="0" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/adbmapper/productplan/LmsPprWorkPersonNumMapper.java" timestamp="1632990345116" />
-      <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_pre2_staging2" timestamp="1632808724579" />
-      <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_lzd-pre_staging1" timestamp="1632808718420" />
-      <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_production" timestamp="1632808730153" />
-      <file name="$USER_HOME$/cainiao/wmi-auth/wmi-auth-service/src/main/java/com/cainiao/wmi/auth/service/api/impl/UserServiceImpl.java" timestamp="1632989281837" />
     </filemarks>
     <jumps>
       <jump line="66" column="83" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/ScpTestResource.java" />
