@@ -130,14 +130,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1633328301380" />
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_staging" timestamp="1632808736249">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="74" />
         <mark key="." line="2" column="73" />
         <mark key="^" line="2" column="74" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" timestamp="1632915922366">
-        <mark key="'" line="1946" column="7" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" timestamp="1633328776620">
+        <mark key="'" line="1335" column="4" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/productplan/impl/EfficiencyPlanTargetDetailFacadeImpl.java" timestamp="1632989333186">
         <mark key="'" line="446" column="0" />
@@ -147,6 +148,8 @@
         <mark key="]" line="1024" column="0" />
         <mark key="." line="1024" column="0" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1633327416017" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/workplace/handler/LzdWorkplaceHandler.java" timestamp="1633327369106" />
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_testing" timestamp="1632808740203">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="74" />
@@ -155,9 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="83" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/admin/ScpTestResource.java" />
-      <jump line="121" column="25" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
-      <jump line="471" column="16" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
       <jump line="536" column="31" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
       <jump line="147" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
       <jump line="448" column="31" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
@@ -255,6 +255,9 @@
       <jump line="80" column="40" filename="$USER_HOME$/cainiao/wmplms/wmplms-service/src/main/java/com/cainiao/lms/service/hsf/impl/LinkQueryEmployeeServiceImpl.java" />
       <jump line="19" column="3" filename="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_base" />
       <jump line="446" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/productplan/impl/EfficiencyPlanTargetDetailFacadeImpl.java" />
+      <jump line="1272" column="51" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" />
+      <jump line="1308" column="8" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" />
+      <jump line="1335" column="4" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
