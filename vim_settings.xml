@@ -131,12 +131,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractBasePprHandler.java" timestamp="1633328301380" />
-      <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_staging" timestamp="1632808736249">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="74" />
-        <mark key="." line="2" column="73" />
-        <mark key="^" line="2" column="74" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/pom.xml" timestamp="1632811622937">
         <mark key="[" line="1024" column="0" />
         <mark key="]" line="1024" column="0" />
@@ -157,6 +151,9 @@
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/param/ParamResource.java" timestamp="1633345914917" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-pojo/src/main/java/com/cainiao/lms/enums/WorkNatureEnum.java" timestamp="1633751684396" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/DingTalkSyncService.java" timestamp="1633761891468">
+        <mark key="'" line="23" column="17" />
+      </file>
       <file name="$USER_HOME$/cainiao/wmplms/APP-META/docker-config/Dockerfile_testing" timestamp="1632808740203">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="74" />
@@ -165,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="536" column="31" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
       <jump line="147" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
       <jump line="448" column="31" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/hsf/scp/impl/ScpServiceImpl.java" />
       <jump line="2230" column="40" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.9.RELEASE/spring-boot-dependencies-2.3.9.RELEASE.pom" />
@@ -265,6 +261,7 @@
       <jump line="1272" column="51" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" />
       <jump line="1308" column="8" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" />
       <jump line="1335" column="4" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" />
+      <jump line="23" column="17" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/DingTalkSyncService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
