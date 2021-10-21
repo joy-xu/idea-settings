@@ -130,13 +130,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/APP-META/docker-config/environment/common/cai/conf/nginx-proxy-core.conf" timestamp="1634802992094" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" timestamp="1634709399020">
-        <mark key="'" line="468" column="42" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/employee/EmployeeChangeLogManager.java" timestamp="1634537972684">
+        <mark key="'" line="235" column="38" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1634809547844">
+        <mark key="[" line="1175" column="26" />
+        <mark key="]" line="1175" column="26" />
+        <mark key="^" line="1175" column="26" />
+        <mark key="." line="1175" column="25" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" timestamp="1634820761266">
+        <mark key="'" line="4456" column="12" />
         <mark key="[" line="5207" column="80" />
         <mark key="]" line="5213" column="0" />
         <mark key="^" line="5213" column="0" />
         <mark key="." line="5213" column="0" />
+      </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/salary/ProcessSalaryAttendanceResultProcessor.java" timestamp="1634572764587">
+        <mark key="'" line="246" column="63" />
+        <mark key="[" line="176" column="85" />
+        <mark key="]" line="176" column="85" />
+        <mark key="^" line="176" column="57" />
+        <mark key="." line="176" column="85" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeWorkGroupFacadeImpl.java" timestamp="1634538026896">
         <mark key="'" line="301" column="38" />
@@ -147,24 +162,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" timestamp="1634708470178">
         <mark key="[" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/employee/EmployeeChangeLogManager.java" timestamp="1634537972684">
-        <mark key="'" line="235" column="38" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/ppr/handler/AbstractPprHandler.java" timestamp="1634809547844">
-        <mark key="[" line="1175" column="26" />
-        <mark key="]" line="1175" column="26" />
-        <mark key="^" line="1175" column="26" />
-        <mark key="." line="1175" column="25" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/api/salary/SalaryResource.java" timestamp="1634804811478" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/salary/ProcessSalaryAttendanceResultProcessor.java" timestamp="1634572764587">
-        <mark key="'" line="246" column="63" />
-        <mark key="[" line="176" column="85" />
-        <mark key="]" line="176" column="85" />
-        <mark key="^" line="176" column="57" />
-        <mark key="." line="176" column="85" />
-      </file>
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/impl/employee/EmployeeManagerImpl.java" timestamp="1634809414071" />
       <file name="/fragment.java" timestamp="1634709398108">
         <mark key="[" line="0" column="0" />
       </file>
@@ -173,7 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="18" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-common/src/main/java/com/cainiao/lms/annotation/ExcelColumn.java" />
       <jump line="19" column="23" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/WorkplaceGroupManager.java" />
       <jump line="13" column="13" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/entity/base/ExtendFeature.java" />
       <jump line="57" column="65" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/exception/LmsPromoteMessage.java" />
@@ -273,6 +269,7 @@
       <jump line="301" column="38" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/impl/EmployeeWorkGroupFacadeImpl.java" />
       <jump line="468" column="42" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" />
       <jump line="256" column="53" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-web/src/main/java/com/cainiao/lms/web/facade/salary/impl/AttendanceRegisterRecordFacadeImpl.java" />
+      <jump line="4456" column="12" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkSyncServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
