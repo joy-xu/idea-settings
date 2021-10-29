@@ -138,6 +138,7 @@
         <mark key="^" line="48" column="31" />
         <mark key="." line="48" column="30" />
       </file>
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/DingTalkAttendanceSyncByWorkplaceProcessor.java" timestamp="1635476108104" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/attendance/param/SyncSelfParam.java" timestamp="1635474483426">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="24" column="12" />
@@ -146,19 +147,15 @@
       </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-common/src/test/java/com/cainiao/lms/util/StringGeneratorTest.java" timestamp="1635427590828" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-common/src/main/java/com/cainiao/lms/middleware/diamond/SwitchProperty.java" timestamp="1635412918188" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/attendance/DingTalkAttendanceSyncSelfProcessor.java" timestamp="1635474684186">
-        <mark key="[" line="70" column="81" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/attendance/DingTalkAttendanceSyncSelfProcessor.java" timestamp="1635477012705">
+        <mark key="'" line="103" column="77" />
+        <mark key="[" line="92" column="13" />
+        <mark key="]" line="92" column="12" />
+        <mark key="." line="92" column="11" />
+        <mark key="^" line="92" column="12" />
       </file>
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-manager/src/main/java/com/cainiao/lms/manager/efficiency/impl/LabourPprManagerImpl.java" timestamp="1635326393757" />
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/EhrEmployeeProcessor.java" timestamp="1635414956828" />
-      <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-biz/src/main/java/com/cainiao/lms/service/impl/DingTalkTaskApiService.java" timestamp="1635230188782">
-        <mark key="[" line="287" column="32" />
-        <mark key="]" line="287" column="0" />
-        <mark key="^" line="287" column="0" />
-        <mark key="." line="287" column="0" />
-      </file>
       <file name="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/DingTalkAttendanceSyncSelfProcessor.java" timestamp="1635474387179">
         <mark key="'" line="68" column="70" />
         <mark key="[" line="68" column="70" />
@@ -188,8 +185,6 @@
       <file name="$USER_HOME$/cainiao/wmplms/wmplms-common/src/main/java/com/cainiao/lms/constants/CommonConstants.java" timestamp="1635326451646" />
     </filemarks>
     <jumps>
-      <jump line="10" column="17" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/mapper/WorkplaceGroupMapper.java" />
-      <jump line="33" column="3" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/impl/WorkplaceGroupManagerImpl.java" />
       <jump line="34" column="33" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-manager/src/main/java/com/cainiao/lms/manager/impl/WorkplaceGroupManagerImpl.java" />
       <jump line="47" column="95" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/mapper/WorkplaceGroupMapper.java" />
       <jump line="67" column="0" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-mapper/src/main/java/com/cainiao/lms/adbmapper/BaseWorkStationMapper.java" />
@@ -288,6 +283,8 @@
       <jump line="69" column="49" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/DingTalkAttendanceSyncKlProcessor.java" />
       <jump line="68" column="70" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/DingTalkAttendanceSyncSelfProcessor.java" />
       <jump line="73" column="49" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/attendance/DingTalkAttendanceSyncSelfProcessor.java" />
+      <jump line="74" column="71" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/attendance/DingTalkAttendanceSyncSelfProcessor.java" />
+      <jump line="146" column="77" filename="$USER_HOME$/cainiao/wmplms-calc/wmplms-calc-service/src/main/java/com/cainiao/lms/service/dts/attendance/DingTalkAttendanceSyncSelfProcessor.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,13 +293,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>toString</text>
+        <text>dingtalkWorkplaceTask</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG51bWJlciA9IHNwbGl0WzBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvY2FsRGF0ZVRpbWUgc3luY0F0dGVuZGFuY2VFbmRUaW1lID0gTG9jYWxEYXRlVGltZS5ub3coKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -311,16 +308,16 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzQmxhbmsocGFyYW0uZ2V0U3RhcnREYXRlKCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0ZSB3b3JrRGF0ZUZyb21BcmcgPSBhcmdzSnNvbi5nZXREYXRlKCJ3b3JrRGF0ZUZyb20iKTsKICAgICAgICAgICAgRGF0ZSB3b3JrRGF0ZVRvQXJnID0gYXJnc0pzb24uZ2V0RGF0ZSgid29ya0RhdGVUbyIpOwogICAgICAgICAgICBTdHJpbmcgd29ya3BsYWNlQ29kZXNTdHJBcmcgPSBhcmdzSnNvbi5nZXRTdHJpbmcoIndvcmtwbGFjZUNvZGVzIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSlNPTk9iamVjdCBhcmdzSnNvbiA9IEpTT04ucGFyc2VPYmplY3QoZHRzQXJncyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGluZ1RhbGtXb3JrcGxhY2VUYXNrcy5mb3JFYWNoKHRhc2sgLT4gewogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoZHRzQXJncykpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpbmdUYWxrU3luY1NlcnZpY2Uuc3luY0F0dGVuZGFuY2VMaXN0KHRhc2spOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -863,13 +860,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHdvcmtEYXRlVG8gPSBEYXRlVXRpbC5nZXRTdHIyRGF0ZShEYXRlVXRpbC5nZXREYXRlMlN0cihEQVRFX0ZPUk1BVF8wMDAwMDAsIG5ldyBEYXRlKCkpKTsKICAgICAgICAgICAgICAgIHdvcmtEYXRlRnJvbSA9IERhdGVVdGlscy5hZGREYXlzKHdvcmtEYXRlVG8sIC1zd2l0Y2hQcm9wZXJ0eS5nZXREaW5nVGFsa0F0dGVuZGFuY2VTeW5jSW50ZXJ2YWxEYXlzKCkpOwogICAgICAgICAgICAgICAgTGlzdDxXb3JrUGxhY2VETz4gd29ya3BsYWNlcyA9IHdvcmtQbGFjZU1hbmFnZXIuc2VsZWN0RGluZ1RhbGtXb3JrcGxhY2VDb2RlKCk7CiAgICAgICAgICAgICAgICAvLyDlkIzmraXogIPli6Tnu5Pmnpzkv6Hmga8KICAgICAgICAgICAgICAgIHJldHVybiBzeW5jRGluZ1RhbGtBdHRlbmRhbmNlKGNvbnRleHQsIHdvcmtEYXRlRnJvbSwgd29ya0RhdGVUbywgd29ya3BsYWNlcyk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoZHRzQXJncykpIHsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUHJvY2Vzc1Jlc3VsdCBzeW5jRGluZ1RhbGtBdHRlbmRhbmNlKEpvYkNvbnRleHQgY29udGV4dCwgRGF0ZSB3b3JrRGF0ZUZyb20sIERhdGUgd29ya0RhdGVUbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8V29ya1BsYWNlRE8+IHdvcmtQbGFjZURPUykgewogICAgICAgIC8vIOiOt+WPluimgeWkhOeQhueahOS7u+WKoQogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QgdGFzayA9IGNvbnRleHQuZ2V0VGFzaygpOwogICAgICAgIFN0cmluZyB0YXNrTmFtZSA9IGNvbnRleHQuZ2V0VGFza05hbWUoKTsKCiAgICAgICAgLy8g5aaC5p6c5pivRFRT57O757uf6buY6K6k5byA5aeL5Lu75Yqh5bCx6KGo56S65Lu75Yqh5byA5aeL5LqGCiAgICAgICAgaWYgKGlzUm9vdFRhc2soY29udGV4dCkpIHsKICAgICAgICAgICAgTGlzdDxEaW5nVGFsa1dvcmtQbGFjZVRhc2s+IGRpbmdUYWxrU3luY0F0dGVuZGFuY2VUYXNrTGlzdCA9IGdldERpbmdUYWxrV29ya1BsYWNlVGFza0xpc3QoCiAgICAgICAgICAgICAgICB3b3JrRGF0ZUZyb20sIHdvcmtEYXRlVG8sIHdvcmtQbGFjZURPUyk7CgogICAgICAgICAgICAvLyDlubbooYzorqHnrpfml7bvvIzkuIvlj5HlrZDku7vliqHmlbDmnIDlpKfkuLozMDAw77yM6LaF6L+HMzAwMOmcgOimgeWkmuasoeiwg+eUqGRpc3BhdGNoVGFza0xpc3Tmlrnms5XvvIhEVFPlrpjmlrnmlofmoaPvvIkKICAgICAgICAgICAgTGlzdDxMaXN0PERpbmdUYWxrV29ya1BsYWNlVGFzaz4+IGRpbmdUYWxrU3luY0F0dGVuZGFuY2VUYXNrUGFydGl0aW9uID0gTGlzdHMucGFydGl0aW9uKAogICAgICAgICAgICAgICAgZGluZ1RhbGtTeW5jQXR0ZW5kYW5jZVRhc2tMaXN0LCBEdHNDb25maWcuTUFYX0RJU1BBVENIX1RBU0tfU0laRSk7CiAgICAgICAgICAgIGRpbmdUYWxrU3luY0F0dGVuZGFuY2VUYXNrUGFydGl0aW9uLmZvckVhY2goCiAgICAgICAgICAgICAgICB0YXNrcyAtPiBtYXAodGFza3MsIERJTkdfVEFMS19BVFRFTkRBTkNFX1NZTkNfVEFTS19OQU1FKSk7CiAgICAgICAgICAgIHJldHVybiBuZXcgUHJvY2Vzc1Jlc3VsdCh0cnVlKTsKICAgICAgICB9IGVsc2UgaWYgKERJTkdfVEFMS19BVFRFTkRBTkNFX1NZTkNfVEFTS19OQU1FLmVxdWFscyh0YXNrTmFtZSkpIHsKICAgICAgICAgICAgRGluZ1RhbGtXb3JrUGxhY2VUYXNrIGRpbmdUYWxrV29ya1BsYWNlVGFzayA9IChEaW5nVGFsa1dvcmtQbGFjZVRhc2spdGFzazsKICAgICAgICAgICAgU3RyaW5nIHdvcmtQbGFjZUNvZGUgPSBkaW5nVGFsa1dvcmtQbGFjZVRhc2suZ2V0V29ya1BsYWNlQ29kZSgpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgTG9nZ2VyVXRpbC5hdHRlbmRMb2dnZXIuaW5mbygKICAgICAgICAgICAgICAgICAgICAiRW50ZXJpbmdfc3luY0RpbmdUYWxrQXR0ZW5kYW5jZUJ5V29ya3BsYWNlfHdvcmtwbGFjZUNvZGU9e318d29ya0RhdGVGcm9tPXt9fHdvcmtEYXRlVG89e30iLAogICAgICAgICAgICAgICAgICAgIGRpbmdUYWxrV29ya1BsYWNlVGFzay5nZXRXb3JrUGxhY2VDb2RlKCksIHdvcmtEYXRlRnJvbSwgd29ya0RhdGVUbyk7CiAgICAgICAgICAgICAgICBJbnN0YW50IHN0YXJ0ID0gSW5zdGFudC5ub3coKTsKCiAgICAgICAgICAgICAgICBJbnN0YW50IGVuZCA9IEluc3RhbnQubm93KCk7CiAgICAgICAgICAgICAgICBMb2dnZXJVdGlsLmF0dGVuZExvZ2dlci5pbmZvKAogICAgICAgICAgICAgICAgICAgICJzeW5jRGluZ1RhbGtBdHRlbmRhbmNlQnlXb3JrcGxhY2Vfc3VjY2Vzc3x3b3JrcGxhY2VDb2RlPXt9fHdvcmtEYXRlRnJvbT17fXx3b3JrRGF0ZVRvPXt9fGNvc3Q9e30iLAogICAgICAgICAgICAgICAgICAgIGRpbmdUYWxrV29ya1BsYWNlVGFzay5nZXRXb3JrUGxhY2VDb2RlKCksIHdvcmtEYXRlRnJvbSwgd29ya0RhdGVUbywKICAgICAgICAgICAgICAgICAgICBEdXJhdGlvbi5iZXR3ZWVuKHN0YXJ0LCBlbmQpLnRvTWlsbGlzKCkpOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgTG9nZ2VyVXRpbC5hdHRlbmRMb2dnZXIuZXJyb3IoCiAgICAgICAgICAgICAgICAgICAgInN5bmNEaW5nVGFsa0F0dGVuZGFuY2VCeVdvcmtwbGFjZXxlcnJvcnx3b3JrcGxhY2VDb2RlPXt9fHdvcmtEYXRlRnJvbT17fXx3b3JrRGF0ZVRvPXt9IiwKICAgICAgICAgICAgICAgICAgICBkaW5nVGFsa1dvcmtQbGFjZVRhc2suZ2V0V29ya1BsYWNlQ29kZSgpLAogICAgICAgICAgICAgICAgICAgIHdvcmtEYXRlRnJvbSwgd29ya0RhdGVUbywgZSk7CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IFByb2Nlc3NSZXN1bHQoZmFsc2UpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBuZXcgUHJvY2Vzc1Jlc3VsdCh0cnVlKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
