@@ -80,7 +80,7 @@
   </component>
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="com.cainiao.lms.web.vo.EmployeeVO" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.cainiao.lms.web.vo.EmployeeVO" />
@@ -92,7 +92,7 @@
           </ChildrenExpression>
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="com.alibaba.staragent.proxy.model.TaskExecReqParam" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.alibaba.staragent.proxy.model.TaskExecReqParam" />
@@ -107,7 +107,9 @@
     <data-views>
       <option name="showLibraryStackFrames" value="false" />
     </data-views>
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
