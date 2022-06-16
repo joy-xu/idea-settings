@@ -1,7 +1,11 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="Debug" />
+  <action id="GotoLine" />
   <action id="JRebel Debug">
     <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="ctrl meta back_space" />
@@ -14,9 +18,13 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
