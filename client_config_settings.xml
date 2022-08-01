@@ -1,0 +1,26 @@
+<application>
+  <component name="PluginClientConfigSettings">
+    <option name="thubLogAccessId" value="LTAI5tBaW2He1TTCA3mng949" />
+    <option name="thubLogAccessKey" value="Vd3oCJVr0g4LSy1wDl7JJJiqi4wkir" />
+    <option name="isimuLogAccessId" value="LTAI5tNXvpjkNc8nFzCcdp6v" />
+    <option name="isimuLogAccessKey" value="xmamL7yhCftzXwwjgE8e2p6TSvou5p" />
+    <option name="eagleLogFilter">
+      <map>
+        <entry key="4">
+          <value>
+            <list>
+              <option value="TDDL_CONN" />
+            </list>
+          </value>
+        </entry>
+        <entry key="5">
+          <value>
+            <list>
+              <option value="isimu-sandbox-switch-event-topic" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
