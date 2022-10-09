@@ -1,0 +1,40 @@
+<application>
+  <component name="SquaretestSettings">
+    <option name="usageStatsEnabled" value="true" />
+    <option name="projectNameToSettingsMap">
+      <map>
+        <entry key="wmplms-calc">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="wmplms-calc" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit4Mockito.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit4Mockito.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectNameModuleNameToSettingsMap">
+      <map>
+        <entry key="wmplms-calc_wmplms-calc-service">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="wmplms-calc-service" />
+              <option name="testDirectoryRoot" value="wmplms-calc-service/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="collectUsageStats" value="true" />
+    <option name="hasShownMetricsDisclosure" value="true" />
+    <option name="id" value="fe3b95de-3d88-4986-a8d6-0aff1633b2a9" />
+  </component>
+</application>
