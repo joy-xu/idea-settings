@@ -1,10 +1,10 @@
 <application>
   <component name="ShowUsagesSettings">
     <option name="IS_EXPANDED" value="true" />
-    <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
   </component>
   <component name="UsageFilteringRuleState">
     <option value="com.intellij.usages.impl.rules.UsageInGeneratedCodeFilteringRule" />
+    <option value="com.intellij.usages.impl.rules.ReadAccessFilteringRule" />
   </component>
   <component name="UsageViewSettings">
     <option name="GROUP_BY_DIRECTORY_STRUCTURE" value="true" />
