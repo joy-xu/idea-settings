@@ -15,9 +15,11 @@
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="ResourceExplorer.show" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
