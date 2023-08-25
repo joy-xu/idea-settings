@@ -2,9 +2,8 @@
   <component name="ThubPluginSettings">
     <option name="userId" value="88332" />
     <option name="hostname" value="MacBook-Pro.local" />
-    <option name="sandboxBindApp" value="cnlabour-admin" />
     <option name="lastStartApp" value="cnlabour-admin" />
-    <option name="lastPluginUpdateCheckTime" value="1692933626551" />
+    <option name="lastPluginUpdateCheckTime" value="1692953530724" />
     <option name="exceptionKeyword">
       <map>
         <entry key="cmms init fail with error code" value="https://yuque.antfin.com/luihud/nm9256/akxx2f#RDhTX" />
@@ -12,6 +11,24 @@
         <entry key="not make out directory" value="https://yuque.antfin.com/luihud/nm9256/akxx2f#iaY71" />
         <entry key="spring management port is not safe" value="https://yuque.antfin.com/luihud/nm9256/akxx2f#BPN7S" />
         <entry key="您的配置文件需要被更新" value="https://yuque.antfin.com/luihud/nm9256/akxx2f#GoU2c" />
+      </map>
+    </option>
+    <option name="eagleLogFilter">
+      <map>
+        <entry key="4">
+          <value>
+            <list>
+              <option value="TDDL_CONN" />
+            </list>
+          </value>
+        </entry>
+        <entry key="5">
+          <value>
+            <list>
+              <option value="isimu-sandbox-switch-event-topic" />
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="latestTraceId" value="1e4ff16616929517578461067d3372" />
